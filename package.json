@@ -1,0 +1,31 @@
+{
+  "name": "@agencebio/rosetta-cultures",
+  "version": "1.0.0",
+  "description": "Traduction des codes cultures de la CPF vers la PAC vers des nomenclatures d'organismes de certification, et vice-versa.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node bin/assemble.js",
+    "test": "node --test index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgenceBio/rosetta-cultures.git"
+  },
+  "keywords": [
+    "nomenclature",
+    "CPF",
+    "PAC",
+    "agriculture",
+    "codes cultures"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgenceBio/rosetta-cultures/issues"
+  },
+  "homepage": "https://github.com/AgenceBio/rosetta-cultures#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.6"
+  }
+}

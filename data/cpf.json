@@ -1,0 +1,4052 @@
+[
+  {
+    "code_cpf_bio": "01.1",
+    "libelle_code_cpf_bio": "Cultures non permanentes",
+    "groupe": "",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11",
+    "libelle_code_cpf_bio": "Céréales (à l'exclusion du riz), légumineuses et oléagineux",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.1",
+    "libelle_code_cpf_bio": "Blé",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.11",
+    "libelle_code_cpf_bio": "Blé dur",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "BDT",
+    "libelle_code_pac": "Blé dur de printemps semé tardivement (après le 31/05)",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.12",
+    "libelle_code_cpf_bio": "Blé tendre",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "BTP",
+    "libelle_code_pac": "Blé tendre de printemps",
+    "code_groupe_pac": "1",
+    "libelle_groupe_pac": "Blé tendre"
+  },
+  {
+    "code_cpf_bio": "01.11.2",
+    "libelle_code_cpf_bio": "Maïs grain (yc maïs doux)",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.20",
+    "libelle_code_cpf_bio": "Maïs grain (yc maïs doux)",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "CPZ",
+    "libelle_code_pac": "Autre céréale de printemps de genre Zea",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.20.1",
+    "libelle_code_cpf_bio": "Maïs doux",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": "MID",
+    "libelle_code_pac": "Maïs doux",
+    "code_groupe_pac": "2",
+    "libelle_groupe_pac": "Maïs grain et ensilage"
+  },
+  {
+    "code_cpf_bio": "01.11.20.2",
+    "libelle_code_cpf_bio": "Maïs grain (hors maïs doux)",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "MIS",
+    "libelle_code_pac": "Maïs",
+    "code_groupe_pac": "2",
+    "libelle_groupe_pac": "Maïs grain et ensilage"
+  },
+  {
+    "code_cpf_bio": "01.11.3",
+    "libelle_code_cpf_bio": "Orge, seigle et avoine",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.31",
+    "libelle_code_cpf_bio": "Orges",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "ORP",
+    "libelle_code_pac": "Orge de printemps",
+    "code_groupe_pac": "3",
+    "libelle_groupe_pac": "Orge"
+  },
+  {
+    "code_cpf_bio": "01.11.31.1",
+    "libelle_code_cpf_bio": "Orge de brasserie",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.31.2",
+    "libelle_code_cpf_bio": "Orge fourrager",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.32",
+    "libelle_code_cpf_bio": "Seigle",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "SGP",
+    "libelle_code_pac": "Seigle de printemps",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.33",
+    "libelle_code_cpf_bio": "Avoine",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "CPA",
+    "libelle_code_pac": "Autre céréale de printemps de genre Avena",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.4",
+    "libelle_code_cpf_bio": "Autres céréales et mélanges",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.41",
+    "libelle_code_cpf_bio": "Sorgho",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "SOG",
+    "libelle_code_pac": "Sorgho",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.42",
+    "libelle_code_cpf_bio": "Millet",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "MLT",
+    "libelle_code_pac": "Millet",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.43",
+    "libelle_code_cpf_bio": "Triticale",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "TTP",
+    "libelle_code_pac": "Triticale de printemps",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.49",
+    "libelle_code_cpf_bio": "Autres céréales et mélanges n.c.a.",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.49.1",
+    "libelle_code_cpf_bio": "Epeautre",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "EPE",
+    "libelle_code_pac": "Épeautre",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.49.11",
+    "libelle_code_cpf_bio": "Petit épeautre",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.49.12",
+    "libelle_code_cpf_bio": "Grand épeautre",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.49.2",
+    "libelle_code_cpf_bio": "Sarrasin",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "SRS",
+    "libelle_code_pac": "Sarrasin",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.49.3",
+    "libelle_code_cpf_bio": "Mélanges (avec céréales)",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "MCR",
+    "libelle_code_pac": "Mélange de céréales",
+    "code_groupe_pac": "4",
+    "libelle_groupe_pac": "Autres céréales"
+  },
+  {
+    "code_cpf_bio": "01.11.49.31",
+    "libelle_code_cpf_bio": "Mélanges Céréaliers (sans légumineuses)",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.49.32",
+    "libelle_code_cpf_bio": "Mélanges Céréales-légumineuses",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "MLS",
+    "libelle_code_pac": "Mélange de légumineuses non fourragères prépondérantes et de céréales et/ou d'oléagineux",
+    "code_groupe_pac": "8",
+    "libelle_groupe_pac": "Protéagineux"
+  },
+  {
+    "code_cpf_bio": "01.11.49.9",
+    "libelle_code_cpf_bio": "Autres céréales",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "MOH",
+    "libelle_code_pac": "Moha",
+    "code_groupe_pac": "16",
+    "libelle_groupe_pac": "Fourrage"
+  },
+  {
+    "code_cpf_bio": "01.11.5",
+    "libelle_code_cpf_bio": "Paille et balles de céréales",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.50",
+    "libelle_code_cpf_bio": "Paille et balles de céréales",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.6",
+    "libelle_code_cpf_bio": "Légumes à cosse, verts",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.61",
+    "libelle_code_cpf_bio": "Haricots, verts",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.62",
+    "libelle_code_cpf_bio": "Pois, verts",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.69",
+    "libelle_code_cpf_bio": "Autres légumes à cosse, verts",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.69.1",
+    "libelle_code_cpf_bio": "Petits pois",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.69.2",
+    "libelle_code_cpf_bio": "Fèves (fraîches)",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.69.9",
+    "libelle_code_cpf_bio": "Autres légumes à cosse, verts n.c.a.",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "PPO",
+    "libelle_code_pac": "Petits pois",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.11.7",
+    "libelle_code_cpf_bio": "Légumes à cosse, secs",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.71",
+    "libelle_code_cpf_bio": "Haricots, secs",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": "HAR",
+    "libelle_code_pac": "Haricot / Flageolet",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.11.72",
+    "libelle_code_cpf_bio": "Fèves, sèches (yc féveroles)",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": "FVT",
+    "libelle_code_pac": "Féverole semée tardivement (après le 31/05)",
+    "code_groupe_pac": "8",
+    "libelle_groupe_pac": "Protéagineux"
+  },
+  {
+    "code_cpf_bio": "01.11.73",
+    "libelle_code_cpf_bio": "Pois chiches, secs",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": "PCH",
+    "libelle_code_pac": "Pois chiche",
+    "code_groupe_pac": "15",
+    "libelle_groupe_pac": "Légumineuses à grains"
+  },
+  {
+    "code_cpf_bio": "01.11.74",
+    "libelle_code_cpf_bio": "Lentilles, sèches",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": "LEC",
+    "libelle_code_pac": "Lentille cultivée (non fourragère)",
+    "code_groupe_pac": "15",
+    "libelle_groupe_pac": "Légumineuses à grains"
+  },
+  {
+    "code_cpf_bio": "01.11.75",
+    "libelle_code_cpf_bio": "Pois, secs",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": "PPT",
+    "libelle_code_pac": "Pois de printemps semé tardivement (après le 31/05)",
+    "code_groupe_pac": "8",
+    "libelle_groupe_pac": "Protéagineux"
+  },
+  {
+    "code_cpf_bio": "01.11.76",
+    "libelle_code_cpf_bio": "Dolique à œil noir (pois du brésil, niébé)",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": "DOL",
+    "libelle_code_pac": "Dolique",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.11.77",
+    "libelle_code_cpf_bio": "Pois d'ambrevade ou pois d'angole, secs",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.79",
+    "libelle_code_cpf_bio": "Légumes à cosse, secs n.c.a.",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.79.1",
+    "libelle_code_cpf_bio": "Lupin",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": "LDT",
+    "libelle_code_pac": "Lupin doux de printemps semé tardivement (après le 31/05)",
+    "code_groupe_pac": "8",
+    "libelle_groupe_pac": "Protéagineux"
+  },
+  {
+    "code_cpf_bio": "01.11.79.9",
+    "libelle_code_cpf_bio": "Autres légumes secs",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Protéagineux et légumes secs",
+    "code_pac": "PAG",
+    "libelle_code_pac": "Autre protéagineux d’un autre genre",
+    "code_groupe_pac": "8",
+    "libelle_groupe_pac": "Protéagineux"
+  },
+  {
+    "code_cpf_bio": "01.11.8",
+    "libelle_code_cpf_bio": "Fèves de soja, arachides",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.81",
+    "libelle_code_cpf_bio": "Fèves de soja",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": "SOJ",
+    "libelle_code_pac": "Soja",
+    "code_groupe_pac": "7",
+    "libelle_groupe_pac": "Autres oléagineux"
+  },
+  {
+    "code_cpf_bio": "01.11.82",
+    "libelle_code_cpf_bio": "Arachides, en coque",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": "ARA",
+    "libelle_code_pac": "Arachide",
+    "code_groupe_pac": "7",
+    "libelle_groupe_pac": "Autres oléagineux"
+  },
+  {
+    "code_cpf_bio": "01.11.9",
+    "libelle_code_cpf_bio": "Autres oléagineux",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.91",
+    "libelle_code_cpf_bio": "Lin (graines)",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": "LIP",
+    "libelle_code_pac": "Lin non textile de printemps",
+    "code_groupe_pac": "7",
+    "libelle_groupe_pac": "Autres oléagineux"
+  },
+  {
+    "code_cpf_bio": "01.11.92",
+    "libelle_code_cpf_bio": "Moutarde (graines)",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": "MOT",
+    "libelle_code_pac": "Moutarde",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.11.93",
+    "libelle_code_cpf_bio": "Colza",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": "CZP",
+    "libelle_code_pac": "Colza de printemps",
+    "code_groupe_pac": "5",
+    "libelle_groupe_pac": "Colza"
+  },
+  {
+    "code_cpf_bio": "01.11.94",
+    "libelle_code_cpf_bio": "Sésame",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.95",
+    "libelle_code_cpf_bio": "Tournesol",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": "TRN",
+    "libelle_code_pac": "Tournesol",
+    "code_groupe_pac": "6",
+    "libelle_groupe_pac": "Tournesol"
+  },
+  {
+    "code_cpf_bio": "01.11.96",
+    "libelle_code_cpf_bio": "Ricin",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.11.99",
+    "libelle_code_cpf_bio": "Autres oléagineux n.c.a.",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": "OPR",
+    "libelle_code_pac": "Autre oléagineux de printemps d’espèce Brassica rapa",
+    "code_groupe_pac": "7",
+    "libelle_groupe_pac": "Autres oléagineux"
+  },
+  {
+    "code_cpf_bio": "01.11.99.1",
+    "libelle_code_cpf_bio": "Cameline",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Oléagineux",
+    "code_pac": "CML",
+    "libelle_code_pac": "Cameline",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.12",
+    "libelle_code_cpf_bio": "Riz, non décortiqué",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": "RIZ",
+    "libelle_code_pac": "Riz",
+    "code_groupe_pac": "14",
+    "libelle_groupe_pac": "Riz"
+  },
+  {
+    "code_cpf_bio": "01.12.1",
+    "libelle_code_cpf_bio": "Riz, non décortiqué",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.12.10",
+    "libelle_code_cpf_bio": "Riz, non décortiqué",
+    "groupe": "Grandes Cultures",
+    "sous_groupe": "Céréales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13",
+    "libelle_code_cpf_bio": "Légumes et melons, racines et tubercules",
+    "groupe": "Légumes",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.1",
+    "libelle_code_cpf_bio": "Légumes à feuilles ou à tiges",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.11",
+    "libelle_code_cpf_bio": "Asperges",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.12",
+    "libelle_code_cpf_bio": "Choux",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": "CHU",
+    "libelle_code_pac": "Chou",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.13",
+    "libelle_code_cpf_bio": "Choux-fleurs et brocolis",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.14",
+    "libelle_code_cpf_bio": "Laitues",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.15",
+    "libelle_code_cpf_bio": "Chicorées",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.16",
+    "libelle_code_cpf_bio": "Épinards",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": "EPI",
+    "libelle_code_pac": "Épinard",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.17",
+    "libelle_code_cpf_bio": "Artichauts",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": "ART",
+    "libelle_code_pac": "Artichaut",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.19",
+    "libelle_code_cpf_bio": "Autres légumes à feuilles ou à tiges",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.19.1",
+    "libelle_code_cpf_bio": "Endives",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.19.2",
+    "libelle_code_cpf_bio": "Céleris branche",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.19.4",
+    "libelle_code_cpf_bio": "Cresson",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": "CRS",
+    "libelle_code_pac": "Cresson",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.19.5",
+    "libelle_code_cpf_bio": "Rhubarbe",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.19.9",
+    "libelle_code_cpf_bio": "Autres légumes à feuilles ou à tiges",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à feuilles ou tiges",
+    "code_pac": "CES",
+    "libelle_code_pac": "Chicorée / Endive / Scarole",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.2",
+    "libelle_code_cpf_bio": "Melons et pastèques",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.21",
+    "libelle_code_cpf_bio": "Pastèques",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "PAS",
+    "libelle_code_pac": "Pastèque",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.29",
+    "libelle_code_cpf_bio": "Autres melons",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.29.1",
+    "libelle_code_cpf_bio": "Melons",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "MLO",
+    "libelle_code_pac": "Melon",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.29.2",
+    "libelle_code_cpf_bio": "Melons d'eau",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.29.9",
+    "libelle_code_cpf_bio": "Autres melons",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.3",
+    "libelle_code_cpf_bio": "Autres légumes à fruits",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.31",
+    "libelle_code_cpf_bio": "Piments et poivrons, verts (uniquement capsicum)",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "PVP",
+    "libelle_code_pac": "Poivron / Piment",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.32",
+    "libelle_code_cpf_bio": "Concombres et cornichons",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "CCN",
+    "libelle_code_pac": "Concombre / Cornichon",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.33",
+    "libelle_code_cpf_bio": "Aubergines",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "AUB",
+    "libelle_code_pac": "Aubergine",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.34",
+    "libelle_code_cpf_bio": "Tomates",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "TOT",
+    "libelle_code_pac": "Tomate pour transformation",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.13.39",
+    "libelle_code_cpf_bio": "Autres légumes à fruits n.c.a.",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "CCT",
+    "libelle_code_pac": "Courgette / Citrouille",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.39.2",
+    "libelle_code_cpf_bio": "Courgettes",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.39.3",
+    "libelle_code_cpf_bio": "Courges et citrouilles",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.39.31",
+    "libelle_code_cpf_bio": "Courge musquée / Butternut",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "CMB",
+    "libelle_code_pac": "Courge musquée / Butternut",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.39.32",
+    "libelle_code_cpf_bio": "Potiron / Potimarron",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": "POT",
+    "libelle_code_pac": "Potiron / Potimarron",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.39.99",
+    "libelle_code_cpf_bio": "Autres légumes à fruits n.c.a.",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à fruits",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.4",
+    "libelle_code_cpf_bio": "Légumes à racine, à bulbe ou à tubercules",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.41",
+    "libelle_code_cpf_bio": "Carottes et navets",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.41.1",
+    "libelle_code_cpf_bio": "Carottes",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "CAR",
+    "libelle_code_pac": "Carotte",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.41.2",
+    "libelle_code_cpf_bio": "Navets",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "NVT",
+    "libelle_code_pac": "Navet",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.42",
+    "libelle_code_cpf_bio": "Ail",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "AIL",
+    "libelle_code_pac": "Aïl",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.43",
+    "libelle_code_cpf_bio": "Oignons, échalotes",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "OIG",
+    "libelle_code_pac": "Oignon / Échalote",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.43.1",
+    "libelle_code_cpf_bio": "Oignons",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.43.2",
+    "libelle_code_cpf_bio": "Echalotes",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.44",
+    "libelle_code_cpf_bio": "Poireaux et autres alliacés",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "POR",
+    "libelle_code_pac": "Poireau",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.49",
+    "libelle_code_cpf_bio": "Autres légumes à racine, à bulbe ou à tubercules (ne présentant pas une forte teneur en amidon ou inuline)",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.49.1",
+    "libelle_code_cpf_bio": "Radis",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "RDI",
+    "libelle_code_pac": "Radis",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.49.2",
+    "libelle_code_cpf_bio": "Betteraves rouges et à salade",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.49.3",
+    "libelle_code_cpf_bio": "Céleris raves",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "CEL",
+    "libelle_code_pac": "Céleri",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.49.4",
+    "libelle_code_cpf_bio": "Panais",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "PAN",
+    "libelle_code_pac": "Panais",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.49.9",
+    "libelle_code_cpf_bio": "Autres légumes à racine, à bulbe ou à tubercules n.c.a.",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.5",
+    "libelle_code_cpf_bio": "Racines et tubercules à amidon ou inuline comestibles",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "TBT",
+    "libelle_code_pac": "Tubercule tropical",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_cpf_bio": "01.13.51",
+    "libelle_code_cpf_bio": "Pommes de terre",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.51.1",
+    "libelle_code_cpf_bio": "Pommes de terre (hors féculière)",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "PTC",
+    "libelle_code_pac": "Pomme de terre de consommation",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.51.2",
+    "libelle_code_cpf_bio": "Pommes de terre féculière",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "PTF",
+    "libelle_code_pac": "Pomme de terre féculière",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.52",
+    "libelle_code_cpf_bio": "Patates douces",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.53",
+    "libelle_code_cpf_bio": "Manioc",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.54",
+    "libelle_code_cpf_bio": "Colocases",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.59",
+    "libelle_code_cpf_bio": "Autres racines et tubercules à amidon ou inuline comestibles",
+    "groupe": "Légumes",
+    "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
+    "code_pac": "TOP",
+    "libelle_code_pac": "Topinambour",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.6",
+    "libelle_code_cpf_bio": "Plants et semences potagers, à l'exclusion des semences de betteraves",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Semences et plants potagers",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.60",
+    "libelle_code_cpf_bio": "Plants et semences potagers, à l'exclusion des semences de betteraves",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Semences et plants potagers",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.7",
+    "libelle_code_cpf_bio": "Betteraves à sucre et semences de betteraves à sucre",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures sucrières",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.71",
+    "libelle_code_cpf_bio": "Betteraves à sucre",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures sucrières",
+    "code_pac": "BTN",
+    "libelle_code_pac": "Betterave non fourragère / Bette",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.13.72",
+    "libelle_code_cpf_bio": "Semences de betteraves à sucre",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Semences grandes cultures et cultures industrielles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.8",
+    "libelle_code_cpf_bio": "Champignons et truffes",
+    "groupe": "Légumes",
+    "sous_groupe": "Autres légumes frais et maraîchage",
+    "code_pac": "TRU",
+    "libelle_code_pac": "Truffière (chênaie de plants mycorhizés)",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_cpf_bio": "01.13.80",
+    "libelle_code_cpf_bio": "Champignons et truffes",
+    "groupe": "Légumes",
+    "sous_groupe": "Autres légumes frais et maraîchage",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.9",
+    "libelle_code_cpf_bio": "Légumes frais n.c.a.",
+    "groupe": "Légumes",
+    "sous_groupe": "Autres légumes frais et maraîchage",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.90",
+    "libelle_code_cpf_bio": "Légumes frais n.c.a.",
+    "groupe": "Légumes",
+    "sous_groupe": "Autres légumes frais et maraîchage",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.13.90.1",
+    "libelle_code_cpf_bio": "Légumes frais sous abris",
+    "groupe": "Légumes",
+    "sous_groupe": "Autres légumes frais et maraîchage",
+    "code_pac": "LSA",
+    "libelle_code_pac": "Légume sous abri",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.13.90.2",
+    "libelle_code_cpf_bio": "Légumes frais plein champ",
+    "groupe": "Légumes",
+    "sous_groupe": "Autres légumes frais et maraîchage",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.14",
+    "libelle_code_cpf_bio": "Cannes à sucre",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures sucrières",
+    "code_pac": "CSR",
+    "libelle_code_pac": "Canne à sucre - réforme foncière",
+    "code_groupe_pac": "26",
+    "libelle_groupe_pac": "Canne à sucre"
+  },
+  {
+    "code_cpf_bio": "01.14.1",
+    "libelle_code_cpf_bio": "Cannes à sucre",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures sucrières",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.14.10",
+    "libelle_code_cpf_bio": "Cannes à sucre",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures sucrières",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.15",
+    "libelle_code_cpf_bio": "Tabac brut",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Autre cultures industrielles",
+    "code_pac": "TAB",
+    "libelle_code_pac": "Tabac",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.15.1",
+    "libelle_code_cpf_bio": "Tabac brut",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Autre cultures industrielles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.15.10",
+    "libelle_code_cpf_bio": "Tabac brut",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Autre cultures industrielles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.16",
+    "libelle_code_cpf_bio": "Plantes textiles",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures textiles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.16.1",
+    "libelle_code_cpf_bio": "Plantes textiles",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures textiles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.16.11",
+    "libelle_code_cpf_bio": "Coton, égrené ou en masse",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures textiles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.16.12",
+    "libelle_code_cpf_bio": "Jute, kénaf et autres fibres libériennes, bruts ou rouis, à l'exclusion du lin, du chanvre commun et de la ramie",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures textiles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.16.19",
+    "libelle_code_cpf_bio": "Lin, chanvre commun et plantes textiles brutes n.c.a.",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures textiles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.16.19.1",
+    "libelle_code_cpf_bio": "Lin fibre",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures textiles",
+    "code_pac": "LIF",
+    "libelle_code_pac": "Lin fibres",
+    "code_groupe_pac": "9",
+    "libelle_groupe_pac": "Plantes à fibres"
+  },
+  {
+    "code_cpf_bio": "01.16.19.2",
+    "libelle_code_cpf_bio": "Chanvre",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures textiles",
+    "code_pac": "CSE",
+    "libelle_code_pac": "Chanvre sans étiquette conforme",
+    "code_groupe_pac": "9",
+    "libelle_groupe_pac": "Plantes à fibres"
+  },
+  {
+    "code_cpf_bio": "01.16.19.9",
+    "libelle_code_cpf_bio": "Autres plantes textiles",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Cultures textiles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19",
+    "libelle_code_cpf_bio": "Autres cultures non permanentes",
+    "groupe": "",
+    "sous_groupe": "",
+    "code_pac": "FLA",
+    "libelle_code_pac": "Autre légume ou fruit annuel",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.19.1",
+    "libelle_code_cpf_bio": "Plantes et surfaces fourragères",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.10",
+    "libelle_code_cpf_bio": "Plantes fourragères",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Plantes fourragères",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.10.1",
+    "libelle_code_cpf_bio": "Prairies, parcours herbeux",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Prairies, parcours",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.10.11",
+    "libelle_code_cpf_bio": "Prairie temporaire",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Prairies, parcours",
+    "code_pac": "RGA",
+    "libelle_code_pac": "Ray-grass de 5 ans ou moins",
+    "code_groupe_pac": "19",
+    "libelle_groupe_pac": "Prairies temporaires"
+  },
+  {
+    "code_cpf_bio": "01.19.10.12",
+    "libelle_code_cpf_bio": "Prairie permanente",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Prairies, parcours",
+    "code_pac": "PRL",
+    "libelle_code_pac": "Prairie en rotation longue (6 ans ou plus)",
+    "code_groupe_pac": "18",
+    "libelle_groupe_pac": "Prairies permanentes"
+  },
+  {
+    "code_cpf_bio": "01.19.10.13",
+    "libelle_code_cpf_bio": "Parcours herbeux (hors estives collectives)",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Prairies, parcours",
+    "code_pac": "SPH",
+    "libelle_code_pac": "Surface pastorale - herbe prédominante et ressources fourragères ligneuses présentes",
+    "code_groupe_pac": "17",
+    "libelle_groupe_pac": "Estives et landes"
+  },
+  {
+    "code_cpf_bio": "01.19.10.2",
+    "libelle_code_cpf_bio": "Betterave fourragère",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Plantes fourragères",
+    "code_pac": "BVF",
+    "libelle_code_pac": "Betterave fourragère",
+    "code_groupe_pac": "16",
+    "libelle_groupe_pac": "Fourrage"
+  },
+  {
+    "code_cpf_bio": "01.19.10.3",
+    "libelle_code_cpf_bio": "Choux fourrager",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Plantes fourragères",
+    "code_pac": "CHF",
+    "libelle_code_pac": "Chou fourrager",
+    "code_groupe_pac": "16",
+    "libelle_groupe_pac": "Fourrage"
+  },
+  {
+    "code_cpf_bio": "01.19.10.4",
+    "libelle_code_cpf_bio": "Colza fourrager",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Plantes fourragères",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.10.5",
+    "libelle_code_cpf_bio": "Maïs fourrage",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Plantes fourragères",
+    "code_pac": "MIE",
+    "libelle_code_pac": "Maïs ensilage",
+    "code_groupe_pac": "2",
+    "libelle_groupe_pac": "Maïs grain et ensilage"
+  },
+  {
+    "code_cpf_bio": "01.19.10.6",
+    "libelle_code_cpf_bio": "Mélanges fourragers",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Plantes fourragères",
+    "code_pac": "MLF",
+    "libelle_code_pac": "Mélange de légumineuses fourragères (entre elles)",
+    "code_groupe_pac": "16",
+    "libelle_groupe_pac": "Fourrage"
+  },
+  {
+    "code_cpf_bio": "01.19.10.7",
+    "libelle_code_cpf_bio": "Trèfle",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Plantes fourragères",
+    "code_pac": "TRE",
+    "libelle_code_pac": "Autre trèfle",
+    "code_groupe_pac": "16",
+    "libelle_groupe_pac": "Fourrage"
+  },
+  {
+    "code_cpf_bio": "01.19.10.8",
+    "libelle_code_cpf_bio": "Luzerne",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "Plantes fourragères",
+    "code_pac": "MIN",
+    "libelle_code_pac": "Minette",
+    "code_groupe_pac": "16",
+    "libelle_groupe_pac": "Fourrage"
+  },
+  {
+    "code_cpf_bio": "01.19.10.9",
+    "libelle_code_cpf_bio": "Autres plantes et surfaces fourragères n.c.a.",
+    "groupe": "Surfaces fourragères",
+    "sous_groupe": "",
+    "code_pac": "XFE",
+    "libelle_code_pac": "X-Felium de 5 ans ou moins",
+    "code_groupe_pac": "16",
+    "libelle_groupe_pac": "Fourrage"
+  },
+  {
+    "code_cpf_bio": "01.19.2",
+    "libelle_code_cpf_bio": "Fleurs coupées et boutons de fleurs ; semences florales",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "Fleurs",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.21",
+    "libelle_code_cpf_bio": "Fleurs coupées et boutons de fleurs",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "Fleurs",
+    "code_pac": "PMV",
+    "libelle_code_pac": "Primevère",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.19.22",
+    "libelle_code_cpf_bio": "Semences florales",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Autres semences",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.3",
+    "libelle_code_cpf_bio": "Semences de betteraves et de plantes fourragères, autres produits végétaux bruts",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Autres semences",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.31",
+    "libelle_code_cpf_bio": "Semences de betteraves (à l'exclusion des semences de betteraves à sucre) et de plantes fourragères",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Autres semences",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.39",
+    "libelle_code_cpf_bio": "Produits végétaux bruts n.c.a.",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Autre cultures industrielles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.39.1",
+    "libelle_code_cpf_bio": "Autres cultures industrielles",
+    "groupe": "Cultures industrielles",
+    "sous_groupe": "Autre cultures industrielles",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.19.99",
+    "libelle_code_cpf_bio": "Cultures en inter-rang",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": "CIT",
+    "libelle_code_pac": "Cultures conduites en interrangs : 3 cultures représentant chacune plus de 25%",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_cpf_bio": "01.2",
+    "libelle_code_cpf_bio": "Cultures permanentes",
+    "groupe": "",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.21",
+    "libelle_code_cpf_bio": "Raisin",
+    "groupe": "Viticulture",
+    "sous_groupe": "Viticulture",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.21.1",
+    "libelle_code_cpf_bio": "Raisin",
+    "groupe": "Viticulture",
+    "sous_groupe": "Viticulture",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.21.11",
+    "libelle_code_cpf_bio": "Raisin de table",
+    "groupe": "Viticulture",
+    "sous_groupe": "Viticulture",
+    "code_pac": "VRT",
+    "libelle_code_pac": "Vigne : raisins de table",
+    "code_groupe_pac": "21",
+    "libelle_groupe_pac": "Vignes"
+  },
+  {
+    "code_cpf_bio": "01.21.12",
+    "libelle_code_cpf_bio": "Raisin de cuve",
+    "groupe": "Viticulture",
+    "sous_groupe": "Viticulture",
+    "code_pac": "VRN",
+    "libelle_code_pac": "Vigne : raisins de cuve non en production",
+    "code_groupe_pac": "21",
+    "libelle_groupe_pac": "Vignes"
+  },
+  {
+    "code_cpf_bio": "01.22",
+    "libelle_code_cpf_bio": "Fruits tropicaux et subtropicaux",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits tropicaux et subtropicaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.22.1",
+    "libelle_code_cpf_bio": "Fruits tropicaux et subtropicaux",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits tropicaux et subtropicaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.22.11",
+    "libelle_code_cpf_bio": "Avocats",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits tropicaux et subtropicaux",
+    "code_pac": "AVO",
+    "libelle_code_pac": "Avocat",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.22.12",
+    "libelle_code_cpf_bio": "Bananes, bananes plantains et assimilés",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits tropicaux et subtropicaux",
+    "code_pac": "BER",
+    "libelle_code_pac": "Banane export - réforme foncière",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.22.13",
+    "libelle_code_cpf_bio": "Dattes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits tropicaux et subtropicaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.22.14",
+    "libelle_code_cpf_bio": "Figues",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits tropicaux et subtropicaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.22.19",
+    "libelle_code_cpf_bio": "Autres fruits tropicaux et subtropicaux",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits tropicaux et subtropicaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.22.19.1",
+    "libelle_code_cpf_bio": "Ananas",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits tropicaux et subtropicaux",
+    "code_pac": "ANA",
+    "libelle_code_pac": "Ananas",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.23",
+    "libelle_code_cpf_bio": "Agrumes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Agrumes",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.23.1",
+    "libelle_code_cpf_bio": "Agrumes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Agrumes",
+    "code_pac": "AGR",
+    "libelle_code_pac": "Agrume",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.23.11",
+    "libelle_code_cpf_bio": "Pomelos et pamplemousses",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Agrumes",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.23.12",
+    "libelle_code_cpf_bio": "Citrons et limes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Agrumes",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.23.13",
+    "libelle_code_cpf_bio": "Oranges",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Agrumes",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.23.14",
+    "libelle_code_cpf_bio": "Mandarines et clémentines",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Agrumes",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.23.19",
+    "libelle_code_cpf_bio": "Autres agrumes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Agrumes",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24",
+    "libelle_code_cpf_bio": "Fruits à pépins et à noyau",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.1",
+    "libelle_code_cpf_bio": "Pommes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.10",
+    "libelle_code_cpf_bio": "Pommes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.10.1",
+    "libelle_code_cpf_bio": "Pommes à cidre",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.10.2",
+    "libelle_code_cpf_bio": "Pommes de table",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.2",
+    "libelle_code_cpf_bio": "Autres fruits à pépins et à noyau",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.21",
+    "libelle_code_cpf_bio": "Poires",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": "PWT",
+    "libelle_code_pac": "Poire Williams pour transformation",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.24.22",
+    "libelle_code_cpf_bio": "Coings",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.23",
+    "libelle_code_cpf_bio": "Abricots",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.24",
+    "libelle_code_cpf_bio": "Cerises",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": "CBT",
+    "libelle_code_pac": "Cerise bigarreau pour transformation",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.24.25",
+    "libelle_code_cpf_bio": "Pêches",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": "PVT",
+    "libelle_code_pac": "Pêche Pavie pour transformation",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.24.26",
+    "libelle_code_cpf_bio": "Nectarines",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.27",
+    "libelle_code_cpf_bio": "Prunes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": "PRU",
+    "libelle_code_pac": "Prune d’Ente pour transformation",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.24.28",
+    "libelle_code_cpf_bio": "Prunelles",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.29",
+    "libelle_code_cpf_bio": "Autres fruits à pépins et à noyau n.c.a.",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.29.1",
+    "libelle_code_cpf_bio": "Autres fruits à pépins",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.24.29.2",
+    "libelle_code_cpf_bio": "Autres fruits à noyau",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à pépins et à noyaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25",
+    "libelle_code_cpf_bio": "Autres fruits d'arbres ou d'arbustes et fruits à coque",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Autres fruits frais",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.1",
+    "libelle_code_cpf_bio": "Baies et fruits du genre Vaccinium",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": "PFR",
+    "libelle_code_pac": "Petit fruit rouge",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.25.11",
+    "libelle_code_cpf_bio": "Kiwis",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.12",
+    "libelle_code_cpf_bio": "Framboises",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.13",
+    "libelle_code_cpf_bio": "Fraises",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": "FRA",
+    "libelle_code_pac": "Fraise",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.25.19",
+    "libelle_code_cpf_bio": "Autres baies, fruits du genre vaccinium n.c.a.",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.19.1",
+    "libelle_code_cpf_bio": "Cassis",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.19.2",
+    "libelle_code_cpf_bio": "Myrtilles",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.19.4",
+    "libelle_code_cpf_bio": "Airelles",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.19.5",
+    "libelle_code_cpf_bio": "Groseilles",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.19.9",
+    "libelle_code_cpf_bio": "Autres baies (hors cassis et myrtilles)",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Baies",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.2",
+    "libelle_code_cpf_bio": "Semences fruitières",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Semences fruitières",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.20",
+    "libelle_code_cpf_bio": "Semences fruitières",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Semences fruitières",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.3",
+    "libelle_code_cpf_bio": "Fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à coque",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.31",
+    "libelle_code_cpf_bio": "Amandes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à coque",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.32",
+    "libelle_code_cpf_bio": "Châtaignes et marrons",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à coque",
+    "code_pac": "CTG",
+    "libelle_code_pac": "Châtaigne",
+    "code_groupe_pac": "22",
+    "libelle_groupe_pac": "Fruits à coque"
+  },
+  {
+    "code_cpf_bio": "01.25.33",
+    "libelle_code_cpf_bio": "Noisettes",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à coque",
+    "code_pac": "NOS",
+    "libelle_code_pac": "Noisette",
+    "code_groupe_pac": "22",
+    "libelle_groupe_pac": "Fruits à coque"
+  },
+  {
+    "code_cpf_bio": "01.25.34",
+    "libelle_code_cpf_bio": "Pistaches",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à coque",
+    "code_pac": "PIS",
+    "libelle_code_pac": "Pistache",
+    "code_groupe_pac": "22",
+    "libelle_groupe_pac": "Fruits à coque"
+  },
+  {
+    "code_cpf_bio": "01.25.35",
+    "libelle_code_cpf_bio": "Noix",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à coque",
+    "code_pac": "NOX",
+    "libelle_code_pac": "Noix",
+    "code_groupe_pac": "22",
+    "libelle_groupe_pac": "Fruits à coque"
+  },
+  {
+    "code_cpf_bio": "01.25.39",
+    "libelle_code_cpf_bio": "Autres fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits à coque",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.25.9",
+    "libelle_code_cpf_bio": "Autres fruits d'arbres ou d'arbustes n.c.a.",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Autres fruits frais",
+    "code_pac": "VRG",
+    "libelle_code_pac": "Verger",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.25.90",
+    "libelle_code_cpf_bio": "Autres fruits d'arbres ou d'arbustes n.c.a.",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Autres fruits frais",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.26",
+    "libelle_code_cpf_bio": "Fruits oléagineux",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits oléagineux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.26.1",
+    "libelle_code_cpf_bio": "Olives",
+    "groupe": "Oleiculture",
+    "sous_groupe": "",
+    "code_pac": "OLI",
+    "libelle_code_pac": "Oliveraie",
+    "code_groupe_pac": "23",
+    "libelle_groupe_pac": "Oliviers"
+  },
+  {
+    "code_cpf_bio": "01.26.11",
+    "libelle_code_cpf_bio": "Olives de table",
+    "groupe": "Oleiculture",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.26.12",
+    "libelle_code_cpf_bio": "Olives à huile",
+    "groupe": "Oleiculture",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.26.2",
+    "libelle_code_cpf_bio": "Noix de coco",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits oléagineux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.26.20",
+    "libelle_code_cpf_bio": "Noix de coco",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits oléagineux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.26.9",
+    "libelle_code_cpf_bio": "Autres fruits oléagineux",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits oléagineux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.26.90",
+    "libelle_code_cpf_bio": "Autres fruits oléagineux",
+    "groupe": "Fruits et fruits à coque",
+    "sous_groupe": "Fruits oléagineux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.27",
+    "libelle_code_cpf_bio": "Plantes à boissons",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à boissons",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.27.1",
+    "libelle_code_cpf_bio": "Plantes à boissons",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à boissons",
+    "code_pac": "CAC",
+    "libelle_code_pac": "Café / Cacao",
+    "code_groupe_pac": "20",
+    "libelle_groupe_pac": "Vergers"
+  },
+  {
+    "code_cpf_bio": "01.27.11",
+    "libelle_code_cpf_bio": "Café vert, en cerise ou en grain",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à boissons",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.27.12",
+    "libelle_code_cpf_bio": "Thé en feuilles",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à boissons",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.27.13",
+    "libelle_code_cpf_bio": "Maté en feuilles",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à boissons",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.27.14",
+    "libelle_code_cpf_bio": "Cacao en fèves",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à boissons",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28",
+    "libelle_code_cpf_bio": "Plantes à épices, aromatiques, médicinales et pharmaceutiques",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.00.99",
+    "libelle_code_cpf_bio": "Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "PSE",
+    "libelle_code_pac": "Pensée",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.28.1",
+    "libelle_code_cpf_bio": "Épices brutes et arômates",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.11",
+    "libelle_code_cpf_bio": "Poivre (piper spp.), brut",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.12",
+    "libelle_code_cpf_bio": "Piments et poivrons (capsicum spp.) séchés, bruts",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.13",
+    "libelle_code_cpf_bio": "Muscade, macis et cardamome, bruts",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.14",
+    "libelle_code_cpf_bio": "Anis, badiane, coriandre, cumin, carvi, fenouil et genièvre, bruts",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.14.1",
+    "libelle_code_cpf_bio": "Coriandre (graines)",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "CRD",
+    "libelle_code_pac": "Coriandre",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.14.10",
+    "libelle_code_cpf_bio": "Coriandre (graines)",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.14.2",
+    "libelle_code_cpf_bio": "Fenouil doux et amer",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "FNO",
+    "libelle_code_pac": "Fenouil",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.14.3",
+    "libelle_code_cpf_bio": "Anis, badiane",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "ANI",
+    "libelle_code_pac": "Anis",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.14.31",
+    "libelle_code_cpf_bio": "Anis",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.14.32",
+    "libelle_code_cpf_bio": "badiane",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.14.9",
+    "libelle_code_cpf_bio": "Cumin, carvi et genièvre, bruts",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "CUM",
+    "libelle_code_pac": "Cumin",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.15",
+    "libelle_code_cpf_bio": "Cannelle, brute",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.16",
+    "libelle_code_cpf_bio": "Clous de girofle (entiers), bruts",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.17",
+    "libelle_code_cpf_bio": "Gingembre séché, brut",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.18",
+    "libelle_code_cpf_bio": "Vanille, brute",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "VNV",
+    "libelle_code_pac": "Vanille verte",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19",
+    "libelle_code_cpf_bio": "Autres épices brutes et arômates",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.1",
+    "libelle_code_cpf_bio": "Sarriette",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "SRI",
+    "libelle_code_pac": "Sarriette",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.10",
+    "libelle_code_cpf_bio": "Sarriette",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.11",
+    "libelle_code_cpf_bio": "Sarriette annuelle",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.12",
+    "libelle_code_cpf_bio": "Sarriette vivace",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.21",
+    "libelle_code_cpf_bio": "Romarin",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "ROM",
+    "libelle_code_pac": "Romarin",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.22",
+    "libelle_code_cpf_bio": "Safran",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.23",
+    "libelle_code_cpf_bio": "Sauge sclarée",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.24",
+    "libelle_code_cpf_bio": "Serpolet",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.25",
+    "libelle_code_cpf_bio": "Thym",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "THY",
+    "libelle_code_pac": "Thym",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.26",
+    "libelle_code_cpf_bio": "Aneth",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "ANE",
+    "libelle_code_pac": "Aneth",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.27",
+    "libelle_code_cpf_bio": "Basilic",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "BAS",
+    "libelle_code_pac": "Basilic",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.28",
+    "libelle_code_cpf_bio": "Camomille romaine",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "CMM",
+    "libelle_code_pac": "Camomille",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.29",
+    "libelle_code_cpf_bio": "Cerfeuil",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "CRF",
+    "libelle_code_pac": "Cerfeuil",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.3",
+    "libelle_code_cpf_bio": "Menthe",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "MTH",
+    "libelle_code_pac": "Menthe",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.30",
+    "libelle_code_cpf_bio": "Menthe",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.31",
+    "libelle_code_cpf_bio": "Menthe douce",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.32",
+    "libelle_code_cpf_bio": "Menthe poivrée",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.41",
+    "libelle_code_cpf_bio": "Fenugrec",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "FNU",
+    "libelle_code_pac": "Fenugrec",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.42",
+    "libelle_code_cpf_bio": "Origans",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.43",
+    "libelle_code_cpf_bio": "Persil",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "PSL",
+    "libelle_code_pac": "Persil",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.44",
+    "libelle_code_cpf_bio": "Ciboulette",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "CIB",
+    "libelle_code_pac": "Ciboulette",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.45",
+    "libelle_code_cpf_bio": "Estragon",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "EST",
+    "libelle_code_pac": "Estragon",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.46",
+    "libelle_code_cpf_bio": "Oseille",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "OSE",
+    "libelle_code_pac": "Oseille",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.47",
+    "libelle_code_cpf_bio": "Coriandre (herbe)",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.48",
+    "libelle_code_cpf_bio": "Pensées",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.19.51",
+    "libelle_code_cpf_bio": "Curcuma",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "CUR",
+    "libelle_code_pac": "Curcuma",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.19.99",
+    "libelle_code_cpf_bio": "Autres épices brutes et arômates n.c.a.",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "PAR",
+    "libelle_code_pac": "Plante aromatique (autre que vanille)",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.2",
+    "libelle_code_cpf_bio": "Houblon en cônes",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": "HBL",
+    "libelle_code_pac": "Houblon",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.20",
+    "libelle_code_cpf_bio": "Houblon en cônes",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Épices et herbes fraîches",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.3",
+    "libelle_code_cpf_bio": "Plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30",
+    "libelle_code_cpf_bio": "Plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.1",
+    "libelle_code_cpf_bio": "Lavande, lavandin",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.10",
+    "libelle_code_cpf_bio": "Lavande, lavandin",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "LAV",
+    "libelle_code_pac": "Lavande / Lavandin",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.11",
+    "libelle_code_cpf_bio": "Lavande",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.12",
+    "libelle_code_cpf_bio": "Lavandin",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.2",
+    "libelle_code_cpf_bio": "Marjolaine",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.31",
+    "libelle_code_cpf_bio": "Matricaire",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.32",
+    "libelle_code_cpf_bio": "Hysope",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.41",
+    "libelle_code_cpf_bio": "Echinacées",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.42",
+    "libelle_code_cpf_bio": "Calendula",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.43",
+    "libelle_code_cpf_bio": "Mauve",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "MAV",
+    "libelle_code_pac": "Mauve",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.5",
+    "libelle_code_cpf_bio": "Mélilot",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.6",
+    "libelle_code_cpf_bio": "Mélisse",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "MLI",
+    "libelle_code_pac": "Mélisse",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.71",
+    "libelle_code_cpf_bio": "Millepertuis",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "MLP",
+    "libelle_code_pac": "Millepertuis",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.72",
+    "libelle_code_cpf_bio": "Reine des prés",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.81",
+    "libelle_code_cpf_bio": "Sauge officinale",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "SGE",
+    "libelle_code_pac": "Sauge",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.82",
+    "libelle_code_cpf_bio": "Verveine odorante",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.83",
+    "libelle_code_cpf_bio": "Verveine officinale",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.28.30.33",
+    "libelle_code_cpf_bio": "Bardane",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "BAR",
+    "libelle_code_pac": "Bardane",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.34",
+    "libelle_code_cpf_bio": "Bleuet",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "BLT",
+    "libelle_code_pac": "Bleuet",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.28.30.35",
+    "libelle_code_cpf_bio": "Bugle rampant",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "BUR",
+    "libelle_code_pac": "Bugle rampante",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.28.30.36",
+    "libelle_code_cpf_bio": "Géranium",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "GER",
+    "libelle_code_pac": "Géranium",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.28.30.37",
+    "libelle_code_cpf_bio": "Ortie",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "ORT",
+    "libelle_code_pac": "Ortie",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.38",
+    "libelle_code_cpf_bio": "Psyllium noir de Provence",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "PSN",
+    "libelle_code_pac": "Psyllium noir de Provence",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.39",
+    "libelle_code_cpf_bio": "Plantain psyllium",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "PSY",
+    "libelle_code_pac": "Plantain psyllium",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.44",
+    "libelle_code_cpf_bio": "Valériane",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "VAL",
+    "libelle_code_pac": "Valériane",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.45",
+    "libelle_code_cpf_bio": "Véronique",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "VER",
+    "libelle_code_pac": "Véronique",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.28.30.46",
+    "libelle_code_cpf_bio": "Vétiver",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "VET",
+    "libelle_code_pac": "Vétiver",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_cpf_bio": "01.28.30.47",
+    "libelle_code_cpf_bio": "Ylang-ylang",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "YLA",
+    "libelle_code_pac": "Ylang-ylang",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.48",
+    "libelle_code_cpf_bio": "Angélique",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "ANG",
+    "libelle_code_pac": "Angélique",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.49",
+    "libelle_code_cpf_bio": "Chardon Marie",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "CHR",
+    "libelle_code_pac": "Chardon Marie",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.28.30.99",
+    "libelle_code_cpf_bio": "Autres plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",
+    "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+    "sous_groupe": "Plantes à parfum et médicinales",
+    "code_pac": "PPP",
+    "libelle_code_pac": "Autre plante à parfum, aromatique et médicinale pérenne",
+    "code_groupe_pac": "24",
+    "libelle_groupe_pac": "Autres cultures industrielles"
+  },
+  {
+    "code_cpf_bio": "01.29",
+    "libelle_code_cpf_bio": "Autres cultures permanentes",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": "FLP",
+    "libelle_code_pac": "Autre légume ou fruit pérenne",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_cpf_bio": "01.29.1",
+    "libelle_code_cpf_bio": "Caoutchouc naturel brut",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.29.10",
+    "libelle_code_cpf_bio": "Caoutchouc naturel brut",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.29.2",
+    "libelle_code_cpf_bio": "Sapins et arbres de Noël coupés",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.29.20",
+    "libelle_code_cpf_bio": "Arbres de noël coupés",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.29.3",
+    "libelle_code_cpf_bio": "Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.29.30",
+    "libelle_code_cpf_bio": "Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.29.00.9",
+    "libelle_code_cpf_bio": "Autres cultures permanentes n.c.a.",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.29.00.91",
+    "libelle_code_cpf_bio": "Miscanthus",
+    "groupe": "Autres productions végétales",
+    "sous_groupe": "",
+    "code_pac": "MCT",
+    "libelle_code_pac": "Miscanthus",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_cpf_bio": "01.3",
+    "libelle_code_cpf_bio": "Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Plants",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.30",
+    "libelle_code_cpf_bio": "Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Plants",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.30.1",
+    "libelle_code_cpf_bio": "Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Plants",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.30.10",
+    "libelle_code_cpf_bio": "Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",
+    "groupe": "Semences et plants",
+    "sous_groupe": "Plants",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.41",
+    "libelle_code_cpf_bio": "Vaches laitières, vivantes et lait de vache, brut",
+    "groupe": "Bovins",
+    "sous_groupe": "Bovins lait",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.41.1",
+    "libelle_code_cpf_bio": "Vaches laitières, vivantes",
+    "groupe": "Bovins",
+    "sous_groupe": "Bovins lait",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.41.10",
+    "libelle_code_cpf_bio": "Vaches laitières, vivantes",
+    "groupe": "Bovins",
+    "sous_groupe": "Bovins lait",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.41.2",
+    "libelle_code_cpf_bio": "Lait de vache, brut",
+    "groupe": "Bovins",
+    "sous_groupe": "Bovins lait",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.41.20",
+    "libelle_code_cpf_bio": "Lait de vache, brut",
+    "groupe": "Bovins",
+    "sous_groupe": "Bovins lait",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42",
+    "libelle_code_cpf_bio": "Autres bovins et buffles, vivants et leur sperme",
+    "groupe": "Bovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.1",
+    "libelle_code_cpf_bio": "Autres bovins et buffles, vivants",
+    "groupe": "Bovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.11",
+    "libelle_code_cpf_bio": "Autres bovins et buffles, à l'exclusion des veaux, vivants",
+    "groupe": "Bovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.11.1",
+    "libelle_code_cpf_bio": "Vaches allaitantes",
+    "groupe": "Bovins",
+    "sous_groupe": "Bovins viande",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.11.2",
+    "libelle_code_cpf_bio": "Bœufs",
+    "groupe": "Bovins",
+    "sous_groupe": "Bovins viande",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.11.3",
+    "libelle_code_cpf_bio": "Taureaux (>24 mois)",
+    "groupe": "Bovins",
+    "sous_groupe": "Autres bovins",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.11.4",
+    "libelle_code_cpf_bio": "Broutards (mâle ou femelle)",
+    "groupe": "Bovins",
+    "sous_groupe": "Autres bovins",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.11.5",
+    "libelle_code_cpf_bio": "Taurillons (18 à 24 mois)",
+    "groupe": "Bovins",
+    "sous_groupe": "Autres bovins",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.11.6",
+    "libelle_code_cpf_bio": "Génisses engraissement (>8 mois)",
+    "groupe": "Bovins",
+    "sous_groupe": "Bovins viande",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.11.7",
+    "libelle_code_cpf_bio": "Génisses renouvellement (>8 mois)",
+    "groupe": "Bovins",
+    "sous_groupe": "Autres bovins",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.11.9",
+    "libelle_code_cpf_bio": "Autres bovins et bovidés",
+    "groupe": "Bovins",
+    "sous_groupe": "Autres bovins",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.12",
+    "libelle_code_cpf_bio": "Veaux (< 8mois)",
+    "groupe": "Bovins",
+    "sous_groupe": "Autres bovins",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.2",
+    "libelle_code_cpf_bio": "Sperme de taureau et de buffle",
+    "groupe": "Bovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.42.20",
+    "libelle_code_cpf_bio": "Sperme de taureau et de buffle",
+    "groupe": "Bovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.43",
+    "libelle_code_cpf_bio": "Chevaux et autres équidés, vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Equidés",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.43.1",
+    "libelle_code_cpf_bio": "Chevaux et autres équidés, vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Equidés",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.43.11",
+    "libelle_code_cpf_bio": "Chevaux, vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Equidés",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.43.12",
+    "libelle_code_cpf_bio": "Ânes, mulets et bardots, vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Equidés",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.44",
+    "libelle_code_cpf_bio": "Chameaux et autres camélidés, vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres animaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.44.1",
+    "libelle_code_cpf_bio": "Chameaux et autres camélidés, vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres animaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.44.10",
+    "libelle_code_cpf_bio": "Chameaux et autres camélidés, vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres animaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45",
+    "libelle_code_cpf_bio": "Ovins et caprins, vivants ; lait de brebis et de chèvre brut, laine en suint et poils d'ovins et de caprins",
+    "groupe": "Ovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.1",
+    "libelle_code_cpf_bio": "Ovins et caprins, vivants",
+    "groupe": "Ovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.11",
+    "libelle_code_cpf_bio": "Ovins, vivants",
+    "groupe": "Ovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.11.1",
+    "libelle_code_cpf_bio": "Brebis laitières",
+    "groupe": "Ovins",
+    "sous_groupe": "Ovins Lait",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.11.2",
+    "libelle_code_cpf_bio": "Brebis viande",
+    "groupe": "Ovins",
+    "sous_groupe": "Ovins Viande",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.11.3",
+    "libelle_code_cpf_bio": "Agneaux",
+    "groupe": "Ovins",
+    "sous_groupe": "Ovins Viande",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.11.4",
+    "libelle_code_cpf_bio": "Agnelles de renouvellement",
+    "groupe": "Ovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.11.5",
+    "libelle_code_cpf_bio": "Béliers",
+    "groupe": "Ovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.11.6",
+    "libelle_code_cpf_bio": "Autres ovins",
+    "groupe": "Ovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.12",
+    "libelle_code_cpf_bio": "Caprins, vivants",
+    "groupe": "Caprins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.12.1",
+    "libelle_code_cpf_bio": "Chèvres",
+    "groupe": "Caprins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.12.2",
+    "libelle_code_cpf_bio": "Bouc",
+    "groupe": "Caprins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.12.3",
+    "libelle_code_cpf_bio": "Autres caprins",
+    "groupe": "Caprins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.2",
+    "libelle_code_cpf_bio": "Lait de brebis et de chèvre, brut",
+    "groupe": "",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.21",
+    "libelle_code_cpf_bio": "Lait de brebis, brut",
+    "groupe": "Ovins",
+    "sous_groupe": "Ovins Lait",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.22",
+    "libelle_code_cpf_bio": "Lait de chèvre, brut",
+    "groupe": "Caprins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.3",
+    "libelle_code_cpf_bio": "Laine en suint et poils d'ovins et de caprins",
+    "groupe": "",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.30",
+    "libelle_code_cpf_bio": "Laine en suint et poils d'ovins et de caprins",
+    "groupe": "",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.30.1",
+    "libelle_code_cpf_bio": "Laine en suint et poils d'ovins",
+    "groupe": "Ovins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.45.30.2",
+    "libelle_code_cpf_bio": "Laine en suint et poils de caprins",
+    "groupe": "Caprins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.46",
+    "libelle_code_cpf_bio": "Porcins, vivants",
+    "groupe": "Porcins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.46.1",
+    "libelle_code_cpf_bio": "Porcins, vivants",
+    "groupe": "Porcins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.46.10",
+    "libelle_code_cpf_bio": "Porcins, vivants",
+    "groupe": "Porcins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.46.10.1",
+    "libelle_code_cpf_bio": "Truies",
+    "groupe": "Porcins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.46.10.2",
+    "libelle_code_cpf_bio": "Porcs charcutiers",
+    "groupe": "Porcins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.46.10.3",
+    "libelle_code_cpf_bio": "Porcelets",
+    "groupe": "Porcins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.46.10.5",
+    "libelle_code_cpf_bio": "Verrats",
+    "groupe": "Porcins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.46.10.4",
+    "libelle_code_cpf_bio": "Autres porcins",
+    "groupe": "Porcins",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47",
+    "libelle_code_cpf_bio": "Volailles vivantes et oeufs",
+    "groupe": "",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.1",
+    "libelle_code_cpf_bio": "Volailles, vivantes",
+    "groupe": "Volaille de chair",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.10.1",
+    "libelle_code_cpf_bio": "Poules pondeuses",
+    "groupe": "Œufs",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.10.2",
+    "libelle_code_cpf_bio": "Poulettes",
+    "groupe": "Œufs",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.11",
+    "libelle_code_cpf_bio": "Poulets, vivants",
+    "groupe": "Volaille de chair",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.12",
+    "libelle_code_cpf_bio": "Dindes, vivantes",
+    "groupe": "Volaille de chair",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.13",
+    "libelle_code_cpf_bio": "Oies, vivantes",
+    "groupe": "Volaille de chair",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.14",
+    "libelle_code_cpf_bio": "Canards et pintades, vivants",
+    "groupe": "Volaille de chair",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.14.1",
+    "libelle_code_cpf_bio": "Pintades",
+    "groupe": "Volaille de chair",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.14.2",
+    "libelle_code_cpf_bio": "Canards",
+    "groupe": "Volaille de chair",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.14.9",
+    "libelle_code_cpf_bio": "Autres volailles",
+    "groupe": "Volaille de chair",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.2",
+    "libelle_code_cpf_bio": "Œufs, en coquille, frais",
+    "groupe": "Œufs",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.21",
+    "libelle_code_cpf_bio": "Œufs de poule, en coquille, frais",
+    "groupe": "Œufs",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.22",
+    "libelle_code_cpf_bio": "Œufs d'autres volailles, en coquille, frais",
+    "groupe": "Œufs",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.23",
+    "libelle_code_cpf_bio": "Œufs de poule, à couver",
+    "groupe": "Œufs",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.47.24",
+    "libelle_code_cpf_bio": "Œufs d'autres volailles, à couver",
+    "groupe": "Œufs",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49",
+    "libelle_code_cpf_bio": "Autres animaux d'élevage et produits d'origine animale",
+    "groupe": "",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.1",
+    "libelle_code_cpf_bio": "Autres animaux d'élevage, vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.11",
+    "libelle_code_cpf_bio": "Lapins d'élevage, vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Elevage de lapins",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.11.1",
+    "libelle_code_cpf_bio": "Lapins",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Elevage de lapins",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.11.2",
+    "libelle_code_cpf_bio": "Lapines reproductrices",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Elevage de lapins",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.12",
+    "libelle_code_cpf_bio": "Oiseaux d'élevage n.c.a., vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres animaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.13",
+    "libelle_code_cpf_bio": "Reptiles d'élevage (y compris serpents et tortues), vivants",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres animaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.19",
+    "libelle_code_cpf_bio": "Autres animaux d'élevage",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres animaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.19.1",
+    "libelle_code_cpf_bio": "Ruches",
+    "groupe": "Apiculture",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.19.2",
+    "libelle_code_cpf_bio": "Cervidés",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres animaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.19.9",
+    "libelle_code_cpf_bio": "Autres animaux d'élevages n.c.a.",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres animaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.2",
+    "libelle_code_cpf_bio": "Autres produits d'origine animale",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.21",
+    "libelle_code_cpf_bio": "Miel",
+    "groupe": "Apiculture",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.22",
+    "libelle_code_cpf_bio": "Lait brut (hors vache, hors brebis et hors chèvre)",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres produits d'origine animale",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.22.1",
+    "libelle_code_cpf_bio": "Lait brut de jument ou d'ânesse",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Equidés",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.23",
+    "libelle_code_cpf_bio": "Escargots, frais, réfrigérés, congelés ou surgelés, séchés ou salés, à l'exclusion des escargots de mer",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres animaux",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.24",
+    "libelle_code_cpf_bio": "Produits comestibles d'origine animale n.c.a.",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.24.1",
+    "libelle_code_cpf_bio": "Gelée royale",
+    "groupe": "Apiculture",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.24.2",
+    "libelle_code_cpf_bio": "Autres produits de l'apiculture",
+    "groupe": "Apiculture",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.24.9",
+    "libelle_code_cpf_bio": "Autres produits comestibles d'origine animale n.c.a.",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres produits d'origine animale",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.25",
+    "libelle_code_cpf_bio": "Cocons de vers à soie",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres produits d'origine animale",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.26",
+    "libelle_code_cpf_bio": "Cires d'insectes et spermaceti, affinés et colorés ou non",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.26.1",
+    "libelle_code_cpf_bio": "Cire d'abeille",
+    "groupe": "Apiculture",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.26.9",
+    "libelle_code_cpf_bio": "Autres cires d'insectes et spermaceti (hors cire d'abeille)",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres produits d'origine animale",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.27",
+    "libelle_code_cpf_bio": "Embryons animaux destinés à la reproduction",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres produits d'origine animale",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.28",
+    "libelle_code_cpf_bio": "Autres produits non comestibles d'origine animale n.c.a.",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "Autres produits d'origine animale",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.3",
+    "libelle_code_cpf_bio": "Peaux et fourrures",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.31",
+    "libelle_code_cpf_bio": "Fourrures d'élevage ou de piégeage, à l'exclusion des peaux d'agneaux",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.32",
+    "libelle_code_cpf_bio": "Peaux d'agneaux",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.49.39",
+    "libelle_code_cpf_bio": "Peaux d'animaux n.c.a. (brutes ou conservées, mais non travaillées)",
+    "groupe": "Autres productions animales",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.61",
+    "libelle_code_cpf_bio": "Services de soutien aux cultures",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.61.1",
+    "libelle_code_cpf_bio": "Services de soutien aux cultures",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.61.10",
+    "libelle_code_cpf_bio": "Services de soutien aux cultures",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.62",
+    "libelle_code_cpf_bio": "Services de soutien à la production animale",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.62.1",
+    "libelle_code_cpf_bio": "Services de soutien à la production animale",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.62.10",
+    "libelle_code_cpf_bio": "Services de soutien à la production animale",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.63",
+    "libelle_code_cpf_bio": "Traitement primaire des récoltes",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.63.1",
+    "libelle_code_cpf_bio": "Traitement primaire des récoltes",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.63.10",
+    "libelle_code_cpf_bio": "Traitement primaire des récoltes",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.64",
+    "libelle_code_cpf_bio": "Traitement des semences",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.64.1",
+    "libelle_code_cpf_bio": "Traitement des semences",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.64.10",
+    "libelle_code_cpf_bio": "Traitement des semences",
+    "groupe": "Traitements primaires et services",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.7",
+    "libelle_code_cpf_bio": "Chasse, piégeage et services annexes",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.70",
+    "libelle_code_cpf_bio": "Chasse, piégeage et services annexes",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.70.1",
+    "libelle_code_cpf_bio": "Chasse, piégeage et services annexes",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.70.10",
+    "libelle_code_cpf_bio": "Chasse, piégeage et services annexes",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.9",
+    "libelle_code_cpf_bio": "Autres surfaces, parcours collectifs et zones de cueillette",
+    "groupe": "",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.91",
+    "libelle_code_cpf_bio": "Jachère, gel annuel entrant en rotation",
+    "groupe": "Surfaces non productives",
+    "sous_groupe": "",
+    "code_pac": "TCR",
+    "libelle_code_pac": "Taillis à courte rotation",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_cpf_bio": "01.92",
+    "libelle_code_cpf_bio": "Gel fixe, friche, gel spécifique n’entrant pas en rotation",
+    "groupe": "Surfaces non productives",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.93",
+    "libelle_code_cpf_bio": "Engrais vert",
+    "groupe": "Surfaces non productives",
+    "sous_groupe": "",
+    "code_pac": "MPA",
+    "libelle_code_pac": "Autre mélange de plantes fixant l’azote",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_cpf_bio": "01.95",
+    "libelle_code_cpf_bio": "Bois, zone de cueillette et estives collectives",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.95.1",
+    "libelle_code_cpf_bio": "Bois",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": "SBO",
+    "libelle_code_pac": "Surface boisée sur une ancienne terre agricole",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_cpf_bio": "01.95.11",
+    "libelle_code_cpf_bio": "Bois pâturés et parcours ligneux",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": "SPL",
+    "libelle_code_pac": "Surface pastorale - ressources fourragères ligneuses prédominantes",
+    "code_groupe_pac": "17",
+    "libelle_groupe_pac": "Estives et landes"
+  },
+  {
+    "code_cpf_bio": "01.95.19",
+    "libelle_code_cpf_bio": "Bois non pâturés, sans cueillette",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": "CNE",
+    "libelle_code_pac": "Chênaie non entretenue par des porcins ou des petits ruminants",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_cpf_bio": "01.95.2",
+    "libelle_code_cpf_bio": "Zone de cueillette sauvage",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.95.21",
+    "libelle_code_cpf_bio": "Zone de cueillette de baies sauvages",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.95.22",
+    "libelle_code_cpf_bio": "Zone de cueillette de plantes à parfum aromatiques et médicinales sauvages",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.95.23",
+    "libelle_code_cpf_bio": "Zone de cueillette de champignons sauvages",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.95.24",
+    "libelle_code_cpf_bio": "Autres zones de cueillette sauvage",
+    "groupe": "Bois et cueillette sauvage",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.95.4",
+    "libelle_code_cpf_bio": "Estives ou alpages collectifs",
+    "groupe": "Estives collectives",
+    "sous_groupe": "",
+    "code_pac": null,
+    "libelle_code_pac": ""
+  },
+  {
+    "code_cpf_bio": "01.99",
+    "libelle_code_cpf_bio": "Autres surfaces non productive (yc bordures et bandes tampon)",
+    "groupe": "Surfaces non productives",
+    "sous_groupe": "",
+    "code_pac": "SNA",
+    "libelle_code_pac": "Surface non agricole non visible sur l’orthophotographie",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_pac": "ROQ",
+    "libelle_code_pac": "Roquette",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_pac": "MAC",
+    "libelle_code_pac": "Mâche",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_pac": "MRS",
+    "libelle_code_pac": "Marais salant",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_pac": "PEP",
+    "libelle_code_pac": "Pépinière",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  },
+  {
+    "code_pac": "RUT",
+    "libelle_code_pac": "Rutabaga",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_pac": "SFI",
+    "libelle_code_pac": "Salsifis",
+    "code_groupe_pac": "25",
+    "libelle_groupe_pac": "Légumes ou fleurs"
+  },
+  {
+    "code_pac": "ZZZ",
+    "libelle_code_pac": "Culture inconnue",
+    "code_groupe_pac": "28",
+    "libelle_groupe_pac": "Divers"
+  }
+]

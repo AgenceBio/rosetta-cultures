@@ -1,0 +1,1447 @@
+CODE,libelle,Nomenclature,Activite,Groupe,Sous_groupe,Utilisé dans la notification
+01,PRODUITS BRUTS AGRICOLES,CPF rev2,Producteur,,,FALSE
+01.1,Cultures non permanentes,CPF rev2,Producteur,,,FALSE
+01.11,"Céréales (à l'exclusion du riz), légumineuses et oléagineux",CPF rev2,Producteur,Grandes Cultures,,FALSE
+01.11.1,Blé,CPF rev2,Producteur,Grandes Cultures,Céréales,FALSE
+01.11.11,Blé dur,CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.12,Blé tendre,CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.2,Maïs grain (yc maïs doux),CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.20,Maïs grain (yc maïs doux),CPF rev2,Producteur,Grandes Cultures,Céréales,FALSE
+01.11.20.1,Maïs doux,BIO v1.1,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.11.20.2,Maïs grain (hors maïs doux),BIO v1.3,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.3,"Orge, seigle et avoine",CPF rev2,Producteur,Grandes Cultures,Céréales,FALSE
+01.11.31,Orges,CPF rev2,Producteur,Grandes Cultures,Céréales,FALSE
+01.11.31.1,Orge de brasserie,BIO v1,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.31.2,Orge fourrager,BIO v1,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.32,Seigle,CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.33,Avoine,CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.4,Autres céréales et mélanges,CPF rev2,Producteur,Grandes Cultures,Céréales,FALSE
+01.11.41,Sorgho,CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.42,Millet,CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.43,Triticale,CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.49,Autres céréales et mélanges n.c.a.,CPF rev2,Producteur,Grandes Cultures,Céréales,FALSE
+01.11.49.1,Epeautre,BIO v1,Producteur,Grandes Cultures,Céréales,FALSE
+01.11.49.11,Petit épeautre,BIO v1,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.49.12,Grand épeautre,BIO v1,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.49.2,Sarrasin,BIO v1,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.49.3,Mélanges (avec céréales),BIO v1,Producteur,Grandes Cultures,Céréales,FALSE
+01.11.49.31,Mélanges Céréaliers (sans légumineuses),BIO v1,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.49.32,Mélanges Céréales-légumineuses,BIO v1,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.49.9,Autres céréales,BIO v1,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.5,Paille et balles de céréales,CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.11.50,Paille et balles de céréales,CPF rev2,Producteur,Grandes Cultures,Céréales,FALSE
+01.11.6,"Légumes à cosse, verts",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,FALSE
+01.11.61,"Haricots, verts",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.62,"Pois, verts",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.69,"Autres légumes à cosse, verts",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,FALSE
+01.11.69.1,Petits pois,BIO v1.4,Producteur,Légumes,Légumes à fruits,TRUE
+01.11.69.2,Fèves (fraîches),BIO v1.4,Producteur,Légumes,Légumes à fruits,TRUE
+01.11.69.9,"Autres légumes à cosse, verts n.c.a.",BIO v1.4,Producteur,Légumes,Légumes à fruits,TRUE
+01.11.7,"Légumes à cosse, secs",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,FALSE
+01.11.71,"Haricots, secs",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.72,"Fèves, sèches (yc féveroles)",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.73,"Pois chiches, secs",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.74,"Lentilles, sèches",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.75,"Pois, secs",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.76,"Dolique à œil noir (pois du brésil, niébé)",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.77,"Pois d'ambrevade ou pois d'angole, secs",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.79,"Légumes à cosse, secs n.c.a.",CPF rev2,Producteur,Grandes Cultures,Protéagineux et légumes secs,FALSE
+01.11.79.1,Lupin,BIO v1,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.79.9,Autres légumes secs,BIO v1,Producteur,Grandes Cultures,Protéagineux et légumes secs,TRUE
+01.11.8,"Fèves de soja, arachides",CPF rev2,Producteur,Grandes Cultures,Oléagineux,FALSE
+01.11.81,Fèves de soja,CPF rev2,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.11.82,"Arachides, en coque",CPF rev2,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.11.9,Autres oléagineux,CPF rev2,Producteur,Grandes Cultures,Oléagineux,FALSE
+01.11.91,Lin (graines),CPF rev2,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.11.92,Moutarde (graines),CPF rev2,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.11.93,Colza,CPF rev2,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.11.94,Sésame,CPF rev2,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.11.95,Tournesol,CPF rev2,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.11.96,Ricin,CPF rev2,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.11.99,Autres oléagineux n.c.a.,CPF rev2,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.11.99.1,Cameline,BIO v1.3,Producteur,Grandes Cultures,Oléagineux,TRUE
+01.12,"Riz, non décortiqué",CPF rev2,Producteur,Grandes Cultures,Céréales,TRUE
+01.12.1,"Riz, non décortiqué",CPF rev2,Producteur,Grandes Cultures,Céréales,FALSE
+01.12.10,"Riz, non décortiqué",CPF rev2,Producteur,Grandes Cultures,Céréales,FALSE
+01.13,"Légumes et melons, racines et tubercules",CPF rev2,Producteur,Légumes,,FALSE
+01.13.1,Légumes à feuilles ou à tiges,CPF rev2,Producteur,Légumes,Légumes à feuilles ou tiges,FALSE
+01.13.11,Asperges,CPF rev2,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.12,Choux,CPF rev2,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.13,Choux-fleurs et brocolis,CPF rev2,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.14,Laitues,CPF rev2,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.15,Chicorées,CPF rev2,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.16,Épinards,CPF rev2,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.17,Artichauts,CPF rev2,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.19,Autres légumes à feuilles ou à tiges,CPF rev2,Producteur,Légumes,Légumes à feuilles ou tiges,FALSE
+01.13.19.1,Endives,BIO v1,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.19.2,Céleris branche,BIO v1,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.19.4,Cresson,BIO v1.1,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.19.5,Rhubarbe,BIO v1.4,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.19.9,Autres légumes à feuilles ou à tiges,BIO v1,Producteur,Légumes,Légumes à feuilles ou tiges,TRUE
+01.13.2,Melons et pastèques,CPF rev2,Producteur,Légumes,Légumes à fruits,FALSE
+01.13.21,Pastèques,CPF rev2,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.29,Autres melons,CPF rev2,Producteur,Légumes,Légumes à fruits,FALSE
+01.13.29.1,Melons,BIO v1.2,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.29.2,Melons d'eau,BIO v1.2,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.29.9,Autres melons,BIO v1.2,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.3,Autres légumes à fruits,CPF rev2,Producteur,Légumes,Légumes à fruits,FALSE
+01.13.31,"Piments et poivrons, verts (uniquement capsicum)",CPF rev2,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.32,Concombres et cornichons,CPF rev2,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.33,Aubergines,CPF rev2,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.34,Tomates,CPF rev2,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.39,Autres légumes à fruits n.c.a.,CPF rev2,Producteur,Légumes,Légumes à fruits,FALSE
+01.13.39.2,Courgettes,BIO v1,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.39.3,Courges et citrouilles,BIO v1,Producteur,Légumes,Légumes à fruits,FALSE
+01.13.39.31,Courge musquée / Butternut,BIO v1,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.39.32,Potiron / Potimarron,BIO v1,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.39.99,Autres légumes à fruits n.c.a.,BIO v1,Producteur,Légumes,Légumes à fruits,TRUE
+01.13.4,"Légumes à racine, à bulbe ou à tubercules",CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",FALSE
+01.13.41,Carottes et navets,CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",FALSE
+01.13.41.1,Carottes,BIO v1,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.41.2,Navets,BIO v1,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.42,Ail,CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.43,"Oignons, échalotes",CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",FALSE
+01.13.43.1,Oignons,BIO v1,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.43.2,Echalotes,BIO v1,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.44,Poireaux et autres alliacés,CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.49,"Autres légumes à racine, à bulbe ou à tubercules (ne présentant pas une forte teneur en amidon ou inuline)",CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",FALSE
+01.13.49.1,Radis,BIO v1,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.49.2,Betteraves rouges et à salade,BIO v1,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.49.3,Céleris raves,BIO v1,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.49.4,Panais,BIO v1.4,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",BIO v1.4,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.5,Racines et tubercules à amidon ou inuline comestibles,CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",FALSE
+01.13.51,Pommes de terre,CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",FALSE
+01.13.51.1,Pommes de terre (hors féculière),BIO v1,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.51.2,Pommes de terre féculière,BIO v1,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.52,Patates douces,CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.53,Manioc,CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.54,Colocases,CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.59,Autres racines et tubercules à amidon ou inuline comestibles,CPF rev2,Producteur,Légumes,"Légumes à racine, à bulbe ou à tubercules",TRUE
+01.13.6,"Plants et semences potagers, à l'exclusion des semences de betteraves",CPF rev2,Producteur,Semences et plants,Semences et plants potagers,FALSE
+01.13.60,"Plants et semences potagers, à l'exclusion des semences de betteraves",CPF rev2,Producteur,Semences et plants,Semences et plants potagers,TRUE
+01.13.7,Betteraves à sucre et semences de betteraves à sucre,CPF rev2,Producteur,Cultures industrielles,Cultures sucrières,FALSE
+01.13.71,Betteraves à sucre,CPF rev2,Producteur,Cultures industrielles,Cultures sucrières,TRUE
+01.13.72,Semences de betteraves à sucre,CPF rev2,Producteur,Semences et plants,Semences grandes cultures et cultures industrielles,TRUE
+01.13.8,Champignons et truffes,CPF rev2,Producteur,Légumes,Autres légumes frais et maraîchage,TRUE
+01.13.80,Champignons et truffes,CPF rev2,Producteur,Légumes,Autres légumes frais et maraîchage,FALSE
+01.13.9,Légumes frais n.c.a.,CPF rev2,Producteur,Légumes,Autres légumes frais et maraîchage,FALSE
+01.13.90,Légumes frais n.c.a.,CPF rev2,Producteur,Légumes,Autres légumes frais et maraîchage,FALSE
+01.13.90.1,Légumes frais sous abris,BIO v1,Producteur,Légumes,Autres légumes frais et maraîchage,TRUE
+01.13.90.2,Légumes frais plein champ,BIO v1,Producteur,Légumes,Autres légumes frais et maraîchage,TRUE
+01.14,Cannes à sucre,CPF rev2,Producteur,Cultures industrielles,Cultures sucrières,TRUE
+01.14.1,Cannes à sucre,CPF rev2,Producteur,Cultures industrielles,Cultures sucrières,FALSE
+01.14.10,Cannes à sucre,CPF rev2,Producteur,Cultures industrielles,Cultures sucrières,FALSE
+01.15,Tabac brut,CPF rev2,Producteur,Cultures industrielles,Autre cultures industrielles,TRUE
+01.15.1,Tabac brut,CPF rev2,Producteur,Cultures industrielles,Autre cultures industrielles,FALSE
+01.15.10,Tabac brut,CPF rev2,Producteur,Cultures industrielles,Autre cultures industrielles,FALSE
+01.16,Plantes textiles,CPF rev2,Producteur,Cultures industrielles,Cultures textiles,TRUE
+01.16.1,Plantes textiles,CPF rev2,Producteur,Cultures industrielles,Cultures textiles,FALSE
+01.16.11,"Coton, égrené ou en masse",CPF rev2,Producteur,Cultures industrielles,Cultures textiles,TRUE
+01.16.12,"Jute, kénaf et autres fibres libériennes, bruts ou rouis, à l'exclusion du lin, du chanvre commun et de la ramie",CPF rev2,Producteur,Cultures industrielles,Cultures textiles,TRUE
+01.16.19,"Lin, chanvre commun et plantes textiles brutes n.c.a.",CPF rev2,Producteur,Cultures industrielles,Cultures textiles,FALSE
+01.16.19.1,Lin fibre,BIO v1,Producteur,Cultures industrielles,Cultures textiles,TRUE
+01.16.19.2,Chanvre,BIO v1,Producteur,Cultures industrielles,Cultures textiles,TRUE
+01.16.19.9,Autres plantes textiles,BIO v1,Producteur,Cultures industrielles,Cultures textiles,TRUE
+01.19,Autres cultures non permanentes,CPF rev2,Producteur,,,FALSE
+01.19.1,Plantes et surfaces fourragères,CPF rev2,Producteur,Surfaces fourragères,,TRUE
+01.19.10,Plantes fourragères,CPF rev2,Producteur,Surfaces fourragères,Plantes fourragères,FALSE
+01.19.10.1,"Prairies, parcours herbeux",BIO v1,Producteur,Surfaces fourragères,"Prairies, parcours",FALSE
+01.19.10.11,Prairie temporaire,BIO v1,Producteur,Surfaces fourragères,"Prairies, parcours",TRUE
+01.19.10.12,Prairie permanente,BIO v1,Producteur,Surfaces fourragères,"Prairies, parcours",TRUE
+01.19.10.13,Parcours herbeux (hors estives collectives),BIO v1,Producteur,Surfaces fourragères,"Prairies, parcours",TRUE
+01.19.10.2,Betterave fourragère,BIO v1,Producteur,Surfaces fourragères,Plantes fourragères,TRUE
+01.19.10.3,Choux fourrager,BIO v1,Producteur,Surfaces fourragères,Plantes fourragères,TRUE
+01.19.10.4,Colza fourrager,BIO v1,Producteur,Surfaces fourragères,Plantes fourragères,TRUE
+01.19.10.5,Maïs fourrage,BIO v1,Producteur,Surfaces fourragères,Plantes fourragères,TRUE
+01.19.10.6,Mélanges fourragers,BIO v1,Producteur,Surfaces fourragères,Plantes fourragères,TRUE
+01.19.10.7,Trèfle,BIO v1,Producteur,Surfaces fourragères,Plantes fourragères,TRUE
+01.19.10.8,Luzerne,BIO v1,Producteur,Surfaces fourragères,Plantes fourragères,TRUE
+01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,BIO v1,Producteur,Surfaces fourragères,,TRUE
+01.19.2,Fleurs coupées et boutons de fleurs ; semences florales,CPF rev2,Producteur,Autres productions végétales,Fleurs,FALSE
+01.19.21,Fleurs coupées et boutons de fleurs,CPF rev2,Producteur,Autres productions végétales,Fleurs,TRUE
+01.19.22,Semences florales,CPF rev2,Producteur,Semences et plants,Autres semences,TRUE
+01.19.3,"Semences de betteraves et de plantes fourragères, autres produits végétaux bruts",CPF rev2,Producteur,Semences et plants,Autres semences,TRUE
+01.19.31,Semences de betteraves (à l'exclusion des semences de betteraves à sucre) et de plantes fourragères,CPF rev2,Producteur,Semences et plants,Autres semences,TRUE
+01.19.39,Produits végétaux bruts n.c.a.,CPF rev2,Producteur,Cultures industrielles,Autre cultures industrielles,FALSE
+01.19.39.1,Autres cultures industrielles,BIO v1,Producteur,Cultures industrielles,Autre cultures industrielles,TRUE
+01.19.99,Cultures en inter-rang,BIO v1,Producteur,Autres productions végétales,,FALSE
+01.2,Cultures permanentes,CPF rev2,Producteur,,,FALSE
+01.21,Raisin,CPF rev2,Producteur,Viticulture,Viticulture,FALSE
+01.21.1,Raisin,CPF rev2,Producteur,Viticulture,Viticulture,TRUE
+01.21.11,Raisin de table,CPF rev2,Producteur,Viticulture,Viticulture,TRUE
+01.21.12,Raisin de cuve,CPF rev2,Producteur,Viticulture,Viticulture,TRUE
+01.22,Fruits tropicaux et subtropicaux,CPF rev2,Producteur,Fruits et fruits à coque,Fruits tropicaux et subtropicaux,FALSE
+01.22.1,Fruits tropicaux et subtropicaux,CPF rev2,Producteur,Fruits et fruits à coque,Fruits tropicaux et subtropicaux,TRUE
+01.22.11,Avocats,CPF rev2,Producteur,Fruits et fruits à coque,Fruits tropicaux et subtropicaux,TRUE
+01.22.12,"Bananes, bananes plantains et assimilés",CPF rev2,Producteur,Fruits et fruits à coque,Fruits tropicaux et subtropicaux,TRUE
+01.22.13,Dattes,CPF rev2,Producteur,Fruits et fruits à coque,Fruits tropicaux et subtropicaux,TRUE
+01.22.14,Figues,CPF rev2,Producteur,Fruits et fruits à coque,Fruits tropicaux et subtropicaux,TRUE
+01.22.19,Autres fruits tropicaux et subtropicaux,CPF rev2,Producteur,Fruits et fruits à coque,Fruits tropicaux et subtropicaux,FALSE
+01.22.19.1,Ananas,BIO v1,Producteur,Fruits et fruits à coque,Fruits tropicaux et subtropicaux,TRUE
+01.23,Agrumes,CPF rev2,Producteur,Fruits et fruits à coque,Agrumes,FALSE
+01.23.1,Agrumes,CPF rev2,Producteur,Fruits et fruits à coque,Agrumes,TRUE
+01.23.11,Pomelos et pamplemousses,CPF rev2,Producteur,Fruits et fruits à coque,Agrumes,TRUE
+01.23.12,Citrons et limes,CPF rev2,Producteur,Fruits et fruits à coque,Agrumes,TRUE
+01.23.13,Oranges,CPF rev2,Producteur,Fruits et fruits à coque,Agrumes,TRUE
+01.23.14,Mandarines et clémentines,CPF rev2,Producteur,Fruits et fruits à coque,Agrumes,TRUE
+01.23.19,Autres agrumes,CPF rev2,Producteur,Fruits et fruits à coque,Agrumes,TRUE
+01.24,Fruits à pépins et à noyau,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.1,Pommes,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,FALSE
+01.24.10,Pommes,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,FALSE
+01.24.10.1,Pommes à cidre,BIO v1,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.10.2,Pommes de table,BIO v1,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.2,Autres fruits à pépins et à noyau,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,FALSE
+01.24.21,Poires,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.22,Coings,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.23,Abricots,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.24,Cerises,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.25,Pêches,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.26,Nectarines,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.27,Prunes,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.28,Prunelles,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.29,Autres fruits à pépins et à noyau n.c.a.,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,FALSE
+01.24.29.1,Autres fruits à pépins,BIO v1,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.24.29.2,Autres fruits à noyau,BIO v1,Producteur,Fruits et fruits à coque,Fruits à pépins et à noyaux,TRUE
+01.25,Autres fruits d'arbres ou d'arbustes et fruits à coque,CPF rev2,Producteur,Fruits et fruits à coque,Autres fruits frais,FALSE
+01.25.1,Baies et fruits du genre Vaccinium,CPF rev2,Producteur,Fruits et fruits à coque,Baies,TRUE
+01.25.11,Kiwis,CPF rev2,Producteur,Fruits et fruits à coque,Baies,TRUE
+01.25.12,Framboises,CPF rev2,Producteur,Fruits et fruits à coque,Baies,TRUE
+01.25.13,Fraises,CPF rev2,Producteur,Fruits et fruits à coque,Baies,TRUE
+01.25.19,"Autres baies, fruits du genre vaccinium n.c.a.",CPF rev2,Producteur,Fruits et fruits à coque,Baies,FALSE
+01.25.19.1,Cassis,BIO v1,Producteur,Fruits et fruits à coque,Baies,TRUE
+01.25.19.2,Myrtilles,BIO v1,Producteur,Fruits et fruits à coque,Baies,TRUE
+01.25.19.4,Airelles,BIO v1,Producteur,Fruits et fruits à coque,Baies,TRUE
+01.25.19.5,Groseilles,BIO v1,Producteur,Fruits et fruits à coque,Baies,TRUE
+01.25.19.9,Autres baies (hors cassis et myrtilles),BIO v1,Producteur,Fruits et fruits à coque,Baies,TRUE
+01.25.2,Semences fruitières,CPF rev2,Producteur,Semences et plants,Semences fruitières,TRUE
+01.25.20,Semences fruitières,CPF rev2,Producteur,Semences et plants,Semences fruitières,FALSE
+01.25.3,"Fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",CPF rev2,Producteur,Fruits et fruits à coque,Fruits à coque,TRUE
+01.25.31,Amandes,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à coque,TRUE
+01.25.32,Châtaignes et marrons,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à coque,TRUE
+01.25.33,Noisettes,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à coque,TRUE
+01.25.34,Pistaches,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à coque,TRUE
+01.25.35,Noix,CPF rev2,Producteur,Fruits et fruits à coque,Fruits à coque,TRUE
+01.25.39,"Autres fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",CPF rev2,Producteur,Fruits et fruits à coque,Fruits à coque,TRUE
+01.25.9,Autres fruits d'arbres ou d'arbustes n.c.a.,CPF rev2,Producteur,Fruits et fruits à coque,Autres fruits frais,TRUE
+01.25.90,Autres fruits d'arbres ou d'arbustes n.c.a.,CPF rev2,Producteur,Fruits et fruits à coque,Autres fruits frais,FALSE
+01.26,Fruits oléagineux,CPF rev2,Producteur,Fruits et fruits à coque,Fruits oléagineux,TRUE
+01.26.1,Olives,CPF rev2,Producteur,Oleiculture,,FALSE
+01.26.11,Olives de table,CPF rev2,Producteur,Oleiculture,,TRUE
+01.26.12,Olives à huile,CPF rev2,Producteur,Oleiculture,,TRUE
+01.26.2,Noix de coco,CPF rev2,Producteur,Fruits et fruits à coque,Fruits oléagineux,TRUE
+01.26.20,Noix de coco,CPF rev2,Producteur,Fruits et fruits à coque,Fruits oléagineux,FALSE
+01.26.9,Autres fruits oléagineux,CPF rev2,Producteur,Fruits et fruits à coque,Fruits oléagineux,TRUE
+01.26.90,Autres fruits oléagineux,CPF rev2,Producteur,Fruits et fruits à coque,Fruits oléagineux,FALSE
+01.27,Plantes à boissons,CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons,FALSE
+01.27.1,Plantes à boissons,CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons,TRUE
+01.27.11,"Café vert, en cerise ou en grain",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons,TRUE
+01.27.12,Thé en feuilles,CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons,TRUE
+01.27.13,Maté en feuilles,CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons,TRUE
+01.27.14,Cacao en fèves,CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons,TRUE
+01.28,"Plantes à épices, aromatiques, médicinales et pharmaceutiques",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",,FALSE
+01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,FALSE
+01.28.1,Épices brutes et arômates,CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.11,"Poivre (piper spp.), brut",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.12,"Piments et poivrons (capsicum spp.) séchés, bruts",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.13,"Muscade, macis et cardamome, bruts",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.14,"Anis, badiane, coriandre, cumin, carvi, fenouil et genièvre, bruts",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.14.1,Coriandre (graines),BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.14.10,Coriandre (graines),BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.14.2,Fenouil doux et amer,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.14.3,"Anis, badiane",BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.14.31,Anis,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.14.32,badiane,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.14.9,"Cumin, carvi et genièvre, bruts",BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.15,"Cannelle, brute",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.16,"Clous de girofle (entiers), bruts",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.17,"Gingembre séché, brut",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.18,"Vanille, brute",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19,Autres épices brutes et arômates,CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.19.1,Sarriette,BIO V1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.19.10,Sarriette,BIO V1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.19.11,Sarriette annuelle,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.12,Sarriette vivace,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.21,Romarin,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.22,Safran,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.23,Sauge sclarée,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.24,Serpolet,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.25,Thym,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.26,Aneth,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.27,Basilic,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.28,Camomille romaine,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.29,Cerfeuil,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.3,Menthe,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.19.30,Menthe,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.19.31,Menthe douce,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.32,Menthe poivrée,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.41,Fenugrec,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.42,Origans,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.43,Persil,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.44,Ciboulette,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.45,Estragon,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.46,Oseille,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.47,Coriandre (herbe),BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.48,Pensées,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.51,Curcuma,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.19.99,Autres épices brutes et arômates n.c.a.,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.2,Houblon en cônes,CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,TRUE
+01.28.20,Houblon en cônes,CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches,FALSE
+01.28.3,"Plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,FALSE
+01.28.30,"Plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",CPF rev2,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,FALSE
+01.28.30.1,"Lavande, lavandin",BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,FALSE
+01.28.30.10,"Lavande, lavandin",BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,FALSE
+01.28.30.11,Lavande,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.12,Lavandin,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.2,Marjolaine,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.31,Matricaire,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.32,Hysope,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.41,Echinacées,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.42,Calendula,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.43,Mauve,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.5,Mélilot,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.6,Mélisse,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.71,Millepertuis,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.72,Reine des prés,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.81,Sauge officinale,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.82,Verveine odorante,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.83,Verveine officinale,BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.33,Bardane,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.34,Bleuet,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.35,Bugle rampant,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.36,Géranium,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.37,Ortie,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.38,Psyllium noir de Provence,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.39,Plantain psyllium,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.44,Valériane,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.45,Véronique,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.46,Vétiver,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.47,Ylang-ylang,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.48,Angélique,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.49,Chardon Marie,BIO v1.3,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.28.30.99,"Autres plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",BIO v1,Producteur,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales,TRUE
+01.29,Autres cultures permanentes,CPF rev2,Producteur,Autres productions végétales,,FALSE
+01.29.1,Caoutchouc naturel brut,CPF rev2,Producteur,Autres productions végétales,,TRUE
+01.29.10,Caoutchouc naturel brut,CPF rev2,Producteur,Autres productions végétales,,FALSE
+01.29.2,Sapins et arbres de Noël coupés,CPF rev2,Producteur,Autres productions végétales,,TRUE
+01.29.20,Arbres de noël coupés,CPF rev2,Producteur,Autres productions végétales,,FALSE
+01.29.3,"Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",CPF rev2,Producteur,Autres productions végétales,,FALSE
+01.29.30,"Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",CPF rev2,Producteur,Autres productions végétales,,FALSE
+01.29.00.9,Autres cultures permanentes n.c.a.,BIO v1.31,Producteur,Autres productions végétales,,FALSE
+01.29.00.91,Miscanthus,BIO v1.31,Producteur,Autres productions végétales,,TRUE
+01.3,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,Producteur,Semences et plants,Plants,TRUE
+01.30,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,Producteur,Semences et plants,Plants,FALSE
+01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,Producteur,Semences et plants,Plants,FALSE
+01.30.10,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,Producteur,Semences et plants,Plants,FALSE
+01.4,Produits de l'élevage,CPF rev2,Producteur,,,FALSE
+01.41,"Vaches laitières, vivantes et lait de vache, brut",CPF rev2,Producteur,Bovins,Bovins lait,FALSE
+01.41.1,"Vaches laitières, vivantes",CPF rev2,Producteur,Bovins,Bovins lait,TRUE
+01.41.10,"Vaches laitières, vivantes",CPF rev2,Producteur,Bovins,Bovins lait,FALSE
+01.41.2,"Lait de vache, brut",CPF rev2,Producteur,Bovins,Bovins lait,TRUE
+01.41.20,"Lait de vache, brut",CPF rev2,Producteur,Bovins,Bovins lait,FALSE
+01.42,"Autres bovins et buffles, vivants et leur sperme",CPF rev2,Producteur,Bovins,,FALSE
+01.42.1,"Autres bovins et buffles, vivants",CPF rev2,Producteur,Bovins,,FALSE
+01.42.11,"Autres bovins et buffles, à l'exclusion des veaux, vivants",CPF rev2,Producteur,Bovins,,FALSE
+01.42.11.1,Vaches allaitantes,BIO v1,Producteur,Bovins,Bovins viande,TRUE
+01.42.11.2,Bœufs,BIO v1,Producteur,Bovins,Bovins viande,TRUE
+01.42.11.3,Taureaux (>24 mois),BIO v1,Producteur,Bovins,Autres bovins,TRUE
+01.42.11.4,Broutards (mâle ou femelle),BIO v1,Producteur,Bovins,Autres bovins,TRUE
+01.42.11.5,Taurillons (18 à 24 mois),BIO v1,Producteur,Bovins,Autres bovins,TRUE
+01.42.11.6,Génisses engraissement (>8 mois),BIO v1,Producteur,Bovins,Bovins viande,TRUE
+01.42.11.7,Génisses renouvellement (>8 mois),BIO v1,Producteur,Bovins,Autres bovins,TRUE
+01.42.11.9,Autres bovins et bovidés,BIO v1,Producteur,Bovins,Autres bovins,TRUE
+01.42.12,Veaux (< 8mois),CPF rev2,Producteur,Bovins,Autres bovins,TRUE
+01.42.2,Sperme de taureau et de buffle,CPF rev2,Producteur,Bovins,,FALSE
+01.42.20,Sperme de taureau et de buffle,CPF rev2,Producteur,Bovins,,TRUE
+01.43,"Chevaux et autres équidés, vivants",CPF rev2,Producteur,Autres productions animales,Equidés,FALSE
+01.43.1,"Chevaux et autres équidés, vivants",CPF rev2,Producteur,Autres productions animales,Equidés,FALSE
+01.43.11,"Chevaux, vivants",CPF rev2,Producteur,Autres productions animales,Equidés,TRUE
+01.43.12,"Ânes, mulets et bardots, vivants",CPF rev2,Producteur,Autres productions animales,Equidés,TRUE
+01.44,"Chameaux et autres camélidés, vivants",CPF rev2,Producteur,Autres productions animales,Autres animaux,FALSE
+01.44.1,"Chameaux et autres camélidés, vivants",CPF rev2,Producteur,Autres productions animales,Autres animaux,FALSE
+01.44.10,"Chameaux et autres camélidés, vivants",CPF rev2,Producteur,Autres productions animales,Autres animaux,TRUE
+01.45,"Ovins et caprins, vivants ; lait de brebis et de chèvre brut, laine en suint et poils d'ovins et de caprins",CPF rev2,Producteur,Ovins,,FALSE
+01.45.1,"Ovins et caprins, vivants",CPF rev2,Producteur,Ovins,,FALSE
+01.45.11,"Ovins, vivants",CPF rev2,Producteur,Ovins,,FALSE
+01.45.11.1,Brebis laitières,BIO v1,Producteur,Ovins,Ovins Lait,TRUE
+01.45.11.2,Brebis viande,BIO v1,Producteur,Ovins,Ovins Viande,TRUE
+01.45.11.3,Agneaux,BIO v1,Producteur,Ovins,Ovins Viande,TRUE
+01.45.11.4,Agnelles de renouvellement,BIO v1,Producteur,Ovins,,TRUE
+01.45.11.5,Béliers,BIO v1,Producteur,Ovins,,TRUE
+01.45.11.6,Autres ovins,BIO v1,Producteur,Ovins,,TRUE
+01.45.12,"Caprins, vivants",CPF rev2,Producteur,Caprins,,TRUE
+01.45.12.1,Chèvres,BIO v1,Producteur,Caprins,,TRUE
+01.45.12.2,Bouc,BIO v1,Producteur,Caprins,,TRUE
+01.45.12.3,Autres caprins,BIO v1,Producteur,Caprins,,TRUE
+01.45.2,"Lait de brebis et de chèvre, brut",CPF rev2,Producteur,,,FALSE
+01.45.21,"Lait de brebis, brut",CPF rev2,Producteur,Ovins,Ovins Lait,TRUE
+01.45.22,"Lait de chèvre, brut",CPF rev2,Producteur,Caprins,,TRUE
+01.45.3,Laine en suint et poils d'ovins et de caprins,CPF rev2,Producteur,,,FALSE
+01.45.30,Laine en suint et poils d'ovins et de caprins,CPF rev2,Producteur,,,FALSE
+01.45.30.1,Laine en suint et poils d'ovins,BIO v1.3,Producteur,Ovins,,TRUE
+01.45.30.2,Laine en suint et poils de caprins,BIO v1.3,Producteur,Caprins,,TRUE
+01.46,"Porcins, vivants",CPF rev2,Producteur,Porcins,,TRUE
+01.46.1,"Porcins, vivants",CPF rev2,Producteur,Porcins,,FALSE
+01.46.10,"Porcins, vivants",CPF rev2,Producteur,Porcins,,FALSE
+01.46.10.1,Truies,BIO v1,Producteur,Porcins,,TRUE
+01.46.10.2,Porcs charcutiers,BIO v1,Producteur,Porcins,,TRUE
+01.46.10.3,Porcelets,BIO v1,Producteur,Porcins,,TRUE
+01.46.10.5,Verrats,BIO v1.4,Producteur,Porcins,,TRUE
+01.46.10.4,Autres porcins,BIO v1,Producteur,Porcins,,TRUE
+01.47,Volailles vivantes et oeufs,CPF rev2,Producteur,,,FALSE
+01.47.1,"Volailles, vivantes",CPF rev2,Producteur,Volaille de chair,,TRUE
+01.47.10.1,Poules pondeuses,BIO v1,Producteur,Œufs,,TRUE
+01.47.10.2,Poulettes,BIO v1,Producteur,Œufs,,TRUE
+01.47.11,"Poulets, vivants",CPF rev2,Producteur,Volaille de chair,,TRUE
+01.47.12,"Dindes, vivantes",CPF rev2,Producteur,Volaille de chair,,TRUE
+01.47.13,"Oies, vivantes",CPF rev2,Producteur,Volaille de chair,,TRUE
+01.47.14,"Canards et pintades, vivants",CPF rev2,Producteur,Volaille de chair,,FALSE
+01.47.14.1,Pintades,BIO v1,Producteur,Volaille de chair,,TRUE
+01.47.14.2,Canards,BIO v1,Producteur,Volaille de chair,,TRUE
+01.47.14.9,Autres volailles,BIO v1,Producteur,Volaille de chair,,TRUE
+01.47.2,"Œufs, en coquille, frais",CPF rev2,Producteur,Œufs,,TRUE
+01.47.21,"Œufs de poule, en coquille, frais",CPF rev2,Producteur,Œufs,,TRUE
+01.47.22,"Œufs d'autres volailles, en coquille, frais",CPF rev2,Producteur,Œufs,,TRUE
+01.47.23,"Œufs de poule, à couver",CPF rev2,Producteur,Œufs,,FALSE
+01.47.24,"Œufs d'autres volailles, à couver",CPF rev2,Producteur,Œufs,,FALSE
+01.49,Autres animaux d'élevage et produits d'origine animale,CPF rev2,Producteur,,,FALSE
+01.49.1,"Autres animaux d'élevage, vivants",CPF rev2,Producteur,Autres productions animales,,FALSE
+01.49.11,"Lapins d'élevage, vivants",CPF rev2,Producteur,Autres productions animales,Elevage de lapins,FALSE
+01.49.11.1,Lapins,BIO v1,Producteur,Autres productions animales,Elevage de lapins,TRUE
+01.49.11.2,Lapines reproductrices,BIO v1,Producteur,Autres productions animales,Elevage de lapins,TRUE
+01.49.12,"Oiseaux d'élevage n.c.a., vivants",CPF rev2,Producteur,Autres productions animales,Autres animaux,TRUE
+01.49.13,"Reptiles d'élevage (y compris serpents et tortues), vivants",CPF rev2,Producteur,Autres productions animales,Autres animaux,TRUE
+01.49.19,Autres animaux d'élevage,CPF rev2,Producteur,Autres productions animales,Autres animaux,FALSE
+01.49.19.1,Ruches,BIO v1,Producteur,Apiculture,,TRUE
+01.49.19.2,Cervidés,BIO v1.3,Producteur,Autres productions animales,Autres animaux,TRUE
+01.49.19.9,Autres animaux d'élevages n.c.a.,BIO v1.3,Producteur,Autres productions animales,Autres animaux,TRUE
+01.49.2,Autres produits d'origine animale,CPF rev2,Producteur,Autres productions animales,,FALSE
+01.49.21,Miel,CPF rev2,Producteur,Apiculture,,TRUE
+01.49.22,"Lait brut (hors vache, hors brebis et hors chèvre)",CPF rev2,Producteur,Autres productions animales,Autres produits d'origine animale,TRUE
+01.49.22.1,Lait brut de jument ou d'ânesse,CPF rev2,Producteur,Autres productions animales,Equidés,TRUE
+01.49.23,"Escargots, frais, réfrigérés, congelés ou surgelés, séchés ou salés, à l'exclusion des escargots de mer",CPF rev2,Producteur,Autres productions animales,Autres animaux,TRUE
+01.49.24,Produits comestibles d'origine animale n.c.a.,CPF rev2,Producteur,Autres productions animales,,FALSE
+01.49.24.1,Gelée royale,BIO v1.3,Producteur,Apiculture,,TRUE
+01.49.24.2,Autres produits de l'apiculture,BIO v1.3,Producteur,Apiculture,,TRUE
+01.49.24.9,Autres produits comestibles d'origine animale n.c.a.,BIO v1.3,Producteur,Autres productions animales,Autres produits d'origine animale,TRUE
+01.49.25,Cocons de vers à soie,CPF rev2,Producteur,Autres productions animales,Autres produits d'origine animale,TRUE
+01.49.26,"Cires d'insectes et spermaceti, affinés et colorés ou non",CPF rev2,Producteur,Autres productions animales,,FALSE
+01.49.26.1,Cire d'abeille,BIO v1.3,Producteur,Apiculture,,TRUE
+01.49.26.9,Autres cires d'insectes et spermaceti (hors cire d'abeille),BIO v1.3,Producteur,Autres productions animales,Autres produits d'origine animale,TRUE
+01.49.27,Embryons animaux destinés à la reproduction,CPF rev2,Producteur,Autres productions animales,Autres produits d'origine animale,TRUE
+01.49.28,Autres produits non comestibles d'origine animale n.c.a.,CPF rev2,Producteur,Autres productions animales,Autres produits d'origine animale,TRUE
+01.49.3,Peaux et fourrures,CPF rev2,Producteur,Autres productions animales,,FALSE
+01.49.31,"Fourrures d'élevage ou de piégeage, à l'exclusion des peaux d'agneaux",CPF rev2,Producteur,Autres productions animales,,FALSE
+01.49.32,Peaux d'agneaux,CPF rev2,Producteur,Autres productions animales,,FALSE
+01.49.39,"Peaux d'animaux n.c.a. (brutes ou conservées, mais non travaillées)",CPF rev2,Producteur,Autres productions animales,,FALSE
+01.6,Services annexes à l'agriculture et à l'élevage (à l'exclusion des services vétérinaires),CPF rev2,Préparateur,Traitements primaires et services,,FALSE
+01.61,Services de soutien aux cultures,CPF rev2,Préparateur,Traitements primaires et services,,FALSE
+01.61.1,Services de soutien aux cultures,CPF rev2,Préparateur,Traitements primaires et services,,FALSE
+01.61.10,Services de soutien aux cultures,CPF rev2,Préparateur,Traitements primaires et services,,TRUE
+01.62,Services de soutien à la production animale,CPF rev2,Préparateur,Traitements primaires et services,,FALSE
+01.62.1,Services de soutien à la production animale,CPF rev2,Préparateur,Traitements primaires et services,,FALSE
+01.62.10,Services de soutien à la production animale,CPF rev2,Préparateur,Traitements primaires et services,,TRUE
+01.63,Traitement primaire des récoltes,CPF rev2,Préparateur,Traitements primaires et services,,FALSE
+01.63.1,Traitement primaire des récoltes,CPF rev2,Préparateur,Traitements primaires et services,,FALSE
+01.63.10,Traitement primaire des récoltes,CPF rev2,Préparateur,Traitements primaires et services,,TRUE
+01.64,Traitement des semences,CPF rev2,Préparateur,Traitements primaires et services,,FALSE
+01.64.1,Traitement des semences,CPF rev2,Préparateur,Traitements primaires et services,,FALSE
+01.64.10,Traitement des semences,CPF rev2,Préparateur,Traitements primaires et services,,TRUE
+01.7,"Chasse, piégeage et services annexes",CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+01.70,"Chasse, piégeage et services annexes",CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+01.70.1,"Chasse, piégeage et services annexes",CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+01.70.10,"Chasse, piégeage et services annexes",CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+01.9,"Autres surfaces, parcours collectifs et zones de cueillette",BIO v1,Producteur,,,FALSE
+01.91,"Jachère, gel annuel entrant en rotation",BIO v1,Producteur,Surfaces non productives,,TRUE
+01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",BIO v1,Producteur,Surfaces non productives,,TRUE
+01.93,Engrais vert,BIO v1,Producteur,Surfaces non productives,,TRUE
+01.95,"Bois, zone de cueillette et estives collectives",BIO v1,Producteur,Bois et cueillette sauvage,,FALSE
+01.95.1,Bois,BIO v1,Producteur,Bois et cueillette sauvage,,FALSE
+01.95.11,Bois pâturés et parcours ligneux,BIO v1,Producteur,Bois et cueillette sauvage,,TRUE
+01.95.19,"Bois non pâturés, sans cueillette",BIO v1,Producteur,Bois et cueillette sauvage,,TRUE
+01.95.2,Zone de cueillette sauvage,BIO v1,Producteur,Bois et cueillette sauvage,,FALSE
+01.95.21,Zone de cueillette de baies sauvages,BIO v1,Producteur,Bois et cueillette sauvage,,TRUE
+01.95.22,Zone de cueillette de plantes à parfum aromatiques et médicinales sauvages,BIO v1,Producteur,Bois et cueillette sauvage,,TRUE
+01.95.23,Zone de cueillette de champignons sauvages,BIO v1,Producteur,Bois et cueillette sauvage,,TRUE
+01.95.24,Autres zones de cueillette sauvage,BIO v1,Producteur,Bois et cueillette sauvage,,TRUE
+01.95.4,Estives ou alpages collectifs,BIO v1,Producteur,Estives collectives,,TRUE
+01.99,Autres surfaces non productive (yc bordures et bandes tampon),BIO v1,Producteur,Surfaces non productives,,TRUE
+02,Produits sylvicoles et services annexes,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.1,Arbres forestiers et services des pépinières,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.10,Arbres forestiers et services des pépinières,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.10.1,Plants d'arbres forestiers ; semences d'arbres forestiers,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.10.11,Plants d'arbres forestiers,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.10.12,Semences d'arbres forestiers,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.10.2,Services des pépinières forestières,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.10.20,Services des pépinières forestières,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.10.3,Arbres forestiers,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.10.30,Arbres forestiers,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.2,Bois brut,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.20,Bois brut,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.20.1,Bois brut,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.20.11,Grumes de conifères,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.20.12,"Grumes de feuillus, à l'exclusion des bois tropicaux",CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.20.13,Grumes de bois tropicaux,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.20.14,"Bois de chauffage, de conifères",CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.20.15,"Bois de chauffage, autres que de conifères",CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.3,Autres produits forestiers,CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,FALSE
+02.30,Autres produits forestiers,CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,FALSE
+02.30.1,Gommes naturelles,CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,TRUE
+02.30.11,"Balata, gutta-percha, gommes chiclé et de guayule et gommes naturelles similaires",CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,FALSE
+02.30.12,"Gomme laque, baumes et autres gommes et résines naturelles",CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,FALSE
+02.30.2,"Liège naturel, brut ou simplement préparé",CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,TRUE
+02.30.20,"Liège naturel, brut ou simplement préparé",CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,FALSE
+02.30.3,"Parties de plantes, herbes, mousses et lichens utilisables à des fins ornementales",CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,TRUE
+02.30.30,"Parties de plantes, herbes, mousses et lichens utilisables à des fins ornementales",CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,FALSE
+02.30.4,Produits sylvicoles comestibles,CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,FALSE
+02.30.40,Produits sylvicoles comestibles,CPF rev2,Producteur,Bois et cueillette sauvage,Produits sylvicoles,FALSE
+02.30.40.1,Sève de bouleau,BIO v1.4,Producteur,Bois et cueillette sauvage,Produits sylvicoles,TRUE
+02.30.40.9,Autres produits sylvicoles comestibles,BIO v1.4,Producteur,Bois et cueillette sauvage,Produits sylvicoles,TRUE
+02.4,Services de soutien à l'exploitation forestière,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.40,Services de soutien à l'exploitation forestière,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.40.1,Services de soutien à l'exploitation forestière,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+02.40.10,Services de soutien à l'exploitation forestière,CPF rev2,Producteur,Bois et cueillette sauvage,,FALSE
+03,Produits de la pêche et de l'aquaculture ; services de soutien à la pêche,CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.0,Produits de la pêche et de l'aquaculture ; services de soutien à la pêche,CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00,Produits de la pêche et de l'aquaculture ; services de soutien à la pêche,CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.1,"Poissons, vivants",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.11,"Poissons d'ornement, sauvages",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.12,"Poissons d'ornement, d'élevage",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.13,"Autres poissons vivants, sauvages, non destinés à l'alimentation humaine, y compris les graines et aliments pour l'aquaculture",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.14,"Autres poissons vivants, d'élevage, non destinés à l'alimentation humaine, y compris les graines et aliments pour l'aquaculture",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.2,"Poissons, frais ou réfrigérés",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.21,"Poissons de mer, sauvages, vivants, frais ou réfrigérés, destinés à l'alimentation humaine",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.22,"Poissons d'eau douce, sauvages, vivants, frais ou réfrigérés, destinés à l'alimentation humaine",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.23,"Poissons de mer, d'élevage, vivants, frais ou réfrigérés, destinés à l'alimentation humaine",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.23.1,Bars,BIO v1.2,Producteur,Aquaculture et récolte de sel,Poissons,TRUE
+03.00.23.2,Dorades,BIO v1.2,Producteur,Aquaculture et récolte de sel,Poissons,TRUE
+03.00.24,"Poissons d'eau douce, d'élevage, vivants, frais ou réfrigérés, destinés à l'alimentation humaine",CPF rev2,Producteur,Aquaculture et récolte de sel,Poissons,FALSE
+03.00.24.1,Truites,BIO v1.2,Producteur,Aquaculture et récolte de sel,Poissons,TRUE
+03.00.24.2,Saumons,BIO v1.2,Producteur,Aquaculture et récolte de sel,Poissons,TRUE
+03.00.29,Autres poissons d'élevage,BIO v1.3,Producteur,Aquaculture et récolte de sel,Poissons,TRUE
+03.00.3,"Crustacés, non congelés ou surgelés",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.31,"Crustacés, non congelés ou surgelés, sauvages",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.32,"Crustacés, non congelés ou surgelés, d'élevage",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.32.1,Crevettes d'élevage,BIO v1.2,Producteur,Aquaculture et récolte de sel,Crustacés,TRUE
+03.00.32.9,Autres crustacés d'élevage,BIO v1.2,Producteur,Aquaculture et récolte de sel,Crustacés,TRUE
+03.00.4,"Mollusques et autres invertébrés aquatiques vivants, frais ou réfrigérés",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.41,"Huîtres vivantes, fraîches ou réfrigérées, sauvages",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.42,"Autres mollusques vivants, frais ou réfrigérés, sauvages",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.43,"Huîtres vivantes, fraîches ou réfrigérées, d'élevage",CPF rev2,Producteur,Aquaculture et récolte de sel,Coquillages,TRUE
+03.00.44,"Autres mollusques, vivants, frais ou réfrigérés, d'élevage",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.44.1,Moules,BIO v1,Producteur,Aquaculture et récolte de sel,Coquillages,TRUE
+03.00.44.9,Autres coquillages,BIO v1,Producteur,Aquaculture et récolte de sel,Coquillages,TRUE
+03.00.45,"Autres invertébrés aquatiques vivants, frais ou réfrigérés, d'élevage",CPF rev2,Producteur,Aquaculture et récolte de sel,Autres produits de l'aquaculture,TRUE
+03.00.46,"Autres invertébrés aquatiques vivants, frais ou réfrigérés, sauvages",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.5,"Perles, brutes",CPF rev2,Producteur,Aquaculture et récolte de sel,Autres produits de l'aquaculture,FALSE
+03.00.51,"Perles naturelles, brutes",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.52,"Perles de culture, brutes",CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.6,Autres plantes et animaux aquatiques et leurs produits,CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.61,"Coraux et produits similaires, coquilles de mollusques, de crustacés ou d'échinodermes et os de seiche",CPF rev2,Producteur,Aquaculture et récolte de sel,Autres produits de l'aquaculture,FALSE
+03.00.62,Éponges naturelles,CPF rev2,Producteur,Aquaculture et récolte de sel,Autres produits de l'aquaculture,TRUE
+03.00.63,"Algues sauvages, destinées à l'alimentation humaine",CPF rev2,Producteur,Aquaculture et récolte de sel,Algues,TRUE
+03.00.64,"Algues de culture, destinées à l'alimentation humaine",CPF rev2,Producteur,Aquaculture et récolte de sel,Algues,FALSE
+03.00.64.1,Spiruline,BIO v1.2,Producteur,Aquaculture et récolte de sel,Algues,TRUE
+03.00.64.9,Autres algues de culture pour l'alimentation humaine,BIO v1.2,Producteur,Aquaculture et récolte de sel,Algues,TRUE
+03.00.65,"Algues sauvages, non destinées à l'alimentation humaine",CPF rev2,Producteur,Aquaculture et récolte de sel,Algues,FALSE
+03.00.66,"Algues de culture, non destinées à l'alimentation humaine",CPF rev2,Producteur,Aquaculture et récolte de sel,Algues,FALSE
+03.00.69,Autres plantes et animaux aquatiques et leurs produits n.c.a.,CPF rev2,Producteur,Aquaculture et récolte de sel,Autres produits de l'aquaculture,TRUE
+03.00.7,Services de soutien à la pêche et à l'aquaculture,CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.71,Services de soutien à la pêche,CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+03.00.72,Services de soutien à l'aquaculture,CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+08.93,Sel et chlorure de sodium pur ; eau de mer,CPF rev2,Producteur,Aquaculture et récolte de sel,,FALSE
+08.93.1,Sel de mer,CPF rev2,Producteur,Aquaculture et récolte de sel,,TRUE
+10,PRODUITS TRANSFORMES,CPF rev2,Préparateur,,,FALSE
+10.1,Viande et produits à base de viande,CPF rev2,Préparateur,,,FALSE
+10.11.2,"Abats comestibles d'animaux de boucherie, frais ou réfrigérés",CPF rev2,Préparateur,Viandes,,FALSE
+10.11.20,"Abats comestibles d'animaux de boucherie, frais ou réfrigérés",CPF rev2,Préparateur,Viandes,,FALSE
+10.11.11,"Viande bovine, fraîche ou réfrigérée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.12,"Viande de porc, fraîche ou réfrigérée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.13,"Viande de mouton, fraîche ou réfrigérée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.14,"Viande de caprins, fraîche ou réfrigérée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.15,"Viande de cheval et autres équidés, fraîche, ou réfrigérée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.5,Graisses d'animaux de boucherie,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.50,Graisses d'animaux de boucherie,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.3,Viande et abats comestibles congelés ou surgelés ; autres viandes et abats comestibles,CPF rev2,Préparateur,Viandes,,FALSE
+10.11.31,"Viande bovine, congelée ou surgelée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.32,"Viande de porc, congelée ou surgelée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.33,"Viande de mouton, congelée ou surgelée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.34,"Viande de caprins, congelée ou surgelée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.35,"Viande de cheval et autres équidés, congelée ou surgelée",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.39,"Autres viandes et abats comestibles, frais, réfrigérés, congelés ou surgelés",CPF rev2,Préparateur,Viandes,,TRUE
+10.11.4,Laine de délainage et cuirs bruts,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,TRUE
+10.11.41,"Laine de délainage en suint, y compris laine lavée à dos",CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.42,"Cuirs et peaux bruts de bovins ou d'équidés, entiers",CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.43,Autres cuirs et peaux bruts de bovins ou d'équidés,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.44,Cuirs et peaux bruts de moutons ou d'agneaux,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.45,Cuirs et peaux bruts de chèvres ou de chevreaux,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.9,Opérations sous-traitées intervenant dans la préparation de viandes de boucherie et produits d'abattage,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.99,Opérations sous-traitées intervenant dans la préparation de viandes de boucherie et produits d'abattage,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.6,"Sous-produits animaux bruts, non comestibles",CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11.60,"Sous-produits animaux bruts, non comestibles",CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.11,Viandes de boucherie et produits d'abattage,CPF rev2,Préparateur,Viandes,,TRUE
+10.11.1,"Viandes de boucherie, fraîches ou réfrigérées",CPF rev2,Préparateur,Viandes,,FALSE
+10.12,Viandes de volailles,CPF rev2,Préparateur,Viandes,,TRUE
+10.12.1,"Viandes de volailles, fraîches ou réfrigérées",CPF rev2,Préparateur,Viandes,,TRUE
+10.12.10,"Viandes de volailles, fraîches ou réfrigérées",CPF rev2,Préparateur,Viandes,,FALSE
+10.12.2,"Viandes de volailles, congelées ou surgelées",CPF rev2,Préparateur,Viandes,,TRUE
+10.12.20,"Viandes de volailles, congelées ou surgelées",CPF rev2,Préparateur,Viandes,,FALSE
+10.12.3,Graisses de volailles,CPF rev2,Préparateur,Viandes,,FALSE
+10.12.30,Graisses de volailles,CPF rev2,Préparateur,Viandes,,FALSE
+10.12.4,Abats comestibles de volailles,CPF rev2,Préparateur,Viandes,,TRUE
+10.12.40,Abats comestibles de volailles,CPF rev2,Préparateur,Viandes,,FALSE
+10.12.5,Plumes et duvets,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,TRUE
+10.12.50,Plumes et duvets,CPF rev2,Préparateur,Autres produits préparés issus de l'élevage,,FALSE
+10.12.9,Opérations sous-traitées intervenant dans la préparation de viandes de volailles,CPF rev2,Préparateur,Viandes,,FALSE
+10.12.99,Opérations sous-traitées intervenant dans la préparation de viandes de volailles,CPF rev2,Préparateur,Viandes,,TRUE
+10.13,Produits à base de viande,CPF rev2,Préparateur,Préparations à base de viande,,TRUE
+10.13.1,"Conserves et préparations à base de viande, abats et sang",CPF rev2,Préparateur,Préparations à base de viande,,FALSE
+10.13.11,"Viandes et abats de porc découpés, salés, séchés ou fumés (bacon et jambon)",CPF rev2,Préparateur,Préparations à base de viande,,TRUE
+10.13.12,"Viandes de bœuf salées, séchées ou fumées",CPF rev2,Préparateur,Préparations à base de viande,,TRUE
+10.13.13,"Autres viandes et abats comestibles salés, séchés ou fumés (à l'exclusion de la viande de porc et de bœuf) ; farines et poudres de viandes comestibles",CPF rev2,Préparateur,Préparations à base de viande,,TRUE
+10.13.14,Saucisses et charcuteries similaires,CPF rev2,Préparateur,Préparations à base de viande,,TRUE
+10.13.15,"Autres préparations et conserves à base de viandes, abats et sang",CPF rev2,Préparateur,Préparations à base de viande,,TRUE
+10.13.16,"Farines, poudres et pellets de viandes, impropres à l'alimentation humaine ; cretons",CPF rev2,Préparateur,Préparations à base de viande,,TRUE
+10.13.9,Cuisson et autres façons de préparations à base de viandes ; opérations sous-traitées intervenant dans l'élaboration de produits à base de viandes,CPF rev2,Préparateur,Préparations à base de viande,,FALSE
+10.13.91,Cuisson et autres façons de préparations à base de viandes,CPF rev2,Préparateur,Préparations à base de viande,,TRUE
+10.13.99,Opérations sous-traitées intervenant dans l'élaboration de produits à base de viandes,CPF rev2,Préparateur,Préparations à base de viande,,FALSE
+10.2,Préparations et conserves à base de poisson et de produits de la pêche,CPF rev2,Préparateur,Préparations à base de poisson,,TRUE
+10.20,Préparations et conserves à base de poisson et de produits de la pêche,CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.1,"Poissons, frais, réfrigérés, congelés ou surgelés",CPF rev2,Préparateur,Préparations à base de poisson,,TRUE
+10.20.11,"Filets de poissons et autres viandes de poisson (y compris hachées), frais ou réfrigérés",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.12,"Foies et œufs de poissons, frais ou réfrigérés",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.13,"Poissons, congelés ou surgelés",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.14,"Filets de poissons, congelés ou surgelés",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.15,"Viandes de poissons (y compris hachées), congelées ou surgelées",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.16,"Foies et œufs de poissons, congelés ou surgelés",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.2,Autres préparations et conserves à base de poissons ; caviar et ses succédanés,CPF rev2,Préparateur,Préparations à base de poisson,,TRUE
+10.20.21,"Filets de poissons séchés, salés, mais non fumés",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.22,"Foies, œufs, nageoires, têtes, queues, vessies natatoires et autres abats de poissons comestibles, séchés, salés ou fumés ; farines, poudres et pellets de poissons pour alimentation humaine",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.23,"Poissons, séchés, salés ou non, ou en saumure",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.24,"Poissons, y compris filets, fumés",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.25,"Autres préparations et conserves à base de poissons, à l'exclusion des plats préparés",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.26,Caviar et ses succédanés,CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.3,"Crustacés, mollusques et autres invertébrés aquatiques, congelés, surgelés, préparés ou en conserves",CPF rev2,Préparateur,Préparations à base de poisson,,TRUE
+10.20.31,"Crustacés, congelés ou surgelés, séchés, salés ou en saumure",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.32,"Mollusques, congelés ou surgelés, séchés, salés ou en saumure",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.33,"Autres invertébrés aquatiques et algues, congelés ou surgelés, séchés, salés  ou en saumure",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.34,"Autres préparations et conserves à base de crustacés, mollusques, autres invertébrés aquatiques et algues",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.4,"Farines, poudres et pellets, impropres à l'alimentation humaine et autres produits n.c.a. à base de poissons, crustacés, mollusques ou autres invertébrés aquatiques",CPF rev2,Préparateur,Préparations à base de poisson,,TRUE
+10.20.41,"Farines, poudres et pellets de poissons, crustacés, mollusques, autres invertébrés aquatiques, impropres à l'alimentation humaine ou algues",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.42,"Autres sous-produits non comestibles à base de poissons, crustacés, mollusques, autres invertébrés aquatiques ou algues",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.9,"Fumage et autres façons de préparations à base de poissons ; opérations sous-traitées intervenant dans l'élaboration de préparations et conserves à base de poissons, crustacés et mollusques",CPF rev2,Préparateur,Préparations à base de poisson,,TRUE
+10.20.91,Fumage et autres façons de préparations à base de poissons,CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.20.99,"Opérations sous-traitées intervenant dans l'élaboration de préparations et conserves à base de poissons, crustacés et mollusques",CPF rev2,Préparateur,Préparations à base de poisson,,FALSE
+10.3,Produits à base de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.31,Préparations et conserves à base de pommes de terre,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.31.1,Préparations et conserves à base de pommes de terre,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.31.11,"Pommes de terre, congelées ou surgelées",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.31.12,"Pommes de terre, déshydratées, coupées ou non, mais sans autre préparation",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.31.13,"Pommes de terre déshydratées sous forme de farine, de poudre, de flocons, de granulés ou de pellets",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.31.14,Préparations et conserves à base de pommes de terre,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.31.9,Cuisson et autres façons de préparations à base de pommes de terre ; opérations sous-traitées intervenant dans l'élaboration de préparations et conserves à base de pommes de terre,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.31.91,Cuisson et autres façons de préparations à base de pommes de terre,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.31.99,Opérations sous-traitées intervenant dans l'élaboration de préparations et conserves à base de pommes de terre,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.32,Jus de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.32.1,Jus de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.32.11,Jus de tomate,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.32.12,Jus d'orange,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.32.13,Jus de pamplemousse,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.32.14,Jus d'ananas,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.32.15,Jus de raisin,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.32.16,Jus de pomme,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.32.17,Mélanges de jus de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.32.19,Autres jus de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.32.9,Opérations sous-traitées intervenant dans l'élaboration de jus de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.32.99,Opérations sous-traitées intervenant dans l'élaboration de jus de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39,Autres préparations et conserves à base de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.39.1,"Préparations et conserves de légumes, à l'exclusion des pommes de terre",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.39.11,Légumes congelés ou surgelés,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.12,Légumes traités pour une conservation temporaire,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.13,Légumes déshydratés,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.14,Fruits et légumes coupés et emballés,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.15,"Haricots appertisés, à l'exclusion des plats préparés",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.16,"Pois appertisés, à l'exclusion de plats préparés",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.17,"Autres légumes appertisés (à l'exclusion des pommes de terre), à l'exclusion de plats préparés",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.18,Fruits et légumes (à l'exclusion des pommes de terre) conservés dans le vinaigre,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.2,Préparations et conserves de fruits,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.39.21,"Fruits crus ou cuits, congelés ou surgelés",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.22,"Confitures, gelées, compotes et purées de fruits",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.23,"Fruits à coque grillés, salés ou autrement préparés",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.24,"Fruits traités pour une conservation temporaire, impropres à une consommation immédiate",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.25,"Arachides et fruits à coque, sans coques",CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.29,Autres conserves et préparations à base de fruits et de fruits à coque,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.3,Déchets et sous-produits de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.39.30,Déchets et sous-produits de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.39.9,Cuisson et autres façons de préparations à base de fruits et légumes ; opérations sous-traitées intervenant dans l'élaboration de préparations et conserves à base de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,TRUE
+10.39.91,Cuisson et autres façons de préparations à base de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.39.99,Opérations sous-traitées intervenant dans l'élaboration de préparations et conserves à base de fruits et légumes,CPF rev2,Préparateur,Préparations à base de fruits et légumes,,FALSE
+10.4,Huiles et graisses végétales et animales,CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41,Huiles et graisses,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.1,"Huiles et graisses animales et leurs fractions, brutes",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.11,"Stéarine solaire, huile de saindoux, oléostéarine, oléomargarine et huile de suif, non émulsionnées, ni mélangées ni autrement préparées",CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.12,Graisses et huiles de poissons et de mammifères marins et leurs fractions,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.19,"Autres graisses et huiles animales et leurs fractions, raffinées ou non, mais non chimiquement modifiées",CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.2,"Huiles végétales, brutes",CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.21,"Huile d'arachide, brute",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.22,"Huile d'olive, brute",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.23,"Huile de tournesol, brute",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.24,"Huiles de navette, de colza et de moutarde, brutes",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.25,"Huile de palme, brute",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.29,"Autres huiles végétales, brutes",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.3,Linters de coton,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.30,Linters de coton,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.4,Tourteaux et autres résidus solides de graisses et d'huiles végétales ; farines et poudres de graines ou de fruits oléagineux,CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.41,Tourteaux et autres résidus solides de graisses et d'huiles végétales,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.42,"Farines et poudres de graines ou de fruits oléagineux, à l'exclusion de la moutarde",CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.5,"Huiles raffinées, à l'exclusion des résidus",CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.51,"Huile de soja et ses fractions, raffinée, mais non chimiquement modifiée",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.52,"Huile d'arachide et ses fractions, raffinée, mais non chimiquement modifiée",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.53,"Huile d'olive et ses fractions, raffinée, mais non chimiquement modifiée",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.54,"Huile de tournesol et ses fractions, raffinée, mais non chimiquement modifiée",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.55,"Huile de coton et ses fractions, raffinée, mais non chimiquement modifiée",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.56,"Huiles de navette, de colza et de moutarde et leurs fractions, raffinées, mais non chimiquement modifiées",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.57,"Huile de palme et ses fractions, raffinée, mais non chimiquement modifiée",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.58,"Huile de coco et ses fractions, raffinée, mais non chimiquement modifiée",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.59,"Autres huiles et leurs fractions, raffinées, mais non chimiquement modifiées ; autres graisses et huiles végétales fixes (à l'exclusion de l'huile de maïs) et leurs fractions n.c.a., raffinées, mais non chimiquement modifiées",CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.6,"Huiles et graisses animales ou végétales et leurs fractions, hydrogénées, estérifiées, mais non autrement préparées",CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.60,"Huiles et graisses animales ou végétales et leurs fractions, hydrogénées, estérifiées, mais non autrement préparées",CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.7,Cires végétales (à l'exclusion des triglycérides) ; dégras ; résidus provenant du traitement de corps gras ou de cires animales ou végétales,CPF rev2,Préparateur,Huiles et graisses,,TRUE
+10.41.71,Cires végétales (à l'exclusion des triglycérides),CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.72,Dégras ; résidus provenant du traitement de corps gras ou de cires animales ou végétales,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.9,Opérations sous-traitées intervenant dans l'élaboration d'huiles et de graisses,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.41.99,Opérations sous-traitées intervenant dans l'élaboration d'huiles et de graisses,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.42,Margarines et graisses comestibles similaires,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.42.1,Margarines et graisses comestibles similaires,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.42.10,Margarines et graisses comestibles similaires,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.42.9,Opérations sous-traitées intervenant dans l'élaboration de margarines et graisses comestibles similaires,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.42.99,Opérations sous-traitées intervenant dans l'élaboration de margarines et graisses comestibles similaires,CPF rev2,Préparateur,Huiles et graisses,,FALSE
+10.5,Produits laitiers,CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51,Produits laitiers et fromages,CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.51.1,Lait liquide et crème de lait,CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.51.11,Lait liquide,CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.12,"Lait et crème contenant plus de 6 % de matières grasses, non concentrés, ni sucrés",CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.2,Lait en poudre,CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.21,"Lait et crème de lait, écrémés, en poudre",CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.51.22,"Lait et crème de lait, entiers, en poudre",CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.51.3,Beurre et pâtes à tartiner laitières,CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.51.30,Beurre et pâtes à tartiner laitières,CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.51.4,Fromages,CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.40,Fromages,CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.51.5,Autres produits laitiers,CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.51.51,"Lait et crème, concentrés ou contenant des sucres ajoutés ou d'autres édulcorants, sous forme autre que solide",CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.52,Yaourts et autres produits lactés fermentés ou acidifiés,CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.53,Caséine,CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.54,Lactose et sirop de lactose,CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.55,Lactosérum,CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.56,Produits laitiers n.c.a.,CPF rev2,Préparateur,Produits laitiers,,TRUE
+10.51.9,Opérations sous-traitées intervenant dans l'élaboration de produits laitiers,CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.51.99,Opérations sous-traitées intervenant dans l'élaboration de produits laitiers,CPF rev2,Préparateur,Produits laitiers,,FALSE
+10.52,Glaces et sorbets,CPF rev2,Préparateur,Produits laitiers,Glaces et sorbets,FALSE
+10.52.1,Glaces et sorbets,CPF rev2,Préparateur,Produits laitiers,Glaces et sorbets,FALSE
+10.52.10,Glaces et sorbets,CPF rev2,Préparateur,Produits laitiers,Glaces et sorbets,FALSE
+10.52.10.1,Glaces à base de crème (hors sorbets),BIO v1,Préparateur,Produits laitiers,Glaces et sorbets,TRUE
+10.52.10.2,Sorbets,BIO v1,Préparateur,Produits laitiers,Glaces et sorbets,TRUE
+10.52.9,Opérations sous-traitées intervenant dans l'élaboration de glaces et sorbets,CPF rev2,Préparateur,Produits laitiers,Glaces et sorbets,FALSE
+10.52.99,Opérations sous-traitées intervenant dans l'élaboration de glaces et sorbets,CPF rev2,Préparateur,Produits laitiers,Glaces et sorbets,FALSE
+10.6,Produits du travail des grains et produits amylacés,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.61,Produits du travail des grains,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.1,"Riz, semi-blanchi ou blanchi, décortiqué ou en brisures",CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.11,"Riz, décortiqué",CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.61.12,"Riz, semi-blanchi ou blanchi ou en brisures",CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.61.2,Farines de céréales et de légumes ; mélanges de ces farines,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.61.21,Farine de blé,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.22,Farines d'autres céréales,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.23,Farines de légumes,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.24,Farines préparées,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.3,"Gruaux, semoules, pellets et autres produits à base de céréales",CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.61.31,Gruaux et semoules de blé,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.32,"Gruaux, semoules et pellets d'autres céréales n.c.a.",CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.33,Céréales pour petit-déjeuner et autres produits à base de céréales,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.4,Sons et autres résidus de meunerie,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.61.40,Sons et autres résidus de meunerie,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.61.9,Opérations sous-traitées intervenant dans l'élaboration de produits du travail des grains,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.61.99,Opérations sous-traitées intervenant dans l'élaboration de produits du travail des grains,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.62,Produits amylacés,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.62.1,Produits amylacés ; sucres et sirops de sucre n.c.a.,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.62.11,Amidons ; inuline ; gluten de blé ; dextrines et autres amidons modifiés,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.62.12,"Tapiocas et succédanés à base d'amidon, en flocons ou en grains",CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.62.13,Glucose et sirop de glucose ; fructose et sirop de fructose ; sucre inverti ; sucres et sirops de sucre n.c.a.,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.62.14,Huile de maïs,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.62.2,Résidus d'amidonnerie,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,TRUE
+10.62.20,Résidus d'amidonnerie,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.62.9,Opérations sous-traitées intervenant dans l'élaboration de produits amylacés,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.62.99,Opérations sous-traitées intervenant dans l'élaboration de produits amylacés,CPF rev2,Préparateur,"Farines, céréales transformées et produits amylacés",,FALSE
+10.7,Produits de boulangerie-pâtisserie et pâtes alimentaires,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.71,Pain ; pâtisseries et viennoiseries fraîches,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,TRUE
+10.71.1,Pain ; pâtisseries et viennoiseries fraîches,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.71.11,Pain frais,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,TRUE
+10.71.12,Pâtisseries et viennoiseries fraîches,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,TRUE
+10.71.9,"Opérations sous-traitées intervenant dans l'élaboration du pain et de pâtisseries et viennoiseries, frais et congelés ou surgelés",CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.71.99,"Opérations sous-traitées intervenant dans l'élaboration du pain et de pâtisseries et viennoiseries, frais, congelés ou surgelés",CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.72,Biscottes et biscuits ; pâtisseries de conservation,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,TRUE
+10.72.1,Biscottes et biscuits ; pâtisseries de conservation,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.72.11,"Biscottes, toasts, pains grillés et produits grillés similaires",CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,TRUE
+10.72.12,Pains d'épices ; biscuits sucrés ; gaufres et gaufrettes,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,TRUE
+10.72.19,Autres gâteaux secs ou de conservation,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,TRUE
+10.72.9,"Opérations sous-traitées intervenant dans l'élaboration de biscottes, de biscuits et de pâtisseries de conservation",CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.72.99,"Opérations sous-traitées intervenant dans l'élaboration de biscottes, de biscuits et de pâtisseries de conservation",CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.73,Pâtes alimentaires,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.73.1,"Macaronis, nouilles, couscous et autres produits similaires à base de farine",CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.73.11,"Macaronis, nouilles et autres produits similaires à base de farine",CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,TRUE
+10.73.12,Couscous,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,TRUE
+10.73.9,Opérations sous-traitées intervenant dans l'élaboration de pâtes alimentaires,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.73.99,Opérations sous-traitées intervenant dans l'élaboration de pâtes alimentaires,CPF rev2,Préparateur,Produits de boulangerie-pâtisserie et pâtes alimentaires,,FALSE
+10.8,Autres produits alimentaires,CPF rev2,Préparateur,,,FALSE
+10.81,Sucre,CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.81.1,"Sucre de canne ou de betterave, brut ou raffiné ; mélasses",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.81.11,"Sucre de canne ou de betterave, brut, solide",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.81.12,"Sucre de canne ou de betterave raffiné et saccharose chimiquement pur, solide, sans arôme, ni colorant",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.81.13,"Sucre de canne ou de betterave raffiné, contenant des arômes ou des colorants ; sucre et sirop d'érable",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.81.14,Mélasses,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.81.2,"Pulpe de betteraves, bagasses et autres résidus de sucrerie",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.81.20,"Pulpe de betteraves, bagasses et autres résidus de sucrerie",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.81.9,Opérations sous-traitées intervenant dans l'élaboration du sucre,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.81.99,Opérations sous-traitées intervenant dans l'élaboration du sucre,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.82,"Cacao, chocolat et produits de confiserie",CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.82.1,"Cacao en masse, dégraissé ou non, beurre de cacao, cacao en poudre",CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.82.11,"Cacao en masse, dégraissé ou non",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.82.12,Beurre de cacao,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.82.13,"Cacao en poudre, sans sucre, ni autre édulcorant",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.82.14,"Cacao en poudre, contenant du sucre ou de l'édulcorant",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.82.2,Chocolat et produits de confiserie,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.82.21,"Chocolat et préparations à base de cacao (à l'exclusion du cacao en poudre sucré), en vrac",CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.82.22,"Chocolat et préparations à base de cacao (à l'exclusion du cacao en poudre sucré), conditionnés sous différentes formes",CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.82.23,Produits de confiserie divers (y compris le chocolat blanc) ne contenant pas de cacao,CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.82.24,Fruits confits,CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.82.3,"Coques, pellicules et autres résidus de cacao",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.82.30,"Coques, pellicules et autres résidus de cacao",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.82.9,"Opérations sous-traitées intervenant dans l'élaboration de cacao, chocolat et produits de confiserie",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.82.99,"Opérations sous-traitées intervenant dans l'élaboration de cacao, chocolat et produits de confiserie",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.83,Café et thé transformés,CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.83.1,Café et thé transformés,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.83.11,"Café, décaféiné ou torréfié",CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.83.12,"Succédanés de café ; extraits, essences et concentrés de café ou de succédanés ; coques et pellicules de café",CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.83.13,"Thé vert (non fermenté), thé noir (fermenté) et thé partiellement fermenté, en conditionnements inférieurs ou égaux à 3 kg",CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.83.14,"Extraits, essences, concentrés et préparations à base de thé ou de maté",CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.83.15,Infusions,CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.83.9,Opérations sous-traitées intervenant dans l'élaboration du café et du thé,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.83.99,Opérations sous-traitées intervenant dans l'élaboration du café et du thé,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.84,Condiments et assaisonnements,CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.84.1,Vinaigres ; sauces ; mélanges de condiments ; farines de moutarde et moutardes préparées,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.84.11,Vinaigres et succédanés de vinaigres obtenus à partir d'acide acétique,CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.84.12,Sauces ; mélanges de condiments et assaisonnements préparés ; farines de moutarde et moutardes préparées,CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.84.2,Épices préparées,CPF rev2,Préparateur,Produits d'épicerie,,TRUE
+10.84.21,"Poivre (piper spp.), préparé",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.84.22,"Piments et poivrons (capsicum spp.) séchés, préparés",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.84.23,"Cannelle, préparée ; autres épices préparées",CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.84.3,Sel de qualité alimentaire,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.84.30,Sel de qualité alimentaire,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.84.9,Opérations sous-traitées intervenant dans l'élaboration de condiments et d'assaisonnements,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.84.99,Opérations sous-traitées intervenant dans l'élaboration de condiments et d'assaisonnements,CPF rev2,Préparateur,Produits d'épicerie,,FALSE
+10.85,Plats préparés,CPF rev2,Préparateur,Plats préparés,,FALSE
+10.85.1,Plats préparés,CPF rev2,Préparateur,Plats préparés,,FALSE
+10.85.11,"Plats préparés à base de viandes, d'abats ou de sang",CPF rev2,Préparateur,Plats préparés,,TRUE
+10.85.12,"Plats préparés à base de poissons, de crustacés et de mollusques",CPF rev2,Préparateur,Plats préparés,,TRUE
+10.85.13,Plats préparés à base de légumes,CPF rev2,Préparateur,Plats préparés,,TRUE
+10.85.14,Plats préparés à base de pâtes,CPF rev2,Préparateur,Plats préparés,,TRUE
+10.85.19,Autres plats préparés,CPF rev2,Préparateur,Plats préparés,,TRUE
+10.85.9,Opérations sous-traitées intervenant dans l'élaboration de plats préparés,CPF rev2,Préparateur,Plats préparés,,TRUE
+10.85.99,Opérations sous-traitées intervenant dans l'élaboration de plats préparés,CPF rev2,Préparateur,Plats préparés,,FALSE
+10.86,Aliments homogénéisés et diététiques,CPF rev2,Préparateur,Autres produits alimentaires,,TRUE
+10.86.1,Aliments homogénéisés et diététiques,CPF rev2,Préparateur,Compléments alimentaires,,FALSE
+10.86.10,Aliments homogénéisés et diététiques,CPF rev2,Préparateur,Compléments alimentaires,,FALSE
+10.86.9,Opérations sous-traitées intervenant dans l'élaboration d'aliments homogénéisés et diététiques,CPF rev2,Préparateur,Compléments alimentaires,,FALSE
+10.86.99,Opérations sous-traitées intervenant dans l'élaboration d'aliments homogénéisés et diététiques,CPF rev2,Préparateur,Compléments alimentaires,,FALSE
+10.89,Autres produits alimentaires n.c.a.,CPF rev2,Préparateur,Autres produits alimentaires,,FALSE
+10.89.1,"Soupes, ovoproduits, levures et autres produits alimentaires ; extraits et jus de viandes, de poissons et d'invertébrés aquatiques",CPF rev2,Préparateur,Autres produits alimentaires,,FALSE
+10.89.11,Soupes et potages,CPF rev2,Préparateur,Autres produits alimentaires,,TRUE
+10.89.12,"œufs, en conserve, et jaunes d'œufs, frais et en conserve ; œufs cuits, en coquille ; ovalbumine",CPF rev2,Préparateur,Autres produits alimentaires,,TRUE
+10.89.13,"Levures (vivantes ou mortes) ; autres microorganismes unicellulaires, morts ; poudres à lever",CPF rev2,Préparateur,Autres produits alimentaires,,TRUE
+10.89.14,"Extraits et jus de viandes, de poissons et d'invertébrés aquatiques",CPF rev2,Préparateur,Autres produits alimentaires,,TRUE
+10.89.15,Sucs et extraits végétaux ; matières peptiques ; mucilages et épaississants,CPF rev2,Préparateur,Autres produits alimentaires,,TRUE
+10.89.16,Préparations alimentaires périssables telles que sandwichs et  pizzas fraîches,CPF rev2,Préparateur,Autres produits alimentaires,,TRUE
+10.89.17,Compléments alimentaires destinés à l'alimentation humaine,CPF rev2,Préparateur,Autres produits alimentaires,,TRUE
+10.89.19,Produits alimentaires divers n.c.a.,CPF rev2,Préparateur,Autres produits alimentaires,,TRUE
+10.89.9,Opérations sous-traitées intervenant dans l'élaboration d'autres produits alimentaires n.c.a.,CPF rev2,Préparateur,Autres produits alimentaires,,FALSE
+10.89.99,Opérations sous-traitées intervenant dans l'élaboration d'autres produits alimentaires n.c.a.,CPF rev2,Préparateur,Autres produits alimentaires,,FALSE
+10.9,Aliments pour animaux,CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.91,Aliments pour animaux de ferme,CPF rev2,Préparateur,Alimentation animale,,TRUE
+10.91.1,"Aliments pour animaux de ferme, à l'exclusion des fourrages déshydratés (luzerne)",CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.91.10,"Aliments pour animaux de ferme, à l'exclusion des fourrages déshydratés (luzerne)",CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.91.2,Fourrages déshydratés (luzerne),CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.91.20,Fourrages déshydratés (luzerne),CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.91.9,Opérations sous-traitées intervenant dans l'élaboration d'aliments pour animaux de ferme,CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.91.99,Opérations sous-traitées intervenant dans l'élaboration d'aliments pour animaux de ferme,CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.92,Aliments pour animaux de compagnie,CPF rev2,Préparateur,Alimentation animale,,TRUE
+10.92.1,Aliments pour animaux de compagnie,CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.92.10,Aliments pour animaux de compagnie,CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.92.9,Opérations sous-traitées intervenant dans l'élaboration d'aliments pour animaux de compagnie,CPF rev2,Préparateur,Alimentation animale,,FALSE
+10.92.99,Opérations sous-traitées intervenant dans l'élaboration d'aliments pour animaux de compagnie,CPF rev2,Préparateur,Alimentation animale,,FALSE
+11,Boissons,CPF rev2,Préparateur,Boissons (hors jus),,TRUE
+11.0,Boissons,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.01,Boissons alcoolisées distillées,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.01.1,Boissons alcoolisées distillées,CPF rev2,Préparateur,Boissons (hors jus),,TRUE
+11.01.10,Boissons alcoolisées distillées,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.01.9,Opérations sous-traitées intervenant dans l'élaboration de boissons alcoolisées distillées,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.01.99,Opérations sous-traitées intervenant dans l'élaboration de boissons alcoolisées distillées,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.02,Vins de raisin,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.02.1,Vins de raisin frais ; moûts de raisins,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.02.11,"Vins mousseux, issus de raisin frais",CPF rev2,Préparateur,Boissons (hors jus),,TRUE
+11.02.12,"Vins de raisin frais, à l'exclusion des vins mousseux ; moûts de raisins",CPF rev2,Préparateur,Boissons (hors jus),,TRUE
+11.02.2,Lie de vin ; tartre,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.02.20,Lie de vin ; tartre,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.02.9,Opérations sous-traitées intervenant dans l'élaboration de vins de raisin,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.02.99,Opérations sous-traitées intervenant dans l'élaboration de vins de raisin,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.03,Cidre et autres vins de fruits,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.03.1,"Autres boissons fermentées (cidre, poiré, hydromel) ; mélanges de boissons alcoolisées",CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.03.10,"Autres boissons fermentées (cidre, poiré, hydromel) ; mélanges de boissons alcoolisées",CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.03.10.1,Cidre,BIO v1,Préparateur,Boissons (hors jus),,TRUE
+11.03.10.2,"Autres vins de fruits  (poiré, hydromel) ; mélanges de boissons alcoolisées",BIO v1,Préparateur,Boissons (hors jus),,TRUE
+11.03.9,Opérations sous-traitées dans le cadre de l'élaboration du cidre et d'autres vins de fruits,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.03.99,Opérations sous-traitées dans le cadre de l'élaboration du cidre et d'autres vins de fruits,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.04,Autres boissons fermentées non distillées,CPF rev2,Préparateur,Boissons (hors jus),,TRUE
+11.04.1,Vermouths et autres vins de raisin frais aromatisés,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.04.10,Vermouths et autres vins de raisin frais aromatisés,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.04.9,Opérations sous-traitées intervenant dans l'élaboration d'autres boissons fermentées non distillées,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.04.99,Opérations sous-traitées intervenant dans l'élaboration d'autres boissons fermentées non distillées,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.05,Bière,CPF rev2,Préparateur,Boissons (hors jus),,TRUE
+11.05.1,"Bière, à l'exclusion des résidus de brasserie",CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.05.10,"Bière, à l'exclusion des résidus de brasserie",CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.05.2,Résidus de brasserie et de distillerie,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.05.20,Résidus de brasserie et de distillerie,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.05.9,Opérations sous-traitées intervenant dans l'élaboration de la bière,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.05.99,Opérations sous-traitées intervenant dans l'élaboration de la bière,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.06,Malt,CPF rev2,Préparateur,Boissons (hors jus),,TRUE
+11.06.1,Malt,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.06.10,Malt,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.06.9,Opérations sous-traitées intervenant dans l'élaboration du malt,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.06.99,Opérations sous-traitées intervenant dans l'élaboration du malt,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.07,Boissons rafraîchissantes ; eaux minérales et autres eaux en bouteille,CPF rev2,Préparateur,Boissons (hors jus),,TRUE
+11.07.1,Eaux minérales et boissons rafraîchissantes,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.07.11,"Eaux minérales et gazeuses, non sucrées, ni aromatisées",CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.07.19,Autres boissons non alcoolisées,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.07.9,Opérations sous-traitées intervenant dans l'élaboration d'eaux minérales et boissons rafraîchissantes,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+11.07.99,Opérations sous-traitées intervenant dans l'élaboration d'eaux minérales et boissons rafraîchissantes,CPF rev2,Préparateur,Boissons (hors jus),,FALSE
+12,Produits à base de tabac,CPF rev2,Préparateur,Autres produits transformés,,TRUE
+12.0,Produits à base de tabac,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+12.00,Produits à base de tabac,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+12.00.1,"Produits à base de tabac, à l'exclusion des déchets",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+12.00.11,"Cigares, cigarillos et cigarettes contenant du tabac ou des succédanés",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+12.00.12,"Feuilles de tabac séché, écotées",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+12.00.19,Autres tabacs et succédanés manufacturés ; tabacs homogénéisés ou reconstitués ; extraits et essences de tabac,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+12.00.2,Déchets de tabac,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+12.00.20,Déchets de tabac,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+12.00.9,Opérations sous-traitées intervenant dans l'élaboration de produits à base de tabac,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+12.00.99,Opérations sous-traitées intervenant dans l'élaboration de produits à base de tabac,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13,Produits de l'industrie textile,CPF rev2,Préparateur,Autres produits transformés,,TRUE
+13.1,Fils et filés,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10,Fils et filés,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.1,Graisse de suint (y compris lanoline),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.10,Graisse de suint (y compris lanoline),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.2,Fibres textiles naturelles préparées,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.21,Soie grège (non moulinée),CPF rev2,Préparateur,Autres produits transformés,,TRUE
+13.10.22,"Laine dégraissée ou carbonisée, non cardée ni peignée",CPF rev2,Préparateur,Autres produits transformés,,TRUE
+13.10.23,Blousses de laine ou de poils fins,CPF rev2,Préparateur,Autres produits transformés,,TRUE
+13.10.24,"Laine et poils fins ou grossiers, cardés ou peignés",CPF rev2,Préparateur,Autres produits transformés,,TRUE
+13.10.25,"Coton, cardé ou peigné",CPF rev2,Préparateur,Autres produits transformés,,TRUE
+13.10.26,"Jute et autres fibres textiles (à l'exclusion du lin, du chanvre commun et de la ramie), travaillés mais non filés",CPF rev2,Préparateur,Autres produits transformés,,TRUE
+13.10.29,"Autres fibres textiles végétales, travaillées mais non filées",CPF rev2,Préparateur,Autres produits transformés,,TRUE
+13.10.3,Fibres artificielles ou synthétiques discontinues préparées,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.31,"Fibres synthétiques discontinues, cardées, peignées ou autrement préparées",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.32,"Fibres artificielles discontinues, cardées, peignées ou autrement préparées",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.4,Fils de soie ou de déchets de soie,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.40,Fils de soie ou de déchets de soie,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.5,Fils de laine conditionnés ou non pour la vente au détail ; fils de poils fins ou grossiers ou fils de crin,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.50,Fils de laine conditionnés ou non pour la vente au détail ; fils de poils fins ou grossiers ou fils de crin,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.6,Fils de coton ; fils à coudre de coton,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.61,Fils de coton (autres que fils à coudre),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.62,Fils à coudre de coton,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.7,"Fils de fibres textiles végétales autres que le coton (y compris le lin, le jute, le coco et le chanvre commun) ; fils de papier",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.71,Fils de lin,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.72,Fils de jute ou d'autres fibres textiles libériennes ; fils d'autres fibres textiles végétales ; fils de papier,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.8,Fils de fibres discontinues ou de filaments artificiels ou synthétiques,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.81,"Fils de filaments artificiels ou synthétiques, multiples ou torsadés (autres que fils à coudre et fils de polyamides, polyesters ou de rayonne viscose de haute ténacité), non conditionnés pour la vente au détail ; fils de filaments artificiels ou synthétiques (autres que fils à coudre), conditionnés pour la vente au détail",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.82,"Fils de fibres synthétiques discontinues (autres que fils à coudre), contenant 85 % en poids ou plus de ces fibres",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.83,"Fils de fibres synthétiques discontinues (autres que fils à coudre), contenant moins de 85 % en poids de ces fibres",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.84,Fils de fibres discontinues artificielles (autres que fils à coudre),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.85,Fils à coudre en fibres et filaments artificiels ou synthétiques,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.9,Effilochés ; préparation de fibres textiles naturelles ; opérations sous-traitées intervenant dans la fabrication de fils textiles,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.91,Effilochés de laine ou de poils fins ou grossiers,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.92,Effilochés de coton et autres déchets de coton,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.10.93,Préparation de fibres textiles naturelles,CPF rev2,Préparateur,Autres produits transformés,,TRUE
+13.10.99,Opérations sous-traitées intervenant dans la fabrication de fils textiles,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.2,Tissus,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20,Tissus,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.1,Tissus (à l'exclusion des tissus spéciaux) en fibres naturelles autres que le coton,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.11,Tissus de soie ou de déchets de soie,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.12,"Tissus de laine cardée ou peignée, de poils fins ou grossiers ou de crins",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.13,Tissus de lin,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.14,"Tissus de jute et d'autres fibres textiles libériennes (à l'exclusion du lin, du chanvre commun et de la ramie)",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.19,Tissus d'autres fibres textiles végétales ; tissus de fils de papier,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.2,Tissus de coton,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.20,Tissus de coton,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.3,Tissus (à l'exclusion des tissus spéciaux) en fibres discontinues et filaments artificiels ou synthétiques,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.31,Tissus en fils de filaments artificiels ou synthétiques,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.32,Tissus en fibres synthétiques discontinues,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.33,Tissus en fibres artificielles discontinues,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.4,"Velours, peluches, tissus éponge et autres tissus spéciaux",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.41,Velours et peluches tissés et tissus de chenille (autres que tissus éponge et articles de rubanerie),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.42,"Tissus éponge et étoffes bouclées similaires (autres qu'articles de rubanerie), en coton",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.43,Autres tissus éponge et étoffes bouclées similaires (autres qu'articles de rubanerie),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.44,Tissus à point de gaze (autres qu'articles de rubanerie),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.45,"Surfaces textiles touffetées, autres que tapis",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.46,Tissus en fibres de verre (y compris articles de rubanerie),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.5,Imitation de fourrure par tissage,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.50,Imitation de fourrure par tissage,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.9,Opérations sous-traitées intervenant dans la fabrication de tissus,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.20.99,Opérations sous-traitées intervenant dans la fabrication de tissus,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.3,Ennoblissement textile,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.30,Ennoblissement textile,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.30.1,Apprêt de textiles,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.30.11,Blanchiment et teinture de fils et de fibres textiles,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.30.12,Blanchiment de tissus et d'articles textiles (y compris d'articles d'habillement),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.30.13,Teinture de tissus et d'articles textiles (y compris d'articles d'habillement),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.30.19,Autres ennoblissements de textiles et d'articles textiles (y compris d'articles d'habillement),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.9,Autres textiles,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.91,Étoffes à maille,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.91.1,Étoffes à maille,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.91.11,"Velours, peluches et étoffes bouclées à maille",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.91.19,"Autres étoffes à maille, y compris imitation de fourrure",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.91.9,Opérations sous-traitées intervenant dans la fabrication d'étoffes à maille,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.91.99,Opérations sous-traitées intervenant dans la fabrication d'étoffes à maille,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92,"Articles textiles confectionnés, sauf habillement",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.1,"Linge de maison, articles d'ameublement et de literie",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.11,"Couvertures, à l'exclusion des couvertures électriques",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.12,Linge de lit,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.13,Linge de table,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.14,Linge de toilette ou de cuisine,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.15,Rideaux (y compris doubles rideaux) et stores d'intérieur ; cantonnières et tours de lit,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.16,"Articles d'ameublement n.c.a. ; assortiments composés de pièces de tissus et de fils pour la confection de tapis, de tapisseries et d'articles similaires",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.2,Autres articles textiles confectionnés,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.21,Sacs et sachets d'emballage,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.22,"Bâches, bannes et stores d'extérieur ; voiles pour bateaux, planches à voile ou chars à voile ; tentes et articles de camping (y compris matelas pneumatiques)",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.23,"Parachutes (y compris parapentes) et rotochutes, et leurs parties",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.24,"Couettes, édredons, coussins, poufs, oreillers, sacs de couchage, équipés de ressorts ou garnis intérieurement d'un matériau quelconque, de caoutchouc mousse ou de plastique",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.29,"Autres articles textiles confectionnés (y compris serpillières, lavettes, chamoisettes et articles d'entretien similaires, ceintures et gilets de sauvetage)",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.9,"Opérations sous-traitées intervenant dans la fabrication d'articles textiles confectionnés, sauf habillement",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.92.99,"Opérations sous-traitées intervenant dans la fabrication d'articles textiles confectionnés, sauf habillement",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.93,Tapis et moquettes,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.93.1,Tapis et moquettes,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.93.11,"Tapis et autres revêtements de sol en matières textiles, à points noués",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.93.12,"Tapis et autres revêtements de sol en matières textiles, tissés, non touffetés, ni floqués",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.93.13,"Tapis et autres revêtements de sol en matières textiles, touffetés",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.93.19,Autres tapis et revêtements de sol en matières textiles (y compris en feutre),CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.93.9,Opérations sous-traitées intervenant dans la fabrication de tapis et moquettes,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.93.99,Opérations sous-traitées intervenant dans la fabrication de tapis et moquettes,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.94,"Ficelles, cordes et filets",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.94.1,"Ficelles, cordes et filets, à l'exclusion des déchets",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.94.11,"Ficelles, cordes, cordages et câbles, de jute ou d'autres fibres textiles libériennes",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.94.12,"Filets à mailles nouées, obtenus à partir de ficelles, cordes ou cordages ; filets confectionnés en matières textiles ; articles en fils, lames, n.c.a.",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.94.2,"Chiffons, déchets de cordages et articles textiles usés",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.94.20,"Chiffons, déchets de cordages et articles textiles usés",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.94.9,"Opérations sous-traitées intervenant dans la fabrication de ficelles, cordes et filets",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.94.99,"Opérations sous-traitées intervenant dans la fabrication de ficelles, cordes et filets",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.95,"Non-tissés et articles en non-tissés, sauf habillement",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.95.1,"Non-tissés et articles en non-tissés, sauf habillement",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.95.10,"Non-tissés et articles en non-tissés, sauf habillement",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.95.9,"Opérations sous-traitées intervenant dans la fabrication de non-tissés et d'articles en non-tissés, sauf habillement",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.95.99,"Opérations sous-traitées intervenant dans la fabrication de non-tissés et d'articles en non-tissés, sauf habillement",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96,Autres textiles techniques et industriels,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.1,"Fils et filés métallisés ; tissus en fils métalliques et filés métallisés ; fils et cordes de caoutchouc, recouverts de textile ; produits et articles textiles pour usages techniques",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.11,Fils et filés métallisés,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.12,Tissus en fils métalliques et filés métallisés n.c.a.,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.13,"Fils et cordes de caoutchouc, recouverts de textiles ; fils textiles et lames, imprégnés ou recouverts de caoutchouc ou de matière plastique",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.14,"Tissus imprégnés, enduits ou recouverts n.c.a.",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.15,"Nappes tramées pour pneumatiques obtenues à partir de fils à haute ténacité en nylon ou autres polyamides, en polyesters ou en rayonne viscose",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.16,"Produits et articles textiles pour usages techniques (y compris mèches textiles, manchons à incandescence, tuyaux pour pompes, courroies transporteuses ou de transmission, toiles à bluter et gazes)",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.17,Articles de rubanerie ; rubans sans trame encollés (bolducs) ; articles de passementerie,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.9,Opérations sous-traitées intervenant dans la fabrication de textiles techniques et industriels,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.96.99,Opérations sous-traitées intervenant dans la fabrication de textiles techniques et industriels,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99,Autres textiles n.c.a.,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.1,"Tulles, dentelles et broderies ; fils guipés et guipures ; chenilles ; chaînettes",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.11,"Tulles et tulles bobinots, à l'exclusion des articles tissés ou de bonneterie ; dentelles en pièces, bandes ou motifs",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.12,"Broderies en pièces, bandes ou motifs",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.13,"Feutres, enduits, recouverts ou stratifiés",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.14,"Fibres textiles d'une longueur n'excédant pas 5 mm (tontisses), nœuds et noppes de matières textiles",CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.15,Fils guipés et guipures ; chenilles ; chaînettes,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.16,Pièces textiles de capitonnage,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.19,Autres textiles et articles textiles n.c.a.,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.9,Opérations sous-traitées intervenant dans la fabrication d'autres textiles n.c.a.,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+13.99.99,Opérations sous-traitées intervenant dans la fabrication d'autres textiles n.c.a.,CPF rev2,Préparateur,Autres produits transformés,,FALSE
+20.53,Huiles essentielles,CPF rev2,Préparateur,Huiles essentielles,,FALSE
+20.53.1,Huiles essentielles,CPF rev2,Préparateur,Huiles essentielles,,FALSE
+20.53.10,Huiles essentielles,CPF rev2,Préparateur,Huiles essentielles,,TRUE
+20.53.9,Opérations sous-traitées intervenant dans la fabrication d'huiles essentielles,CPF rev2,Préparateur,Huiles essentielles,,FALSE
+20.53.99,Opérations sous-traitées intervenant dans la fabrication d'huiles essentielles,CPF rev2,Préparateur,Huiles essentielles,,TRUE
+46,COMMERCE DE GROS,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.1,Services d'intermédiaire du commerce de gros,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.11,"Services d'intermédiaire du commerce de gros de matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,TRUE
+46.11.1,"Services d'intermédiaire du commerce de gros de matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.11.11,Services d'intermédiaire du commerce de gros d'animaux vivants,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.11.12,Services d'intermédiaire du commerce de gros de fleurs et plantes,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.11.19,"Services d'intermédiaire du commerce de gros de matières premières agricoles, matières premières textiles et produits semi-finis",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.12,"Services d'intermédiaire du commerce de gros de combustibles, minerais, métaux et produits chimiques",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,TRUE
+46.12.1,"Services d'intermédiaire du commerce de gros de combustibles, minerais, métaux et produits chimiques",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.12.11,"Services d'intermédiaire du commerce de gros de combustibles solides, liquides ou gazeux et de produits similaires",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.12.12,Services d'intermédiaire du commerce de gros de minerais métalliques et de métaux sous formes primaires,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.12.13,"Services d'intermédiaire du commerce de gros de produits chimiques industriels, d'engrais et de produits agrochimiques",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.13,Services d'intermédiaire du commerce de gros de bois et de matériaux de construction,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,TRUE
+46.13.1,Services d'intermédiaire du commerce de gros de bois et de matériaux de construction,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.13.11,Services d'intermédiaire du commerce de gros de bois et produits en bois,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.13.12,Services d'intermédiaire du commerce de gros de matériaux de construction,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.14,"Services d'intermédiaire du commerce de gros de machines, équipements industriels, navires et aéronefs",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,TRUE
+46.14.1,"Services d'intermédiaire du commerce de gros de machines, équipements industriels, navires et aéronefs",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.14.11,"Services d'intermédiaire du commerce de gros d'ordinateurs, logiciels, équipements électroniques et de télécommunications et d'autres équipements de bureau",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.14.12,"Services d'intermédiaire du commerce de gros de navires, aéronefs et autres matériels de transport n.c.a.",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.14.19,Services d'intermédiaire du commerce de gros de machines et équipements industriels n.c.a.,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.15,"Services d'intermédiaire du commerce de gros de meubles, articles ménagers et quincaillerie",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,TRUE
+46.15.1,"Services d'intermédiaire du commerce de gros de meubles, articles ménagers et quincaillerie",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.15.11,Services d'intermédiaire du commerce de gros de meubles,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.15.12,"Services d'intermédiaire du commerce de gros d'équipements de radio, télévision et vidéo",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.15.13,Services d'intermédiaire du commerce de gros d'articles de quincaillerie et d'outillage manuel,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.15.19,Services d'intermédiaire du commerce de gros d'articles ménagers et de coutellerie n.c.a.,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.16,"Services d'intermédiaire du commerce de gros de textiles, habillement, fourrures, chaussures et articles en cuir",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,TRUE
+46.16.1,"Services d'intermédiaire du commerce de gros de textiles, habillement, fourrures, chaussures et articles en cuir",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.16.11,Services d'intermédiaire du commerce de gros de textiles,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.16.12,"Services d'intermédiaire du commerce de gros d'habillement, fourrures et chaussures",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.16.13,Services d'intermédiaire du commerce de gros d'articles de voyage et de maroquinerie,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.17,"Services d'intermédiaire du commerce de gros de denrées alimentaires, boissons et tabac",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,TRUE
+46.17.1,"Services d'intermédiaire du commerce de gros de denrées alimentaires, boissons et tabac",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.17.11,Services d'intermédiaire du commerce de gros de denrées alimentaires,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.17.12,Services d'intermédiaire du commerce de gros de boissons,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.17.13,Services d'intermédiaire du commerce de gros de tabac,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.18,Services d'intermédiaire du commerce de gros d'autres produits spécifiques,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,TRUE
+46.18.1,Services d'intermédiaire du commerce de gros d'autres produits spécifiques,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.18.11,"Services d'intermédiaire du commerce de gros de produits pharmaceutiques et médicaux, d'articles de parfumerie et de toilette et de produits d'entretien",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.18.12,"Services d'intermédiaire du commerce de gros de jeux et jouets, articles de sport, cycles, livres, journaux, magazines et articles de papeterie, instruments de musique, montres, horloges et joaillerie, équipements photographiques et optiques",CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.18.19,Services d'intermédiaire du commerce de gros d'autres produits spécifiques n.c.a.,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.19,Services d'intermédiaire du commerce de gros de produits divers,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,TRUE
+46.19.1,Services d'intermédiaire du commerce de gros de produits divers,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.19.10,Services d'intermédiaire du commerce de gros de produits divers,CPF rev2,Distributeur,Commerce de gros,Service intermédiaires négoce,FALSE
+46.2,Commerce de gros de produits agricoles bruts et d'animaux vivants,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.21,"Commerce de gros de céréales, tabac non manufacturé, semences et aliments pour le bétail",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.21.1,"Commerce de gros de céréales, semences et aliments pour le bétail",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.21.11,Commerce de gros de céréales,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.21.12,Commerce de gros de semences (autres qu'oléagineux),CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.21.13,Commerce de gros de graines et fruits oléagineux,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.21.14,Commerce de gros d'aliments pour le bétail,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.21.19,Commerce de gros d'autres produits agricoles bruts n.c.a.,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.21.2,Commerce de gros de tabac non manufacturé,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.21.20,Commerce de gros de tabac non manufacturé,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.22,Commerce de gros de fleurs et plantes,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.22.1,Commerce de gros de fleurs et plantes,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.22.10,Commerce de gros de fleurs et plantes,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.23,Commerce de gros d'animaux vivants,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.23.1,Commerce de gros d'animaux vivants,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.23.10,Commerce de gros d'animaux vivants,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.24,Commerce de gros de cuirs et peaux,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.24.1,Commerce de gros de cuirs et peaux,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.24.10,Commerce de gros de cuirs et peaux,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.3,"Commerce de gros de produits alimentaires, boissons et de tabac",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.31,Commerce de gros de fruits et légumes,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.31.1,Commerce de gros de fruits et légumes,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.31.11,Commerce de gros de fruits et légumes frais,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.31.12,Commerce de gros de fruits et légumes de conservation,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.32,Commerce de gros de viandes et de produits à base de viande,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.32.1,Commerce de gros de viandes et de produits à base de viande,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.32.11,Commerce de gros de viandes (y compris de volaille),CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.32.12,Commerce de gros de produits à base de viande (y compris de volaille),CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.33,"Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.33.1,"Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.33.11,Commerce de gros de produits laitiers,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.33.12,Commerce de gros d'œufs,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.33.13,Commerce de gros d'huiles et de matières grasses comestibles,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.34,Commerce de gros de boissons,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.34.1,Commerce de gros de boissons,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.34.11,"Commerce de gros de jus, eaux minérales, boissons rafraîchissantes et autres boissons non alcoolisées",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.34.12,Commerce de gros de boissons alcoolisées,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.35,Commerce de gros de produits à base de tabac,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.35.1,Commerce de gros de produits à base de tabac,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.35.10,Commerce de gros de produits à base de tabac,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.36,"Commerce de gros de sucre, chocolat et confiserie",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.36.1,"Commerce de gros de sucre, chocolat et confiserie",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.36.11,Commerce de gros de sucre,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.36.12,Commerce de gros de produits de boulangerie-pâtisserie,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.36.13,Commerce de gros de chocolat et confiserie,CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.37,"Commerce de gros de café, thé, cacao et épices",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.37.1,"Commerce de gros de café, thé, cacao et épices",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.37.10,"Commerce de gros de café, thé, cacao et épices",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.38,"Commerce de gros d'autres denrées alimentaires, y compris de poissons, crustacés et mollusques",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.38.1,"Commerce de gros de poissons, crustacés et mollusques",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,TRUE
+46.38.10,"Commerce de gros de poissons, crustacés et mollusques",CPF rev2,Distributeur,Commerce de gros,Porduits bruts non transformés,FALSE
+46.38.2,Commerce de gros d'autres produits alimentaires,CPF rev2,Distributeur,Commerce de gros,Porduits transformés,TRUE
+46.38.21,Commerce de gros de préparations alimentaires homogénéisées et d'aliments diététiques,CPF rev2,Distributeur,Commerce de gros,Porduits transformés,FALSE
+46.38.29,Commerce de gros d'autres produits alimentaires n.c.a.,CPF rev2,Distributeur,Commerce de gros,Porduits transformés,FALSE
+46.39,"Commerce de gros non spécialisé de denrées alimentaires, boissons et tabac",CPF rev2,Distributeur,Commerce de gros,Porduits transformés,TRUE
+46.39.1,"Commerce de gros non spécialisé de denrées alimentaires, boissons et tabac",CPF rev2,Distributeur,Commerce de gros,Porduits transformés,FALSE
+46.39.11,Commerce de gros non spécialisé de produits surgelés,CPF rev2,Distributeur,Commerce de gros,Porduits transformés,TRUE
+46.39.12,"Commerce de gros non spécialisé de denrées alimentaires non surgelées, boissons et tabac",CPF rev2,Distributeur,Commerce de gros,Porduits transformés,TRUE
+46.4,Commerce de gros d'articles ménagers,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.41,Commerce de gros de textiles,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.41.1,Commerce de gros de textiles,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.41.11,Commerce de gros de fils,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.41.12,Commerce de gros de tissus,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.41.13,"Commerce de gros de linge de maison, rideaux et autres articles ménagers en textiles",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.41.14,Commerce de gros d'articles de mercerie,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.42,Commerce de gros de vêtements et de chaussures,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.42.1,Commerce de gros de vêtements et de chaussures,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.42.11,Commerce de gros de vêtements,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.42.12,Commerce de gros de chaussures,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.43,Commerce de gros d'appareils électroménagers,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.43.1,Commerce de gros d'appareils électroménagers,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.43.11,Commerce de gros d'appareils électroménagers à l'exclusion d'équipements de radio et de télévision et de matériel photographique,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.43.12,"Commerce de gros d'équipements de radio, télévision, vidéo et dvd",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.43.13,"Commerce de gros de disques, cassettes audio et vidéo, cd et dvd (à l'exclusion des supports vierges)",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.43.14,Commerce de gros de matériels photographiques et optiques,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.44,"Commerce de gros de vaisselle, verrerie et produits d'entretien",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.44.1,"Commerce de gros de vaisselle, verrerie et produits d'entretien",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.44.11,Commerce de gros de vaisselle et de verrerie,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.44.12,Commerce de gros de produits d'entretien,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.45,Commerce de gros de parfums et de produits de beauté,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.45.1,Commerce de gros de parfums et de produits de beauté,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.45.10,Commerce de gros de parfums et de produits de beauté,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.46,Commerce de gros de produits pharmaceutiques,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.46.1,Commerce de gros de produits pharmaceutiques,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.46.11,Commerce de gros de produits pharmaceutiques de base et de préparations pharmaceutiques,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.46.12,"Commerce de gros d'instruments et appareils chirurgicaux, médicaux et orthopédiques",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.47,"Commerce de gros de meubles, de tapis et d'appareils d'éclairage",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.47.1,"Commerce de gros de meubles, de tapis et d'appareils d'éclairage",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.47.11,Commerce de gros de meubles,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.47.12,Commerce de gros d'appareils d'éclairage,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.47.13,Commerce de gros de tapis et carpettes,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.48,Commerce de gros d'articles d'horlogerie et de bijouterie,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.48.1,Commerce de gros d'articles d'horlogerie et de bijouterie,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.48.10,Commerce de gros d'articles d'horlogerie et de bijouterie,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49,Commerce de gros d'autres articles ménagers,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.1,"Commerce de gros d'articles de coutellerie et d'articles métalliques à usage ménager, d'articles de vannerie, d'articles en liège et d'autres articles ménagers n.c.a.",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.11,Commerce de gros d'articles de coutellerie et d'articles métalliques à usage ménager,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.12,"Commerce de gros d'articles en vannerie, sparterie, liège et bois",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.19,Commerce de gros d'articles et équipements ménagers n.c.a.,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.2,"Commerce de gros de livres, magazines et articles de papeterie",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.21,Commerce de gros de livres,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.22,Commerce de gros de magazines et journaux,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.23,Commerce de gros d'articles de papeterie,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.3,Commerce de gros d'autres biens de consommation,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.31,Commerce de gros d'instruments de musique,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.32,Commerce de gros de jeux et jouets,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.33,Commerce de gros d'articles de sports (y compris de cycles),CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.34,Commerce de gros d'articles de voyage et de maroquinerie,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.35,Commerce de gros de timbres et de pièces,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.36,Commerce de gros d'articles souvenirs et d'œuvres d'art,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.49.39,Commerce de gros d'autres biens de consommation n.c.a.,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.5,Commerce de gros d'équipements d'information et de communication,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.51,"Commerce de gros d'ordinateurs, de périphériques et de logiciels",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.51.1,"Commerce de gros d'ordinateurs, de périphériques et de logiciels",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.51.10,"Commerce de gros d'ordinateurs, de périphériques et de logiciels",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.52,Commerce de gros d'équipements et composants électroniques et de télécommunications,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.52.1,Commerce de gros d'équipements et composants électroniques et de télécommunications,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.52.11,Commerce de gros d'équipements de télécommunications et de parties,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.52.12,Commerce de gros d'équipements et composants électroniques,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.52.13,"Commerce de gros de cassettes audio et vidéo, disquettes, disques magnétiques et optiques, cd et dvd vierges",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.6,"Commerce de gros d'autres machines, équipements et matériels",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.61,Commerce de gros de matériel agricole,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.61.1,Commerce de gros de matériel agricole,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.61.11,"Commerce de gros de matériel agricole et forestier, y compris tracteurs",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.61.12,Commerce de gros de matériel pour le gazon et le jardin,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.62,Commerce de gros de machines-outils,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.62.1,Commerce de gros de machines-outils,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.62.11,Commerce de gros de machines-outils pour le travail du bois,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.62.12,Commerce de gros de machines-outils pour le travail des métaux,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.62.19,Commerce de gros de machines-outils pour le travail d'autres matériaux,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.63,"Commerce de gros de machines pour l'extraction, la construction et le génie civil",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.63.1,"Commerce de gros de machines pour l'extraction, la construction et le génie civil",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.63.10,"Commerce de gros de machines pour l'extraction, la construction et le génie civil",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.64,Commerce de gros de machines pour l'industrie textile et l'habillement,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.64.1,Commerce de gros de machines pour l'industrie textile et l'habillement,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.64.10,Commerce de gros de machines pour l'industrie textile et l'habillement,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.65,Commerce de gros de mobilier de bureau,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.65.1,Commerce de gros de mobilier de bureau,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.65.10,Commerce de gros de mobilier de bureau,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.66,Commerce de gros d'autres machines et équipements de bureau,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.66.1,Commerce de gros d'autres machines et équipements de bureau,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.66.10,Commerce de gros d'autres machines et équipements de bureau,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.69,Commerce de gros d'autres machines et équipements,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.69.1,Commerce de gros d'autres machines et équipements,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.69.11,"Commerce de gros de matériels de transport, autres que les véhicules automobiles, motocycles et cycles",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.69.12,Commerce de gros de fournitures industrielles,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.69.13,Commerce de gros de matériel de manutention et de levage,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.69.14,Commerce de gros d'équipements pour l'industrie agroalimentaire,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.69.15,Commerce de gros d'appareils et matériels électriques professionnels,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.69.16,Commerce de gros d'armes et de munitions,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.69.19,"Commerce de gros d'autres machines, appareils et équipements d'usage général et spécifique",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.7,Autres commerces de gros spécialisés,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.71,"Commerce de gros de combustibles solides, liquides et gazeux et de produits annexes",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.71.1,"Commerce de gros de combustibles solides, liquides et gazeux et de produits annexes",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.71.11,Commerce de gros de combustibles solides,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.71.12,"Commerce de gros de carburants, y compris pour l'aviation",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.71.13,Commerce de gros d'autres combustibles liquides ou gazeux et de produits annexes,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.72,Commerce de gros de minerais et métaux,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.72.1,Commerce de gros de minerais et métaux,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.72.11,Commerce de gros de minerais de métaux ferreux,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.72.12,Commerce de gros de minerais de métaux non ferreux,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.72.13,Commerce de gros de fer et d'acier sous formes primaires,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.72.14,Commerce de gros de métaux non ferreux sous formes primaires,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73,"Commerce de gros de bois, de matériaux de construction et d'appareils sanitaires",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73.1,"Commerce de gros de bois, de matériaux de construction et d'appareils sanitaires",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73.11,Commerce de gros de bois bruts,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73.12,Commerce de gros des produits de la première transformation du bois,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73.13,Commerce de gros d'appareils sanitaires,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73.14,"Commerce de gros de peintures, vernis et laques",CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73.15,Commerce de gros de verre plat,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73.16,Commerce de gros d'autres matériaux de construction,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73.17,Commerce de gros de revêtements muraux,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.73.18,Commerce de gros de revêtements de sol (à l'exclusion des tapis),CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.74,Commerce de gros de quincaillerie et fournitures pour plomberie et chauffage,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.74.1,Commerce de gros de quincaillerie et fournitures pour plomberie et chauffage,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.74.11,Commerce de gros de quincaillerie,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.74.12,Commerce de gros de fournitures pour plomberie et chauffage,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.74.13,Commerce de gros d'outillage manuel,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.75,Commerce de gros de produits chimiques,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.75.1,Commerce de gros de produits chimiques,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.75.11,Commerce de gros d'engrais et de produits agrochimiques,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.75.12,Commerce de gros de produits chimiques industriels,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.76,Commerce de gros d'autres produits intermédiaires,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.76.1,Commerce de gros d'autres produits intermédiaires,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.76.11,Commerce de gros de papier et carton,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.76.12,Commerce de gros de fibres textiles,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.76.13,Commerce de gros de matières plastiques et caoutchouc sous formes primaires,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.76.19,Commerce de gros de produits intermédiaires autres qu'agricoles n.c.a.,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.77,Commerce de gros de déchets et débris,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.77.1,Commerce de gros de déchets et débris,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.77.10,Commerce de gros de déchets et débris,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.9,Commerce de gros non spécialisé,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.90,Commerce de gros non spécialisé,CPF rev2,Distributeur,Commerce de gros,Produits diversifiés,TRUE
+46.90.1,Commerce de gros non spécialisé,CPF rev2,Distributeur,Commerce de gros,,FALSE
+46.90.10,Commerce de gros non spécialisé,CPF rev2,Distributeur,Commerce de gros,,FALSE
+47,COMMERCE DE DETAIL,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.0,"Commerce de détail, à l'exclusion des automobiles et des motocycles",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00,"Commerce de détail, à l'exclusion des automobiles et des motocycles",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.1,"Commerce de détail de fruits, légumes, viandes, poissons, produits de boulangerie-pâtisserie, produits laitiers et œufs",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.11,Commerce de détail de fruits et légumes frais,CPF rev2,Distributeur,Commerce de détail,Primeurs,TRUE
+47.00.12,Commerce de détail de fruits et légumes de conservation,CPF rev2,Distributeur,Commerce de détail,Primeurs,TRUE
+47.00.13,Commerce de détail de viandes,CPF rev2,Distributeur,Commerce de détail,Boucheries et charcuteries,TRUE
+47.00.14,Commerce de détail de produits à base de viande,CPF rev2,Distributeur,Commerce de détail,Boucheries et charcuteries,TRUE
+47.00.15,"Commerce de détail de poissons, crustacés et mollusques",CPF rev2,Distributeur,Commerce de détail,Poissonerie,TRUE
+47.00.16,Commerce de détail de produits de boulangerie-pâtisserie,CPF rev2,Distributeur,Commerce de détail,"Boulangeries, patisseries",TRUE
+47.00.17,Commerce de détail de confiseries,CPF rev2,Distributeur,Commerce de détail,Confiseries et chocolatiers,TRUE
+47.00.18,Commerce de détail de produits laitiers,CPF rev2,Distributeur,Commerce de détail,Fromagers et produits laitiers,TRUE
+47.00.19,Commerce de détail d'œufs,CPF rev2,Distributeur,Commerce de détail,,TRUE
+47.00.2,"Commerce de détail d'autres produits alimentaires, de boissons et de tabac",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.21,"Commerce de détail de café, thé, cacao et épices",CPF rev2,Distributeur,Commerce de détail,Epicerie,TRUE
+47.00.22,Commerce de détail d'huiles et matières grasses comestibles,CPF rev2,Distributeur,Commerce de détail,Epicerie,TRUE
+47.00.23,Commerce de détail de préparations alimentaires homogénéisées et d'aliments diététiques,CPF rev2,Distributeur,Commerce de détail,Epicerie,TRUE
+47.00.24,Commerce de détail d'autres produits alimentaires n.c.a.,CPF rev2,Distributeur,Commerce de détail,Autres,TRUE
+47.00.25,Commerce de détail de boissons alcoolisées,CPF rev2,Distributeur,Commerce de détail,Boissons,TRUE
+47.00.26,Commerce de détail d'autres boissons,CPF rev2,Distributeur,Commerce de détail,Boissons,TRUE
+47.00.27,Commerce de détail de produits à base de tabac,CPF rev2,Distributeur,Commerce de détail,Autres,TRUE
+47.00.3,Commerce de détail d'équipements d'information et de communication,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.31,"Commerce de détail d'ordinateurs, de périphériques et de logiciels",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.32,Commerce de détail d'équipements de télécommunications,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.33,Commerce de détail d'équipements audio et vidéo,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.4,Commerce de détail de matériaux de construction et de quincaillerie,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.41,Commerce de détail de quincaillerie,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.42,"Commerce de détail de peintures, vernis et laques",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.43,Commerce de détail de verre plat,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.44,Commerce de détail de matériel pour le gazon et le jardin,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.45,Commerce de détail de fournitures pour plomberie et chauffage,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.46,Commerce de détail d'appareils sanitaires,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.47,Commerce de détail d'outillage manuel,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.49,Commerce de détail de matériaux de construction n.c.a.,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.5,Commerce de détail d'articles ménagers,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.51,Commerce de détail de textiles,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.52,Commerce de détail de rideaux et voilages,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.53,"Commerce de détail de revêtements muraux et de sol, de tapis et carpettes",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.54,Commerce de détail d'appareils électroménagers,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.55,Commerce de détail de meubles,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.56,Commerce de détail d'articles d'éclairage,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.57,"Commerce de détail d'articles en bois, liège, vannerie et sparterie",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.58,Commerce de détail d'instruments de musique et de partitions musicales,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.59,"Commerce de détail d'articles de vaisselle, verrerie, poterie, coutellerie et appareils, articles et équipements ménagers non électriques n.c.a.",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.6,Commerce de détail d'articles culturels et récréatifs,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.61,Commerce de détail de livres,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.62,Commerce de détail de journaux et magazines,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.63,Commerce de détail d'articles de papeterie,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.64,Commerce de détail d'enregistrements musicaux et vidéo,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.65,Commerce de détail d'équipements sportifs,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.66,Commerce de détail d'équipements de camping,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.67,Commerce de détail de jeux et jouets,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.68,Commerce de détail de timbres et de pièces,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.69,Commerce de détail d'articles de souvenirs et d'œuvres d'art,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.7,"Commerce de détail d'habillement, de produits pharmaceutiques et médicaux, d'articles de toilette, de fleurs et plantes, d'animaux de compagnie et d'aliments pour animaux de compagnie",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.71,Commerce de détail d'habillement,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.72,Commerce de détail de chaussures,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.73,Commerce de détail d'articles de voyage et de maroquinerie,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.74,Commerce de détail de produits pharmaceutiques,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.75,Commerce de détail d'articles médicaux et orthopédiques,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.76,Commerce de détail de parfums et de produits de beauté,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.77,"Commerce de détail de fleurs, plantes et graines",CPF rev2,Distributeur,Commerce de détail,Fleuristes,TRUE
+47.00.78,Commerce de détail d'engrais et de produits agrochimiques,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.79,Commerce de détail d'animaux de compagnie et d'aliments pour animaux de compagnie,CPF rev2,Distributeur,Commerce de détail,Animaleries,TRUE
+47.00.8,Commerce de détail de carburants automobiles et d'autres articles neufs n.c.a.,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.81,Commerce de détail de carburants automobiles,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.82,Commerce de détail d'articles d'horlogerie et de bijouterie,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.83,"Commerce de détail d'équipements photographiques, optiques et de précision, services d'opticien",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.84,Commerce de détail de produits d'entretien,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.85,"Commerce de détail de fioul domestique, de gaz en bouteilles, de charbon et de bois",CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.86,Commerce de détail d'autres biens de consommation non alimentaires n.c.a.,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.87,Commerce de détail de produits agricoles bruts n.c.a.,CPF rev2,Distributeur,Commerce de détail,Autres,TRUE
+47.00.88,Commerce de détail de machines et équipements n.c.a.,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.89,Commerce de détail de biens non alimentaires non destinés à la consommation n.c.a.,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.9,Commerce de détail de biens d'occasion,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.91,Commerce de détail d'antiquités,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.92,Commerce de détail de livres d'occasion,CPF rev2,Distributeur,Commerce de détail,,FALSE
+47.00.99,Commerce de détail d'autres biens d'occasion,CPF rev2,Distributeur,Commerce de détail,,FALSE
+52,STOCKAGE,CPF rev2,Stockeur,Stockage,,FALSE
+52.1,Entreposage et stockage,CPF rev2,Stockeur,Stockage,,FALSE
+52.10,Entreposage et stockage,CPF rev2,Stockeur,Stockage,,FALSE
+52.10.1,Entreposage et stockage,CPF rev2,Stockeur,Stockage,,FALSE
+52.10.11,Entreposage frigorifique,CPF rev2,Stockeur,Stockage,,TRUE
+52.10.12,Entreposage en vrac de liquides et de gaz,CPF rev2,Stockeur,Stockage,,TRUE
+52.10.13,Entreposage en silo,CPF rev2,Stockeur,Stockage,,TRUE
+52.10.19,Autres services d'entreposage et de stockage,CPF rev2,Stockeur,Stockage,,TRUE
+56,RESTAURATION,CPF rev2,Restaurateur,Restauration,,FALSE
+56.1,Restauration et restauration mobile,CPF rev2,Restaurateur,Restauration,,FALSE
+56.10,Restauration et restauration mobile,CPF rev2,Restaurateur,Restauration,,FALSE
+56.10.1,Restauration et restauration mobile,CPF rev2,Restaurateur,Restauration,,FALSE
+56.10.11,Services complets de restauration à la table,CPF rev2,Restaurateur,Restauration,,TRUE
+56.10.12,Services des wagons-restaurants et services analogues sur les navires,CPF rev2,Restaurateur,Restauration,,TRUE
+56.10.13,Services de restauration en self-service,CPF rev2,Restaurateur,Restauration,,TRUE
+56.10.19,Autres services de restauration,CPF rev2,Restaurateur,Restauration,,TRUE
+56.2,Services de traiteurs et autres services de restauration,CPF rev2,Restaurateur,Restauration,,FALSE
+56.21,Services de traiteurs,CPF rev2,Restaurateur,Restauration,,FALSE
+56.21.1,Services de traiteurs,CPF rev2,Restaurateur,Restauration,,TRUE
+56.21.11,Services de traiteurs pour particuliers,CPF rev2,Restaurateur,Restauration,,FALSE
+56.21.19,Autres services de traiteurs,CPF rev2,Restaurateur,Restauration,,FALSE
+56.29,Autres services de restauration collective,CPF rev2,Restaurateur,Restauration,,FALSE
+56.29.1,Services de restauration collective sous contrat,CPF rev2,Restaurateur,Restauration,,TRUE
+56.29.11,Services de restauration collective sous contrat pour le compte d'entreprises de transport,CPF rev2,Restaurateur,Restauration,,FALSE
+56.29.19,Autres services de restauration collective sous contrat,CPF rev2,Restaurateur,Restauration,,FALSE
+56.29.2,Services de cantines et restaurants d'entreprise,CPF rev2,Restaurateur,Restauration,,TRUE
+56.29.20,Services de cantines et restaurants d'entreprise,CPF rev2,Restaurateur,Restauration,,FALSE
+56.3,Services de débits de boissons,CPF rev2,Restaurateur,Restauration,,TRUE
+56.30,Services de débits de boissons,CPF rev2,Restaurateur,Restauration,,FALSE
+56.30.1,Services de débits de boissons,CPF rev2,Restaurateur,Restauration,,FALSE
+56.30.10,Services de débits de boissons,CPF rev2,Restaurateur,Restauration,,FALSE
+49.20,Transport ferroviaire de fret,CPF rev2,Transport,Transport,Ferroviaire,FALSE
+49.20.1,Transport ferroviaire de fret,CPF rev2,Transport,Transport,Ferroviaire,TRUE
+49.20.11,Transport ferroviaire de fret par wagons frigorifiques,CPF rev2,Transport,Transport,Ferroviaire,TRUE
+49.20.12,"Transport ferroviaire de fret par wagons-citernes, produits pétroliers",CPF rev2,Transport,Transport,Ferroviaire,FALSE
+49.20.13,"Transport ferroviaire de fret par wagons-citernes, vracs liquides et gazeux",CPF rev2,Transport,Transport,Ferroviaire,TRUE
+49.20.14,Transport ferroviaire de conteneurs intermodaux,CPF rev2,Transport,Transport,Ferroviaire,TRUE
+49.20.15,Transport ferroviaire de lettres et colis,CPF rev2,Transport,Transport,Ferroviaire,FALSE
+49.20.16,Transport ferroviaire de vracs secs,CPF rev2,Transport,Transport,Ferroviaire,TRUE
+49.20.19,Autres transports ferroviaires de fret,CPF rev2,Transport,Transport,Ferroviaire,FALSE
+49.41,Transport routier de fret,CPF rev2,Transport,Transport,Routier,FALSE
+49.41.1,Transport routier de fret,CPF rev2,Transport,Transport,Routier,TRUE
+49.41.11,"Transport routier de fret, par camions frigorifiques",CPF rev2,Transport,Transport,Routier,TRUE
+49.41.12,"Transport routier de fret, par camions-citernes ou semi-remorques, produits pétroliers",CPF rev2,Transport,Transport,Routier,FALSE
+49.41.13,"Transport routier de fret, par camions-citernes ou semi-remorques, autres vracs liquides ou gazeux",CPF rev2,Transport,Transport,Routier,TRUE
+49.41.14,Transport routier de conteneurs intermodaux,CPF rev2,Transport,Transport,Routier,TRUE
+49.41.15,Transport routier de vracs secs,CPF rev2,Transport,Transport,Routier,TRUE
+49.41.16,Transport routier d'animaux vivants,CPF rev2,Transport,Transport,Routier,TRUE
+49.41.17,Transport routier de fret par véhicules à traction humaine ou animale,CPF rev2,Transport,Transport,Routier,TRUE
+49.41.18,Transport routier de lettres et colis,CPF rev2,Transport,Transport,Routier,FALSE
+49.41.19,Autres transports routiers de fret,CPF rev2,Transport,Transport,Routier,FALSE
+49.41.2,Location de camions avec conducteur,CPF rev2,Transport,Transport,,FALSE
+49.41.20,Location de camions avec conducteur,CPF rev2,Transport,Transport,,FALSE
