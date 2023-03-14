@@ -1,6 +1,6 @@
 import { describe, test } from 'node:test'
 import { deepEqual } from 'node:assert/strict'
-import { fromCodeCpf, fromCodePac } from './index.js'
+import { fromCodeCpf, fromCodePac, isOrganicProductionCode } from './index.js'
 
 const expectation = {
   code_cpf_bio: '01.11.20',
@@ -13,6 +13,25 @@ const expectation = {
   libelle_groupe_pac: 'Autres céréales'
 }
 
+describe('isOrganicProductionCode', () => {
+  test('this is an organic production code', () => {
+    deepEqual(isOrganicProductionCode('01.11'), true)
+    deepEqual(isOrganicProductionCode('01.11.20'), true)
+    deepEqual(isOrganicProductionCode('02.4'), true)
+    deepEqual(isOrganicProductionCode('02.40.10'), true)
+  })
+
+  test('this is not an organic production code', () => {
+    deepEqual(isOrganicProductionCode('10.12.99'), false)
+    deepEqual(isOrganicProductionCode('01.4'), false)
+    deepEqual(isOrganicProductionCode('01.47'), false)
+    deepEqual(isOrganicProductionCode('01.47.11'), false)
+    deepEqual(isOrganicProductionCode('01.6'), false)
+    deepEqual(isOrganicProductionCode('01.61'), false)
+    deepEqual(isOrganicProductionCode('01.61.1'), false)
+  })
+})
+
 describe('fromCodeCpf', () => {
   test('returns a matching code object', () => {
     deepEqual(fromCodeCpf('01.11.20'), expectation)
@@ -24,12 +43,6 @@ describe('fromCodeCpf', () => {
 
   test('returns nothing if filtered out', () => {
     deepEqual(fromCodeCpf('10.12.99'), undefined)
-    deepEqual(fromCodeCpf('01.4'), undefined)
-    deepEqual(fromCodeCpf('01.47'), undefined)
-    deepEqual(fromCodeCpf('01.47.11'), undefined)
-    deepEqual(fromCodeCpf('01.6'), undefined)
-    deepEqual(fromCodeCpf('01.61'), undefined)
-    deepEqual(fromCodeCpf('01.61.1'), undefined)
   })
 })
 

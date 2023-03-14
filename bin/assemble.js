@@ -3,10 +3,10 @@ import { createReadStream } from 'node:fs'
 import { writeFile } from 'node:fs/promises'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { isOrganicProductionCode } from '../index.js'
 
 const here = dirname(fileURLToPath(new URL(import.meta.url)))
 
-const EXCEPTIONS_RE = /^01.(4$|5$|6$)/
 const CODES_FILEPATH = join(here, '..', 'data', 'nomenclature.csv')
 const CORRESPONDANCE_PAC_FILEPATH = join(here, '..', 'data', 'correspondance.csv')
 const DESTINATION_FILE = join(here, '..', 'data', 'cpf.json')
@@ -25,7 +25,7 @@ let csvParser = createReadStream(CODES_FILEPATH).pipe(parse({
 for await (const { CODE, libelle, Groupe, Sous_groupe } of csvParser) {
   // we keep only '01.'
   // and we skip animal productions ('01.4', '01.5' and '01.6')
-  if (CODE.startsWith('01.') && !EXCEPTIONS_RE.test(CODE)) {
+  if (isOrganicProductionCode) {
     CPF.set(CODE, {
       code_cpf_bio: CODE,
       libelle_code_cpf_bio: libelle,
