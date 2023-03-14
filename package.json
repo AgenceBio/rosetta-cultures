@@ -5,6 +5,12 @@
   "main": "index.js",
   "type": "module",
   "types": "index.d.ts",
+  "files": [
+    "index*",
+    "LICENSE",
+    "data/*.json",
+    "README.md"
+  ],
   "scripts": {
     "build": "node bin/assemble.js",
     "build:types": "tsc index.js --declaration --allowJs --emitDeclarationOnly",
