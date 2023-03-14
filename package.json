@@ -13,14 +13,16 @@
     "README.md"
   ],
   "exports": {
-    "import": "./index.js",
-    "require": "./dist/cjs/index.js"
+    ".": {
+      "import": "./index.js",
+      "require": "./dist/cjs/index.cjs"
+    }
   },
   "scripts": {
     "build": "npm run build:json && npm run build:cjs && npm run build:types",
     "build:json": "node bin/assemble.js",
     "build:types": "tsc index.js --declaration --allowJs --emitDeclarationOnly",
-    "build:cjs": "tsc index.js --esModuleInterop --allowJs --module commonjs --resolveJsonModule --outDir dist/cjs",
+    "build:cjs": "tsc index.js --esModuleInterop --allowJs --module commonjs --resolveJsonModule --outDir dist/cjs && mv -f dist/cjs/index.js dist/cjs/index.cjs",
     "prepublish": "npm run build",
     "test": "node --test index.test.js"
   },
