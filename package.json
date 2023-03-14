@@ -4,8 +4,11 @@
   "description": "Traduction des codes cultures de la CPF vers la PAC vers des nomenclatures d'organismes de certification, et vice-versa.",
   "main": "index.js",
   "type": "module",
+  "types": "index.d.ts",
   "scripts": {
     "build": "node bin/assemble.js",
+    "build:types": "tsc index.js --declaration --allowJs --emitDeclarationOnly",
+    "prepublish": "npm run build:types",
     "test": "node --test index.test.js"
   },
   "repository": {
@@ -27,5 +30,9 @@
   "homepage": "https://github.com/AgenceBio/rosetta-cultures#readme",
   "dependencies": {
     "csv-parse": "^5.3.6"
+  },
+  "devDependencies": {
+    "@tsconfig/node18": "^1.0.1",
+    "typescript": "^4.9.5"
   }
 }

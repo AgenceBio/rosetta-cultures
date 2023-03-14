@@ -1,0 +1,7 @@
+{
+  "extends": "@tsconfig/node18/tsconfig",
+  "include": ["index.js"],
+  "compilerOptions": {
+    "module": "ES2022"
+  }
+}

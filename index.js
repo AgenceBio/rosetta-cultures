@@ -1,25 +1,24 @@
 /**
- * @type {Array.<CodeCpf>}
- * Taken from https://docs.google.com/spreadsheets/d/12HBh_HYLGtNxHZg1gRQtxmkbOGUM0g3h/edit#gid=1619087660
- * and then, with this command:
- *
- * cat src/referentiels/correspondance-pac-cpf.csv | csvjson -i 2 > src/referentiels/correspondance-pac-cpf.json
+ * Built with `npm run build`
+ * @type {Array.<UnifiedCulture>}
  */
 import cpf from './data/cpf.json' assert { type: 'json' }
 
 /**
- * @typedef CodeCpf
- * @property {String} code_pac
- * @property {String} lbl_cultu
+ * @typedef UnifiedCulture
  * @property {String} code_cpf_bio
  * @property {String} libelle_code_cpf_bio
- * @property {String} code_grp_cultu
- * @property {String} grp_cultu
+ * @property {String} groupe
+ * @property {String} sous_groupe
+ * @property {String} code_pac
+ * @property {String} libelle_code_pac
+ * @property {String} code_groupe_pac
+ * @property {String} libelle_groupe_pac
  */
 
 /**
  * @param {String} code
- * @returns {CodeCpf}
+ * @returns {UnifiedCulture}
  */
 export function fromCodePac (code) {
   return cpf.find(({ code_pac }) => code_pac === code)
@@ -27,7 +26,7 @@ export function fromCodePac (code) {
 
 /**
  * @param {String} code
- * @returns {CodeCpf}
+ * @returns {UnifiedCulture}
  */
 export function fromCodeCpf (code) {
   return cpf.find(({ code_cpf_bio }) => code_cpf_bio === code)
