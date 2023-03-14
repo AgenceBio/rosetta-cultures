@@ -9,12 +9,19 @@
     "index*",
     "LICENSE",
     "data/*.json",
+    "dist/**/*",
     "README.md"
   ],
+  "exports": {
+    "import": "./index.js",
+    "require": "./dist/cjs/index.js"
+  },
   "scripts": {
-    "build": "node bin/assemble.js",
+    "build": "npm run build:json && npm run build:cjs && npm run build:types",
+    "build:json": "node bin/assemble.js",
     "build:types": "tsc index.js --declaration --allowJs --emitDeclarationOnly",
-    "prepublish": "npm run build:types",
+    "build:cjs": "tsc index.js --esModuleInterop --allowJs --module commonjs --resolveJsonModule --outDir dist/cjs",
+    "prepublish": "npm run build",
     "test": "node --test index.test.js"
   },
   "repository": {
