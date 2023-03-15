@@ -10,10 +10,10 @@ import cpf from './data/cpf.json' assert { type: 'json' }
  * @property {String} libelle_code_cpf_bio
  * @property {String} groupe
  * @property {String} sous_groupe
- * @property {String} code_pac
- * @property {String} libelle_code_pac
- * @property {String} code_groupe_pac
- * @property {String} libelle_groupe_pac
+ * @property {Array.<String>} code_pac
+ * @property {Array.<String>} libelle_code_pac
+ * @property {Array.<String>} code_groupe_pac
+ * @property {Array.<String>} libelle_groupe_pac
  */
 
 /**
@@ -21,7 +21,7 @@ import cpf from './data/cpf.json' assert { type: 'json' }
  * @returns {UnifiedCulture}
  */
 export function fromCodePac (code) {
-  return cpf.find(({ code_pac }) => code_pac === code)
+  return cpf.find(({ code_pac }) => code_pac.includes(code))
 }
 
 /**

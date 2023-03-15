@@ -4,10 +4,10 @@
  * @property {String} libelle_code_cpf_bio
  * @property {String} groupe
  * @property {String} sous_groupe
- * @property {String} code_pac
- * @property {String} libelle_code_pac
- * @property {String} code_groupe_pac
- * @property {String} libelle_groupe_pac
+ * @property {Array.<String>} code_pac
+ * @property {Array.<String>} libelle_code_pac
+ * @property {Array.<String>} code_groupe_pac
+ * @property {Array.<String>} libelle_groupe_pac
  */
 /**
  * @param {String} code
@@ -30,8 +30,8 @@ export type UnifiedCulture = {
     libelle_code_cpf_bio: string;
     groupe: string;
     sous_groupe: string;
-    code_pac: string;
-    libelle_code_pac: string;
-    code_groupe_pac: string;
-    libelle_groupe_pac: string;
+    code_pac: Array<string>;
+    libelle_code_pac: Array<string>;
+    code_groupe_pac: Array<string>;
+    libelle_groupe_pac: Array<string>;
 };

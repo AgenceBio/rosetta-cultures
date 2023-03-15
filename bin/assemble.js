@@ -23,17 +23,18 @@ let csvParser = createReadStream(CODES_FILEPATH).pipe(parse({
 
 // CODE,libelle,Nomenclature,Activite,Groupe,Sous_groupe,Utilisé dans la notification
 for await (const { CODE, libelle, Groupe, Sous_groupe } of csvParser) {
-  // we keep only '01.'
-  // and we skip animal productions ('01.4', '01.5' and '01.6')
-  if (isOrganicProductionCode) {
+  if (isOrganicProductionCode(CODE)) {
     CPF.set(CODE, {
       code_cpf_bio: CODE,
       libelle_code_cpf_bio: libelle,
       groupe: Groupe,
       sous_groupe: Sous_groupe,
       // extension PAC
-      code_pac: null,
-      libelle_code_pac: '',
+      // many codes can be linked to a single CPF element
+      code_pac: [],
+      libelle_code_pac: [],
+      code_groupe_pac: [],
+      libelle_groupe_pac: []
     })
   }
 }
@@ -48,17 +49,20 @@ csvParser = createReadStream(CORRESPONDANCE_PAC_FILEPATH).pipe(parse({
 
 // code_pac,lbl_cultu,code_cpf_bio,libelle_code_cpf_bio,code_grp_cultu,grp_cultu
 for await (const { code_pac, lbl_cultu, code_grp_cultu, grp_cultu, code_cpf_bio } of csvParser) {
-  // if (!CPF.has(code_cpf_bio)) {
-  //   throw new Error(`Le code PAC ${code_pac} est associé au CPF ${code_cpf_bio}… qui n'est pas connu dans le fichier nomenclature.csv`)
-  // }
+  if (!CPF.has(code_cpf_bio)) {
+    // throw new Error(`Le code PAC ${code_pac} est associé au CPF ${code_cpf_bio}… qui n'est pas connu dans le fichier nomenclature.csv`)
+    console.error(`Le code PAC ${code_pac} est associé au CPF ${code_cpf_bio}… qui n'est pas connu dans le fichier nomenclature.csv`)
+  }
+
+  const record = CPF.get(code_cpf_bio) ?? {}
 
   CPF.set(code_cpf_bio, {
-    ...CPF.get(code_cpf_bio),
+    ...record,
     // extension PAC
-    code_pac,
-    libelle_code_pac: lbl_cultu,
-    code_groupe_pac: code_grp_cultu,
-    libelle_groupe_pac: grp_cultu,
+    code_pac: Array.isArray(record.code_pac) ? [...record.code_pac, code_pac] : [code_pac],
+    libelle_code_pac: Array.isArray(record.libelle_code_pac) ? [...record.libelle_code_pac, lbl_cultu] : [lbl_cultu],
+    code_groupe_pac: Array.isArray(record.code_groupe_pac) ? [...record.code_groupe_pac, code_grp_cultu] : [code_grp_cultu],
+    libelle_groupe_pac: Array.isArray(record.libelle_groupe_pac) ? [...record.libelle_groupe_pac, grp_cultu] : [grp_cultu],
   })
 }
 
