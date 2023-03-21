@@ -26,22 +26,18 @@ let csvParser = createReadStream(CODES_FILEPATH).pipe(parse({
   cast: false
 }))
 
-// code_production,lbl_production,nomenclature,affichage_cartobio,lien_code,lien_lbl,groupe,sous_groupe
-// @todo turn this into a testable function
 for await (const { code_production: code_cpf, lbl_production, affichage_cartobio, lien_code, groupe, sous_groupe } of csvParser) {
-  if (isOrganicProductionCode(code_cpf)) {
-    CPF.set(code_cpf, {
-      code_cpf,
-      code_cpf_alias: lien_code,
-      libelle_code_cpf: lbl_production,
-      groupe,
-      sous_groupe,
-      //
-      is_selectable: toBoolean(affichage_cartobio),
-      // extension PAC
-      cultures_pac: [],
-    })
-  }
+  CPF.set(code_cpf, {
+    code_cpf,
+    code_cpf_alias: lien_code,
+    libelle_code_cpf: lbl_production,
+    groupe,
+    sous_groupe,
+    //
+    is_selectable: toBoolean(affichage_cartobio),
+    // extension PAC
+    cultures_pac: [],
+  })
 }
 
 // 2. Join on matching code
