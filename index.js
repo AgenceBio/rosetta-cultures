@@ -1,19 +1,26 @@
 /**
  * Built with `npm run build`
+ *
  * @type {Array.<UnifiedCulture>}
  */
 import cpf from './data/cpf.json' assert { type: 'json' }
 
 /**
  * @typedef UnifiedCulture
- * @property {String} code_cpf_bio
- * @property {String} libelle_code_cpf_bio
+ * @property {String} code_cpf
+ * @property {String} libelle_code_cpf
+ * @property {String} code_cpf_alias
+ * @property {Boolean} is_selectable
  * @property {String} groupe
  * @property {String} sous_groupe
- * @property {Array.<String>} code_pac
- * @property {Array.<String>} libelle_code_pac
- * @property {Array.<String>} code_groupe_pac
- * @property {Array.<String>} libelle_groupe_pac
+ * @property {Array.<PacCulture>} cultures_pac
+ */
+
+/**
+ * @typedef PacCulture
+ * @property {String} code
+ * @property {String} libelle
+ * @property {Boolean} requires_precision
  */
 
 /**
@@ -21,7 +28,7 @@ import cpf from './data/cpf.json' assert { type: 'json' }
  * @returns {UnifiedCulture}
  */
 export function fromCodePac (code) {
-  return cpf.find(({ code_pac }) => code_pac.includes(code))
+  return cpf.find(({ cultures_pac }) => cultures_pac.some(culture => culture.code === code))
 }
 
 /**
@@ -29,7 +36,7 @@ export function fromCodePac (code) {
  * @returns {UnifiedCulture}
  */
 export function fromCodeCpf (code) {
-  return cpf.find(({ code_cpf_bio }) => code_cpf_bio === code)
+  return cpf.find(({ code_cpf }) => code_cpf === code)
 }
 
 
@@ -47,4 +54,52 @@ const CPF_ORGANIC_PRODUCTION_RE = /^(01(?!.[456][1-9]?(.\d{1,3})*).+|02(.\d{1,3}
  */
 export function isOrganicProductionCode (code) {
   return CPF_ORGANIC_PRODUCTION_RE.test(code)
+}
+
+/**
+ * Returns a JavaScript boolean from an Excel string value of '0' or '1'
+ *
+ * @param {String} excelLikeBoolean
+ * @returns {Boolean}
+ */
+export function toBoolean (excelLikeBoolean) {
+  return Boolean(parseInt(excelLikeBoolean, 10))
+}
+
+/**
+ *
+ * @param {UnifiedCulture[]} codes
+ * @returns {function<String>:UnifiedCulture[]}
+ */
+export function createCpfResolver (cultures) {
+  const HAS_MANY_RE = /,/g
+  const HAS_GLOB_RE = /\*/g
+
+  const filterByValues = (parts) => (code_cpf) => parts.includes(code_cpf)
+  const filterByGlob = (parts) => (code_cpf) => parts.some(part => {
+    if (part.search(HAS_GLOB_RE) !== -1) {
+      return code_cpf.startsWith(part.split(HAS_GLOB_RE).at(0))
+    }
+    else {
+      return code_cpf === part
+    }
+  })
+
+  /**
+   * We have multiple resolution strategies
+   * 1. one-to-one (xx.yy.zz)
+   * 2. one-to-explicit-many (xx.yy.z1, xx.yy.z2)
+   * 3. one-to-range-of-many (xx.yy.*) - correspondance_cartobio = 0
+   * 4. lists of all of the above (xx.yy.z1, xx.aa.*, zz.*)
+   *
+   * @param {String} selector
+   * @returns {UnifiedCulture[]}
+   */
+  return function cpfResolver (selector) {
+    const parts = selector.split(HAS_MANY_RE).map(maybeSelector => maybeSelector.trim())
+    const hasGlob = selector.search(HAS_GLOB_RE) !== -1
+    const strategyFn = hasGlob ? filterByGlob(parts) : filterByValues(parts)
+
+    return cultures.filter(({ code_cpf }) => strategyFn(code_cpf))
+  }
 }

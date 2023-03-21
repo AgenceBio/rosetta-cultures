@@ -1,23 +1,32 @@
 import { describe, it } from 'node:test'
 import { ok, deepEqual } from 'node:assert/strict'
-import { fromCodeCpf, fromCodePac, isOrganicProductionCode } from './index.js'
+import { createCpfResolver, fromCodeCpf, fromCodePac, isOrganicProductionCode } from './index.js'
 
+/**
+ * @typedef {import('./index.js').UnifiedCulture} UnifiedCulture
+ * @type {UnifiedCulture}
+ */
 const expectation = {
-  code_cpf_bio: '01.11.20',
-  code_groupe_pac: ['4'],
-  code_pac: ['CPZ'],
-  groupe: 'Grandes Cultures',
-  sous_groupe: 'Céréales',
-  libelle_code_cpf_bio: 'Maïs grain (yc maïs doux)',
-  libelle_code_pac: ['Autre céréale de printemps de genre Zea'],
-  libelle_groupe_pac: ['Autres céréales']
+  "code_cpf": "01.11.20.1",
+  "code_cpf_alias": "",
+  "libelle_code_cpf": "Maïs doux",
+  "groupe": "Légumes",
+  "sous_groupe": "Légumes à feuilles ou tiges",
+  "is_selectable": true,
+  "cultures_pac": [
+    {
+      "code": "MID",
+      "libelle": "Maïs doux",
+      "requires_precision": false
+    }
+  ]
 }
 
 describe('isOrganicProductionCode', () => {
   it('this is an organic production code', () => {
     deepEqual(isOrganicProductionCode('01.11'), true)
     deepEqual(isOrganicProductionCode('01.11.20'), true)
-    deepEqual(isOrganicProductionCode('01.19.10.11'), true)
+    deepEqual(isOrganicProductionCode('01.11.20.1'), true)
     deepEqual(isOrganicProductionCode('02.4'), true)
     deepEqual(isOrganicProductionCode('02.40.10'), true)
   })
@@ -35,7 +44,7 @@ describe('isOrganicProductionCode', () => {
 
 describe('fromCodeCpf', () => {
   it('returns a matching code object', () => {
-    deepEqual(fromCodeCpf('01.11.20'), expectation)
+    deepEqual(fromCodeCpf('01.11.20.1'), expectation)
   })
 
   it('returns nothing if not matching', () => {
@@ -49,20 +58,58 @@ describe('fromCodeCpf', () => {
 
 describe('fromCodePac', () => {
   it('returns a matching code object', () => {
-    deepEqual(fromCodePac('CPZ'), expectation)
+    deepEqual(fromCodePac('MID'), expectation)
     ok(fromCodePac('PTR'))
   })
 
-  it('returns a PAC code without CPF match', () => {
+  // we do not have a case anymore
+  it.skip('returns a PAC code without CPF match', () => {
     deepEqual(fromCodePac('ZZZ'), {
-      code_groupe_pac: ['28'],
-      code_pac: ['ZZZ'],
-      libelle_code_pac: ['Culture inconnue'],
-      libelle_groupe_pac: ['Divers']
+      cultures_pac: [{ code: 'ZZZ', 'libelle': 'Culture inconnue', requires_precision: true }]
     })
   })
 
   it('returns nothing if not matching', () => {
     deepEqual(fromCodePac('Z@Z'), undefined)
+  })
+})
+
+describe('createCpfResolver', () => {
+  const codes = [
+    { code_cpf: '10' },
+    { code_cpf: '10.1' },
+    { code_cpf: '10.10.10' },
+    { code_cpf: '10.10.10.01' },
+    { code_cpf: '10.10.10.02' },
+    { code_cpf: '10.11.10' },
+    { code_cpf: '20.1' },
+    { code_cpf: '20.10.10' },
+  ]
+
+  const resolve = createCpfResolver(codes)
+
+  it('resolves single codes', () => {
+    deepEqual(resolve('10'), [{ code_cpf: '10' }])
+    deepEqual(resolve('10.1'), [{ code_cpf: '10.1' }])
+    deepEqual(resolve(' 10.10.10 '), [{ code_cpf: '10.10.10' }])
+  })
+
+  it('resolves lists of single codes', () => {
+    const expectation = [{ code_cpf: '10.10.10.01' }, { code_cpf: '10.10.10.02' }]
+    deepEqual(resolve('10.10.10.01,10.10.10.02'), expectation)
+    deepEqual(resolve(' 10.10.10.01, 10.10.10.02 '), expectation)
+  })
+
+  it('resolves patterns of codes', () => {
+    const expectation = [{ code_cpf: '10.10.10.01' }, { code_cpf: '10.10.10.02' }]
+
+    deepEqual(resolve('10.10.10.*'), expectation)
+    deepEqual(resolve('10.1*'), [{ code_cpf: '10.1' }, { code_cpf: '10.10.10' }, { code_cpf: '10.10.10.01' }, { code_cpf: '10.10.10.02' }, { code_cpf: '10.11.10' },])
+    deepEqual(resolve('*'), codes)
+  })
+
+  it('resolves lists of single and patterns of codes', () => {
+    const expectation = [{ code_cpf: '10.10.10.01' }, { code_cpf: '10.10.10.02' }, { code_cpf: '20.1' }]
+    deepEqual(resolve('10.10.10.*, 20.1'), expectation)
   })
 })
