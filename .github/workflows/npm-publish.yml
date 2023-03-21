@@ -7,10 +7,8 @@ on:
   push:
     branches:
       - "main"
-  create:
-    types: [tag]
-  release:
-    types: [created]
+    tags:
+      - "v*"
 
 jobs:
   build:
@@ -25,7 +23,7 @@ jobs:
   publish-npm:
     needs: build
     runs-on: ubuntu-latest
-    if: ${{ github.event.release.tag_name || github.event.create.ref_type == 'tag' }}
+    if: ${{ startsWith(github.ref_name, 'v') }}
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
