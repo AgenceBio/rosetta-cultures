@@ -6,7 +6,7 @@ import { createCpfResolver, fromCodeCpf, fromCodePac, isOrganicProductionCode } 
  * @typedef {import('./index.js').UnifiedCulture} UnifiedCulture
  * @type {UnifiedCulture}
  */
-const expectation = {
+const partialExpectation = {
   "code_cpf": "01.11.20.1",
   "code_cpf_alias": "",
   "libelle_code_cpf": "Maïs doux",
@@ -29,6 +29,7 @@ describe('isOrganicProductionCode', () => {
     deepEqual(isOrganicProductionCode('01.11.20.1'), true)
     deepEqual(isOrganicProductionCode('02.4'), true)
     deepEqual(isOrganicProductionCode('02.40.10'), true)
+    deepEqual(isOrganicProductionCode('08.93.1'), true)
   })
 
   it('this is not an organic production code', () => {
@@ -44,7 +45,7 @@ describe('isOrganicProductionCode', () => {
 
 describe('fromCodeCpf', () => {
   it('returns a matching code object', () => {
-    deepEqual(fromCodeCpf('01.11.20.1'), expectation)
+    deepEqual(fromCodeCpf('01.11.20.1').code_cpf, partialExpectation.code_cpf)
   })
 
   it('returns nothing if not matching', () => {
@@ -58,8 +59,12 @@ describe('fromCodeCpf', () => {
 
 describe('fromCodePac', () => {
   it('returns a matching code object', () => {
-    deepEqual(fromCodePac('MID'), expectation)
+    const record = fromCodePac('MID')
+    deepEqual(record.code_cpf, partialExpectation.code_cpf)
+    ok(record.cultures_pac.find(({ code }) => code === 'MID'))
+
     ok(fromCodePac('PTR'))
+    ok(fromCodePac('MRS'))
   })
 
   // we do not have a case anymore

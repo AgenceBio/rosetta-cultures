@@ -3,7 +3,7 @@ import { createReadStream } from 'node:fs'
 import { writeFile } from 'node:fs/promises'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { isOrganicProductionCode, toBoolean } from '../index.js'
+import { createCpfResolver, isOrganicProductionCode, toBoolean } from '../index.js'
 
 const here = dirname(fileURLToPath(new URL(import.meta.url)))
 
@@ -52,14 +52,15 @@ csvParser = createReadStream(CORRESPONDANCE_PAC_FILEPATH).pipe(parse({
   cast: false
 }))
 
+const resolve = createCpfResolver(Array.from(CPF.values()))
 
 for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_cartobio } of csvParser) {
-  if (!CPF.has(code_cpf)) {
-    // throw new Error(`Le code PAC ${code_pac} est associé au CPF ${code_cpf}… qui n'est pas connu dans le fichier nomenclature.csv`)
-    console.error(`Le code PAC ${code_pac} est associé au CPF ${code_cpf}… qui n'est pas connu dans le fichier nomenclature.csv`)
-  }
+  const resolvedRecords = resolve(code_cpf)
 
-  const record = CPF.get(code_cpf) ?? {}
+  if (resolvedRecords.length === 0) {
+    // throw new Error(`Le code PAC ${code_pac} est associé au CPF ${code_cpf}… qui n'est pas connu dans le fichier nomenclature.csv`)
+    console.error(`Le code CPF ${code_cpf} associé à ${code_pac} est introuvable dans nomenclature.csv`)
+  }
 
   /**
    * @type {PacCulture}
@@ -70,10 +71,13 @@ for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_cartobio
     requires_precision: toBoolean(correspondance_cartobio) === false
   }
 
-  CPF.set(code_cpf, {
-    ...record,
-    // extension PAC
-    cultures_pac: Array.isArray(record.cultures_pac) ? [...record.cultures_pac, new_culture] : [new_culture]
+  resolvedRecords.forEach(({ code_cpf }) => {
+    const record = CPF.get(code_cpf)
+    CPF.set(code_cpf, {
+      ...record,
+      // extension PAC
+      cultures_pac: Array.isArray(record.cultures_pac) ? [...record.cultures_pac, new_culture] : [new_culture]
+    })
   })
 }
 

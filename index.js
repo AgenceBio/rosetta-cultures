@@ -44,8 +44,9 @@ export function fromCodeCpf (code) {
  * @see https://mattermost.incubateur.net/betagouv/pl/nn6psexgw3bedq16yisrpj777h
  * > Oui 01 et 02 en enlevant les productions animales
  * > En enlevant 01.4, 01.5 et 01.6
+ * > En ajoutant `08.93.1` (équivalent PAC de `MRS`/Marais salant)
  */
-const CPF_ORGANIC_PRODUCTION_RE = /^(01(?!.[456][1-9]?(.\d{1,3})*).+|02(.\d{1,3})+)$/
+const CPF_ORGANIC_PRODUCTION_RE = /^(01(?!.[456][1-9]?(.\d{1,3})*).+|02(.\d{1,3})+|08.93.1)$/
 
 /**
  *
