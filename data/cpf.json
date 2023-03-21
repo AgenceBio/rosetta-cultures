@@ -1,7 +1,7 @@
 [
   {
     "code_cpf": "01.1",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Cultures non permanentes",
     "groupe": "",
     "sous_groupe": "",
@@ -10,7 +10,7 @@
   },
   {
     "code_cpf": "01.11",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Céréales (à l'exclusion du riz), légumineuses et oléagineux",
     "groupe": "Grandes Cultures",
     "sous_groupe": "",
@@ -130,7 +130,7 @@
   },
   {
     "code_cpf": "01.11.3",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Orge, seigle et avoine",
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
@@ -1317,14 +1317,9 @@
     "is_selectable": true,
     "cultures_pac": [
       {
-        "code": "LBF",
-        "libelle": "Laitue / Batavia / Feuille de chêne",
-        "requires_precision": true
-      },
-      {
         "code": "ROQ",
         "libelle": "Roquette",
-        "requires_precision": true
+        "requires_precision": false
       }
     ]
   },
@@ -1335,17 +1330,11 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
-    "cultures_pac": [
-      {
-        "code": "CES",
-        "libelle": "Chicorée / Endive / Scarole",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.13.2",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Melons et pastèques",
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
@@ -1547,13 +1536,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
-    "cultures_pac": [
-      {
-        "code": "CCT",
-        "libelle": "Courgette / Citrouille",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.13.4",
@@ -1566,7 +1549,7 @@
   },
   {
     "code_cpf": "01.13.41",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Carottes et navets",
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
@@ -1706,13 +1689,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
-    "cultures_pac": [
-      {
-        "code": "CEL",
-        "libelle": "Céleri",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.13.49.4",
@@ -1883,7 +1860,7 @@
   },
   {
     "code_cpf": "01.13.7",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Betteraves à sucre et semences de betteraves à sucre",
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures sucrières",
@@ -1897,13 +1874,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures sucrières",
     "is_selectable": true,
-    "cultures_pac": [
-      {
-        "code": "BTN",
-        "libelle": "Betterave non fourragère / Bette",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.13.72",
@@ -2113,7 +2084,7 @@
   },
   {
     "code_cpf": "01.16.12",
-    "code_cpf_alias": "Aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Jute, kénaf et autres fibres libériennes, bruts ou rouis, à l'exclusion du lin, du chanvre commun et de la ramie",
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures textiles",
@@ -2175,32 +2146,16 @@
   },
   {
     "code_cpf": "01.19",
-    "code_cpf_alias": "Aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres cultures non permanentes",
     "groupe": "",
     "sous_groupe": "",
     "is_selectable": false,
-    "cultures_pac": [
-      {
-        "code": "CSS",
-        "libelle": "Culture sous serre hors sol",
-        "requires_precision": true
-      },
-      {
-        "code": "CUA",
-        "libelle": "Culture sous abattis",
-        "requires_precision": true
-      },
-      {
-        "code": "FLA",
-        "libelle": "Autre légume ou fruit annuel",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.19.00.1",
-    "code_cpf_alias": "Aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres cultures non permanentes n.c.a.",
     "groupe": "",
     "sous_groupe": "",
@@ -2209,27 +2164,16 @@
   },
   {
     "code_cpf": "01.19.00.2",
-    "code_cpf_alias": "Aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Cultures en inter-rang",
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
-    "cultures_pac": [
-      {
-        "code": "CID",
-        "libelle": "Cultures conduites en interrangs : 2 cultures représentant chacune plus de 25%",
-        "requires_precision": true
-      },
-      {
-        "code": "CIT",
-        "libelle": "Cultures conduites en interrangs : 3 cultures représentant chacune plus de 25%",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.19.00.9",
-    "code_cpf_alias": "Aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres cultures non permanentes n.c.a.",
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
@@ -2899,7 +2843,7 @@
   },
   {
     "code_cpf": "01.19.2",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Fleurs coupées et boutons de fleurs ; semences florales",
     "groupe": "Autres productions végétales",
     "sous_groupe": "Fleurs",
@@ -2937,7 +2881,7 @@
   },
   {
     "code_cpf": "01.19.3",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Semences de betteraves et de plantes fourragères, autres produits végétaux bruts",
     "groupe": "Semences et plants",
     "sous_groupe": "Autres semences",
@@ -2955,7 +2899,7 @@
   },
   {
     "code_cpf": "01.19.39",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Produits végétaux bruts n.c.a.",
     "groupe": "Cultures industrielles",
     "sous_groupe": "Autre cultures industrielles",
@@ -2964,7 +2908,7 @@
   },
   {
     "code_cpf": "01.19.39.1",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres cultures industrielles",
     "groupe": "Cultures industrielles",
     "sous_groupe": "Autre cultures industrielles",
@@ -2973,7 +2917,7 @@
   },
   {
     "code_cpf": "01.2",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Cultures permanentes",
     "groupe": "",
     "sous_groupe": "",
@@ -2982,7 +2926,7 @@
   },
   {
     "code_cpf": "01.21",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Raisin",
     "groupe": "Viticulture",
     "sous_groupe": "Viticulture",
@@ -2991,7 +2935,7 @@
   },
   {
     "code_cpf": "01.21.1",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Raisin",
     "groupe": "Viticulture",
     "sous_groupe": "Viticulture",
@@ -3296,17 +3240,11 @@
     "groupe": "Fruits",
     "sous_groupe": "Agrumes",
     "is_selectable": true,
-    "cultures_pac": [
-      {
-        "code": "AGR",
-        "libelle": "Agrume",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.24",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Fruits à pépins et à noyau",
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
@@ -3315,7 +3253,7 @@
   },
   {
     "code_cpf": "01.24.1",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Pommes",
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
@@ -3324,7 +3262,7 @@
   },
   {
     "code_cpf": "01.24.10",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Pommes",
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
@@ -3351,7 +3289,7 @@
   },
   {
     "code_cpf": "01.24.2",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres fruits à pépins et à noyau",
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
@@ -3465,7 +3403,7 @@
   },
   {
     "code_cpf": "01.24.29",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres fruits à pépins et à noyau n.c.a.",
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
@@ -3492,7 +3430,7 @@
   },
   {
     "code_cpf": "01.25",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres fruits d'arbres ou d'arbustes et fruits à coque",
     "groupe": "Fruits",
     "sous_groupe": "Autres fruits frais",
@@ -3708,27 +3646,16 @@
   },
   {
     "code_cpf": "01.25.9",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres fruits d'arbres ou d'arbustes n.c.a.",
     "groupe": "Fruits",
     "sous_groupe": "Autres fruits frais",
     "is_selectable": false,
-    "cultures_pac": [
-      {
-        "code": "VGD",
-        "libelle": "Verger (DOM)",
-        "requires_precision": true
-      },
-      {
-        "code": "VRG",
-        "libelle": "Verger",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.25.90",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres fruits d'arbres ou d'arbustes n.c.a.",
     "groupe": "Fruits",
     "sous_groupe": "Autres fruits frais",
@@ -3927,11 +3854,6 @@
         "requires_precision": false
       },
       {
-        "code": "MRJ",
-        "libelle": "Marjolaine / Origan",
-        "requires_precision": true
-      },
-      {
         "code": "PAQ",
         "libelle": "Pâquerette",
         "requires_precision": false
@@ -4050,7 +3972,7 @@
   },
   {
     "code_cpf": "01.28.14.3",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Anis, badiane",
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
@@ -4538,13 +4460,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
-    "cultures_pac": [
-      {
-        "code": "LAV",
-        "libelle": "Lavande / Lavandin",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.28.30.11",
@@ -4883,13 +4799,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
-    "cultures_pac": [
-      {
-        "code": "SGE",
-        "libelle": "Sauge",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.28.30.82",
@@ -4920,22 +4830,16 @@
   },
   {
     "code_cpf": "01.29",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres cultures permanentes",
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
-    "cultures_pac": [
-      {
-        "code": "FLP",
-        "libelle": "Autre légume ou fruit pérenne",
-        "requires_precision": true
-      }
-    ]
+    "cultures_pac": []
   },
   {
     "code_cpf": "01.29.00.9",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Autres cultures permanentes n.c.a.",
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
@@ -4995,7 +4899,7 @@
   },
   {
     "code_cpf": "01.29.3",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
@@ -5004,7 +4908,7 @@
   },
   {
     "code_cpf": "01.29.30",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
@@ -5082,6 +4986,11 @@
         "requires_precision": false
       },
       {
+        "code": "RVI",
+        "libelle": "Restructuration du vignoble",
+        "requires_precision": false
+      },
+      {
         "code": "TCR",
         "libelle": "Taillis à courte rotation",
         "requires_precision": false
@@ -5120,17 +5029,12 @@
         "code": "MPA",
         "libelle": "Autre mélange de plantes fixant l’azote",
         "requires_precision": false
-      },
-      {
-        "code": "RVI",
-        "libelle": "Restructuration du vignoble",
-        "requires_precision": true
       }
     ]
   },
   {
     "code_cpf": "01.95",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Bois, zone de cueillette et estives collectives",
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
@@ -5139,7 +5043,7 @@
   },
   {
     "code_cpf": "01.95.1",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Bois",
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
@@ -5307,7 +5211,7 @@
   },
   {
     "code_cpf": "02.1",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Arbres forestiers et services des pépinières",
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
@@ -5316,7 +5220,7 @@
   },
   {
     "code_cpf": "02.10",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Arbres forestiers et services des pépinières",
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
@@ -5325,7 +5229,7 @@
   },
   {
     "code_cpf": "02.10.1",
-    "code_cpf_alias": "aucun",
+    "code_cpf_alias": "",
     "libelle_code_cpf": "Plants d'arbres forestiers ; semences d'arbres forestiers",
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
@@ -5374,6 +5278,49 @@
         "code": "ACA",
         "libelle": "Autre culture non précisée dans la liste (admissible)",
         "requires_precision": true
+      },
+      {
+        "code": "CID",
+        "libelle": "Cultures conduites en interrangs : 2 cultures représentant chacune plus de 25%",
+        "requires_precision": true
+      },
+      {
+        "code": "CIT",
+        "libelle": "Cultures conduites en interrangs : 3 cultures représentant chacune plus de 25%",
+        "requires_precision": true
+      },
+      {
+        "code": "CSS",
+        "libelle": "Culture sous serre hors sol",
+        "requires_precision": true
+      },
+      {
+        "code": "CUA",
+        "libelle": "Culture sous abattis",
+        "requires_precision": true
+      },
+      {
+        "code": "ZZZ",
+        "libelle": "Culture inconnue",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "AGR",
+        "libelle": "Agrume",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "BTN",
+        "libelle": "Betterave non fourragère / Bette",
+        "requires_precision": true
       }
     ]
   },
@@ -5382,6 +5329,78 @@
       {
         "code": "CAC",
         "libelle": "Café / Cacao",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "CCT",
+        "libelle": "Courgette / Citrouille",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "CEL",
+        "libelle": "Céleri",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "CES",
+        "libelle": "Chicorée / Endive / Scarole",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "FLA",
+        "libelle": "Autre légume ou fruit annuel",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "FLP",
+        "libelle": "Autre légume ou fruit pérenne",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "LAV",
+        "libelle": "Lavande / Lavandin",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "LBF",
+        "libelle": "Laitue / Batavia / Feuille de chêne",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "MRJ",
+        "libelle": "Marjolaine / Origan",
         "requires_precision": true
       }
     ]
@@ -5398,8 +5417,22 @@
   {
     "cultures_pac": [
       {
-        "code": "ZZZ",
-        "libelle": "Culture inconnue",
+        "code": "SGE",
+        "libelle": "Sauge",
+        "requires_precision": true
+      }
+    ]
+  },
+  {
+    "cultures_pac": [
+      {
+        "code": "VGD",
+        "libelle": "Verger (DOM)",
+        "requires_precision": true
+      },
+      {
+        "code": "VRG",
+        "libelle": "Verger",
         "requires_precision": true
       }
     ]
