@@ -6,6 +6,7 @@
     "groupe": "",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -46,6 +47,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -86,6 +88,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Semences grandes cultures et cultures industrielles",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -126,6 +129,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -166,6 +170,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1002",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -221,6 +226,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1003",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -271,6 +277,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -311,6 +318,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -351,6 +359,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": "1147",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -396,6 +405,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1005",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -441,6 +451,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -481,6 +492,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1006",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -541,6 +553,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -581,6 +594,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -621,6 +635,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1009",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -681,6 +696,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1001",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -741,6 +757,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -781,6 +798,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1010",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -831,6 +849,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -876,6 +895,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1011",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -926,6 +946,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -966,6 +987,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1146",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1011,6 +1033,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1051,6 +1074,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1091,6 +1115,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1008",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1141,6 +1166,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1181,6 +1207,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1013",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1226,6 +1253,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1014",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1271,6 +1299,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1311,6 +1340,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": "1012",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1391,6 +1421,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1431,6 +1462,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1471,6 +1503,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1511,6 +1544,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": "1041",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1551,6 +1585,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": false,
+    "code_bureau_veritas": "1045",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1591,6 +1626,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1631,6 +1667,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1676,6 +1713,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1721,6 +1759,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1761,6 +1800,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1801,6 +1841,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1846,6 +1887,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": "1020",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1896,6 +1938,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": "1025",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1941,6 +1984,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": "1024",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1986,6 +2030,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": "1022",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2041,6 +2086,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2091,6 +2137,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2131,6 +2178,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": "1023",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2221,6 +2269,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": "1021",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2276,6 +2325,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
+    "code_bureau_veritas": "1026",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2326,6 +2376,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2366,6 +2417,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": "1017",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2411,6 +2463,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2456,6 +2509,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2496,6 +2550,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": "1016",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2546,6 +2601,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": "1153",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2591,6 +2647,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": "1015",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2651,6 +2708,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2691,6 +2749,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": "1018",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2736,6 +2795,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2776,6 +2836,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": false,
+    "code_bureau_veritas": "1019",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2816,6 +2877,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2861,6 +2923,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2901,6 +2964,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2941,6 +3005,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3026,6 +3091,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3071,6 +3137,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3111,6 +3178,7 @@
     "groupe": "Grandes Cultures",
     "sous_groupe": "Céréales",
     "is_selectable": false,
+    "code_bureau_veritas": "1007",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3151,6 +3219,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Semences grandes cultures et cultures industrielles",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3191,6 +3260,7 @@
     "groupe": "Légumes",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3241,6 +3311,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3291,6 +3362,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": "1030",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3341,6 +3413,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": "1034",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3396,6 +3469,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": "1035",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3446,6 +3520,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": "1048",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3501,6 +3576,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": "1078",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3556,6 +3632,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": "1040",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3611,6 +3688,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": "1029",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3666,6 +3744,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3716,6 +3795,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": "1039",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3771,6 +3851,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3826,6 +3907,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3881,6 +3963,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3931,6 +4014,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3986,6 +4070,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4036,6 +4121,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4086,6 +4172,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4141,6 +4228,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4196,6 +4284,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4251,6 +4340,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4306,6 +4396,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4356,6 +4447,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4411,6 +4503,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4461,6 +4554,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4511,6 +4605,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4566,6 +4661,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4616,6 +4712,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": "1042",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4671,6 +4768,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4721,6 +4819,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4771,6 +4870,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4821,6 +4921,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4876,6 +4977,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": "1036",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4931,6 +5033,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4986,6 +5089,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": "1049",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5046,6 +5150,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5096,6 +5201,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": "1135",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5151,6 +5257,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": "1037",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5206,6 +5313,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5261,6 +5369,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5316,6 +5425,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5366,6 +5476,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5416,6 +5527,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5466,6 +5578,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1032",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5521,6 +5634,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1043",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5576,6 +5690,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1028",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5631,6 +5746,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5686,6 +5802,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1044",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5736,6 +5853,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1038",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5786,6 +5904,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1046",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5841,6 +5960,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5891,6 +6011,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1047",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5946,6 +6067,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1031",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5996,6 +6118,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1033",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6051,6 +6174,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6106,6 +6230,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6161,6 +6286,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6216,6 +6342,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6276,6 +6403,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6326,6 +6454,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6376,6 +6505,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": "1027",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6431,6 +6561,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6486,6 +6617,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6536,6 +6668,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6586,6 +6719,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6636,6 +6770,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6686,6 +6821,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Semences et plants potagers",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6736,6 +6872,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Semences et plants potagers",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6786,6 +6923,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures sucrières",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6836,6 +6974,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures sucrières",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6891,6 +7030,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Semences grandes cultures et cultures industrielles",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6941,6 +7081,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6991,6 +7132,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": false,
+    "code_bureau_veritas": "1134",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7041,6 +7183,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7091,6 +7234,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7146,6 +7290,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7196,6 +7341,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": false,
+    "code_bureau_veritas": "1050",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7246,6 +7392,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": true,
+    "code_bureau_veritas": "1052",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7301,6 +7448,7 @@
     "groupe": "Légumes",
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": true,
+    "code_bureau_veritas": "1051",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7351,6 +7499,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures sucrières",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7391,6 +7540,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures sucrières",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7456,6 +7606,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures sucrières",
     "is_selectable": false,
+    "code_bureau_veritas": "1154",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7496,6 +7647,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7536,6 +7688,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7581,6 +7734,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": false,
+    "code_bureau_veritas": "1152",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7621,6 +7775,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures textiles",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7661,6 +7816,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures textiles",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7701,6 +7857,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures textiles",
     "is_selectable": true,
+    "code_bureau_veritas": "1080",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7741,6 +7898,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures textiles",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7781,6 +7939,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures textiles",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7821,6 +7980,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures textiles",
     "is_selectable": true,
+    "code_bureau_veritas": "1151",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7866,6 +8026,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures textiles",
     "is_selectable": true,
+    "code_bureau_veritas": "1145",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7916,6 +8077,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Cultures textiles",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7956,6 +8118,7 @@
     "groupe": "",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": "1131",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7996,6 +8159,7 @@
     "groupe": "",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8036,6 +8200,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8076,6 +8241,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8116,6 +8282,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8156,6 +8323,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Plantes fourragères",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8196,6 +8364,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Prairies, parcours",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8236,6 +8405,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Prairies, parcours",
     "is_selectable": true,
+    "code_bureau_veritas": "1123",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8341,6 +8511,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Prairies, parcours",
     "is_selectable": true,
+    "code_bureau_veritas": "1127",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8391,6 +8562,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Prairies, parcours",
     "is_selectable": true,
+    "code_bureau_veritas": "1128",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8431,6 +8603,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
+    "code_bureau_veritas": "1118",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8476,6 +8649,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
+    "code_bureau_veritas": "1119",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8521,6 +8695,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
+    "code_bureau_veritas": "1120",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8566,6 +8741,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
+    "code_bureau_veritas": "1121",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8611,6 +8787,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
+    "code_bureau_veritas": "1122",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8721,6 +8898,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
+    "code_bureau_veritas": "1124",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8786,6 +8964,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
+    "code_bureau_veritas": "1125",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8871,6 +9050,7 @@
     "groupe": "Surfaces fourragères",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1129",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9201,6 +9381,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "Fleurs",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9241,6 +9422,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "Fleurs",
     "is_selectable": true,
+    "code_bureau_veritas": "1132",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9291,6 +9473,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Autres semences",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9331,6 +9514,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Autres semences",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9371,6 +9555,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Autres semences",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9411,6 +9596,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9451,6 +9637,7 @@
     "groupe": "Cultures industrielles",
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": false,
+    "code_bureau_veritas": "1081",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9491,6 +9678,7 @@
     "groupe": "",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9531,6 +9719,7 @@
     "groupe": "Viticulture",
     "sous_groupe": "Viticulture",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9571,6 +9760,7 @@
     "groupe": "Viticulture",
     "sous_groupe": "Viticulture",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9611,6 +9801,7 @@
     "groupe": "Viticulture",
     "sous_groupe": "Viticulture",
     "is_selectable": true,
+    "code_bureau_veritas": "1076",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9656,6 +9847,7 @@
     "groupe": "Viticulture",
     "sous_groupe": "Viticulture",
     "is_selectable": true,
+    "code_bureau_veritas": "1077",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9701,6 +9893,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9756,6 +9949,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9811,6 +10005,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9871,6 +10066,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1144",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9976,6 +10172,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10031,6 +10228,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1072",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10086,6 +10284,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10141,6 +10340,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1143",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10201,6 +10401,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10256,6 +10457,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10311,6 +10513,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10366,6 +10569,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10421,6 +10625,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10476,6 +10681,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10531,6 +10737,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10586,6 +10793,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10641,6 +10849,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Agrumes",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10696,6 +10905,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Agrumes",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10751,6 +10961,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Agrumes",
     "is_selectable": true,
+    "code_bureau_veritas": "1068",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10811,6 +11022,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Agrumes",
     "is_selectable": true,
+    "code_bureau_veritas": "1067",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10871,6 +11083,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Agrumes",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10931,6 +11144,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Agrumes",
     "is_selectable": true,
+    "code_bureau_veritas": "1066",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10991,6 +11205,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Agrumes",
     "is_selectable": true,
+    "code_bureau_veritas": "1142",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11051,6 +11266,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11106,6 +11322,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
+    "code_bureau_veritas": "1148",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11161,6 +11378,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11216,6 +11434,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1059",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11271,6 +11490,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1060",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11326,6 +11546,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11381,6 +11602,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1061",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11441,6 +11663,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11496,6 +11719,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1053",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11551,6 +11775,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1054",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11611,6 +11836,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1055",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11671,6 +11897,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1056",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11726,6 +11953,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1057",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11781,6 +12009,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11841,6 +12070,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11896,6 +12126,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11951,6 +12182,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1140",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12006,6 +12238,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
+    "code_bureau_veritas": "1139",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12061,6 +12294,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Autres fruits frais",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12116,6 +12350,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12171,6 +12406,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": true,
+    "code_bureau_veritas": "1074",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12226,6 +12462,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": true,
+    "code_bureau_veritas": "1070",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12281,6 +12518,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": true,
+    "code_bureau_veritas": "1073",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12341,6 +12579,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12396,6 +12635,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": true,
+    "code_bureau_veritas": "1069",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12451,6 +12691,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": true,
+    "code_bureau_veritas": "1071",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12506,6 +12747,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12561,6 +12803,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12616,6 +12859,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Baies",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12676,6 +12920,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Semences fruitières",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12731,6 +12976,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Semences fruitières",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12786,6 +13032,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à coque",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12841,6 +13088,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
+    "code_bureau_veritas": "1062",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12896,6 +13144,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
+    "code_bureau_veritas": "1063",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12956,6 +13205,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
+    "code_bureau_veritas": "1065",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13016,6 +13266,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13076,6 +13327,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
+    "code_bureau_veritas": "1064",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13136,6 +13388,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
+    "code_bureau_veritas": "1141",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13191,6 +13444,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Autres fruits frais",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13246,6 +13500,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Autres fruits frais",
     "is_selectable": false,
+    "code_bureau_veritas": "1075",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13301,6 +13556,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13356,6 +13612,7 @@
     "groupe": "Oléiculture",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1058",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13416,6 +13673,7 @@
     "groupe": "Oléiculture",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13471,6 +13729,7 @@
     "groupe": "Oléiculture",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13526,6 +13785,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13581,6 +13841,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13636,6 +13897,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13691,6 +13953,7 @@
     "groupe": "Fruits",
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13746,6 +14009,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à boissons",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13786,6 +14050,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à boissons",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13826,6 +14091,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13866,6 +14132,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13906,6 +14173,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13946,6 +14214,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13991,6 +14260,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14031,6 +14301,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14071,6 +14342,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
+    "code_bureau_veritas": "1155",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14116,6 +14388,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": "1116",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14156,6 +14429,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14256,6 +14530,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14296,6 +14571,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14336,6 +14612,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14376,6 +14653,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14416,6 +14694,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14456,6 +14735,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1087",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14501,6 +14781,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1089",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14546,6 +14827,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14586,6 +14868,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14631,6 +14914,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14671,6 +14955,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14721,6 +15006,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14761,6 +15047,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14801,6 +15088,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14841,6 +15129,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1115",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14896,6 +15185,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14936,6 +15226,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14981,6 +15272,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
+    "code_bureau_veritas": "1106",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15021,6 +15313,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
+    "code_bureau_veritas": "1107",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15061,6 +15354,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1105",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15106,6 +15400,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1157",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15146,6 +15441,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1109",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15191,6 +15487,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1110",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15231,6 +15528,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1111",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15276,6 +15574,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1082",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15321,6 +15620,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1083",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15366,6 +15666,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1085",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15411,6 +15712,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1086",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15456,6 +15758,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15501,6 +15804,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1099",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15541,6 +15845,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1100",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15581,6 +15886,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1090",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15626,6 +15932,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1102",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15671,6 +15978,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": "1103",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15716,6 +16024,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15761,6 +16070,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15806,6 +16116,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15851,6 +16162,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15891,6 +16203,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15931,6 +16244,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15976,6 +16290,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16016,6 +16331,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16056,6 +16372,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16101,6 +16418,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
+    "code_bureau_veritas": "1079",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16141,6 +16459,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16181,6 +16500,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16221,6 +16541,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16261,6 +16582,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16301,6 +16623,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1092",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16346,6 +16669,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1093",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16386,6 +16710,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1094",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16431,6 +16756,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1095",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16471,6 +16797,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1091",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16511,6 +16838,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16556,6 +16884,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16601,6 +16930,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16646,6 +16976,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16691,6 +17022,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16736,6 +17068,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16781,6 +17114,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16826,6 +17160,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1088",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16866,6 +17201,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1084",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16906,6 +17242,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1096",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16951,6 +17288,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1112",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16996,6 +17334,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17041,6 +17380,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17086,6 +17426,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17131,6 +17472,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17176,6 +17518,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17221,6 +17564,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1097",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17261,6 +17605,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17301,6 +17646,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1098",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17346,6 +17692,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1101",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17391,6 +17738,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1104",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17431,6 +17779,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1108",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17476,6 +17825,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1113",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17516,6 +17866,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
+    "code_bureau_veritas": "1114",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17556,6 +17907,7 @@
     "groupe": "Plantes à parfums, aromatiques et médicinales et plantes à boissons",
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17596,6 +17948,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17636,6 +17989,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17676,6 +18030,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17721,6 +18076,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17761,6 +18117,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17801,6 +18158,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17841,6 +18199,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17881,6 +18240,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17921,6 +18281,7 @@
     "groupe": "Autres productions végétales",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17961,6 +18322,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Plants",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18001,6 +18363,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Plants",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18041,6 +18404,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Plants",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18086,6 +18450,7 @@
     "groupe": "Semences et plants",
     "sous_groupe": "Plants",
     "is_selectable": false,
+    "code_bureau_veritas": "1136",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18126,6 +18491,7 @@
     "groupe": "Surfaces non productives",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1130",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18196,6 +18562,7 @@
     "groupe": "Surfaces non productives",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1159",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18246,6 +18613,7 @@
     "groupe": "Surfaces non productives",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1133",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18291,6 +18659,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18331,6 +18700,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18371,6 +18741,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1137",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18426,6 +18797,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18476,6 +18848,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18516,6 +18889,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1149",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18556,6 +18930,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1117",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18596,6 +18971,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1158",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18636,6 +19012,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18676,6 +19053,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18716,6 +19094,7 @@
     "groupe": "Estives collectives",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1156",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18766,6 +19145,7 @@
     "groupe": "Surfaces non productives",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": "1160",
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18836,6 +19216,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18876,6 +19257,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18916,6 +19298,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18956,6 +19339,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18996,6 +19380,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19036,6 +19421,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19076,6 +19462,7 @@
     "groupe": "Bois et cueillette sauvage",
     "sous_groupe": "",
     "is_selectable": false,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19116,6 +19503,7 @@
     "groupe": "Aquaculture et récolte de sel",
     "sous_groupe": "",
     "is_selectable": true,
+    "code_bureau_veritas": null,
     "cultures_pac": [
       {
         "code": "ACA",

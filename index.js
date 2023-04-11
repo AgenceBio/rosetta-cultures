@@ -10,6 +10,7 @@ import cpf from './data/cpf.json' assert { type: 'json' }
  * @property {String} code_cpf
  * @property {String} libelle_code_cpf
  * @property {String} code_cpf_alias
+ * @property {String?} code_bureau_veritas
  * @property {Boolean} is_selectable
  * @property {String} groupe
  * @property {String} sous_groupe

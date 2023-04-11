@@ -13,6 +13,7 @@ const partialExpectation = {
   "groupe": "Légumes",
   "sous_groupe": "Légumes à feuilles ou tiges",
   "is_selectable": true,
+  "code_bureau_veritas": "1147",
   "cultures_pac": [
     {
       "code": "MID",

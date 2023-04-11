@@ -1,0 +1,314 @@
+PAB_ID,PAB_CODE_DQF,PAB_CODE_ONAB,CODE_CPF,PAB_CATEGORIE,PAB_NOMENCLATURE,PAB_COMMENTAIRES,PAB_TYPE,PAB_CMT_ONAB,PAB_ACTIF,ABCAT1_LIB,"NBHA_BIO_2019
+ (AB code INAO)","NBHA_BIO_2020
+ (AB code INAO)"
+603,1142,104,01.23.19,Agrumes,Autres Agrumes,,PV,préciser,1,Végétaux et produits végétaux,"4,39","4,39"
+305,1066,82,01.23.14,Agrumes,Clémentines,,PV,,1,Végétaux et produits végétaux,"21,4","20,88"
+306,1067,83,01.23.12,Agrumes,Oranges et Citrons,,PV,,1,Végétaux et produits végétaux,"9,64","9,63"
+307,1068,84,01.23.11,Agrumes,Pamplemousses et pomelos,,PV,,1,Végétaux et produits végétaux,"1,8","1,8"
+444,3028,,10.91,Aliments pour animaux,Aliments pour animaux,,T,,1,Produits Transformés,,
+446,3030,,10.92,Aliments pour animaux,Aliments pour animaux de compagnie,,T,,1,Produits Transformés,,
+445,3029,,10.91,Aliments pour animaux,Aliments pour animaux de ferme,,T,,1,Produits Transformés,,
+413,2040,0,01.49.24.2,Apiculture,Autres produits de l’apiculture,,PA,,1,Animaux et produits animaux,,
+410,2037,0,01.49.24.1,Apiculture,Gelée royale,,PA,,1,Animaux et produits animaux,,
+409,2036,261,01.49.21,Apiculture,Miel,Production annuelle en kilos,PA,,1,Animaux et produits animaux,,
+411,2038,0,01.49.24.2,Apiculture,Pollen,,PA,,1,Animaux et produits animaux,,
+412,2039,0,01.49.24.2,Apiculture,Propolis,,PA,,1,Animaux et produits animaux,,
+408,2035,260,01.49.19.1,Apiculture,Ruches,,PA,,1,Animaux et produits animaux,,
+1018,2056,0,,Apiculture,Zone de butinage,Classement : toujours mettre HC,PA,,1,Animaux et produits animaux,,
+1016,2054,0,03.00.69,Aquaculture,Autres animaux aquatiques,,PA,,1,Animaux et produits animaux,,
+607,2050,291,03.00.32.1,Aquaculture,Crevettes,,PA,,1,Animaux et produits animaux,,
+608,2051,292,03.00.43,Aquaculture,Huitres,,PA,,1,Animaux et produits animaux,,
+609,2052,293,03.00.44.1,Aquaculture,Moules,,PA,,1,Animaux et produits animaux,,
+416,2043,280,03.00.1,Aquaculture,Poissons,Nombre de têtes et kilos de poissons produits dans l’année (préciser l’espèce),PA,,1,Animaux et produits animaux,,
+1019,2057,0,,Aquaculture,Zone DCE,Classement : toujours mettre HC,PA,,1,Animaux et produits animaux,,
+414,2041,270,01.43.11,Autre,Equins,,PA,,1,Animaux et produits animaux,,
+415,2042,271,01.49.22,Autre,Lait de jument,,PA,,1,Animaux et produits animaux,,
+509,1138,196,03.00.64,Autres,Algues,,PV,,1,Végétaux et produits végétaux,0,0
+370,1131,191,01.19,Autres,Autres,,PV,préciser,1,Végétaux et produits végétaux,"14 460,25","13 930,67"
+478,5010,,10.8,Autres,Autres,,D,,1,,0,
+1017,2055,295,01.49.19.2,Autres,"Autres animaux (Cervidés, Camélidés..)",,PA,,1,Animaux et produits animaux,,
+503,1137,191,01.95.11,Autres,"Bois, Landes",,PV,préciser,0,Végétaux et produits végétaux,"1 398,56","1 248,73"
+373,1134,194,01.13.80,Autres,Champignons,,PV,,1,Végétaux et produits végétaux,"331,98","362,66"
+1012,1158,189,01.95.23,Autres,Cueillette de champignons sauvages,,PV,,1,Végétaux et produits végétaux,0,0
+371,1132,192,01.19.21,Autres,Fleurs et plantes ornementales,,PV,préciser,1,Végétaux et produits végétaux,"54,34","57,06"
+1013,1159,198,01.92,Autres,"Gel fixe, friche,gel spécifique n'entrant pas en rotation",,PV,,1,Végétaux et produits végétaux,"1 188,01","1 310,70"
+372,1133,193,01.93,Autres,"Gel vert, Engrais verts","Gel vert, Engrais verts",PV,,1,Végétaux et produits végétaux,"208,81","217,09"
+369,1130,190,01.91,Autres,"Jachère, gel annuel entrant en rotation",,PV,,1,Végétaux et produits végétaux,"3 694,96","4 663,33"
+502,1136,197,01.30.10,Autres,"Plants à repiquer, pépinières","Plants à repiquer, pépinières",PV,préciser,1,Végétaux et produits végétaux,"34,94","36,02"
+600,1139,101,01.24.29.2,Autres fruits à noyaux,Fruits à noyaux,,PV,,1,Végétaux et produits végétaux,"72,26","86,08"
+453,3037,,10.8,Autres produits alimentaires,Autres produits alimentaires,,T,,1,Produits Transformés,,
+460,3044,,10.89,Autres produits alimentaires,autres produits alimentaires n.c.a.,,T,,1,Produits Transformés,,
+457,3041,,10.84,Autres produits alimentaires,condiments et assaisonnements,,T,,1,Produits Transformés,,
+458,3042,,10.85,Autres produits alimentaires,plats préparés,,T,,1,Produits Transformés,,
+459,3043,,10.86,Autres produits alimentaires,préparations alimentaires homogénéisées et aliments diététiques,,T,,1,Produits Transformés,,
+455,3039,,10.82,Autres produits alimentaires,produits de la chocolaterie et confiserie,,T,,1,Produits Transformés,,
+454,3038,,10.81,Autres produits alimentaires,sucre,,T,,1,Produits Transformés,,
+456,3040,,10.83,Autres produits alimentaires,thé et café conditionnés,,T,,1,Produits Transformés,,
+405,2032,246,01.47.14.9,Aviculture,Autres volailles,,PA,,1,Animaux et produits animaux,,
+404,2031,245,01.47.14.2,Aviculture,Canards,Mises en place annuelles en têtes,PA,,1,Animaux et produits animaux,,
+402,2029,243,01.47.12,Aviculture,Dindes,Mises en place annuelles en têtes,PA,,1,Animaux et produits animaux,,
+400,2027,240,01.47.2,Aviculture,Oeufs,Production annuelle en unités,PA,,1,Animaux et produits animaux,,
+403,2030,244,01.47.14.1,Aviculture,Pintades,Mises en place annuelles en têtes,PA,,1,Animaux et produits animaux,,
+399,2026,240,01.47.10.1,Aviculture,Poules pondeuses,Mises en place annuelles en têtes,PA,,1,Animaux et produits animaux,,
+401,2028,242,01.47.11,Aviculture,Poulets,Mises en place annuelles en têtes,PA,,1,Animaux et produits animaux,,
+1015,2053,0,01.47.10.2,Aviculture,Poulettes,,PA,,1,Animaux et produits animaux,,
+604,1143,106,01.22.19.1,Baies et fruits divers,Ananas,,PV,,1,Végétaux et produits végétaux,0,0
+1004,1150,96,01.25.19.3,Baies et fruits divers,Autres fruits rouges,,PV,,1,Végétaux et produits végétaux,"29,85","37,95"
+605,1144,105,01.22.12,Baies et fruits divers,Bananes,,PV,,1,Végétaux et produits végétaux,"0,5","0,5"
+308,1069,85,01.25.19.1,Baies et fruits divers,Cassis,,PV,,1,Végétaux et produits végétaux,"22,59","21,57"
+1003,1149,91,01.95.21,Baies et fruits divers,Cueillette de baies sauvages,,PV,,1,Végétaux et produits végétaux,"0,02","0,01"
+311,1072,88,01.22.14,Baies et fruits divers,Figues,,PV,,1,Végétaux et produits végétaux,"55,54","62,49"
+312,1073,89,01.25.13,Baies et fruits divers,Fraises,,PV,,1,Végétaux et produits végétaux,"27,06","44,1"
+309,1070,86,01.25.12,Baies et fruits divers,Framboises,,PV,,1,Végétaux et produits végétaux,"8,38","7,24"
+313,1074,90,01.25.11,Baies et fruits divers,Kiwis,,PV,,1,Végétaux et produits végétaux,"262,5","279,12"
+310,1071,87,01.25.19.2,Baies et fruits divers,Myrtilles,,PV,,1,Végétaux et produits végétaux,"9,78","9,8"
+510,2058,0,,Bâtiment d'élevage,Bâtiment d’élevage porcin,,PA,,1,Animaux et produits animaux,,
+508,2049,0,,Bâtiment d'élevage,Bâtiment d'élevage,,PA,,1,Animaux et produits animaux,"0,28","0,49"
+473,5005,,10.8,Biscuits et chocolats,Biscuits et chocolats,,D,,1,,,
+465,3049,,11.04,Boissons,autres boissons fermentées non distillées,,T,,1,Produits Transformés,,
+466,3050,,11.05,Boissons,bière,,T,,1,Produits Transformés,,
+461,3045,,11.0,Boissons,Boissons,,T,,1,Produits Transformés,,
+462,3046,,11.01,Boissons,"boissons alcoolisées distillées,",,T,,1,Produits Transformés,,
+464,3048,,11.03,Boissons,cidres et autres vins de fruits,,T,,1,Produits Transformés,,
+611,3064,0,11.02.2002,Boissons,Lies,,T,,1,Produits Transformés,,
+467,3051,,11.06,Boissons,malt,,T,,1,Produits Transformés,,
+612,3065,0,11.02.2002,Boissons,Marcs de raisins,,T,,1,Produits Transformés,,
+610,3063,0,11.02,Boissons,Vin,,T,,1,Produits Transformés,,"7,74"
+463,3047,,11.02,Boissons,vins de raisin,,T,,1,Produits Transformés,,
+384,2011,215,01.42.11.9,Bovins,Autres bovins,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+379,2006,205,01.42.11.2,Bovins,Boeufs,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+377,2004,203,01.42.11.4,Bovins,Broutards,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+380,2007,206,01.42.11.6,Bovins,Génisses engraissement,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+381,2008,207,01.42.11.7,Bovins,Génisses renouvellement,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+375,2002,0,01.41.2,Bovins,Lait de vache,Production annuelle en litres,PA,,1,Animaux et produits animaux,,
+383,2010,209,01.42.11.3,Bovins,Taureaux,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+378,2005,204,01.42.11.5,Bovins,Taurillons,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+376,2003,202,01.42.11.1,Bovins,Vaches allaitantes,Femelles en production en têtes,PA,,1,Animaux et produits animaux,,
+374,2001,200,01.41.1,Bovins,Vaches laitières,Femelles en production en têtes,PA,,1,Animaux et produits animaux,,
+382,2009,208,01.42.12,Bovins,Veaux,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+394,2021,223,01.45.12.3,Caprins,Autres caprins,,PA,,1,Animaux et produits animaux,,
+393,2020,222,01.45.12.2,Caprins,Bouc,,PA,,1,Animaux et produits animaux,,
+391,2018,220,01.45.12.1,Caprins,Chèvres,Femelles en production en têtes,PA,,1,Animaux et produits animaux,,
+507,2048,220,01.45.12.3,Caprins,Chevrettes,,PA,,1,Animaux et produits animaux,,
+392,2019,0,01.45.22,Caprins,Lait de chèvre,Production annuelle en litres,PA,,1,Animaux et produits animaux,,
+251,1012,15,01.11.49.9,Céréales,Autres céréales,,PV,préciser,1,Végétaux et produits végétaux,"663,66","920,52"
+240,1001,1,01.11.33,Céréales,Avoine,Récolte en grains,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"4 534,43","5 116,82"
+241,1002,2,01.11.11,Céréales,Blé dur,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"1 266,45","1 400,94"
+242,1003,3,01.11.12,Céréales,Blé tendre,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"26 856,12","28 833,61"
+243,1004,4,01.11.49.1,Céréales,Epeautre,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"2 373,54","2 357,37"
+1001,1147,12,01.11.20.1,Céréales,Mais doux,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"357,14","426,26"
+244,1005,5,01.11.20.2,Céréales,Maïs grain,,PV,"Hors Maïs doux, Récolte en grains yc surfaces cultivées pour les semences",1,Végétaux et produits végétaux,"10 356,50","12 802,21"
+253,1014,17,01.11.49.32,Céréales,Mélanges céréales-légumineuses,,PV,,1,Végétaux et produits végétaux,"20 604,00","19 716,71"
+252,1013,16,01.11.49.31,Céréales,Mélanges céréaliers sans légumineuses,,PV,,1,Végétaux et produits végétaux,"2 240,90","1 836,04"
+245,1006,6,01.11.31,Céréales,Orge,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"8 184,04","10 034,66"
+704,1146,4,01.11.49.1,Céréales,Petit Epeautre,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"1 980,38","1 884,92"
+246,1007,7,01.12.10,Céréales,Riz,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"2 239,33","2 517,92"
+247,1008,8,01.11.49.2,Céréales,Sarrasin,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"4 607,53","6 478,03"
+248,1009,9,01.11.32,Céréales,Seigle,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"1 937,32","1 962,28"
+249,1010,10,01.11.41,Céréales,Sorgho,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"1 290,95","1 242,89"
+250,1011,11,01.11.43,Céréales,Triticale,,PV,Récolte en grains yc surfaces cultivées pour les semences,1,Végétaux et produits végétaux,"6 016,51","5 302,28"
+474,5006,,46.21.1,"Céréales, légumineuses et oléagineux","Céréales, légumineuses et oléagineux",,D,,1,,,0
+494,5026,0,47,Commerce de gros et de détail,Commerce de détail,,D,,1,,,
+492,5024,0,46.2,Commerce de gros et de détail,Commerce de gros de produits agricoles bruts,,D,,1,,,
+493,5025,0,46.3,Commerce de gros et de détail,Commerce de gros de produits alimentaires,,D,,1,,,
+491,5023,0,46.1,Commerce de gros et de détail,Services d'intermédiaire du commerce de gros,,D,,1,,,
+368,1129,185,01.19.10.9,Cultures fourragères,Autres cultures fourragères,,PV,préciser,1,Végétaux et produits végétaux,"6 203,88","7 713,59"
+357,1118,170,01.19.10.2,Cultures fourragères,Betterave fourragère,,PV,,1,Végétaux et produits végétaux,"230,84","307,26"
+358,1119,171,01.19.10.3,Cultures fourragères,Choux fourrager,,PV,,1,Végétaux et produits végétaux,"22,62","15,38"
+359,1120,172,01.19.10.4,Cultures fourragères,Colza fourrager,,PV,Récolté en vert,1,Végétaux et produits végétaux,"87,4","98,1"
+1010,1156,182,01.95.4,Cultures fourragères,Estives ou alpages collectifs,,PV,,1,Végétaux et produits végétaux,"32,1","240,02"
+364,1125,177,01.19.10.8,Cultures fourragères,Luzerne,,PV,,1,Végétaux et produits végétaux,"21 341,77","25 760,87"
+360,1121,173,01.19.10.5,Cultures fourragères,Maïs fourrage,,PV,Récolté en vert,1,Végétaux et produits végétaux,"6 392,17","7 178,05"
+361,1122,174,01.19.10.6,Cultures fourragères,Mélanges fourragers,Mélanges céréales-légumineuses pour récolte en fourrage,PV,Mélanges céréales-légumineuses pour récolte en fourrage,1,Végétaux et produits végétaux,"13 087,83","15 157,84"
+367,1128,180,01.19.10.13,Cultures fourragères,Parcours herbeux,,PV,Hors parcours ligneux,1,Végétaux et produits végétaux,"43 086,56","44 179,45"
+366,1127,179,01.19.10.12,Cultures fourragères,Prairies permanentes,Plus de 5 ans,PV,Plus de 5 ans,1,Végétaux et produits végétaux,"145 461,60","155 803,28"
+365,1126,178,01.19.10.11,Cultures fourragères,Prairies temporaires,0 à 5 ans,PV,0 à 5 ans entrant en rotation,1,Végétaux et produits végétaux,"76 263,85","76 040,55"
+362,1123,178,01.19.10.11,Cultures fourragères,Ray-Gras,,PV,0 à 5 ans entrant en rotation,1,Végétaux et produits végétaux,"378,91","783,91"
+363,1124,176,01.19.10.7,Cultures fourragères,Trèfle,,PV,,1,Végétaux et produits végétaux,"5 008,86","6 046,19"
+320,1081,125,01.19.39.1,Cultures industrielles,Autres cultures industrielles,,PV,préciser,1,Végétaux et produits végétaux,"427,46","678,7"
+1009,1155,129,01.27.14,Cultures industrielles,Cacao,,PV,,1,Végétaux et produits végétaux,,
+1008,1154,124,01.14.10,Cultures industrielles,Canne à sucre,,PV,,1,Végétaux et produits végétaux,,
+606,1145,126,01.16.19.2,Cultures industrielles,Chanvre,,PV,,1,Végétaux et produits végétaux,"552,64","674,78"
+317,1078,120,01.13.15,Cultures industrielles,Chicorée à café,,PV,,1,Végétaux et produits végétaux,14,"2,3"
+319,1080,122,01.16.11,Cultures industrielles,Coton,,PV,,1,Végétaux et produits végétaux,,
+1007,1153,123,01.11.92,Cultures industrielles,Graine de moutarde,,PV,,1,Végétaux et produits végétaux,"32,03",
+318,1079,121,01.28.20,Cultures industrielles,Houblon,,PV,,1,Végétaux et produits végétaux,"4,98","5,44"
+1005,1151,127,01.16.19.1,Cultures industrielles,Lin fibre,,PV,,1,Végétaux et produits végétaux,"45,48","64,67"
+1006,1152,128,01.15.10,Cultures industrielles,Tabac,,PV,,1,Végétaux et produits végétaux,,
+406,2033,250,01.49.11.2,Cuniculture,Lapines reproductrices,Femelles en production en têtes,PA,,1,Animaux et produits animaux,,
+407,2034,251,01.49.11.1,Cuniculture,Lapins,Production annuelle en têtes,PA,,1,Animaux et produits animaux,,
+481,5022,,46.21.1,Distribution de produits de meunerie,Distribution de produits de meunerie,,D,,1,,,
+480,5021,,47.00,Distribution de produits divers,Distribution de produits divers,,D,,1,,,
+479,4001,,,Façonnage,Opération de façonnage réalisée pour un tiers,,FA,,1,,,
+314,1075,95,01.25.90,Fruits,Autres fruits,,PV,"autre que pépins, coque, noyau ou agrumes (préciser)",1,Végétaux et produits végétaux,"345,55","362,76"
+301,1062,78,01.25.31,Fruits à coque,Amandes,,PV,,1,Végétaux et produits végétaux,"82,98","91,28"
+602,1141,103,01.25.39,Fruits à coque,Autres Fruits à coque,,PV,préciser,1,Végétaux et produits végétaux,"5,17","24,48"
+302,1063,79,01.25.32,Fruits à coque,Châtaignes,,PV,,1,Végétaux et produits végétaux,"1 226,46","1 184,62"
+304,1065,81,01.25.33,Fruits à coque,Noisettes,,PV,,1,Végétaux et produits végétaux,"31,75","47,77"
+303,1064,80,01.25.35,Fruits à coque,Noix,,PV,,1,Végétaux et produits végétaux,"1 014,78","1 061,07"
+292,1053,70,01.24.23,Fruits à noyau,Abricots,"Nb : pour tous les fruits n’entrant pas dans ces catégories, utiliser le code 95",PV,,1,Végétaux et produits végétaux,"287,57","319,33"
+293,1054,71,01.24.24,Fruits à noyau,Cerises,,PV,,1,Végétaux et produits végétaux,"135,74","124,24"
+295,1056,73,01.24.26,Fruits à noyau,Nectarines et brugnons,,PV,,1,Végétaux et produits végétaux,"56,07","76,06"
+297,1058,100,01.26.1,Fruits à noyau,Olives,,PV,de bouche ou pour huile,1,Végétaux et produits végétaux,"1 409,27","1 425,56"
+294,1055,72,01.24.25,Fruits à noyau,Pêches,,PV,,1,Végétaux et produits végétaux,"244,28","279,49"
+296,1057,74,01.24.27,Fruits à noyau,Prunes,,PV,Préciser si Prunes d’Ente,1,Végétaux et produits végétaux,"376,38","458,07"
+601,1140,102,01.24.29.1,Fruits à pépin,Autres Fruits à pépin,,PV,préciser,1,Végétaux et produits végétaux,"54,68","75,93"
+300,1061,77,01.24.21,Fruits à pépins,Poires,,PV,,1,Végétaux et produits végétaux,"475,75","582,7"
+298,1059,75,01.24.10.1,Fruits à pépins,Pommes à cidre et à jus,,PV,,1,Végétaux et produits végétaux,"1 644,46","1 694,53"
+299,1060,76,01.24.10.2,Fruits à pépins,Pommes de table,,PV,,1,Végétaux et produits végétaux,"1 409,94","1 933,25"
+1002,1148,750,01.24.1,Fruits à pépins,Pommes divers,,PV,Préciser la finalité,1,Végétaux et produits végétaux,"39,75","40,58"
+469,5001,,47.00.11,Fruits frais,Fruits frais,,D,,1,,,
+470,5002,,47.00.12,Fruits secs,Fruits secs,,D,,1,,,
+500,2044,290,01.49.23,Héliciculture,Escargots,,PA,,1,Animaux et produits animaux,,
+430,3014,,10.41.2,Huiles et graisses d’origine végétale et animale,huiles et graisses brutes,,T,,1,Produits Transformés,,
+429,3013,,10.4,Huiles et graisses d’origine végétale et animale,Huiles et graisses d’origine végétale et animale,,T,,1,Produits Transformés,,
+431,3015,,10.41.5,Huiles et graisses d’origine végétale et animale,huiles et graisses raffinées,,T,,1,Produits Transformés,,
+432,3016,,10.42,Huiles et graisses d’origine végétale et animale,margarine et graisses comestibles similaires,,T,,1,Produits Transformés,,
+267,1028,43,01.13.42,Légumes frais,Ail,Préciser dans la colonne variété infos : le mode de culture : sous abri ou plein champ,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"150,42","188,42"
+268,1029,44,01.13.17,Légumes frais,Artichauts,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"101,6","131,63"
+269,1030,45,01.13.11,Légumes frais,Asperges,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"72,86","86,5"
+289,1050,65,01.13.90,Légumes frais,Autres légumes,,PV,préciser,1,Végétaux et produits végétaux,"198,8","222,14"
+270,1031,46,01.13.49.2,Légumes frais,Betteraves rouges,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"166,23","228,3"
+271,1032,47,01.13.41.1,Légumes frais,Carottes,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"263,76","315,28"
+272,1033,48,01.13.49.3,Légumes frais,Céleris,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"23,1","20,59"
+273,1034,49,01.13.12,Légumes frais,Choux,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"146,54","196,81"
+274,1035,68,01.13.13,Légumes frais,Choux-fleurs et brocolis,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"247,11","355,54"
+275,1036,50,01.13.32,Légumes frais,Concombres et cornichons,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"0,15","2,55"
+276,1037,51,01.13.39.3,Légumes frais,Courges,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"342,42","384,88"
+501,1135,69,01.13.39.2,Légumes frais,Courgettes,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"44,41","48,66"
+277,1038,52,01.13.43.2,Légumes frais,Echalotes,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"53,52","41,33"
+278,1039,53,01.13.19.1,Légumes frais,Endives,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"77,19","70,94"
+279,1040,54,01.13.16,Légumes frais,Epinards,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"10,2","18,35"
+280,1041,55,01.11.61,Légumes frais,Haricots,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"682,63","774,14"
+471,5003,,47.00.11,Légumes frais,Légumes frais,,D,,1,,,
+290,1051,66,01.13.90.2,Légumes frais,Maraîchage plein champ,Maraîchage diversifié principalement destiné à la vente directe,PV,Maraîchage diversifié préciser la liste des espèces,1,Végétaux et produits végétaux,"1 941,67","2 021,94"
+291,1052,67,01.13.90.1,Légumes frais,Maraîchage sous abri,,PV,Maraîchage diversifié préciser la liste des espèces,1,Végétaux et produits végétaux,"208,84","232,97"
+281,1042,56,01.13.29.1,Légumes frais,Melons,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"196,25","178,99"
+282,1043,57,01.13.41.2,Légumes frais,Navets potagers,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"10,98","19,26"
+283,1044,58,01.13.43.1,Légumes frais,Oignons,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"173,23","283,45"
+284,1045,59,01.11.62,Légumes frais,Petits pois,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"393,97","520,51"
+285,1046,60,01.13.44,Légumes frais,Poireaux,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"133,21","134,59"
+266,1027,42,01.13.51.1,Légumes frais,Pommes de terre,,PV,"Hors féculière, Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"1 070,32","1 363,44"
+286,1047,61,01.13.49.1,Légumes frais,Radis,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"6,15","30,67"
+287,1048,62,01.13.14,Légumes frais,Salades,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"20,44","19,4"
+288,1049,63,01.13.34,Légumes frais,Tomates,,PV,"Cultures « pures », sans mélanges d’espèces, sans rotation annuelle importante",1,Végétaux et produits végétaux,"75,87","69,97"
+265,1026,195,01.11.79.9,Légumes secs,Autres légumes secs,,PV,préciser,1,Végétaux et produits végétaux,"620,69","791,51"
+263,1024,40,01.11.74,Légumes secs,Lentilles,,PV,,1,Végétaux et produits végétaux,"4 991,38","6 397,40"
+264,1025,41,01.11.73,Légumes secs,Pois chiches,,PV,,1,Végétaux et produits végétaux,"2 624,16","2 246,60"
+419,3003,261,01.49.21,Miel,Miel,,T,,1,Produits Transformés,,
+482,9001,,,Mise en forme certificat,Légende,,TX,,1,,,
+1014,1160,199,01.99,Non agricole,Surface non agricole,"Chemins, Taillis, Bois, Mares",PV,,1,,"84,49","50,53"
+418,3002,,01.47.2,"Oeufs, en coquille, frais","Oeufs, en coquille, frais",,T,,1,Produits Transformés,,
+258,1019,25,01.11.99,Oléagineux,Autres oléagineux,,PV,préciser,1,Végétaux et produits végétaux,"275,28","321,69"
+254,1015,20,01.11.93,Oléagineux,Colza,Récolte en grains,PV,Récolte en grains,1,Végétaux et produits végétaux,"1 008,10","1 321,01"
+255,1016,21,01.11.91,Oléagineux,Lin non textile,,PV,"Lin textile, Lin fibre : cf cultures industrielles",1,Végétaux et produits végétaux,"1 163,38","1 745,28"
+256,1017,22,01.11.81,Oléagineux,Soja,,PV,,1,Végétaux et produits végétaux,"9 098,87","13 207,24"
+257,1018,23,01.11.95,Oléagineux,Tournesol,,PV,préciser oléique ou linoléique,1,Végétaux et produits végétaux,"8 148,48","12 261,62"
+388,2015,213,01.45.11.3,Ovins,Agneaux,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+389,2016,214,01.45.11.4,Ovins,Agnelles de renouvellement,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+390,2017,216,01.45.11.6,Ovins,Autres ovins,,PA,,1,Animaux et produits animaux,,
+504,2045,217,01.45.11.5,Ovins,Bélier,,PA,,1,Animaux et produits animaux,,
+385,2012,210,01.45.11.1,Ovins,Brebis laitières,Femelles en production en têtes,PA,,1,Animaux et produits animaux,,
+387,2014,212,01.45.11.2,Ovins,Brebis viande,Femelles en production en têtes,PA,,1,Animaux et produits animaux,,
+386,2013,0,01.45.21,Ovins,Lait de brebis,Production annuelle en litres,PA,,1,Animaux et produits animaux,,
+472,5004,,10.71.1,"Pain, viennoiseries, pâtisseries","Pain, viennoiseries, pâtisseries",,D,,1,,,
+477,5009,,10.84.2,"Plantes séchées, épices et aromates","Plantes séchées, épices et aromates",,D,,1,,,
+476,5008,,10.85,Plats cuisinés et traiteur,Plats cuisinés et traiteur,,D,,1,,,
+398,2025,233,01.46.10.4,Porcins,Autres porcins,,PA,,1,Animaux et produits animaux,,
+505,2046,0,01.46.10.4,Porcins,Cochettes,,PA,,1,Animaux et produits animaux,,
+397,2024,232,01.46.10.3,Porcins,Porcelets,Effectif en têtes,PA,,1,Animaux et produits animaux,,
+396,2023,231,01.46.10.2,Porcins,Porcs charcutiers,Production annuelle en têtes,PA,,1,Animaux et produits animaux,,
+395,2022,230,01.46.10.1,Porcins,Truies,Femelles en production en têtes,PA,,1,Animaux et produits animaux,,
+506,2047,231,01.46.10.5,Porcins,Verrats,,PA,,1,Animaux et produits animaux,,
+321,1082,130,01.28.19.26,PPAM,Aneth,Anethum graveolens L.,PV,Anethum graveolens L.,1,Végétaux et produits végétaux,,"12,32"
+322,1083,131,01.28.19.27,PPAM,Basilic,Ocimum basilicum L.,PV,Ocimum basilicum L.,1,Végétaux et produits végétaux,,"14,35"
+323,1084,132,01.28.30.42,PPAM,Calendula,Calendula officinalis L.,PV,Calendula officinalis L.,1,Végétaux et produits végétaux,"1,62","0,75"
+324,1085,133,01.28.19.28,PPAM,Camomille romaine,Chamaemelum nobile (L.) All.,PV,Chamaemelum nobile (L.) All.,1,Végétaux et produits végétaux,"5,44","3,04"
+325,1086,134,01.28.19.29,PPAM,Cerfeuil,Anthriscus cerefolium (L.) Hoffm.,PV,Anthriscus cerefolium (L.) Hoffm.,1,Végétaux et produits végétaux,"0,03",
+326,1087,135,01.28.14.1,PPAM,Coriandre,Coriamdrum sativum L.,PV,Coriamdrum sativum L.,1,Végétaux et produits végétaux,"180,06","63,68"
+356,1117,166,01.95.22,PPAM,Cueillette (PPAM),,PV,Préciser la liste des espèces cueillies,1,Végétaux et produits végétaux,"246,28","288,84"
+355,1116,165,01.28,PPAM,divers PPAM,,PV,Préciser la liste des espèces,1,Végétaux et produits végétaux,"532,72","580,77"
+327,1088,136,01.28.30.41,PPAM,Echinacées,Genre Echinacea,PV,Genre Echinacea,1,Végétaux et produits végétaux,"1,09","1,02"
+328,1089,137,01.28.14.2,PPAM,Fenouil doux et amer,Foeniculum vulgare Mill.,PV,Foeniculum vulgare Mill.,1,Végétaux et produits végétaux,"12,93","9,29"
+329,1090,138,01.28.19.41,PPAM,Fenugrec,Trigonella foenum-graecum L.,PV,Trigonella foenum-graecum L.,1,Végétaux et produits végétaux,"6,47","11,77"
+330,1091,139,01.28.30.32,PPAM,Hysope,Hysopus officinalis,PV,Hysopus officinalis,1,Végétaux et produits végétaux,"6,36","8,11"
+331,1092,140,01.28.30.11,PPAM,Lavande,Lavandula angustifolia DC.,PV,Lavandula angustifolia DC.,1,Végétaux et produits végétaux,"938,37","1 006,65"
+332,1093,141,01.28.30.12,PPAM,Lavandin,Lavandula intermedia Emeric ex Loisel,PV,Lavandula intermedia Emeric ex Loisel,1,Végétaux et produits végétaux,"751,1","856,64"
+333,1094,142,01.28.30.2,PPAM,Marjolaine,Origanum majorana L.,PV,Origanum majorana L.,1,Végétaux et produits végétaux,"2,58","0,7"
+334,1095,143,01.28.30.31,PPAM,Matricaire,Matricaria recutita L.,PV,Matricaria recutita L.,1,Végétaux et produits végétaux,"11,31","9,43"
+335,1096,144,01.28.30.43,PPAM,Mauve,Malva sylvestris L.,PV,Malva sylvestris L.,1,Végétaux et produits végétaux,"1,66","1,91"
+336,1097,145,01.28.30.5,PPAM,Mélilot,Melilotus officinalis Lam.,PV,Melilotus officinalis Lam.,1,Végétaux et produits végétaux,,
+337,1098,146,01.28.30.6,PPAM,Mélisse,Melissa officinalis L.,PV,Melissa officinalis L.,1,Végétaux et produits végétaux,"40,2","50,25"
+338,1099,147,01.28.19.31,PPAM,Menthe douce,"Mentha spicata L. var ""Nanah""",PV,"Mentha spicata L. var ""Nanah""",1,Végétaux et produits végétaux,"5,3","2,3"
+339,1100,148,01.28.19.32,PPAM,Menthe poivrée,Mentha x piperita Huds.,PV,Mentha x piperita Huds.,1,Végétaux et produits végétaux,"47,11","27,03"
+340,1101,149,01.28.30.71,PPAM,Millepertuis,Hypericum perforatum L.,PV,Hypericum perforatum L.,1,Végétaux et produits végétaux,"4,2","4,44"
+341,1102,150,01.28.19.42,PPAM,Origans,Genre Origanum,PV,Genre Origanum,1,Végétaux et produits végétaux,"21,53","24,81"
+342,1103,151,01.28.19.43,PPAM,Persil,Petroselinum crispum (Miller) A. W. Hill.,PV,Petroselinum crispum (Miller) A. W. Hill.,1,Végétaux et produits végétaux,"15,99","14,4"
+343,1104,152,01.28.30.72,PPAM,Reine des prés,Filipendula ulmaria (L.) Max.,PV,Filipendula ulmaria (L.) Max.,1,Végétaux et produits végétaux,"0,05",0
+344,1105,153,01.28.19.21,PPAM,Romarin,Rosmarinus officinalis L.,PV,Rosmarinus officinalis L.,1,Végétaux et produits végétaux,"24,9","25,87"
+1011,1157,167,01.28.19.22,PPAM,Safran,Crocus Sativus L.,PV,Crocus sativus L.,1,Végétaux et produits végétaux,"12,95","12,59"
+345,1106,154,01.28.19.11,PPAM,Sarriette annuelle,Satureia hortensis L.,PV,Satureia hortensis L.,1,Végétaux et produits végétaux,"2,41","0,6"
+346,1107,155,01.28.19.12,PPAM,Sarriette vivace,Satureia montana L.,PV,Satureia montana L.,1,Végétaux et produits végétaux,"15,17","16,34"
+347,1108,156,01.28.30.81,PPAM,Sauge officinale,Salvia officinalis L.,PV,Salvia officinalis L.,1,Végétaux et produits végétaux,"15,92","12,04"
+348,1109,157,01.28.19.23,PPAM,Sauge sclarée,Salvia sclarea L.,PV,Salvia sclarea L.,1,Végétaux et produits végétaux,"208,31","163,34"
+349,1110,158,01.28.19.24,PPAM,Serpolet,Thymus serpyllum L.,PV,Thymus serpyllum L.,1,Végétaux et produits végétaux,,"3,97"
+350,1111,159,01.28.19.25,PPAM,Thym,Thymus vulgaris L.,PV,Thymus vulgaris L.,1,Végétaux et produits végétaux,"122,09","154,54"
+351,1112,160,01.28.30.44,PPAM,Valériane,Valeriana officinalis L.,PV,Valeriana officinalis L.,1,Végétaux et produits végétaux,,
+354,1115,163,01.28.18,PPAM,Vanille,,PV,Vanilla planifolia,1,Végétaux et produits végétaux,,
+352,1113,161,01.28.30.82,PPAM,Verveine odorante,Lippia citriodora Kunth.,PV,Lippia citriodora Kunth.,1,Végétaux et produits végétaux,"2,48","5,14"
+353,1114,162,01.28.30.83,PPAM,Verveine officinale,Verbena officinalis L.,PV,Verbena officinalis L.,1,Végétaux et produits végétaux,,"2,22"
+424,3008,,10.2,Préparations et conservation de poisson et de produits de la pêche,Préparations et conservation de poisson et de produits de la pêche,,T,,1,Produits Transformés,,
+428,3012,,10.39,Produits à base de fruits et légumes,autres préparations et conserves à base de fruits et légumes,,T,,1,Produits Transformés,,
+427,3011,,10.32.1,Produits à base de fruits et légumes,jus de fruits et de légumes,,T,,1,Produits Transformés,,
+426,3010,,10.31,Produits à base de fruits et légumes,préparations et conserves à base de pommes de terre,,T,,1,Produits Transformés,0,
+425,3009,,10.3,Produits à base de fruits et légumes,Produits à base de fruits et légumes,,T,,1,Produits Transformés,,
+484,3054,,10.89.19,Produits à base de PPAM,Autres,,T,,1,Produits Transformés,0,
+483,3053,,10.89.15,Produits à base de PPAM,Eaux florales,,T,,1,Produits Transformés,,
+468,3052,,20.53,Produits à base de PPAM,Huiles essentielles,,T,,1,Produits Transformés,,
+451,3035,,10.72,Produits de boulangerie-pâtisserie et pâtes alimentaires,"biscottes et biscuits, pâtisserie de conservation",,T,,1,Produits Transformés,,
+450,3034,,10.71.99,Produits de boulangerie-pâtisserie et pâtes alimentaires,"opérations sous-traitées intervenant dans l’élaboration du pain et de pâtisseries et viennoiseries, frais et congelé ou surgelé",,T,,1,Produits Transformés,,
+448,3032,,10.71.11,Produits de boulangerie-pâtisserie et pâtes alimentaires,pain frais,,T,,1,Produits Transformés,,
+452,3036,,10.73,Produits de boulangerie-pâtisserie et pâtes alimentaires,pâtes alimentaires et couscous,,T,,1,Produits Transformés,,
+449,3033,,10.71.12,Produits de boulangerie-pâtisserie et pâtes alimentaires,pâtisseries et viennoiseries fraîches,,T,,1,Produits Transformés,,
+447,3031,,10.7,Produits de boulangerie-pâtisserie et pâtes alimentaires,Produits de boulangerie-pâtisserie et pâtes alimentaires,,T,,1,Produits Transformés,,
+489,3061,0,03.00,"Produits de la pêche, de l'aquaculture","Produits de la pêche, de l'aquaculture",,T,,1,Produits Transformés,,
+485,3055,0,01.01,Produits de l'agriculture,Cultures non permanentes,,T,,1,Produits Transformés,,
+486,3056,0,01.02,Produits de l'agriculture,Cultures permanentes,,T,,1,Produits Transformés,,
+488,3062,0,02.30.4,Produits de l'agriculture,Produits sylvicoles,,T,,1,Produits Transformés,,
+443,3027,,10.62,"Produits du travail des grains, amidons et produits amylacés",autres produits amylacés,,T,,1,Produits Transformés,,
+442,3026,,10.6,"Produits du travail des grains, amidons et produits amylacés",produits d’autres activités du travail des grains,,T,,1,Produits Transformés,,
+441,3025,,10.61.2,"Produits du travail des grains, amidons et produits amylacés",produits de la meunerie,,T,,1,Produits Transformés,"4,39",
+440,3024,,10.6,"Produits du travail des grains, amidons et produits amylacés","Produits du travail des grains, amidons et produits amylacés",,T,,1,Produits Transformés,,0
+438,3022,,10.51.5,Produits laitiers,autres produits laitiers,,T,,1,Produits Transformés,,
+436,3020,,10.51.3,Produits laitiers,beurre et pâtes à tartiner laitières,,T,,1,Produits Transformés,,
+437,3021,,10.51.4,Produits laitiers,fromages,,T,,1,Produits Transformés,,
+439,3023,,10.52,Produits laitiers,glaces et sorbets,,T,,1,Produits Transformés,,
+434,3018,,10.51.11,Produits laitiers,lait liquide et crème de lait,,T,,1,Produits Transformés,,
+435,3019,,10.51.2,Produits laitiers,lait sec,,T,,1,Produits Transformés,,
+433,3017,,10.5,Produits laitiers,Produits laitiers,,T,,1,Produits Transformés,,
+262,1023,35,01.11.79,Protéagineux,Autres protéagineux,,PV,"préciser Cultivés en pur, sinon se référer au code 17",1,Végétaux et produits végétaux,"487,56","638,24"
+259,1020,30,01.11.72,Protéagineux,Féverole,Récolte en grains,PV,"Récolte en grain. cultivés en pur, sinon se référer au code 17",1,Végétaux et produits végétaux,"4 318,02","4 082,64"
+260,1021,31,01.11.79.1,Protéagineux,Lupin,,PV,,1,Végétaux et produits végétaux,"210,27","318,97"
+261,1022,32,01.11.75,Protéagineux,Pois protéagineux,,PV,Hors petits pois,1,Végétaux et produits végétaux,"2 400,18","2 475,15"
+1025,6008,0,56,Restauration commerciale,Certification « Plats et menus biologiques »,,T,,1,Produits Transformés,,
+1020,6003,0,56,Restauration commerciale,Certification « Quantité produits » : Catégorie « + 50 % »,,T,,1,Produits Transformés,,
+1021,6004,0,56,Restauration commerciale,Certification « Quantité produits » : Catégorie « + 50 % » et « Plats et menus biologiques »,,T,,1,Produits Transformés,,
+1022,6005,0,56,Restauration commerciale,Certification « Quantité produits » : Catégorie « + 75 % »,,T,,1,Produits Transformés,,
+1023,6006,0,56,Restauration commerciale,Certification « Quantité produits » : Catégorie « + 75 % » et « Plats et menus biologiques »,,T,,1,Produits Transformés,,
+1024,6007,0,56,Restauration commerciale,Certification « Quantité produits » : Catégorie « + 95 % » et Certification « Plats et menus biologiques »,,T,,1,Produits Transformés,,
+701,6000,0,56,Restauration commerciale,Ingrédient ou denrée,,T,,0,Produits Transformés,,
+703,6002,0,56,Restauration commerciale,Menu,,T,,0,Produits Transformés,,
+702,6001,0,56,Restauration commerciale,Plat,,T,,0,Produits Transformés,,
+417,3001,,46.21.1,Semences et plants,Semences et plants,,T,,1,Produits Transformés,,0
+496,3057,0,56,Services de restauration et de débit de boissons,Restauration et restauration mobile,,T,,1,Produits Transformés,,
+499,3060,0,56.3,Services de restauration et de débit de boissons,Services de débit de boissons,,T,,1,Produits Transformés,,
+498,3059,0,56.29.2,Services de restauration et de débit de boissons,Services de restauration collective,,T,,1,Produits Transformés,,
+497,3058,0,56.21.1,Services de restauration et de débit de boissons,Services de traiteurs,,T,,1,Produits Transformés,,
+495,4002,0,52.1,Sous traitants,Entreposage,,,,1,,,0
+423,3007,,10.13,Viandes et produits à base de viande,produits à base de viande,,T,,1,Produits Transformés,,
+421,3005,,10.11,Viandes et produits à base de viande,"viandes de boucherie et produits d’abattage,",,T,,1,Produits Transformés,,
+422,3006,,10.12,Viandes et produits à base de viande,viandes de volaille,,T,,1,Produits Transformés,,
+420,3004,,10.1,Viandes et produits à base de viande,Viandes et produits à base de viande,,T,,1,Produits Transformés,,
+475,5007,,46.33,"Viandes, produits laitiers et oeufs","Viandes, produits laitiers et oeufs",,D,,1,,,
+316,1077,111,01.21.12,Vigne,Raisin de cuve,,PV,,1,Végétaux et produits végétaux,"11 829,38","12 861,37"
+315,1076,110,01.21.11,Vigne,Raisin de table,,PV,,1,Végétaux et produits végétaux,"102,05","114,17"

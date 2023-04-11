@@ -9,6 +9,7 @@ const here = dirname(fileURLToPath(new URL(import.meta.url)))
 
 const CODES_FILEPATH = join(here, '..', 'data', 'nomenclature.csv')
 const CORRESPONDANCE_PAC_FILEPATH = join(here, '..', 'data', 'correspondance.csv')
+const CORRESPONDANCE_BV_FILEPATH = join(here, '..', 'data', 'correspondance-bureau-veritas.csv')
 const DESTINATION_FILE = join(here, '..', 'data', 'cpf.json')
 
 /**
@@ -35,12 +36,14 @@ for await (const { code_production: code_cpf, lbl_production, affichage_cartobio
     sous_groupe,
     //
     is_selectable: toBoolean(affichage_cartobio),
+    // mappings
+    code_bureau_veritas: null,
     // extension PAC
     cultures_pac: [],
   })
 }
 
-// 2. Join on matching code
+// 2. Join PAC codes on matching CPF code
 csvParser = createReadStream(CORRESPONDANCE_PAC_FILEPATH).pipe(parse({
   columns: true,
   delimiter: ',',
@@ -77,5 +80,34 @@ for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_cartobio
   })
 }
 
-// 3. Write
+// 3. Join BV codes on CPF code
+csvParser = createReadStream(CORRESPONDANCE_BV_FILEPATH).pipe(parse({
+  columns: true,
+  delimiter: ',',
+  trim: true,
+  cast: false
+}))
+
+for await (const { PAB_CODE_DQF: code_bureau_veritas, CODE_CPF: code_cpf } of csvParser) {
+  if (!code_cpf || !isOrganicProductionCode(code_cpf)) {
+    continue
+  }
+
+  const resolvedRecords = resolve(code_cpf)
+
+  if (resolvedRecords.length === 0) {
+    console.error(`Le code CPF ${code_cpf} de correspondance-bureau-veritas.csv est introuvable dans nomenclature.csv`)
+    continue
+  }
+
+  const record = CPF.get(code_cpf)
+
+  if (record.code_bureau_veritas) {
+    console.error(`Le code CPF ${code_cpf} est déjà associé au code BV ${record.code_bureau_veritas}.`)
+  }
+
+  CPF.set(code_cpf, { ...record, code_bureau_veritas })
+}
+
+// 99. Write
 await writeFile(DESTINATION_FILE, JSON.stringify(Array.from(CPF.values()), null, 2))
