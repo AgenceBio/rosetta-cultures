@@ -88,7 +88,7 @@ csvParser = createReadStream(CORRESPONDANCE_BV_FILEPATH).pipe(parse({
   cast: false
 }))
 
-for await (const { PAB_CODE_DQF: code_bureau_veritas, CODE_CPF: code_cpf } of csvParser) {
+for await (const { "N° DQF": code_bureau_veritas, CPF: code_cpf } of csvParser) {
   if (!code_cpf || !isOrganicProductionCode(code_cpf)) {
     continue
   }
