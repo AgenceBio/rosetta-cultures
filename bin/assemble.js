@@ -53,7 +53,7 @@ csvParser = createReadStream(CORRESPONDANCE_PAC_FILEPATH).pipe(parse({
 
 const resolve = createCpfResolver(Array.from(CPF.values()))
 
-for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_cartobio } of csvParser) {
+for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_directe } of csvParser) {
   const resolvedRecords = resolve(code_cpf)
 
   if (resolvedRecords.length === 0) {
@@ -67,7 +67,7 @@ for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_cartobio
   const new_culture = {
     code: code_pac,
     libelle: lbl_pac,
-    requires_precision: toBoolean(correspondance_cartobio) === false
+    requires_precision: toBoolean(correspondance_directe) === false
   }
 
   resolvedRecords.forEach(({ code_cpf }) => {

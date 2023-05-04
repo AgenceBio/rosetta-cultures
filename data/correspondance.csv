@@ -1,17 +1,17 @@
-code_pac,lbl_pac,code_cpf,lbl_cpf,correspondance_cartobio,,Codes non présents dans la CPFBIO
+code_pac,lbl_pac,code_cpf,lbl_cpf,correspondance_directe,,Codes non présents dans la CPFBIO
 ACA,Autre culture non précisée dans la liste (admissible),*,,0,,"01.13.14,01.13.19.81,01.13.19.82"
 AGR,Agrume,"01.23.11,01.23.12,01.23.13,01.23.14,01.23.19","Pomelos et pamplemousses,Citrons et limes,Oranges,Mandarines et clémentines,Autres agrumes",0,,"01.13.15,01.13.19.1,01.13.19.84"
 AIL,Aïl,01.13.42,Ail,1,,"01.13.19.2,01.13.49.3"
 ANA,Ananas,01.22.19.1,Ananas,1,,"01.13.19.6,01.13.71"
 ANE,Aneth,01.28.19.26,Aneth,1,,"01.13.39.2,01.13.39.3"
 ANG,Angélique,01.28.30.48,Angélique,1,,"01.13*,01.22*,01.23*,01.24*,01.25*,01.26*"
-ANI,Anis,01.28.14.31,Anis,1,,"01.22*,01.23*,01.24*,01.25*,01.26*"
-ARA,Arachide,01.11.82,"Arachides, en coque",1,,"01.23.11,01.23.12,01.23.13,01.23.14,01.23.19"
-ART,Artichaut,01.13.17,Artichauts,1,,"01.27.11,01.27.14"
-AUB,Aubergine,01.13.33,Aubergines,1,,"01.28.19.23,01.28.30.81,01.28.00.99"
-AVH,Avoine d’hiver,01.11.33,Avoine,1,,"01.28.30.11,01.28.30.13"
-AVO,Avocat,01.22.11,Avocats,1,,"01.28.30.2,01.28.19.42"
-AVP,Avoine de printemps,01.11.33,Avoine,1,,
+ANI,Anis,01.28.14.31,Anis,1,,"01.19.10.13,01.95.11"
+ARA,Arachide,01.11.82,"Arachides, en coque",1,,"01.22*,01.23*,01.24*,01.25*,01.26*"
+ART,Artichaut,01.13.17,Artichauts,1,,"01.23.11,01.23.12,01.23.13,01.23.14,01.23.19"
+AUB,Aubergine,01.13.33,Aubergines,1,,"01.27.11,01.27.14"
+AVH,Avoine d’hiver,01.11.33,Avoine,1,,"01.28.19.23,01.28.30.81,01.28.00.99"
+AVO,Avocat,01.22.11,Avocats,1,,"01.28.30.11,01.28.30.13"
+AVP,Avoine de printemps,01.11.33,Avoine,1,,"01.28.30.2,01.28.19.42"
 BAR,Bardane,01.28.30.33,Bardane,1,,
 BAS,Basilic,01.28.19.27,Basilic,1,,
 BCA,Banane créole (fruit et légume) - autre,01.22.12,"Bananes, bananes plantains et assimilés",1,,
@@ -27,14 +27,14 @@ BEF,Banane export - fermage,01.22.12,"Bananes, bananes plantains et assimilés",
 BEI,Banane export - indivision,01.22.12,"Bananes, bananes plantains et assimilés",1,,
 BEP,Banane export - propriété ou faire valoir direct,01.22.12,"Bananes, bananes plantains et assimilés",1,,
 BER,Banane export - réforme foncière,01.22.12,"Bananes, bananes plantains et assimilés",1,,
-BFP,Bande admissible le long d’une forêt avec production,01.99,Autres surfaces non productive et surfaces non agricoles,1,,
+BFP,Bande admissible le long d’une forêt avec production,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
 BFS,Bande admissible le long d’une forêt sans production,01.99,Autres surfaces non productive et surfaces non agricoles,1,,
 BLT,Bleuet,01.28.30.34,Bleuet,1,,
 BOP,Bois pâturé,01.95.11,Bois pâturés et parcours ligneux,1,,
-BOR,Bordure de champ,01.99,Autres surfaces non productive et surfaces non agricoles,1,,
+BOR,Bordure de champ,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
 BRH,Bourrache de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
 BRO,Brome de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-BTA,Bande tampon,01.99,Autres surfaces non productive et surfaces non agricoles,1,,
+BTA,Bande tampon,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
 BTH,Blé tendre d’hiver,01.11.12,Blé tendre,1,,
 BTN,Betterave non fourragère / Bette,"01.13.19.6,01.13.71","Blettes, Betteraves à sucre",0,,
 BTP,Blé tendre de printemps,01.11.12,Blé tendre,1,,
@@ -285,7 +285,7 @@ RGA,Ray-grass de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
 RIZ,Riz,01.12,"Riz, non décortiqué",1,,
 ROM,Romarin,01.28.19.21,Romarin,1,,
 ROQ,Roquette,01.13.19.89,Autres salades,1,,
-ROS,Roselière,01.99,Autres surfaces non productive (yc bordures et bandes tampon),1,,
+ROS,Roselière,01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",1,,
 RUT,Rutabaga,01.13.49.6,Rutabagas,1,,
 RVI,Restructuration du vignoble,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
 SA5,Sainfoin implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
@@ -306,11 +306,11 @@ SGE,Sauge,"01.28.19.23,01.28.30.81,01.28.00.99","Sauge sclarée,Sauge officinale
 SGH,Seigle d’hiver,01.11.32,Seigle,1,,
 SGP,Seigle de printemps,01.11.32,Seigle,1,,
 SNA,Surface non agricole non visible sur l’orthophotographie,01.99,Autres surfaces non productive (yc bordures et bandes tampon),1,,
-SNE,Surface agricole temporairement non exploitée,01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",1,,
+SNE,Surface agricole temporairement non exploitée,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
 SOG,Sorgho,01.11.41,Sorgho,1,,
 SOJ,Soja,01.11.81,Fèves de soja,1,,
-SPH,Surface pastorale - herbe prédominante et ressources fourragères ligneuses présentes,01.95.4,Estives ou alpages collectifs,1,,
-SPL,Surface pastorale - ressources fourragères ligneuses prédominantes,01.95.4,Estives ou alpages collectifs,1,,
+SPH,Surface pastorale - herbe prédominante et ressources fourragères ligneuses présentes,01.19.10.13,Parcours herbeux (hors estives collectives),1,,
+SPL,Surface pastorale - ressources fourragères ligneuses prédominantes,01.95.11,Bois pâturés et parcours ligneux,1,,
 SRI,Sarriette,01.28.19.1,Sarriette,1,,
 SRS,Sarrasin,01.11.49.2,Sarrasin,1,,
 TAB,Tabac,01.15.1,Tabac brut,1,,
@@ -345,8 +345,29 @@ VNL,Vanille,01.28.18,"Vanille, brute",1,,
 VNV,Vanille verte,01.28.18,"Vanille, brute",1,,
 VRC,Vigne : raisins de cuve,01.21.12,Raisin de cuve,1,,
 VRG,Verger,"01.22*,01.23*,01.24*,01.25*,01.26*",,0,,
-VRN,Vigne : raisins de cuve non en production,01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",1,,
+VRN,Vigne : raisins de cuve non en production,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
 VRT,Vigne : raisins de table,01.21.11,Raisin de table,1,,
 XFE,X-Felium de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
 YLA,Ylang-ylang,01.28.30.47,Ylang-ylang,1,,
+CAH,Autre céréale ou pseudocéréale secondaire d’hiver,01.11.49.9,Autres céréales ou pseudo céréales,1,,
+MCS,Mélange de céréales ou pseudo-céréales de printemps entre elles,01.11.49.31,Mélanges Céréaliers (sans légumineuses),1,,
+FVP,Féverole de printemps,01.11.72,"Fèves, sèches (yc féveroles)",1,,
+PHS,Pois et haricot secs (alimentation humaine),01.11.79.9,Autres légumes secs,1,,
+PHF,Pois et haricot frais (alimentation humaine),01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1,,
+MDI,Maraîchage diversifié (plusieurs espèces de fruits et légumes majoritairement non pérennes,01.13.90.2,Légumes frais plein champ,1,,
+SHD,Surfaces hautement diversifiées (DOM),*,,0,,
+GRA,Graminée pure exclusivement pour gazon ou pour production de semences certifiées,01.19.10.11,Prairie temporaire,1,,
+JAC,Jachère (terre arable),01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
+ARP,Plante aromatique pérenne non arbustive ou arborée autre que la vanille,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
+AAR,Plantes aromatiques herbacées non pérennes (< 5 ans) autres que persil,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
+PRF,Plantes à parfum pérennes autres que lavande et lavandin,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
+AME,Plantes médicinales et à parfum non pérennes (< 5 ans),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
+PME,Plantes médicinales pérennes (autres que arbres),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
+AFG,"Autre plante fourragère annuelle (ni légumineuse, ni graminée, ni céréale, ni oléagineux)",01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
+MSW,"Culture pérenne à forte biomasse (miscanthus, switchgrass, silphie, canne fourragère, …)",*,,0,,
+ACP,Autre culture pérenne et jachère dans les bananeraies,*,,0,,
+PEV,Pépinière (plants laissés en terre moins d’un an),01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",1,,
+SAG,Roselière (récolte de sagnes),01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",1,,
+SNU,"Parc d'élevage de monogastriques avec couvert dégradé, voire sol nu","01.19.10.13,01.95.11","Parcours herbeux (hors estives collectives), Bois pâturés et parcours ligneux",0,,
+SIN,Surface pastorale ou parcours non utilisé l’année en cours,01.19.10.13,Parcours herbeux (hors estives collectives),1,,
 ZZZ,Culture inconnue,*,,0,,
