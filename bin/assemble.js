@@ -27,7 +27,7 @@ let csvParser = createReadStream(CODES_FILEPATH).pipe(parse({
   cast: false
 }))
 
-for await (const { code_production: code_cpf, lbl_production, affichage_cartobio, lien_code, groupe, sous_groupe } of csvParser) {
+for await (const { code_production: code_cpf, lbl_production, actif, lien_code, groupe, sous_groupe } of csvParser) {
   CPF.set(code_cpf, {
     code_cpf,
     code_cpf_alias: lien_code,
@@ -35,7 +35,7 @@ for await (const { code_production: code_cpf, lbl_production, affichage_cartobio
     groupe,
     sous_groupe,
     //
-    is_selectable: toBoolean(affichage_cartobio),
+    is_selectable: toBoolean(actif),
     // mappings
     code_bureau_veritas: null,
     // extension PAC

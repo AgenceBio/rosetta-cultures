@@ -1,391 +1,391 @@
-code_production,lbl_production,nomenclature,affichage_cartobio,lien_code,lien_lbl,groupe,sous_groupe
-01.1,Cultures non permanentes,CPF rev2,0,,,,
-01.11,"Céréales (à l'exclusion du riz), légumineuses et oléagineux",CPF rev2,0,,,Grandes Cultures,
-01.11.00.1,"Semences de céréales, légumineuses et oléagineux (à l'exclusion du riz)",BIO v1.4,1,,,Semences et plants,Semences grandes cultures et cultures industrielles
-01.11.1,Blé,CPF rev2,0,01.11.11,Blé dur,Grandes Cultures,Céréales
-01.11.11,Blé dur,CPF rev2,1,,,Grandes Cultures,Céréales
-01.11.12,Blé tendre,CPF rev2,1,,,Grandes Cultures,Céréales
-01.11.2,Maïs grain (yc maïs doux),CPF rev2,0,01.11.20.2,Maïs grain (yc maïs doux),Grandes Cultures,Céréales
-01.11.20,Maïs grain (yc maïs doux),CPF rev2,0,01.11.20.2,Maïs grain (yc maïs doux),Grandes Cultures,Céréales
-01.11.20.1,Maïs doux,BIO v1.1,1,,,Légumes,Légumes à feuilles ou tiges
-01.11.20.2,Maïs grain (hors maïs doux),BIO v1.3,1,,,Grandes Cultures,Céréales
-01.11.3,"Orge, seigle et avoine",CPF rev2,0,,,Grandes Cultures,Céréales
-01.11.31,Orges,CPF rev2,1,,,Grandes Cultures,Céréales
-01.11.31.1,Orge de brasserie,BIO v1,1,,,Grandes Cultures,Céréales
-01.11.31.2,Orge fourrager,BIO v1,1,,,Grandes Cultures,Céréales
-01.11.32,Seigle,CPF rev2,1,,,Grandes Cultures,Céréales
-01.11.33,Avoine,CPF rev2,1,,,Grandes Cultures,Céréales
-01.11.4,Autres céréales et mélanges,CPF rev2,0,01.11.49.9,Autre céréale,Grandes Cultures,Céréales
-01.11.41,Sorgho,CPF rev2,1,,,Grandes Cultures,Céréales
-01.11.42,Millet,CPF rev2,1,,,Grandes Cultures,Céréales
-01.11.43,Triticale,CPF rev2,1,,,Grandes Cultures,Céréales
-01.11.49,"Autres céréales, pseudo-céréales et mélanges n.c.a.",CPF rev2,0,01.11.49.9,Autres céréales ou pseudo céréales,Grandes Cultures,Céréales
-01.11.49.1,Epeautre,BIO v1,1,,,Grandes Cultures,Céréales
-01.11.49.11,Petit épeautre,BIO v1,1,,,Grandes Cultures,Céréales
-01.11.49.12,Grand épeautre,BIO v1,1,,,Grandes Cultures,Céréales
-01.11.49.2,Sarrasin,BIO v1,1,,,Grandes Cultures,Céréales
-01.11.49.3,Mélanges (avec céréales),BIO v1,0,01.11.49.31,Mélanges Céréaliers (sans légumineuses),Grandes Cultures,Céréales
-01.11.49.31,Mélanges Céréaliers (sans légumineuses),BIO v1,1,,,Grandes Cultures,Céréales
-01.11.49.32,Mélanges Céréales-légumineuses,BIO v1,1,,,Grandes Cultures,Céréales
-01.11.49.4,Quinoa,BIO v1.4,1,,,Grandes Cultures,Céréales
-01.11.49.9,Autres céréales ou pseudo céréales,BIO v1,1,,,Grandes Cultures,Céréales
-01.11.5,Paille et balles de céréales,CPF rev2,0,01.11.49.9,Autres céréales ou pseudo céréales,Grandes Cultures,Céréales
-01.11.50,Paille et balles de céréales,CPF rev2,0,01.11.49.9,Autres céréales ou pseudo céréales,Grandes Cultures,Céréales
-01.11.6,"Légumes à cosse, verts",CPF rev2,0,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",Grandes Cultures,Protéagineux et légumes secs
-01.11.61,"Haricots, verts",CPF rev2,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.62,"Pois, verts",CPF rev2,0,01.11.69.1,Petit pois,Grandes Cultures,Protéagineux et légumes secs
-01.11.69,"Autres légumes à cosse, verts",CPF rev2,0,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",Grandes Cultures,Protéagineux et légumes secs
-01.11.69.1,Petit pois,BIO v1.4,1,,,Légumes,Légumes à fruits
-01.11.69.2,Fèves (fraîches),BIO v1.4,1,,,Légumes,Légumes à fruits
-01.11.69.9,"Autres légumes à cosse, verts n.c.a.",BIO v1.4,1,,,Légumes,Légumes à fruits
-01.11.7,"Légumes à cosse, secs",CPF rev2,0,01.11.79.9,Autres légumes secs,Grandes Cultures,Protéagineux et légumes secs
-01.11.71,"Haricots, secs",CPF rev2,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.72,"Fèves, sèches (yc féveroles)",CPF rev2,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.73,"Pois chiches, secs",CPF rev2,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.74,"Lentilles, sèches",CPF rev2,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.75,"Pois, secs",CPF rev2,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.76,"Dolique à œil noir (pois du brésil, niébé)",CPF rev2,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.77,"Pois d'ambrevade ou pois d'angole, secs",CPF rev2,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.79,"Légumes à cosse, secs n.c.a.",CPF rev2,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.79.1,Lupin,BIO v1,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.79.9,Autres légumes secs,BIO v1,1,,,Grandes Cultures,Protéagineux et légumes secs
-01.11.8,"Fèves de soja, arachides",CPF rev2,0,01.11.99.9,Autres oléagineux n.c.a.,Grandes Cultures,Oléagineux
-01.11.81,Fèves de soja,CPF rev2,1,,,Grandes Cultures,Oléagineux
-01.11.82,"Arachides, en coque",CPF rev2,1,,,Grandes Cultures,Oléagineux
-01.11.9,Autres oléagineux,CPF rev2,0,01.11.99.9,Autres oléagineux n.c.a.,Grandes Cultures,Oléagineux
-01.11.91,Lin (graines),CPF rev2,1,,,Grandes Cultures,Oléagineux
-01.11.92,Moutarde (graines),CPF rev2,1,,,Grandes Cultures,Oléagineux
-01.11.93,Colza,CPF rev2,1,,,Grandes Cultures,Oléagineux
-01.11.94,Sésame,CPF rev2,1,,,Grandes Cultures,Oléagineux
-01.11.95,Tournesol,CPF rev2,1,,,Grandes Cultures,Oléagineux
-01.11.96,Ricin,CPF rev2,1,,,Grandes Cultures,Oléagineux
-01.11.99,Autres oléagineux,CPF rev2,0,01.11.99.9,Autres oléagineux n.c.a.,Grandes Cultures,Oléagineux
-01.11.99.1,Cameline,BIO v1.3,1,,,Grandes Cultures,Oléagineux
-01.11.99.2,Jojoba,BIO v1.4,1,,,Grandes Cultures,Oléagineux
-01.11.99.3,Carthames,BIO v1.4,1,,,Grandes Cultures,Oléagineux
-01.11.99.9,Autres oléagineux n.c.a.,BIO v1.4,1,,,Grandes Cultures,Oléagineux
-01.12,"Riz, non décortiqué",CPF rev2,0,01.12.1,"Riz, non décortiqué",Grandes Cultures,Céréales
-01.12.1,"Riz, non décortiqué",CPF rev2,1,,,Grandes Cultures,Céréales
-01.12.10,"Riz, non décortiqué",CPF rev2,0,01.12.1,"Riz, non décortiqué",Grandes Cultures,Céréales
-01.12.10.1,Semences de riz,CPF rev2,1,,,Semences et plants,Semences grandes cultures et cultures industrielles
-01.13,"Légumes et melons, racines et tubercules",CPF rev2,0,01.13.90.41,,Légumes,
-01.13.1,Légumes à feuilles ou à tiges,CPF rev2,0,01.13.19.9,Autres légumes à feuilles ou à tiges,Légumes,Légumes à feuilles ou tiges
-01.13.11,Asperges,CPF rev2,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.12,Choux,CPF rev2,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.13,Choux-fleurs et brocolis,CPF rev2,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.14,Laitues,CPF rev2,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.15,Chicorées,CPF rev2,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.16,Épinards,CPF rev2,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.17,Artichauts,CPF rev2,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19,Autres légumes à feuilles ou à tiges,CPF rev2,0,01.13.19.9,Autres légumes à feuilles ou à tiges,Légumes,Légumes à feuilles ou tiges
-01.13.19.1,Endives,BIO v1,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.2,Céleris branche,BIO v1,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.4,Cresson,BIO v1.1,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.5,Rhubarbe,BIO v1.4,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.6,Blettes,BIO v1.4,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.7,Pousses,BIO v1.4,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.8,Salades,BIO v1.4,0,01.13.19.89,Autres salades,Légumes,Légumes à feuilles ou tiges
-01.13.19.81,Feuilles de chêne,BIO v1.4,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.82,Batavia,BIO v1.4,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.83,Mâches,BIO v1.4,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.84,Scaroles,BIO v1.4,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.85,Frisées,BIO v1.4,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.89,Autres salades,BIO v1.4,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.19.9,Autres légumes à feuilles ou à tiges,BIO v1,1,,,Légumes,Légumes à feuilles ou tiges
-01.13.2,Melons et pastèques,CPF rev2,0,,,Légumes,Légumes à fruits
-01.13.21,Pastèques,CPF rev2,1,,,Légumes,Légumes à fruits
-01.13.29,Autres melons,CPF rev2,0,01.13.29.1,Melons,Légumes,Légumes à fruits
-01.13.29.1,Melons,BIO v1.2,1,,,Légumes,Légumes à fruits
-01.13.29.2,Melons d'eau,BIO v1.2,0,01.13.29.1,Melons,Légumes,Légumes à fruits
-01.13.29.9,Autres melons,BIO v1.2,0,01.13.29.1,Melons,Légumes,Légumes à fruits
-01.13.3,Autres légumes à fruits,CPF rev2,0,01.13.39.99,Autres légumes à fruits n.c.a.,Légumes,Légumes à fruits
-01.13.31,"Piments et poivrons, verts (uniquement capsicum)",CPF rev2,1,,,Légumes,Légumes à fruits
-01.13.32,Concombres et cornichons,CPF rev2,1,,,Légumes,Légumes à fruits
-01.13.33,Aubergines,CPF rev2,1,,,Légumes,Légumes à fruits
-01.13.34,Tomates,CPF rev2,1,,,Légumes,Légumes à fruits
-01.13.39,Autres légumes à fruits n.c.a.,CPF rev2,0,01.13.39.99,Autres légumes à fruits n.c.a.,Légumes,Légumes à fruits
-01.13.39.2,Courgettes,BIO v1,1,,,Légumes,Légumes à fruits
-01.13.39.3,Courges et citrouilles,BIO v1,1,,,Légumes,Légumes à fruits
-01.13.39.31,Courge musquée / Butternut,BIO v1,0,01.13.39.3,Courges et citrouilles,Légumes,Légumes à fruits
-01.13.39.32,Potiron / Potimarron,BIO v1,1,,,Légumes,Légumes à fruits
-01.13.39.99,Autres légumes à fruits n.c.a.,BIO v1,1,,,Légumes,Légumes à fruits
-01.13.4,"Légumes à racine, à bulbe ou à tubercules",CPF rev2,0,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.41,Carottes et navets,CPF rev2,0,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.41.1,Carottes,BIO v1,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.41.2,Navets,BIO v1,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.42,Ail,CPF rev2,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.43,"Oignons, échalotes",CPF rev2,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.43.1,Oignons,BIO v1,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.43.2,Echalotes,BIO v1,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.44,Poireaux et autres alliacés,CPF rev2,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.49,"Autres légumes à racine, à bulbe ou à tubercules (ne présentant pas une forte teneur en amidon ou inuline)",CPF rev2,0,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.49.1,Radis,BIO v1,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.49.2,Betteraves rouges et à salade,BIO v1,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.49.3,Céleris raves,BIO v1,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.49.4,Panais,BIO v1.4,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.49.5,Salsifis,BIO v1.4,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.49.6,Rutabagas,BIO v1.4,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",BIO v1.4,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.5,Racines et tubercules à amidon ou inuline comestibles,CPF rev2,0,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.51,Pommes de terre,CPF rev2,0,01.13.51.1,Pommes de terre (hors féculière),Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.51.1,Pommes de terre (hors féculière),BIO v1,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.51.2,Pommes de terre féculière,BIO v1,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.52,Patates douces,CPF rev2,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.53,Manioc,CPF rev2,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.54,Colocases,CPF rev2,1,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.59,Autres racines et tubercules à amidon ou inuline comestibles,CPF rev2,0,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",Légumes,"Légumes à racine, à bulbe ou à tubercules"
-01.13.6,"Plants et semences potagers, à l'exclusion des semences de betteraves",CPF rev2,1,,,Semences et plants,Semences et plants potagers
-01.13.60,"Plants et semences potagers, à l'exclusion des semences de betteraves",CPF rev2,0,01.13.6,"Plants et semences potagers, à l'exclusion des semences de betteraves",Semences et plants,Semences et plants potagers
-01.13.7,Betteraves à sucre et semences de betteraves à sucre,CPF rev2,0,,,Cultures industrielles,Cultures sucrières
-01.13.71,Betteraves à sucre,CPF rev2,1,,,Cultures industrielles,Cultures sucrières
-01.13.72,Semences de betteraves à sucre,CPF rev2,1,,,Semences et plants,Semences grandes cultures et cultures industrielles
-01.13.8,Champignons et truffes,CPF rev2,0,01.13.80.1,Champignons,Légumes,Autres légumes frais et maraîchage
-01.13.80,Champignons et truffes,CPF rev2,0,01.13.80.1,Champignons,Légumes,Autres légumes frais et maraîchage
-01.13.80.1,Champignons,BIO v1.4,1,,,Légumes,Autres légumes frais et maraîchage
-01.13.80.2,Truffes,BIO v1.4,1,,,Légumes,Autres légumes frais et maraîchage
-01.13.9,Légumes frais n.c.a.,CPF rev2,0,01.13.90.2,Légumes frais plein champ,Légumes,Autres légumes frais et maraîchage
-01.13.90,Légumes frais n.c.a.,CPF rev2,0,01.13.90.2,Légumes frais plein champ,Légumes,Autres légumes frais et maraîchage
-01.13.90.1,Légumes frais sous abris,BIO v1,1,,,Légumes,Autres légumes frais et maraîchage
-01.13.90.2,Légumes frais plein champ,BIO v1,1,,,Légumes,Autres légumes frais et maraîchage
-01.14,Cannes à sucre,CPF rev2,0,01.14.1,Cannes à sucre,Cultures industrielles,Cultures sucrières
-01.14.1,Cannes à sucre,CPF rev2,1,,,Cultures industrielles,Cultures sucrières
-01.14.10,Cannes à sucre,CPF rev2,0,01.14.1,Cannes à sucre,Cultures industrielles,Cultures sucrières
-01.15,Tabac brut,CPF rev2,0,01.15.1,Tabac brut,Cultures industrielles,Autre cultures industrielles
-01.15.1,Tabac brut,CPF rev2,1,,,Cultures industrielles,Autre cultures industrielles
-01.15.10,Tabac brut,CPF rev2,0,01.15.1,Tabac brut,Cultures industrielles,Autre cultures industrielles
-01.16,Plantes textiles,CPF rev2,0,01.16.19.9,Autres plantes textiles,Cultures industrielles,Cultures textiles
-01.16.1,Plantes textiles,CPF rev2,0,01.16.19.9,Autres plantes textiles,Cultures industrielles,Cultures textiles
-01.16.11,"Coton, égrené ou en masse",CPF rev2,1,,,Cultures industrielles,Cultures textiles
-01.16.12,"Jute, kénaf et autres fibres libériennes, bruts ou rouis, à l'exclusion du lin, du chanvre commun et de la ramie",CPF rev2,0,,,Cultures industrielles,Cultures textiles
-01.16.19,"Lin, chanvre commun et plantes textiles brutes n.c.a.",CPF rev2,0,01.16.19.1,Lin fibre,Cultures industrielles,Cultures textiles
-01.16.19.1,Lin fibre,BIO v1,1,,,Cultures industrielles,Cultures textiles
-01.16.19.2,Chanvre,BIO v1,1,,,Cultures industrielles,Cultures textiles
-01.16.19.9,Autres plantes textiles,BIO v1,1,,,Cultures industrielles,Cultures textiles
-01.19,Autres cultures non permanentes,CPF rev2,0,,,,
-01.19.00.1,Autres cultures non permanentes n.c.a.,,0,,,,
-01.19.00.2,Cultures en inter-rang,BIO v1.4,0,,,Autres productions végétales,
-01.19.00.9,Autres cultures non permanentes n.c.a.,BIO v1.4,0,,,Autres productions végétales,
-01.19.1,Plantes et surfaces fourragères,CPF rev2,0,01.19.10.9,Autres plantes et surfaces fourragères,Surfaces fourragères,
-01.19.1,Plantes et surfaces fourragères,CPF rev2,0,01.19.10.9,Autres plantes et surfaces fourragères,Surfaces fourragères,
-01.19.10,Plantes et surfaces fourragères,CPF rev2,0,01.19.10.9,Autres plantes et surfaces fourragères,Surfaces fourragères,Plantes fourragères
-01.19.10,Plantes fourragères,CPF rev2,0,01.19.10.9,Autres plantes et surfaces fourragères,Surfaces fourragères,Plantes fourragères
-01.19.10.1,"Prairies, parcours herbeux",BIO v1,0,Aucun,,Surfaces fourragères,"Prairies, parcours"
-01.19.10.11,Prairie temporaire,BIO v1,1,,,Surfaces fourragères,"Prairies, parcours"
-01.19.10.12,Prairie permanente,BIO v1,1,,,Surfaces fourragères,"Prairies, parcours"
-01.19.10.13,Parcours herbeux (hors estives collectives),BIO v1,1,,,Surfaces fourragères,"Prairies, parcours"
-01.19.10.2,Betterave fourragère,BIO v1,1,,,Surfaces fourragères,Plantes fourragères
-01.19.10.3,Choux fourrager,BIO v1,1,,,Surfaces fourragères,Plantes fourragères
-01.19.10.4,Colza fourrager,BIO v1,1,,,Surfaces fourragères,Plantes fourragères
-01.19.10.5,Maïs fourrager,BIO v1,1,,,Surfaces fourragères,Plantes fourragères
-01.19.10.6,Mélanges fourragers,BIO v1,1,,,Surfaces fourragères,Plantes fourragères
-01.19.10.7,Trèfle,BIO v1,1,,,Surfaces fourragères,Plantes fourragères
-01.19.10.8,Luzerne,BIO v1,1,,,Surfaces fourragères,Plantes fourragères
-01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,BIO v1,1,,,Surfaces fourragères,
-01.19.2,Fleurs coupées et boutons de fleurs ; semences florales,CPF rev2,0,,,Autres productions végétales,Fleurs
-01.19.21,Fleurs coupées et boutons de fleurs,CPF rev2,1,,,Autres productions végétales,Fleurs
-01.19.22,Semences florales,CPF rev2,1,,,Semences et plants,Autres semences
-01.19.3,"Semences de betteraves et de plantes fourragères, autres produits végétaux bruts",CPF rev2,0,,,Semences et plants,Autres semences
-01.19.31,Semences de betteraves (à l'exclusion des semences de betteraves à sucre) et de plantes fourragères,CPF rev2,1,,,Semences et plants,Autres semences
-01.19.39,Produits végétaux bruts n.c.a.,CPF rev2,0,,,Cultures industrielles,Autre cultures industrielles
-01.19.39.1,Autres cultures industrielles,BIO v1,0,,,Cultures industrielles,Autre cultures industrielles
-01.2,Cultures permanentes,CPF rev2,0,,,,
-01.21,Raisin,CPF rev2,0,,,Viticulture,Viticulture
-01.21.1,Raisin,CPF rev2,0,,,Viticulture,Viticulture
-01.21.11,Raisin de table,CPF rev2,1,,,Viticulture,Viticulture
-01.21.12,Raisin de cuve,CPF rev2,1,,,Viticulture,Viticulture
-01.22,Fruits tropicaux et subtropicaux,CPF rev2,0,01.22.19.9,Autres fruits tropicaux et subtropicaux,Fruits,Fruits tropicaux et subtropicaux
-01.22.1,Fruits tropicaux et subtropicaux,CPF rev2,0,01.22.19.9,Autres fruits tropicaux et subtropicaux,Fruits,Fruits tropicaux et subtropicaux
-01.22.11,Avocats,CPF rev2,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.12,"Bananes, bananes plantains et assimilés",CPF rev2,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.13,Dattes,CPF rev2,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.14,Figues,CPF rev2,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.19,Autres fruits tropicaux et subtropicaux,CPF rev2,0,01.22.19.9,Autres fruits tropicaux et subtropicaux,Fruits,Fruits tropicaux et subtropicaux
-01.22.19.1,Ananas,BIO v1,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.19.2,Grenades,BIO v1.4,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.19.3,Papayes,BIO v1.4,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.19.4,Fruits du Jaquier (durian),BIO v1.4,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.19.5,Fruits de la passion,BIO v1.4,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.19.6,Mangues,BIO v1.4,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.19.7,Kakis,BIO v1.4,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.19.8,Litchis (letchis),BIO v1.4,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.22.19.9,Autres fruits tropicaux et subtropicaux n.c.a.,BIO v1.4,1,,,Fruits,Fruits tropicaux et subtropicaux
-01.23,Agrumes,CPF rev2,0,01.23.19,Autres agrumes,Fruits,Agrumes
-01.23.1,Agrumes,CPF rev2,0,01.23.19,Autres agrumes,Fruits,Agrumes
-01.23.11,Pomelos et pamplemousses,CPF rev2,1,,,Fruits,Agrumes
-01.23.12,Citrons et limes,CPF rev2,1,,,Fruits,Agrumes
-01.23.13,Oranges,CPF rev2,1,,,Fruits,Agrumes
-01.23.14,Mandarines et clémentines,CPF rev2,1,,,Fruits,Agrumes
-01.23.19,Autres agrumes,CPF rev2,1,,,Fruits,Agrumes
-01.24,Fruits à pépins et à noyau,CPF rev2,0,,,Fruits,Fruits à pépins et à noyaux
-01.24.1,Pommes,CPF rev2,0,,,Fruits,Fruits à pépins et à noyaux
-01.24.10,Pommes,CPF rev2,0,,,Fruits,Fruits à pépins et à noyaux
-01.24.10.1,Pommes à cidre,BIO v1,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.10.2,Pommes de table,BIO v1,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.2,Autres fruits à pépins et à noyau,CPF rev2,0,,,Fruits,Fruits à pépins et à noyaux
-01.24.21,Poires,CPF rev2,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.22,Coings,CPF rev2,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.23,Abricots,CPF rev2,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.24,Cerises,CPF rev2,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.25,Pêches,CPF rev2,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.26,Nectarines,CPF rev2,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.27,Prunes,CPF rev2,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.27.1,Prunes d'Ente,BIO v1.4,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.28,Prunelles,CPF rev2,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.29,Autres fruits à pépins et à noyau n.c.a.,CPF rev2,0,,,Fruits,Fruits à pépins et à noyaux
-01.24.29.1,Autres fruits à pépins,BIO v1,1,,,Fruits,Fruits à pépins et à noyaux
-01.24.29.2,Autres fruits à noyau,BIO v1,1,,,Fruits,Fruits à pépins et à noyaux
-01.25,Autres fruits d'arbres ou d'arbustes et fruits à coque,CPF rev2,0,,,Fruits,Autres fruits frais
-01.25.1,Baies et fruits du genre Vaccinium,CPF rev2,0,01.25.19.9,Autres baies (hors cassis et myrtilles),Fruits,Baies
-01.25.11,Kiwis,CPF rev2,1,,,Fruits,Baies
-01.25.12,Framboises,CPF rev2,1,,,Fruits,Baies
-01.25.13,Fraises,CPF rev2,1,,,Fruits,Baies
-01.25.19,"Autres baies, fruits du genre vaccinium n.c.a.",CPF rev2,0,01.25.19.9,Autres baies (hors cassis et myrtilles),Fruits,Baies
-01.25.19.1,Cassis,BIO v1,1,,,Fruits,Baies
-01.25.19.2,Myrtilles,BIO v1,1,,,Fruits,Baies
-01.25.19.4,Airelles,BIO v1.4,1,,,Fruits,Baies
-01.25.19.5,Groseilles,BIO v1.4,1,,,Fruits,Baies
-01.25.19.9,Autres baies (hors cassis et myrtilles),BIO v1,1,,,Fruits,Baies
-01.25.2,Semences fruitières,CPF rev2,1,,,Semences et plants,Semences fruitières
-01.25.20,Semences fruitières,CPF rev2,0,01.25.20,Semences fruitières,Semences et plants,Semences fruitières
-01.25.3,"Fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",CPF rev2,0,01.25.39,"Autres fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",Fruits,Fruits à coque
-01.25.31,Amandes,CPF rev2,1,,,Fruits,Fruits à coque
-01.25.32,Châtaignes et marrons,CPF rev2,1,,,Fruits,Fruits à coque
-01.25.33,Noisettes,CPF rev2,1,,,Fruits,Fruits à coque
-01.25.34,Pistaches,CPF rev2,1,,,Fruits,Fruits à coque
-01.25.35,Noix,CPF rev2,1,,,Fruits,Fruits à coque
-01.25.39,"Autres fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",CPF rev2,1,,,Fruits,Fruits à coque
-01.25.9,Autres fruits d'arbres ou d'arbustes n.c.a.,CPF rev2,0,,,Fruits,Autres fruits frais
-01.25.90,Autres fruits d'arbres ou d'arbustes n.c.a.,CPF rev2,0,,,Fruits,Autres fruits frais
-01.26,Fruits oléagineux,CPF rev2,0,01.26.9,Autres fruits oléagineux,Fruits,Fruits oléagineux
-01.26.1,Olives,CPF rev2,1,,,Oléiculture,
-01.26.11,Olives de table,CPF rev2,1,,,Oléiculture,
-01.26.12,Olives à huile,CPF rev2,1,,,Oléiculture,
-01.26.2,Noix de coco,CPF rev2,1,,,Fruits,Fruits oléagineux
-01.26.20,Noix de coco,CPF rev2,0,01.26.2,Noix de coco,Fruits,Fruits oléagineux
-01.26.9,Autres fruits oléagineux,CPF rev2,1,,,Fruits,Fruits oléagineux
-01.26.90,Autres fruits oléagineux,CPF rev2,0,01.26.9,Autres fruits oléagineux,Fruits,Fruits oléagineux
-01.27,Plantes à boissons,CPF rev2,0,01.27.10.9,Autres plantes à boisson,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
-01.27.1,Plantes à boissons,CPF rev2,0,01.27.10.9,Autres plantes à boisson,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
-01.27.10.1,Honeybush,BIO v1.4,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
-01.27.10.2,Rooibos,BIO v1.4,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
-01.27.10.9,Autres plantes à boisson,BIO v1.4,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
-01.27.11,"Café vert, en cerise ou en grain",CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
-01.27.12,Thé en feuilles,CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
-01.27.13,Maté en feuilles,CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
-01.27.14,Cacao en fèves,CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
-01.28,"Plantes à épices, aromatiques, médicinales et pharmaceutiques",CPF rev2,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques","Plantes à parfums, aromatiques et médicinales et plantes à boissons",
-01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.1,Épices brutes et arômates,CPF rev2,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques","Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.11,"Poivre (piper spp.), brut",CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.12,"Piments et poivrons (capsicum spp.) séchés, bruts",CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.13,"Muscade, macis et cardamome, bruts",CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.14,"Anis, badiane, coriandre, cumin, carvi, fenouil et genièvre, bruts",CPF rev2,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques","Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.14.1,Coriandre (graines),BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.14.2,Fenouil doux et amer,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.14.3,"Anis, badiane",BIO v1.3,0,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.14.31,Anis,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.14.32,Badiane,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.14.9,"Cumin, carvi et genièvre, bruts",BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.15,"Cannelle, brute",CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.16,"Clous de girofle (entiers), bruts",CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.17,"Gingembre séché, brut",CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.18,"Vanille, brute",CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19,Autres épices brutes et arômates,CPF rev2,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques","Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.1,Sarriette,BIO V1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.11,Sarriette annuelle,BIO v1,0,01.28.19.1,Sarriette,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.12,Sarriette vivace,BIO v1,0,01.28.19.1,Sarriette,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.21,Romarin,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.22,Safran,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.23,Sauge sclarée,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.24,Serpolet,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.25,Thym,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.26,Aneth,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.27,Basilic,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.28,Camomille romaine,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.29,Cerfeuil,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.3,Menthe,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.31,Menthe douce,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.32,Menthe poivrée,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.41,Fenugrec,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.42,Origans,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.43,Persil,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.44,Ciboulette,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.45,Estragon,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.46,Oseille,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.47,Coriandre (herbe),BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.48,Pensées,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.51,Curcuma,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.52,Laurier (feuilles),BIO v1.4,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.19.99,Autres épices brutes et arômates n.c.a.,BIO v1,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques","Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.2,Houblon en cônes,CPF rev2,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.20,Houblon en cônes,CPF rev2,0,01.28.2,Houblon en cônes,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
-01.28.3,"Plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",CPF rev2,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques","Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30,"Plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",CPF rev2,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques","Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.1,"Lavande, lavandin",BIO v1.3,0,01.28.30.11,Lavande,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.10,"Lavande, lavandin",BIO v1.3,0,01.28.30.11,Lavande,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.11,Lavande,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.12,Lavandin,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.2,Marjolaine,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.31,Matricaire,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.32,Hysope,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.33,Bardane,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.34,Bleuet,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.35,Bugle rampant,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.36,Géranium,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.37,Ortie,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.38,Psyllium noir de Provence,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.39,Plantain psyllium,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.41,Echinacées,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.42,Calendula,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.43,Mauve,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.44,Valériane,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.45,Véronique,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.46,Vétiver,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.47,Ylang-ylang,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.48,Angélique,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.49,Chardon Marie,BIO v1.3,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.5,Mélilot,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.51,Citronelle,BIO v1.4,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.6,Mélisse,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.71,Millepertuis,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.72,Reine des prés,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.81,Sauge officinale,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.82,Verveine odorante,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.83,Verveine officinale,BIO v1,1,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.28.30.99,"Autres plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",BIO v1,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques","Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
-01.29,Autres cultures permanentes,CPF rev2,0,,,Autres productions végétales,
-01.29.00.9,Autres cultures permanentes n.c.a.,BIO v1.31,0,,,Autres productions végétales,
-01.29.00.91,Miscanthus,BIO v1.31,1,,,Autres productions végétales,
-01.29.1,Caoutchouc naturel brut,CPF rev2,1,,,Autres productions végétales,
-01.29.10,Caoutchouc naturel brut,CPF rev2,0,01.29.1,Caoutchouc naturel brut,Autres productions végétales,
-01.29.2,Sapins et arbres de Noël coupés,CPF rev2,1,,,Autres productions végétales,
-01.29.20,Arbres de noël coupés,CPF rev2,0,01.29.2,Sapins et arbres de Noël coupés,Autres productions végétales,
-01.29.3,"Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",CPF rev2,0,,,Autres productions végétales,
-01.29.30,"Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",CPF rev2,0,,,Autres productions végétales,
-01.3,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,0,01.30.1,Plants,Semences et plants,Plants
-01.30,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,0,01.30.1,Plants,Semences et plants,Plants
-01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,1,,,Semences et plants,Plants
-01.30.10,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,0,01.30.1,Plants,Semences et plants,Plants
-01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",BIO v1,1,,,Surfaces non productives,
-01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",BIO v1,1,,,Surfaces non productives,
-01.93,Engrais vert,BIO v1,1,,,Surfaces non productives,
-01.95,"Bois, zone de cueillette et estives collectives",BIO v1,0,,,Bois et cueillette sauvage,
-01.95.1,Bois,BIO v1,0,,,Bois et cueillette sauvage,
-01.95.11,Bois pâturés et parcours ligneux,BIO v1,1,,,Bois et cueillette sauvage,
-01.95.19,"Bois non pâturés, sans cueillette",BIO v1,1,,,Bois et cueillette sauvage,
-01.95.2,Zone de cueillette sauvage,BIO v1,0,01.95.24,Autres zones de cueillette sauvage,Bois et cueillette sauvage,
-01.95.21,Zone de cueillette de baies sauvages,BIO v1,1,,,Bois et cueillette sauvage,
-01.95.22,Zone de cueillette de plantes à parfum aromatiques et médicinales sauvages,BIO v1,1,,,Bois et cueillette sauvage,
-01.95.23,Zone de cueillette de champignons sauvages,BIO v1,1,,,Bois et cueillette sauvage,
-01.95.24,Autres zones de cueillette sauvage,BIO v1,1,,,Bois et cueillette sauvage,
-01.95.25,Zone de cueillette de fruits à coque,BIO v1.5,1,,,Bois et cueillette sauvage,
-01.95.4,Estives ou alpages collectifs,BIO v1,1,,,Estives collectives,
-01.99,Autres surfaces non productive (yc bordures et bandes tampon),BIO v1,1,,,Surfaces non productives,
-02.1,Arbres forestiers et services des pépinières,CPF rev2,0,,,Bois et cueillette sauvage,
-02.10,Arbres forestiers et services des pépinières,CPF rev2,0,,,Bois et cueillette sauvage,
-02.10.1,Plants d'arbres forestiers ; semences d'arbres forestiers,CPF rev2,0,,,Bois et cueillette sauvage,
-02.10.11,Plants d'arbres forestiers,CPF rev2,1,,,Bois et cueillette sauvage,
-02.10.12,Semences d'arbres forestiers,CPF rev2,1,,,Bois et cueillette sauvage,
-02.10.3,Arbres forestiers,CPF rev2,1,,,Bois et cueillette sauvage,
-02.10.30,Arbres forestiers,CPF rev2,0,02.10.3,Arbres forestiers,Bois et cueillette sauvage,
-08.93.1,Sel de mer,CPF rev2,1,,,Aquaculture et récolte de sel,
+code_production,lbl_production,nomenclature,actif,lien_code,lien_lbl,lien_direct,groupe,sous_groupe
+01.1,Cultures non permanentes,CPF rev2,0,*,,0,,
+01.11,"Céréales (à l'exclusion du riz), légumineuses et oléagineux",CPF rev2,0,"01.11*,01.12*",,0,Grandes Cultures,
+01.11.00.1,"Semences de céréales, légumineuses et oléagineux (à l'exclusion du riz)",BIO v1.4,1,,,,Semences et plants,Semences grandes cultures et cultures industrielles
+01.11.1,Blé,CPF rev2,0,01.11.1*,,0,Grandes Cultures,Céréales
+01.11.11,Blé dur,CPF rev2,1,,,,Grandes Cultures,Céréales
+01.11.12,Blé tendre,CPF rev2,1,,,,Grandes Cultures,Céréales
+01.11.2,Maïs grain (yc maïs doux),CPF rev2,0,"01.11.20.1, 01.11.20.2","Maïs doux, Maïs grain (hors maïs doux)",0,Grandes Cultures,Céréales
+01.11.20,Maïs grain (yc maïs doux),CPF rev2,0,"01.11.20.1, 01.11.20.2","Maïs doux, Maïs grain (hors maïs doux)",,Grandes Cultures,Céréales
+01.11.20.1,Maïs doux,BIO v1.1,1,,,,Légumes,Légumes à feuilles ou tiges
+01.11.20.2,Maïs grain (hors maïs doux),BIO v1.3,1,,,,Grandes Cultures,Céréales
+01.11.3,"Orge, seigle et avoine",CPF rev2,0,01.11.3*,,0,Grandes Cultures,Céréales
+01.11.31,Orges,CPF rev2,1,,,,Grandes Cultures,Céréales
+01.11.31.1,Orge de brasserie,BIO v1,1,,,,Grandes Cultures,Céréales
+01.11.31.2,Orge fourrager,BIO v1,1,,,,Grandes Cultures,Céréales
+01.11.32,Seigle,CPF rev2,1,,,,Grandes Cultures,Céréales
+01.11.33,Avoine,CPF rev2,1,,,,Grandes Cultures,Céréales
+01.11.4,Autres céréales et mélanges,CPF rev2,0,"01.11.49.9, 01.11.49.31, 01.11.49.32","Autres céréales ou pseudo céréales, Mélanges Céréaliers (sans légumineuses), Mélanges Céréales-légumineuses",0,Grandes Cultures,Céréales
+01.11.41,Sorgho,CPF rev2,1,,,,Grandes Cultures,Céréales
+01.11.42,Millet,CPF rev2,1,,,,Grandes Cultures,Céréales
+01.11.43,Triticale,CPF rev2,1,,,,Grandes Cultures,Céréales
+01.11.49,"Autres céréales, pseudo-céréales et mélanges n.c.a.",CPF rev2,0,"01.11.49.9, 01.11.49.31, 01.11.49.32","Autres céréales ou pseudo céréales, Mélanges Céréaliers (sans légumineuses), Mélanges Céréales-légumineuses",0,Grandes Cultures,Céréales
+01.11.49.1,Epeautre,BIO v1,1,,,,Grandes Cultures,Céréales
+01.11.49.11,Petit épeautre,BIO v1,1,,,,Grandes Cultures,Céréales
+01.11.49.12,Grand épeautre,BIO v1,1,,,,Grandes Cultures,Céréales
+01.11.49.2,Sarrasin,BIO v1,1,,,,Grandes Cultures,Céréales
+01.11.49.3,Mélanges (avec céréales),BIO v1,0,"01.11.49.31,01.11.49.32","Mélanges Céréaliers (sans légumineuses), Mélanges Céréales-légumineuses",0,Grandes Cultures,Céréales
+01.11.49.31,Mélanges Céréaliers (sans légumineuses),BIO v1,1,,,,Grandes Cultures,Céréales
+01.11.49.32,Mélanges Céréales-légumineuses,BIO v1,1,,,,Grandes Cultures,Céréales
+01.11.49.4,Quinoa,BIO v1.4,1,,,,Grandes Cultures,Céréales
+01.11.49.9,Autres céréales ou pseudo céréales,BIO v1,1,,,,Grandes Cultures,Céréales
+01.11.5,Paille et balles de céréales,CPF rev2,0,"01.11.1*,01.11.2*,01.11.3*,01.11.4*",,0,Grandes Cultures,Céréales
+01.11.50,Paille et balles de céréales,CPF rev2,0,"01.11.1*,01.11.2*,01.11.3*,01.11.4*",,0,Grandes Cultures,Céréales
+01.11.6,"Légumes à cosse, verts",CPF rev2,0,01.11.6*,,0,Grandes Cultures,Protéagineux et légumes secs
+01.11.61,"Haricots, verts",CPF rev2,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.62,"Pois, verts",CPF rev2,0,01.11.69.1,Petit pois,1,Grandes Cultures,Protéagineux et légumes secs
+01.11.69,"Autres légumes à cosse, verts",CPF rev2,0,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1,Grandes Cultures,Protéagineux et légumes secs
+01.11.69.1,Petit pois,BIO v1.4,1,,,,Légumes,Légumes à fruits
+01.11.69.2,Fèves (fraîches),BIO v1.4,1,,,,Légumes,Légumes à fruits
+01.11.69.9,"Autres légumes à cosse, verts n.c.a.",BIO v1.4,1,,,,Légumes,Légumes à fruits
+01.11.7,"Légumes à cosse, secs",CPF rev2,0,01.11.7*,,0,Grandes Cultures,Protéagineux et légumes secs
+01.11.71,"Haricots, secs",CPF rev2,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.72,"Fèves, sèches (yc féveroles)",CPF rev2,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.73,"Pois chiches, secs",CPF rev2,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.74,"Lentilles, sèches",CPF rev2,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.75,"Pois, secs",CPF rev2,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.76,"Dolique à œil noir (pois du brésil, niébé)",CPF rev2,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.77,"Pois d'ambrevade ou pois d'angole, secs",CPF rev2,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.79,"Légumes à cosse, secs n.c.a.",CPF rev2,0,01.11.7*,,0,Grandes Cultures,Protéagineux et légumes secs
+01.11.79.1,Lupin,BIO v1,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.79.9,Autres légumes secs,BIO v1,1,,,,Grandes Cultures,Protéagineux et légumes secs
+01.11.8,"Fèves de soja, arachides",CPF rev2,0,"01.11.81,01.11.82","Fèves de soja, Arachides, en coque",0,Grandes Cultures,Oléagineux
+01.11.81,Fèves de soja,CPF rev2,1,,,,Grandes Cultures,Oléagineux
+01.11.82,"Arachides, en coque",CPF rev2,1,,,,Grandes Cultures,Oléagineux
+01.11.9,Autres oléagineux,CPF rev2,0,01.11.99.9,Autres oléagineux n.c.a.,1,Grandes Cultures,Oléagineux
+01.11.91,Lin (graines),CPF rev2,1,,,,Grandes Cultures,Oléagineux
+01.11.92,Moutarde (graines),CPF rev2,1,,,,Grandes Cultures,Oléagineux
+01.11.93,Colza,CPF rev2,1,,,,Grandes Cultures,Oléagineux
+01.11.94,Sésame,CPF rev2,1,,,,Grandes Cultures,Oléagineux
+01.11.95,Tournesol,CPF rev2,1,,,,Grandes Cultures,Oléagineux
+01.11.96,Ricin,CPF rev2,1,,,,Grandes Cultures,Oléagineux
+01.11.99,Autres oléagineux,CPF rev2,0,01.11.99.9,Autres oléagineux n.c.a.,1,Grandes Cultures,Oléagineux
+01.11.99.1,Cameline,BIO v1.3,1,,,,Grandes Cultures,Oléagineux
+01.11.99.2,Jojoba,BIO v1.4,1,,,,Grandes Cultures,Oléagineux
+01.11.99.3,Carthames,BIO v1.4,1,,,,Grandes Cultures,Oléagineux
+01.11.99.9,Autres oléagineux n.c.a.,BIO v1.4,1,,,,Grandes Cultures,Oléagineux
+01.12,"Riz, non décortiqué",CPF rev2,0,01.12.1,"Riz, non décortiqué",1,Grandes Cultures,Céréales
+01.12.1,"Riz, non décortiqué",CPF rev2,1,,,,Grandes Cultures,Céréales
+01.12.10,"Riz, non décortiqué",CPF rev2,0,01.12.1,"Riz, non décortiqué",1,Grandes Cultures,Céréales
+01.12.10.1,Semences de riz,CPF rev2,1,,,,Semences et plants,Semences grandes cultures et cultures industrielles
+01.13,"Légumes et melons, racines et tubercules",CPF rev2,0,01.13*,,0,Légumes,
+01.13.1,Légumes à feuilles ou à tiges,CPF rev2,0,01.13.1*,,0,Légumes,Légumes à feuilles ou tiges
+01.13.11,Asperges,CPF rev2,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.12,Choux,CPF rev2,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.13,Choux-fleurs et brocolis,CPF rev2,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.14,Laitues,CPF rev2,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.15,Chicorées,CPF rev2,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.16,Épinards,CPF rev2,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.17,Artichauts,CPF rev2,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19,Autres légumes à feuilles ou à tiges,CPF rev2,0,01.13.19.9,Autres légumes à feuilles ou à tiges,1,Légumes,Légumes à feuilles ou tiges
+01.13.19.1,Endives,BIO v1,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.2,Céleris branche,BIO v1,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.4,Cresson,BIO v1.1,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.5,Rhubarbe,BIO v1.4,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.6,Blettes,BIO v1.4,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.7,Pousses,BIO v1.4,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.8,Salades,BIO v1.4,0,01.13.19.8*,,0,Légumes,Légumes à feuilles ou tiges
+01.13.19.81,Feuilles de chêne,BIO v1.4,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.82,Batavia,BIO v1.4,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.83,Mâches,BIO v1.4,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.84,Scaroles,BIO v1.4,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.85,Frisées,BIO v1.4,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.89,Autres salades,BIO v1.4,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.19.9,Autres légumes à feuilles ou à tiges,BIO v1,1,,,,Légumes,Légumes à feuilles ou tiges
+01.13.2,Melons et pastèques,CPF rev2,0,"01.13.21,01.13.29.1","Pastèques, Melons",0,Légumes,Légumes à fruits
+01.13.21,Pastèques,CPF rev2,1,,,,Légumes,Légumes à fruits
+01.13.29,Autres melons,CPF rev2,0,01.13.29.1,Melons,1,Légumes,Légumes à fruits
+01.13.29.1,Melons,BIO v1.2,1,,,,Légumes,Légumes à fruits
+01.13.29.2,Melons d'eau,BIO v1.2,0,01.13.29.1,Melons,1,Légumes,Légumes à fruits
+01.13.29.9,Autres melons,BIO v1.2,0,01.13.29.1,Melons,1,Légumes,Légumes à fruits
+01.13.3,Autres légumes à fruits,CPF rev2,0,01.13.39.99,Autres légumes à fruits n.c.a.,1,Légumes,Légumes à fruits
+01.13.31,"Piments et poivrons, verts (uniquement capsicum)",CPF rev2,1,,,,Légumes,Légumes à fruits
+01.13.32,Concombres et cornichons,CPF rev2,1,,,,Légumes,Légumes à fruits
+01.13.33,Aubergines,CPF rev2,1,,,,Légumes,Légumes à fruits
+01.13.34,Tomates,CPF rev2,1,,,,Légumes,Légumes à fruits
+01.13.39,Autres légumes à fruits n.c.a.,CPF rev2,0,01.13.39.99,Autres légumes à fruits n.c.a.,1,Légumes,Légumes à fruits
+01.13.39.2,Courgettes,BIO v1,1,,,,Légumes,Légumes à fruits
+01.13.39.3,Courges et citrouilles,BIO v1,1,,,,Légumes,Légumes à fruits
+01.13.39.31,Courge musquée / Butternut,BIO v1,0,01.13.39.3,Courges et citrouilles,1,Légumes,Légumes à fruits
+01.13.39.32,Potiron / Potimarron,BIO v1,1,,,,Légumes,Légumes à fruits
+01.13.39.99,Autres légumes à fruits n.c.a.,BIO v1,1,,,,Légumes,Légumes à fruits
+01.13.4,"Légumes à racine, à bulbe ou à tubercules",CPF rev2,0,01.13.4*,,0,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.41,Carottes et navets,CPF rev2,0,"01.13.41.1,01.13.41.2","Carottes, Navets",0,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.41.1,Carottes,BIO v1,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.41.2,Navets,BIO v1,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.42,Ail,CPF rev2,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.43,"Oignons, échalotes",CPF rev2,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.43.1,Oignons,BIO v1,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.43.2,Echalotes,BIO v1,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.44,Poireaux et autres alliacés,CPF rev2,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.49,"Autres légumes à racine, à bulbe ou à tubercules (ne présentant pas une forte teneur en amidon ou inuline)",CPF rev2,0,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.49.1,Radis,BIO v1,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.49.2,Betteraves rouges et à salade,BIO v1,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.49.3,Céleris raves,BIO v1,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.49.4,Panais,BIO v1.4,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.49.5,Salsifis,BIO v1.4,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.49.6,Rutabagas,BIO v1.4,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",BIO v1.4,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.5,Racines et tubercules à amidon ou inuline comestibles,CPF rev2,0,01.13.5*,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",0,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.51,Pommes de terre,CPF rev2,0,"01.13.51.1,01.13.51.2","Pommes de terre (hors féculière), Pommes de terre féculière",1,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.51.1,Pommes de terre (hors féculière),BIO v1,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.51.2,Pommes de terre féculière,BIO v1,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.52,Patates douces,CPF rev2,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.53,Manioc,CPF rev2,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.54,Colocases,CPF rev2,1,,,,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.59,Autres racines et tubercules à amidon ou inuline comestibles,CPF rev2,0,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1,Légumes,"Légumes à racine, à bulbe ou à tubercules"
+01.13.6,"Plants et semences potagers, à l'exclusion des semences de betteraves",CPF rev2,1,,,,Semences et plants,Semences et plants potagers
+01.13.60,"Plants et semences potagers, à l'exclusion des semences de betteraves",CPF rev2,0,01.13.6,"Plants et semences potagers, à l'exclusion des semences de betteraves",1,Semences et plants,Semences et plants potagers
+01.13.7,Betteraves à sucre et semences de betteraves à sucre,CPF rev2,0,"01.13.71,01.13.72","Betteraves à sucre, Semences de betteraves à sucre",0,Cultures industrielles,Cultures sucrières
+01.13.71,Betteraves à sucre,CPF rev2,1,,,,Cultures industrielles,Cultures sucrières
+01.13.72,Semences de betteraves à sucre,CPF rev2,1,,,,Semences et plants,Semences grandes cultures et cultures industrielles
+01.13.8,Champignons et truffes,CPF rev2,0,"01.13.80.1,01.13.80.2","Champignons, Truffes",0,Légumes,Autres légumes frais et maraîchage
+01.13.80,Champignons et truffes,CPF rev2,0,"01.13.80.1,01.13.80.2","Champignons, Truffes",0,Légumes,Autres légumes frais et maraîchage
+01.13.80.1,Champignons,BIO v1.4,1,,,,Légumes,Autres légumes frais et maraîchage
+01.13.80.2,Truffes,BIO v1.4,1,,,,Légumes,Autres légumes frais et maraîchage
+01.13.9,Légumes frais n.c.a.,CPF rev2,0,"01.13.90.1,01.13.90.2","Légumes frais sous abris, Légumes frais plein champ",0,Légumes,Autres légumes frais et maraîchage
+01.13.90,Légumes frais n.c.a.,CPF rev2,0,"01.13.90.1,01.13.90.2","Légumes frais sous abris, Légumes frais plein champ",0,Légumes,Autres légumes frais et maraîchage
+01.13.90.1,Légumes frais sous abris,BIO v1,1,,,,Légumes,Autres légumes frais et maraîchage
+01.13.90.2,Légumes frais plein champ,BIO v1,1,,,,Légumes,Autres légumes frais et maraîchage
+01.14,Cannes à sucre,CPF rev2,0,01.14.1,Cannes à sucre,1,Cultures industrielles,Cultures sucrières
+01.14.1,Cannes à sucre,CPF rev2,1,,,,Cultures industrielles,Cultures sucrières
+01.14.10,Cannes à sucre,CPF rev2,0,01.14.1,Cannes à sucre,1,Cultures industrielles,Cultures sucrières
+01.15,Tabac brut,CPF rev2,0,01.15.1,Tabac brut,1,Cultures industrielles,Autre cultures industrielles
+01.15.1,Tabac brut,CPF rev2,1,,,,Cultures industrielles,Autre cultures industrielles
+01.15.10,Tabac brut,CPF rev2,0,01.15.1,Tabac brut,1,Cultures industrielles,Autre cultures industrielles
+01.16,Plantes textiles,CPF rev2,0,01.16*,,0,Cultures industrielles,Cultures textiles
+01.16.1,Plantes textiles,CPF rev2,0,01.16*,,0,Cultures industrielles,Cultures textiles
+01.16.11,"Coton, égrené ou en masse",CPF rev2,1,,,,Cultures industrielles,Cultures textiles
+01.16.12,"Jute, kénaf et autres fibres libériennes, bruts ou rouis, à l'exclusion du lin, du chanvre commun et de la ramie",CPF rev2,0,01.16*,,0,Cultures industrielles,Cultures textiles
+01.16.19,"Lin, chanvre commun et plantes textiles brutes n.c.a.",CPF rev2,0,01.16.19*,,0,Cultures industrielles,Cultures textiles
+01.16.19.1,Lin fibre,BIO v1,1,,,,Cultures industrielles,Cultures textiles
+01.16.19.2,Chanvre,BIO v1,1,,,,Cultures industrielles,Cultures textiles
+01.16.19.9,Autres plantes textiles,BIO v1,1,,,,Cultures industrielles,Cultures textiles
+01.19,Autres cultures non permanentes,CPF rev2,0,*,,0,,
+01.19.00.1,Autres cultures non permanentes n.c.a.,,0,*,,0,,
+01.19.00.2,Cultures en inter-rang,BIO v1.4,0,*,,0,Autres productions végétales,
+01.19.00.9,Autres cultures non permanentes n.c.a.,BIO v1.4,0,*,,0,Autres productions végétales,
+01.19.1,Plantes et surfaces fourragères,CPF rev2,0,01.19.1*,,0,Surfaces fourragères,
+01.19.1,Plantes et surfaces fourragères,CPF rev2,0,01.19.1*,,0,Surfaces fourragères,
+01.19.10,Plantes et surfaces fourragères,CPF rev2,0,01.19.1*,,0,Surfaces fourragères,Plantes fourragères
+01.19.10,Plantes fourragères,CPF rev2,0,01.19.1*,,0,Surfaces fourragères,Plantes fourragères
+01.19.10.1,"Prairies, parcours herbeux",BIO v1,0,"01.19.10.11, 01.19.10.12, 01.19.10.13","Prairie temporaire, Prairie permanente, Parcours herbeux (hors estives collectives)",0,Surfaces fourragères,"Prairies, parcours"
+01.19.10.11,Prairie temporaire,BIO v1,1,,,,Surfaces fourragères,"Prairies, parcours"
+01.19.10.12,Prairie permanente,BIO v1,1,,,,Surfaces fourragères,"Prairies, parcours"
+01.19.10.13,Parcours herbeux (hors estives collectives),BIO v1,1,,,,Surfaces fourragères,"Prairies, parcours"
+01.19.10.2,Betterave fourragère,BIO v1,1,,,,Surfaces fourragères,Plantes fourragères
+01.19.10.3,Choux fourrager,BIO v1,1,,,,Surfaces fourragères,Plantes fourragères
+01.19.10.4,Colza fourrager,BIO v1,1,,,,Surfaces fourragères,Plantes fourragères
+01.19.10.5,Maïs fourrager,BIO v1,1,,,,Surfaces fourragères,Plantes fourragères
+01.19.10.6,Mélanges fourragers,BIO v1,1,,,,Surfaces fourragères,Plantes fourragères
+01.19.10.7,Trèfle,BIO v1,1,,,,Surfaces fourragères,Plantes fourragères
+01.19.10.8,Luzerne,BIO v1,1,,,,Surfaces fourragères,Plantes fourragères
+01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,BIO v1,1,,,,Surfaces fourragères,Plantes fourragères
+01.19.2,Fleurs coupées et boutons de fleurs ; semences florales,CPF rev2,0,"01.19.21,01.19.22","Fleurs coupées et boutons de fleurs, Semences florales",0,Autres productions végétales,Fleurs
+01.19.21,Fleurs coupées et boutons de fleurs,CPF rev2,1,,,,Autres productions végétales,Fleurs
+01.19.22,Semences florales,CPF rev2,1,,,,Semences et plants,Autres semences
+01.19.3,"Semences de betteraves et de plantes fourragères, autres produits végétaux bruts",CPF rev2,0,01.19.31,Semences de betteraves (à l'exclusion des semences de betteraves à sucre) et de plantes fourragères,1,Semences et plants,Autres semences
+01.19.31,Semences de betteraves (à l'exclusion des semences de betteraves à sucre) et de plantes fourragères,CPF rev2,1,,,,Semences et plants,Autres semences
+01.19.39,Produits végétaux bruts n.c.a.,CPF rev2,0,*,,0,Cultures industrielles,Autre cultures industrielles
+01.19.39.1,Autres cultures industrielles,BIO v1,0,*,,0,Cultures industrielles,Autre cultures industrielles
+01.2,Cultures permanentes,CPF rev2,0,*,,0,,
+01.21,Raisin,CPF rev2,0,"01.21.11,01.21.12","Raisin de table, Raisin de cuve",0,Viticulture,Viticulture
+01.21.1,Raisin,CPF rev2,0,"01.21.11,01.21.12","Raisin de table, Raisin de cuve",0,Viticulture,Viticulture
+01.21.11,Raisin de table,CPF rev2,1,,,,Viticulture,Viticulture
+01.21.12,Raisin de cuve,CPF rev2,1,,,,Viticulture,Viticulture
+01.22,Fruits tropicaux et subtropicaux,CPF rev2,0,01.22*,,0,Fruits,Fruits tropicaux et subtropicaux
+01.22.1,Fruits tropicaux et subtropicaux,CPF rev2,0,01.22*,,1,Fruits,Fruits tropicaux et subtropicaux
+01.22.11,Avocats,CPF rev2,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.12,"Bananes, bananes plantains et assimilés",CPF rev2,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.13,Dattes,CPF rev2,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.14,Figues,CPF rev2,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.19,Autres fruits tropicaux et subtropicaux,CPF rev2,0,01.22.19.9,Autres fruits tropicaux et subtropicaux,1,Fruits,Fruits tropicaux et subtropicaux
+01.22.19.1,Ananas,BIO v1,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.19.2,Grenades,BIO v1.4,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.19.3,Papayes,BIO v1.4,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.19.4,Fruits du Jaquier (durian),BIO v1.4,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.19.5,Fruits de la passion,BIO v1.4,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.19.6,Mangues,BIO v1.4,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.19.7,Kakis,BIO v1.4,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.19.8,Litchis (letchis),BIO v1.4,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.22.19.9,Autres fruits tropicaux et subtropicaux n.c.a.,BIO v1.4,1,,,,Fruits,Fruits tropicaux et subtropicaux
+01.23,Agrumes,CPF rev2,0,01.23*,,0,Fruits,Agrumes
+01.23.1,Agrumes,CPF rev2,0,01.23*,,0,Fruits,Agrumes
+01.23.11,Pomelos et pamplemousses,CPF rev2,1,,,,Fruits,Agrumes
+01.23.12,Citrons et limes,CPF rev2,1,,,,Fruits,Agrumes
+01.23.13,Oranges,CPF rev2,1,,,,Fruits,Agrumes
+01.23.14,Mandarines et clémentines,CPF rev2,1,,,,Fruits,Agrumes
+01.23.19,Autres agrumes,CPF rev2,1,,,,Fruits,Agrumes
+01.24,Fruits à pépins et à noyau,CPF rev2,0,01.24*,,0,Fruits,Fruits à pépins et à noyaux
+01.24.1,Pommes,CPF rev2,0,"01.24.10.1,01.24.10.2","Pommes à cidre, Pommes de table",0,Fruits,Fruits à pépins et à noyaux
+01.24.10,Pommes,CPF rev2,0,"01.24.10.1,01.24.10.3","Pommes à cidre, Pommes de table",0,Fruits,Fruits à pépins et à noyaux
+01.24.10.1,Pommes à cidre,BIO v1,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.10.2,Pommes de table,BIO v1,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.2,Autres fruits à pépins et à noyau,CPF rev2,0,"01.24.29.1,01.24.29.2","Autres fruits à pépins, Autres fruits à noyau",0,Fruits,Fruits à pépins et à noyaux
+01.24.21,Poires,CPF rev2,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.22,Coings,CPF rev2,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.23,Abricots,CPF rev2,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.24,Cerises,CPF rev2,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.25,Pêches,CPF rev2,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.26,Nectarines,CPF rev2,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.27,Prunes,CPF rev2,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.27.1,Prunes d'Ente,BIO v1.4,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.28,Prunelles,CPF rev2,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.29,Autres fruits à pépins et à noyau n.c.a.,CPF rev2,0,"01.24.29.1,01.24.29.2","Autres fruits à pépins, Autres fruits à noyau",0,Fruits,Fruits à pépins et à noyaux
+01.24.29.1,Autres fruits à pépins,BIO v1,1,,,,Fruits,Fruits à pépins et à noyaux
+01.24.29.2,Autres fruits à noyau,BIO v1,1,,,,Fruits,Fruits à pépins et à noyaux
+01.25,Autres fruits d'arbres ou d'arbustes et fruits à coque,CPF rev2,0,"01.22*,01.23*,01.24*,01.25*",,0,Fruits,Autres fruits frais
+01.25.1,Baies et fruits du genre Vaccinium,CPF rev2,0,01.25*,,0,Fruits,Baies
+01.25.11,Kiwis,CPF rev2,1,,,,Fruits,Baies
+01.25.12,Framboises,CPF rev2,1,,,,Fruits,Baies
+01.25.13,Fraises,CPF rev2,1,,,,Fruits,Baies
+01.25.19,"Autres baies, fruits du genre vaccinium n.c.a.",CPF rev2,0,01.25.19.9,Autres baies (hors cassis et myrtilles),1,Fruits,Baies
+01.25.19.1,Cassis,BIO v1,1,,,,Fruits,Baies
+01.25.19.2,Myrtilles,BIO v1,1,,,,Fruits,Baies
+01.25.19.4,Airelles,BIO v1.4,1,,,,Fruits,Baies
+01.25.19.5,Groseilles,BIO v1.4,1,,,,Fruits,Baies
+01.25.19.9,Autres baies (hors cassis et myrtilles),BIO v1,1,,,,Fruits,Baies
+01.25.2,Semences fruitières,CPF rev2,1,,,,Semences et plants,Semences fruitières
+01.25.20,Semences fruitières,CPF rev2,0,01.25.20,Semences fruitières,1,Semences et plants,Semences fruitières
+01.25.3,"Fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",CPF rev2,0,01.25*,,0,Fruits,Fruits à coque
+01.25.31,Amandes,CPF rev2,1,,,,Fruits,Fruits à coque
+01.25.32,Châtaignes et marrons,CPF rev2,1,,,,Fruits,Fruits à coque
+01.25.33,Noisettes,CPF rev2,1,,,,Fruits,Fruits à coque
+01.25.34,Pistaches,CPF rev2,1,,,,Fruits,Fruits à coque
+01.25.35,Noix,CPF rev2,1,,,,Fruits,Fruits à coque
+01.25.39,"Autres fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",CPF rev2,1,,,,Fruits,Fruits à coque
+01.25.9,Autres fruits d'arbres ou d'arbustes n.c.a.,CPF rev2,0,"01.22*,01.23*,01.24*,01.25*",,0,Fruits,Autres fruits frais
+01.25.90,Autres fruits d'arbres ou d'arbustes n.c.a.,CPF rev2,0,"01.22*,01.23*,01.24*,01.25*",,0,Fruits,Autres fruits frais
+01.26,Fruits oléagineux,CPF rev2,0,01.26*,,0,Fruits,Fruits oléagineux
+01.26.1,Olives,CPF rev2,1,,,,Oléiculture,
+01.26.11,Olives de table,CPF rev2,1,,,,Oléiculture,
+01.26.12,Olives à huile,CPF rev2,1,,,,Oléiculture,
+01.26.2,Noix de coco,CPF rev2,1,,,,Fruits,Fruits oléagineux
+01.26.20,Noix de coco,CPF rev2,0,01.26.2,Noix de coco,1,Fruits,Fruits oléagineux
+01.26.9,Autres fruits oléagineux,CPF rev2,1,,,,Fruits,Fruits oléagineux
+01.26.90,Autres fruits oléagineux,CPF rev2,0,01.26.9,Autres fruits oléagineux,1,Fruits,Fruits oléagineux
+01.27,Plantes à boissons,CPF rev2,0,01.27*,,0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
+01.27.1,Plantes à boissons,CPF rev2,0,01.27*,,0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
+01.27.10.1,Honeybush,BIO v1.4,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
+01.27.10.2,Rooibos,BIO v1.4,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
+01.27.10.9,Autres plantes à boisson,BIO v1.4,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
+01.27.11,"Café vert, en cerise ou en grain",CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
+01.27.12,Thé en feuilles,CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
+01.27.13,Maté en feuilles,CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
+01.27.14,Cacao en fèves,CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à boissons
+01.28,"Plantes à épices, aromatiques, médicinales et pharmaceutiques",CPF rev2,0,01.28*,,0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",
+01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.1,Épices brutes et arômates,CPF rev2,0,01.28*,,0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.11,"Poivre (piper spp.), brut",CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.12,"Piments et poivrons (capsicum spp.) séchés, bruts",CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.13,"Muscade, macis et cardamome, bruts",CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.14,"Anis, badiane, coriandre, cumin, carvi, fenouil et genièvre, bruts",CPF rev2,0,"01.28.14.1,01.28.14.2,01.28.14.31,01.28.14.9","Coriandre (graines), Fenouil doux et amer, Anis, Cumin, carvi et genièvre, bruts",0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.14.1,Coriandre (graines),BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.14.2,Fenouil doux et amer,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.14.3,"Anis, badiane",BIO v1.3,0,"01.28.14.31,01.28.14.32","Anis, Badiane",0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.14.31,Anis,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.14.32,Badiane,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.14.9,"Cumin, carvi et genièvre, bruts",BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.15,"Cannelle, brute",CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.16,"Clous de girofle (entiers), bruts",CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.17,"Gingembre séché, brut",CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.18,"Vanille, brute",CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19,Autres épices brutes et arômates,CPF rev2,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.1,Sarriette,BIO V1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.11,Sarriette annuelle,BIO v1,0,01.28.19.1,Sarriette,1,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.12,Sarriette vivace,BIO v1,0,01.28.19.1,Sarriette,1,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.21,Romarin,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.22,Safran,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.23,Sauge sclarée,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.24,Serpolet,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.25,Thym,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.26,Aneth,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.27,Basilic,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.28,Camomille romaine,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.29,Cerfeuil,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.3,Menthe,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.31,Menthe douce,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.32,Menthe poivrée,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.41,Fenugrec,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.42,Origans,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.43,Persil,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.44,Ciboulette,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.45,Estragon,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.46,Oseille,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.47,Coriandre (herbe),BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.48,Pensées,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.51,Curcuma,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.52,Laurier (feuilles),BIO v1.4,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.19.99,Autres épices brutes et arômates n.c.a.,BIO v1,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.2,Houblon en cônes,CPF rev2,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.20,Houblon en cônes,CPF rev2,0,01.28.2,Houblon en cônes,1,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Épices et herbes fraîches
+01.28.3,"Plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",CPF rev2,0,01.28*,,0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30,"Plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",CPF rev2,0,01.28*,,0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.1,"Lavande, lavandin",BIO v1.3,0,"01.28.30.11,01.28.30.12","Lavande, Lavandin",0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.10,"Lavande, lavandin",BIO v1.3,0,"01.28.30.11,01.28.30.12","Lavande, Lavandin",0,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.11,Lavande,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.12,Lavandin,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.2,Marjolaine,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.31,Matricaire,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.32,Hysope,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.33,Bardane,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.34,Bleuet,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.35,Bugle rampant,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.36,Géranium,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.37,Ortie,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.38,Psyllium noir de Provence,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.39,Plantain psyllium,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.41,Echinacées,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.42,Calendula,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.43,Mauve,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.44,Valériane,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.45,Véronique,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.46,Vétiver,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.47,Ylang-ylang,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.48,Angélique,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.49,Chardon Marie,BIO v1.3,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.5,Mélilot,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.51,Citronelle,BIO v1.4,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.6,Mélisse,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.71,Millepertuis,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.72,Reine des prés,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.81,Sauge officinale,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.82,Verveine odorante,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.83,Verveine officinale,BIO v1,1,,,,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.28.30.99,"Autres plantes utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires",BIO v1,0,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,"Plantes à parfums, aromatiques et médicinales et plantes à boissons",Plantes à parfum et médicinales
+01.29,Autres cultures permanentes,CPF rev2,0,*,,0,Autres productions végétales,
+01.29.00.9,Autres cultures permanentes n.c.a.,BIO v1.31,0,*,,0,Autres productions végétales,
+01.29.00.91,Miscanthus,BIO v1.31,1,,,,Autres productions végétales,
+01.29.1,Caoutchouc naturel brut,CPF rev2,1,,,,Autres productions végétales,
+01.29.10,Caoutchouc naturel brut,CPF rev2,0,01.29.1,Caoutchouc naturel brut,1,Autres productions végétales,
+01.29.2,Sapins et arbres de Noël coupés,CPF rev2,1,,,,Autres productions végétales,
+01.29.20,Arbres de noël coupés,CPF rev2,0,01.29.2,Sapins et arbres de Noël coupés,1,Autres productions végétales,
+01.29.3,"Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",CPF rev2,0,*,,,Autres productions végétales,
+01.29.30,"Matières premières végétales utilisées principalement pour la vannerie, le rembourrage, la teinture ou le tannage",CPF rev2,0,*,,,Autres productions végétales,
+01.3,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,0,01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",1,Semences et plants,Plants
+01.30,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,0,01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",1,Semences et plants,Plants
+01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,1,,,,Semences et plants,Plants
+01.30.10,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",CPF rev2,0,01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",1,Semences et plants,Plants
+01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",BIO v1,1,,,,Surfaces non productives,
+01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",BIO v1,1,,,,Surfaces non productives,
+01.93,Engrais vert,BIO v1,1,,,,Surfaces non productives,
+01.95,"Bois, zone de cueillette et estives collectives",BIO v1,0,01.95*,,0,Bois et cueillette sauvage,
+01.95.1,Bois,BIO v1,0,"01.95.11,01.95.19","Bois pâturés et parcours ligneux, Bois non pâturés, sans cueillette",0,Bois et cueillette sauvage,
+01.95.11,Bois pâturés et parcours ligneux,BIO v1,1,,,,Bois et cueillette sauvage,
+01.95.19,"Bois non pâturés, sans cueillette",BIO v1,1,,,,Bois et cueillette sauvage,
+01.95.2,Zone de cueillette sauvage,BIO v1,0,01.95.2*,,0,Bois et cueillette sauvage,
+01.95.21,Zone de cueillette de baies sauvages,BIO v1,1,,,,Bois et cueillette sauvage,
+01.95.22,Zone de cueillette de plantes à parfum aromatiques et médicinales sauvages,BIO v1,1,,,,Bois et cueillette sauvage,
+01.95.23,Zone de cueillette de champignons sauvages,BIO v1,1,,,,Bois et cueillette sauvage,
+01.95.24,Autres zones de cueillette sauvage,BIO v1,1,,,,Bois et cueillette sauvage,
+01.95.25,Zone de cueillette de fruits à coque,BIO v1.5,1,,,,Bois et cueillette sauvage,
+01.95.4,Estives ou alpages collectifs,BIO v1,1,,,,Estives collectives,
+01.99,Autres surfaces non productive (yc bordures et bandes tampon),BIO v1,1,,,,Surfaces non productives,
+02.1,Arbres forestiers et services des pépinières,CPF rev2,0,02.10*,,0,Bois et cueillette sauvage,
+02.10,Arbres forestiers et services des pépinières,CPF rev2,0,02.10*,,0,Bois et cueillette sauvage,
+02.10.1,Plants d'arbres forestiers ; semences d'arbres forestiers,CPF rev2,0,"02.10.11,02.10.12","Plants d'arbres forestiers, Semences d'arbres forestiers",0,Bois et cueillette sauvage,
+02.10.11,Plants d'arbres forestiers,CPF rev2,1,,,,Bois et cueillette sauvage,
+02.10.12,Semences d'arbres forestiers,CPF rev2,1,,,,Bois et cueillette sauvage,
+02.10.3,Arbres forestiers,CPF rev2,1,,,,Bois et cueillette sauvage,
+02.10.30,Arbres forestiers,CPF rev2,0,02.10.3,Arbres forestiers,0,Bois et cueillette sauvage,
+08.93.1,Sel de mer,CPF rev2,1,,,,Aquaculture et récolte de sel,
