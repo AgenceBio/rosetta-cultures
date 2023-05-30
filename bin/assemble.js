@@ -27,7 +27,7 @@ let csvParser = createReadStream(CODES_FILEPATH).pipe(parse({
   cast: false
 }))
 
-for await (const { code_production: code_cpf, lbl_production, affichage_cartobio, lien_code, groupe, sous_groupe } of csvParser) {
+for await (const { code_production: code_cpf, lbl_production, actif, lien_code, groupe, sous_groupe } of csvParser) {
   CPF.set(code_cpf, {
     code_cpf,
     code_cpf_alias: lien_code,
@@ -35,7 +35,7 @@ for await (const { code_production: code_cpf, lbl_production, affichage_cartobio
     groupe,
     sous_groupe,
     //
-    is_selectable: toBoolean(affichage_cartobio),
+    is_selectable: toBoolean(actif),
     // mappings
     code_bureau_veritas: null,
     // extension PAC
@@ -53,7 +53,7 @@ csvParser = createReadStream(CORRESPONDANCE_PAC_FILEPATH).pipe(parse({
 
 const resolve = createCpfResolver(Array.from(CPF.values()))
 
-for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_cartobio } of csvParser) {
+for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_directe } of csvParser) {
   const resolvedRecords = resolve(code_cpf)
 
   if (resolvedRecords.length === 0) {
@@ -67,7 +67,7 @@ for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_cartobio
   const new_culture = {
     code: code_pac,
     libelle: lbl_pac,
-    requires_precision: toBoolean(correspondance_cartobio) === false
+    requires_precision: toBoolean(correspondance_directe) === false
   }
 
   resolvedRecords.forEach(({ code_cpf }) => {
@@ -88,7 +88,7 @@ csvParser = createReadStream(CORRESPONDANCE_BV_FILEPATH).pipe(parse({
   cast: false
 }))
 
-for await (const { PAB_CODE_DQF: code_bureau_veritas, CODE_CPF: code_cpf } of csvParser) {
+for await (const { "N° DQF": code_bureau_veritas, CPF: code_cpf } of csvParser) {
   if (!code_cpf || !isOrganicProductionCode(code_cpf)) {
     continue
   }
