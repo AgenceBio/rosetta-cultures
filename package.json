@@ -16,7 +16,8 @@
     ".": {
       "import": "./index.js",
       "require": "./dist/cjs/index.cjs"
-    }
+    },
+    "./data/*.json": "./data/*.json"
   },
   "scripts": {
     "build": "npm run build:json && npm run build:cjs && npm run build:types",
