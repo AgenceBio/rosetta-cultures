@@ -1,6 +1,14 @@
 import { describe, it } from 'node:test'
 import { ok, deepEqual } from 'node:assert/strict'
-import { createCpfResolver, fromCodeCpf, fromCodePac, isOrganicProductionCode } from './index.js'
+import {
+  createCpfResolver,
+  fromCodeCpf,
+  fromCodePacStrict,
+  fromCodePacFirst,
+  isOrganicProductionCode,
+  fromCodePacAll
+} from './index.js'
+import cultures from './data/cpf.json' assert { type: 'json' };
 
 /**
  * @typedef {import('./index.js').UnifiedCulture} UnifiedCulture
@@ -58,25 +66,65 @@ describe('fromCodeCpf', () => {
   })
 })
 
-describe('fromCodePac', () => {
+describe('fromCodePacFirstSelectable', () => {
   it('returns a matching code object', () => {
-    const record = fromCodePac('MID')
+    const record = fromCodePacFirst('MID')
     deepEqual(record.code_cpf, partialExpectation.code_cpf)
-    ok(record.cultures_pac.find(({ code }) => code === 'MID'))
+    ok(record.cultures_pac.find(({code}) => code === 'MID'))
 
-    ok(fromCodePac('PTR'))
-    ok(fromCodePac('MRS'))
+    ok(fromCodePacFirst('PTR'))
+    ok(fromCodePacFirst('MRS'))
   })
 
-  // we do not have a case anymore
-  it.skip('returns a PAC code without CPF match', () => {
-    deepEqual(fromCodePac('ZZZ'), {
-      cultures_pac: [{ code: 'ZZZ', 'libelle': 'Culture inconnue', requires_precision: true }]
+  it('returns null if code does not exists', () => {
+    deepEqual(fromCodePacFirst('Z@Z'), null)
+  })
+
+  it('returns the first match', () => {
+    deepEqual(fromCodePacFirst('ZZZ').code_cpf, "01.1") // Cultures non permanentes
+    deepEqual(fromCodePacFirst('AGR').code_cpf, "01.23.11") // Pomelos et pamplemousses
+  })
+})
+
+describe('fromCodePacStrict', () => {
+  it('returns returns the smallest full match', () => {
+    deepEqual(fromCodePacStrict('AGR').code_cpf, "01.23.1") // Agrumes
+  })
+
+
+  it('returns nothing for codes with no match', () => {
+    deepEqual(fromCodePacStrict('ZZZ'), null)
+  })
+})
+
+describe('fromCodePacAll', () => {
+  it('returns all applicable cultures in all mode', () => {
+    deepEqual(
+      fromCodePacAll('AGR').map(({ code_cpf }) => code_cpf),
+      ["01.23.11", "01.23.12", "01.23.13", "01.23.14", "01.23.19"]
+    )
+  })
+})
+
+describe('data', () => {
+  it('should not contain any duplicate code_cpf', () => {
+    const codeCpfSet = new Set()
+    cultures.forEach(({ code_cpf }) => {
+      ok(!codeCpfSet.has(code_cpf))
+      codeCpfSet.add(code_cpf)
     })
   })
 
-  it('returns nothing if not matching', () => {
-    deepEqual(fromCodePac('Z@Z'), undefined)
+  it('should not contain any duplicate code_pac which does not require precision', () => {
+    const codePacSet = new Set()
+    cultures.forEach(({ cultures_pac }) => {
+      cultures_pac.forEach(({ code, requires_precision }) => {
+        if (requires_precision) return
+
+        ok(!codePacSet.has(code))
+        codePacSet.add(code)
+      })
+    })
   })
 })
 
