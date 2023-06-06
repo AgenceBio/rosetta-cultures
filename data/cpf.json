@@ -7915,6 +7915,11 @@
         "requires_precision": true
       },
       {
+        "code": "BTN",
+        "libelle": "Betterave non fourragère / Bette",
+        "requires_precision": true
+      },
+      {
         "code": "CID",
         "libelle": "Cultures conduites en interrangs : 2 cultures représentant chacune plus de 25%",
         "requires_precision": true
@@ -9074,11 +9079,6 @@
       {
         "code": "ACA",
         "libelle": "Autre culture non précisée dans la liste (admissible)",
-        "requires_precision": true
-      },
-      {
-        "code": "BTN",
-        "libelle": "Betterave non fourragère / Bette",
         "requires_precision": true
       },
       {
