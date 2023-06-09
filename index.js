@@ -25,12 +25,58 @@ import cpf from './data/cpf.json' assert { type: 'json' }
  */
 
 /**
+ * @deprecated since version 1.4.0
  * @param {String} code
- * @returns {UnifiedCulture}
+ * @returns {?UnifiedCulture}
  */
 export function fromCodePac (code) {
-  return cpf.find(({ cultures_pac }) => cultures_pac.some(culture => culture.code === code))
+  console.warn("fromCodePac is deprecated, use fromCodePacFirst instead")
+
+  return fromCodePacFirst(code)
 }
+
+/**
+ * @param {String} code
+ * @returns {?UnifiedCulture}
+ */
+export function fromCodePacStrict (code) {
+  let allMatchs = fromCodePacAll(code)
+  let codes = allMatchs.map(({ code_cpf }) => code_cpf)
+  let commonPrefix = codes.reduce((acc, code) => {
+    let i = 0
+    while (code[i] === acc[i] && i < acc.length) {
+      i++
+    }
+    return code.slice(0, i)
+  }, codes[0]).replace(/\.$/, "").split(".")
+
+  if (commonPrefix.length < 2) {
+    return null;
+  }
+
+  let commonPrefixString = commonPrefix.join(".")
+  return cpf.find(({ code_cpf }) => code_cpf === commonPrefixString)
+}
+
+/**
+ * @param {String} code
+ * @returns {?UnifiedCulture}
+ */
+export function fromCodePacFirst (code) {
+  return fromCodePacAll(code)[0] || null
+}
+
+/**
+ * @param {String} code
+ * @returns {UnifiedCulture[]}
+ */
+export function fromCodePacAll (code) {
+  return cpf.filter(
+    ({ cultures_pac }) => cultures_pac.some(culture => culture.code === code)
+  )
+}
+
+
 
 /**
  * @param {String} code
@@ -70,8 +116,8 @@ export function toBoolean (excelLikeBoolean) {
 
 /**
  *
- * @param {UnifiedCulture[]} codes
- * @returns {function<String>:UnifiedCulture[]}
+ * @param {UnifiedCulture[]} cultures
+ * @returns {function(String):UnifiedCulture[]}
  */
 export function createCpfResolver (cultures) {
   const HAS_MANY_RE = /,/g
