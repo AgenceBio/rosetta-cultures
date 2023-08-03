@@ -16,10 +16,26 @@
  * @property {Boolean} requires_precision
  */
 /**
+ * @deprecated since version 1.4.0
  * @param {String} code
- * @returns {UnifiedCulture}
+ * @returns {?UnifiedCulture}
  */
-export function fromCodePac(code: string): UnifiedCulture;
+export function fromCodePac(code: string): UnifiedCulture | null;
+/**
+ * @param {String} code
+ * @returns {?UnifiedCulture}
+ */
+export function fromCodePacStrict(code: string): UnifiedCulture | null;
+/**
+ * @param {String} code
+ * @returns {?UnifiedCulture}
+ */
+export function fromCodePacFirst(code: string): UnifiedCulture | null;
+/**
+ * @param {String} code
+ * @returns {UnifiedCulture[]}
+ */
+export function fromCodePacAll(code: string): UnifiedCulture[];
 /**
  * @param {String} code
  * @returns {UnifiedCulture}
@@ -40,10 +56,10 @@ export function isOrganicProductionCode(code: string): boolean;
 export function toBoolean(excelLikeBoolean: string): boolean;
 /**
  *
- * @param {UnifiedCulture[]} codes
- * @returns {function<String>:UnifiedCulture[]}
+ * @param {UnifiedCulture[]} cultures
+ * @returns {function(String):UnifiedCulture[]}
  */
-export function createCpfResolver(cultures: any): Function;
+export function createCpfResolver(cultures: UnifiedCulture[]): (arg0: string) => UnifiedCulture[];
 export type UnifiedCulture = {
     code_cpf: string;
     libelle_code_cpf: string;

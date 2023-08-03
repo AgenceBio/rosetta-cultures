@@ -83,12 +83,12 @@ for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_directe 
 // 3. Join BV codes on CPF code
 csvParser = createReadStream(CORRESPONDANCE_BV_FILEPATH).pipe(parse({
   columns: true,
-  delimiter: ',',
+  delimiter: '\t',
   trim: true,
   cast: false
 }))
 
-for await (const { "N° DQF": code_bureau_veritas, CPF: code_cpf } of csvParser) {
+for await (const { "N°DQF": code_bureau_veritas, code_production: code_cpf } of csvParser) {
   if (!code_cpf || !isOrganicProductionCode(code_cpf)) {
     continue
   }
