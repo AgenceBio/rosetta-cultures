@@ -94,6 +94,11 @@ describe('fromCodePacStrict', () => {
 
   it('returns nothing for codes with no match', () => {
     deepEqual(fromCodePacStrict('ZZZ'), null)
+    deepEqual(fromCodePacStrict('@@@'), null)
+    deepEqual(fromCodePacStrict(''), null)
+    deepEqual(fromCodePacStrict(undefined), null)
+    deepEqual(fromCodePacStrict(NaN), null)
+    deepEqual(fromCodePacStrict({}), null)
   })
 })
 

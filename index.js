@@ -48,7 +48,7 @@ export function fromCodePacStrict (code) {
       i++
     }
     return code.slice(0, i)
-  }, codes[0]).replace(/\.$/, "").split(".")
+  }, codes[0] ?? '').replace(/\.$/, "").split(".")
 
   if (commonPrefix.length < 2) {
     return null;
