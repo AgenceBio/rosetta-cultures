@@ -19,6 +19,8 @@ jobs:
         with:
           node-version-file: '.nvmrc'
       - run: npm clean-install-test
+      - name: Coveralls
+        uses: coverallsapp/github-action@v2
 
   publish-npm:
     needs: build
