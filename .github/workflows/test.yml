@@ -5,6 +5,10 @@ name: Tests
 
 on:
   push:
+    paths:
+      - '**/*.js'
+      - '**/*.csv'
+      - '**/*.json'
 
 jobs:
   build:
