@@ -32,7 +32,7 @@
     "build:types": "tsc index.js --declaration --allowJs --emitDeclarationOnly",
     "build:cjs": "tsc index.js --esModuleInterop --allowJs --module commonjs --resolveJsonModule --outDir dist/cjs && mv -f dist/cjs/index.js dist/cjs/index.cjs",
     "prepublish": "npm run build",
-    "test": "node --test --experimental-test-coverage --test-reporter=tap --test-reporter-destination=stdout ."
+    "test": "node --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=coverage.lcov --test-reporter=tap --test-reporter-destination=stdout ."
   },
   "repository": {
     "type": "git",
