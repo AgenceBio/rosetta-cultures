@@ -6,7 +6,8 @@
   "type": "module",
   "types": "index.d.ts",
   "files": [
-    "index*",
+    "index.d.ts",
+    "*.js",
     "LICENSE",
     "data/*.json",
     "dist/**/*",
