@@ -1,6 +1,6 @@
 {
   "name": "@agencebio/rosetta-cultures",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Traduction des codes cultures de la CPF vers la PAC vers des nomenclatures d'organismes de certification, et vice-versa.",
   "main": "index.js",
   "type": "module",
