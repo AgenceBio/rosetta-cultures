@@ -11,7 +11,6 @@ import {
 import cultures from './data/cpf.json' assert { type: 'json' };
 
 /**
- * @typedef {import('./index.js').UnifiedCulture} UnifiedCulture
  * @type {UnifiedCulture}
  */
 const partialExpectation = {

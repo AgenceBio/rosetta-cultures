@@ -1,0 +1,14 @@
+{
+  "include": [
+    "*.js",
+  ],
+  "exclude": [
+    "*.test.js"
+  ],
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "module": "nodenext",
+    "resolveJsonModule": true
+  }
+}
