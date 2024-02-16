@@ -3,6 +3,7 @@ import { ok, deepEqual } from 'node:assert/strict'
 import {
   createCpfResolver,
   fromCodeCpf,
+  fromCodeGeofolia,
   fromCodePacStrict,
   fromCodePacFirst,
   isOrganicProductionCode,
@@ -107,6 +108,21 @@ describe('fromCodePacAll', () => {
       fromCodePacAll('AGR').map(({ code_cpf }) => code_cpf),
       ["01.23.11", "01.23.12", "01.23.13", "01.23.14", "01.23.19"]
     )
+  })
+})
+
+describe('fromCodeGeofolia', () => {
+  it('returns no matching code', () => {
+    deepEqual(fromCodeGeofolia(''), null)
+    deepEqual(fromCodeGeofolia(null), null)
+    deepEqual(fromCodeGeofolia('AAAAAAAAAAAAAA'), null)
+  })
+
+  it('returns a single matching code', () => {
+    deepEqual(fromCodeGeofolia('E01').code_cpf, '01.24.23')
+    deepEqual(fromCodeGeofolia('ZAG').code_cpf, '01.13.42')
+    deepEqual(fromCodeGeofolia('E09').code_cpf, '01.13.42')
+    deepEqual(fromCodeGeofolia('E10').code_cpf, '01.13.42')
   })
 })
 
