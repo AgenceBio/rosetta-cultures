@@ -11,6 +11,7 @@ import cpf from './data/cpf.json' assert { type: 'json' }
  * @property {String} libelle_code_cpf
  * @property {String} code_cpf_alias
  * @property {String?} code_bureau_veritas
+ * @property {String[]} codes_geofolia
  * @property {Boolean} is_selectable
  * @property {String} groupe
  * @property {String} sous_groupe
@@ -86,6 +87,13 @@ export function fromCodeCpf (code) {
   return cpf.find(({ code_cpf }) => code_cpf === code)
 }
 
+/**
+ * @param {String} code
+ * @returns {UnifiedCulture?}
+ */
+export function fromCodeGeofolia (code) {
+  return cpf.find(({ codes_geofolia }) => codes_geofolia.includes(code)) ?? null
+}
 
 /**
  * @see https://mattermost.incubateur.net/betagouv/pl/nn6psexgw3bedq16yisrpj777h

@@ -10,8 +10,9 @@ const here = dirname(fileURLToPath(new URL(import.meta.url)))
 
 const CEPAGES_FILEPATH = join(here, '..', 'data', 'cepages.csv')
 const CODES_FILEPATH = join(here, '..', 'data', 'nomenclature.csv')
-const CORRESPONDANCE_PAC_FILEPATH = join(here, '..', 'data', 'correspondance.csv')
 const CORRESPONDANCE_BV_FILEPATH = join(here, '..', 'data', 'correspondance-bureau-veritas.csv')
+const CORRESPONDANCE_GEOFOLIA_FILEPATH = join(here, '..', 'data', 'correspondance-geofolia.csv')
+const CORRESPONDANCE_PAC_FILEPATH = join(here, '..', 'data', 'correspondance.csv')
 const DESTINATION_FILE = join(here, '..', 'data', 'cpf.json')
 const DESTINATION_CEPAGES_FILE = join(here, '..', 'data', 'cepages.json')
 
@@ -50,6 +51,7 @@ for await (const { code_production: code_cpf, lbl_production, actif, lien_code, 
     is_selectable: toBoolean(actif),
     // mappings
     code_bureau_veritas: null,
+    codes_geofolia: [],
     // extension PAC
     cultures_pac: [],
   })
@@ -119,6 +121,32 @@ for await (const { "N°DQF": code_bureau_veritas, code_production: code_cpf } of
   }
 
   CPF.set(code_cpf, { ...record, code_bureau_veritas })
+}
+
+// 4. Join Geofolia codes on CPF code
+csvParser = createReadStream(CORRESPONDANCE_GEOFOLIA_FILEPATH).pipe(parse({
+  columns: ['code_gf', 'code_cpf'],
+  delimiter: ',',
+  trim: true,
+  cast: false
+}))
+
+for await (const { code_gf, code_cpf } of csvParser) {
+  if (!code_cpf || !isOrganicProductionCode(code_cpf)) {
+    continue
+  }
+
+  const resolvedRecords = resolve(code_cpf)
+
+  if (resolvedRecords.length === 0) {
+    console.error(`Le code CPF ${code_cpf} associé à ${code_gf} est introuvable dans nomenclature.csv`)
+    continue
+  }
+
+  const record = CPF.get(code_cpf)
+  record.codes_geofolia.push(code_gf)
+
+  CPF.set(code_cpf, { ...record, codes_geofolia: Array.from(new Set(record.codes_geofolia)) })
 }
 
 // 10. Parse Cepages

@@ -33,6 +33,16 @@ Sur [Nomenclature BV][correspondance-bv] :
 2. `Fichier` ↦ `Télécharger` ↦ `CSV`
 3. renommer et remplacer le fichier téléchargé
 
+### [`data/correspondance-geofolia.csv`](data/correspondance-geofolia.csv)
+
+Sur [Correspondance_cultures_Geofolia_CPFBIO][correspondance-geofolia] :
+1. `Fichier` ↦ `Télécharger` ↦ `CSV`
+2. Lancer cette commande :
+
+```sh
+csvcut --columns 1,3  "path/to/export.csv" > ./data/correspondance-geofolia.csv
+```
+
 ### [`data/cepages.csv`](data/cepages.cssv)
 
 En utilisant le logiciel [csvkit](https://csvkit.readthedocs.io/).
@@ -60,4 +70,5 @@ git push --all
 
 [nomenclature-cpf]: https://docs.google.com/spreadsheets/d/1q_AS0MNpAXBWrZX_bbKJ6-5oP2wi5N6o/edit
 [correspondance-bv]: https://docs.google.com/spreadsheets/d/1xP3OTG_1MTWl6zEfgi080_xB3l8UyVnC/edit
+[correspondance-geofolia]: https://docs.google.com/spreadsheets/d/1JmRbpCDdaLLJS42umATLhVd8GRZ3XSto-ycGLGL9AY8/edit#gid=0
 [action]: .github/workflows/npm-publish.yml

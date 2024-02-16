@@ -4,6 +4,7 @@
  * @property {String} libelle_code_cpf
  * @property {String} code_cpf_alias
  * @property {String?} code_bureau_veritas
+ * @property {String[]} codes_geofolia
  * @property {Boolean} is_selectable
  * @property {String} groupe
  * @property {String} sous_groupe
@@ -65,6 +66,7 @@ export type UnifiedCulture = {
     libelle_code_cpf: string;
     code_cpf_alias: string;
     code_bureau_veritas: string | null;
+    codes_geofolia: string[];
     is_selectable: boolean;
     groupe: string;
     sous_groupe: string;

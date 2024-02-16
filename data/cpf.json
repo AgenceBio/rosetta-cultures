@@ -7,6 +7,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -63,6 +64,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -119,6 +121,23 @@
     "sous_groupe": "Semences grandes cultures et cultures industrielles",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [
+      "ZAM I36",
+      "ZAQ I36",
+      "ZAR I36",
+      "ZBEZES I36",
+      "ZCLZES I36",
+      "F50 I36",
+      "ZCS I08",
+      "ZDA I36",
+      "ZDH I36",
+      "ZOD I36",
+      "ZDOZNJ I36",
+      "ZEJ I36",
+      "ZEL I36",
+      "ZMB I36",
+      "ZMI I36"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -175,6 +194,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -231,6 +251,10 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1002",
+    "codes_geofolia": [
+      "ZAQ ZFA",
+      "ZAQ ZFB"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -302,6 +326,12 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1003",
+    "codes_geofolia": [
+      "ZAR ZFBI02",
+      "ZAR ZFAI01",
+      "ZAR ZFA",
+      "ZAR ZFB"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -368,6 +398,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -424,6 +455,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -480,6 +512,10 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1147",
+    "codes_geofolia": [
+      "ZCSZLL I04",
+      "ZCSZLL I05"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -541,6 +577,10 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1005",
+    "codes_geofolia": [
+      "ZCS I07",
+      "ZCSZNX"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -602,6 +642,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -658,6 +699,12 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1006",
+    "codes_geofolia": [
+      "ZDHZMVZFA",
+      "ZDHZMVZFB",
+      "ZDHZMUZFA",
+      "ZDHZMUZFB"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -734,6 +781,12 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1006",
+    "codes_geofolia": [
+      "ZDHZMVZFBI12",
+      "ZDHZMVZFAI11",
+      "ZDHZMUZFBI14",
+      "ZDHZMUZFAI13"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -790,6 +843,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1006",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -846,6 +900,11 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1009",
+    "codes_geofolia": [
+      "ZEJ ZFA",
+      "ZEJ ZFB",
+      "G55"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -922,6 +981,17 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1001",
+    "codes_geofolia": [
+      "ZAMZLNZFB",
+      "ZAMZLNZFA",
+      "E28",
+      "E29",
+      "E30",
+      "ZAMZLMZFA",
+      "ZAMZLMZFB",
+      "E31",
+      "E31 I36"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -998,6 +1068,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1054,6 +1125,10 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1010",
+    "codes_geofolia": [
+      "ZNE I18",
+      "ZNE I19"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1120,6 +1195,10 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1012",
+    "codes_geofolia": [
+      "ZNG",
+      "F68"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1181,6 +1260,10 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1011",
+    "codes_geofolia": [
+      "ZMI ZFA",
+      "ZMI ZFB"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1247,6 +1330,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1303,6 +1387,9 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1004",
+    "codes_geofolia": [
+      "ZBM"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1364,6 +1451,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1146",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1420,6 +1508,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1004",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1476,6 +1565,10 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1008",
+    "codes_geofolia": [
+      "ZEH",
+      "G46"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1542,6 +1635,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1598,6 +1692,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1013",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1664,6 +1759,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1014",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1725,6 +1821,9 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1012",
+    "codes_geofolia": [
+      "J57"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1781,6 +1880,13 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1012",
+    "codes_geofolia": [
+      "ZNF",
+      "E13",
+      "ZCZ",
+      "F95",
+      "T36"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1882,6 +1988,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1938,6 +2045,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -1994,6 +2102,7 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2050,6 +2159,9 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1041",
+    "codes_geofolia": [
+      "ZCAZNG"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2106,6 +2218,7 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2162,6 +2275,7 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2218,6 +2332,10 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1045",
+    "codes_geofolia": [
+      "ZDOZMPZFA",
+      "ZDOZMPZFB"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2279,6 +2397,9 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "ZBS"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2340,6 +2461,7 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2401,6 +2523,7 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2457,6 +2580,11 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1041",
+    "codes_geofolia": [
+      "ZCAZNG I34",
+      "ZCAH13",
+      "ZCAZNI"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2518,6 +2646,10 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1020",
+    "codes_geofolia": [
+      "ZBT ZFA",
+      "ZBT ZFB"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2589,6 +2721,9 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1025",
+    "codes_geofolia": [
+      "ZOD"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2650,6 +2785,9 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1024",
+    "codes_geofolia": [
+      "ZCK"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2711,6 +2849,13 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1022",
+    "codes_geofolia": [
+      "ZDOZLFZFB",
+      "ZDOZLFZFA",
+      "ZDOZNJZFA",
+      "ZDOZNJZFB",
+      "T88"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2782,6 +2927,7 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1023",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2848,6 +2994,7 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1023",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -2904,6 +3051,7 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3010,6 +3158,14 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1021",
+    "codes_geofolia": [
+      "ZCN ZFB",
+      "ZCN ZFA",
+      "ZCP ZFB",
+      "ZCP ZFA",
+      "ZCO ZFB",
+      "ZCO ZFA"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3081,6 +3237,15 @@
     "sous_groupe": "Protéagineux et légumes secs",
     "is_selectable": true,
     "code_bureau_veritas": "1026",
+    "codes_geofolia": [
+      "T92",
+      "E57",
+      "I24",
+      "H68",
+      "ZCM",
+      "F53",
+      "ZCY"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3152,6 +3317,7 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3208,6 +3374,9 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1017",
+    "codes_geofolia": [
+      "ZEL"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3269,6 +3438,9 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1019",
+    "codes_geofolia": [
+      "T95"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3330,6 +3502,7 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3386,6 +3559,10 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1016",
+    "codes_geofolia": [
+      "ZCLZES",
+      "ZCLZES I31"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3452,6 +3629,12 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1153",
+    "codes_geofolia": [
+      "ZDA",
+      "ZDB",
+      "F71",
+      "ZDC"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3513,6 +3696,11 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1015",
+    "codes_geofolia": [
+      "ZBEZESZFA",
+      "ZBEZESZFB",
+      "T37"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3589,6 +3777,7 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1019",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3645,6 +3834,9 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1018",
+    "codes_geofolia": [
+      "ZMB"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3706,6 +3898,9 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1019",
+    "codes_geofolia": [
+      "ZOF"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3762,6 +3957,7 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3818,6 +4014,9 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1019",
+    "codes_geofolia": [
+      "E54"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3879,6 +4078,7 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1019",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3935,6 +4135,9 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1019",
+    "codes_geofolia": [
+      "E58"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -3991,6 +4194,12 @@
     "sous_groupe": "Oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1019",
+    "codes_geofolia": [
+      "T93",
+      "I36",
+      "ZDF",
+      "G06"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4092,6 +4301,9 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [
+      "ZEA"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4153,6 +4365,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": true,
     "code_bureau_veritas": "1007",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4209,6 +4422,7 @@
     "sous_groupe": "Céréales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4265,6 +4479,7 @@
     "sous_groupe": "Semences grandes cultures et cultures industrielles",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4321,6 +4536,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4387,6 +4603,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4453,6 +4670,9 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1030",
+    "codes_geofolia": [
+      "ZAK"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4519,6 +4739,19 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1034",
+    "codes_geofolia": [
+      "ZBBZNK",
+      "ZBBZNK I35",
+      "ZBBZNP",
+      "ZBBZNP I35",
+      "ZBBZNF",
+      "ZBBZNO",
+      "ZBBZNH",
+      "E78",
+      "ZBBZAO",
+      "ZBBZMR",
+      "ZBBZMR I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4590,6 +4823,10 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1035",
+    "codes_geofolia": [
+      "ZBBZAS",
+      "ZBBZBD"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4656,6 +4893,18 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1048",
+    "codes_geofolia": [
+      "ZCJG90",
+      "ZCJG90 I35",
+      "ZCJG99",
+      "ZCJG99 I35",
+      "ZCJH02 I35",
+      "ZCJH02",
+      "ZCJH20",
+      "ZCJH20 I35",
+      "ZCJH39",
+      "ZCJH39 I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4727,6 +4976,15 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1048",
+    "codes_geofolia": [
+      "ZBAZNR",
+      "ZBAZNH",
+      "ZBAH46",
+      "ZBAH27",
+      "ZBAZNQ",
+      "ZBAZNQ I35",
+      "ZBAZBL"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4798,6 +5056,10 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1040",
+    "codes_geofolia": [
+      "ZBN",
+      "ZBN I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4869,6 +5131,12 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1029",
+    "codes_geofolia": [
+      "ZAJH18 I35",
+      "ZAJH33 I35",
+      "ZAJH18",
+      "ZAJH33"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -4940,6 +5208,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5006,6 +5275,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1039",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5077,6 +5347,11 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1033",
+    "codes_geofolia": [
+      "ZAXZMQ",
+      "ZAXZMQ I35",
+      "ZAXH43"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5148,6 +5423,11 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "E92",
+      "E93",
+      "E94"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5219,6 +5499,9 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "ZOE"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5285,6 +5568,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5356,6 +5640,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1048",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5422,6 +5707,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5488,6 +5774,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1048",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5559,6 +5846,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1048",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5630,6 +5918,10 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1048",
+    "codes_geofolia": [
+      "ZCR",
+      "ZCR I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5701,6 +5993,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1048",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5772,6 +6065,7 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1048",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5838,6 +6132,10 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1048",
+    "codes_geofolia": [
+      "G41",
+      "G41 I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5909,6 +6207,10 @@
     "sous_groupe": "Légumes à feuilles ou tiges",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "T91",
+      "E72"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -5975,6 +6277,7 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6041,6 +6344,10 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "ZND",
+      "ZND I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6112,6 +6419,7 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6178,6 +6486,18 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1042",
+    "codes_geofolia": [
+      "ZCWH55",
+      "ZCWH55 I35",
+      "ZCWH56",
+      "ZCWH56 I35",
+      "ZCWH52",
+      "ZCWH52 I35",
+      "ZCWH53",
+      "ZCWH53 I35",
+      "ZCWH54 I35",
+      "ZCWH54"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6249,6 +6569,7 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6315,6 +6636,7 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6381,6 +6703,7 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6447,6 +6770,10 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "ZDR",
+      "ZDR I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6518,6 +6845,11 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1036",
+    "codes_geofolia": [
+      "ZBF",
+      "ZBF I35",
+      "ZBFZBH"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6589,6 +6921,10 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "ZAL",
+      "ZAL I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6660,6 +6996,22 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1049",
+    "codes_geofolia": [
+      "ZMAH44 I35",
+      "ZMA",
+      "ZMAG97",
+      "ZMAG97 I35",
+      "ZMAH05",
+      "ZMAH05 I35",
+      "ZMAH01",
+      "ZMAH01 I35",
+      "ZMAH41 I35",
+      "ZMAH41",
+      "ZMAH40 I35",
+      "ZMAH40",
+      "ZMA I35",
+      "ZMAH44"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6736,6 +7088,7 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6802,6 +7155,10 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1135",
+    "codes_geofolia": [
+      "ZBI",
+      "ZBI I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6873,6 +7230,10 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1037",
+    "codes_geofolia": [
+      "E90H48",
+      "E90H47"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -6944,6 +7305,7 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7015,6 +7377,10 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1037",
+    "codes_geofolia": [
+      "E90ZDTI42",
+      "E90ZDT"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7086,6 +7452,7 @@
     "sous_groupe": "Légumes à fruits",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7152,6 +7519,7 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7218,6 +7586,7 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7284,6 +7653,14 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1032",
+    "codes_geofolia": [
+      "ZAVG98",
+      "ZAVG98 I35",
+      "ZAVH24",
+      "ZAVH24 I35",
+      "ZAVH31",
+      "ZAVH31 I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7355,6 +7732,10 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1043",
+    "codes_geofolia": [
+      "ZDDZMP",
+      "ZDDZMP I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7426,6 +7807,11 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1028",
+    "codes_geofolia": [
+      "ZAG",
+      "E09",
+      "E10"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7497,6 +7883,7 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1044",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7568,6 +7955,13 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1044",
+    "codes_geofolia": [
+      "E81",
+      "ZDGH04",
+      "ZDGH04 I35",
+      "ZDGZNI",
+      "ZDGZNI I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7634,6 +8028,12 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1038",
+    "codes_geofolia": [
+      "F03",
+      "ZBKH10",
+      "ZBKH23",
+      "ZBKH29"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7700,6 +8100,9 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1046",
+    "codes_geofolia": [
+      "ZDN"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7771,6 +8174,7 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7837,6 +8241,17 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1047",
+    "codes_geofolia": [
+      "ZDVH11",
+      "ZDVH11 I35",
+      "ZDVH08",
+      "ZDVH08 I35",
+      "ZDVZLM",
+      "ZDVZLM I35",
+      "ZDVH71",
+      "ZDVH30",
+      "ZDVH30 I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7908,6 +8323,11 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1031",
+    "codes_geofolia": [
+      "ZAPH34",
+      "ZAPH34 I35",
+      "ZAPZAO"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -7979,6 +8399,10 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1033",
+    "codes_geofolia": [
+      "ZAXZMR",
+      "ZAXZMR I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8050,6 +8474,9 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "F94"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8121,6 +8548,9 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "ZED"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8192,6 +8622,9 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "ZBBZEB"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8263,6 +8696,15 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "I15",
+      "E95",
+      "F33",
+      "I32",
+      "G52",
+      "G64",
+      "I48"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8339,6 +8781,7 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8405,6 +8848,7 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8471,6 +8915,15 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1027",
+    "codes_geofolia": [
+      "ZDSZLR",
+      "ZDSZLR I40",
+      "ZDSZLR I15",
+      "ZDSZLP",
+      "ZDSZLR I16",
+      "ZDSZLR I33",
+      "ZDSZLR I17"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8542,6 +8995,7 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1027",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8613,6 +9067,9 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "F98"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8679,6 +9136,9 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [
+      "I33"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8745,6 +9205,7 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": true,
     "code_bureau_veritas": "1050",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8811,6 +9272,7 @@
     "sous_groupe": "Légumes à racine, à bulbe ou à tubercules",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8877,6 +9339,27 @@
     "sous_groupe": "Semences et plants potagers",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [
+      "ZAVH31 I20",
+      "ZBAZNR I36",
+      "ZBAZNH I36",
+      "ZBAH46 I36",
+      "ZBAH27 I36",
+      "ZBAZNQ I36",
+      "ZBAZBL I36",
+      "ZBI I36",
+      "ZBKH29 I36",
+      "ZBN I36",
+      "ZCAZNG I36",
+      "ZCR I36",
+      "ZDGH04 I36",
+      "F94 I25",
+      "ZDK I36",
+      "ZDN I36",
+      "ZDOZMP I26",
+      "ZDSZLR I32",
+      "ZDVH11 I36"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -8943,6 +9426,7 @@
     "sous_groupe": "Semences et plants potagers",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9009,6 +9493,7 @@
     "sous_groupe": "Cultures sucrières",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9075,6 +9560,9 @@
     "sous_groupe": "Cultures sucrières",
     "is_selectable": true,
     "code_bureau_veritas": "1081",
+    "codes_geofolia": [
+      "ZAPZAN"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9141,6 +9629,9 @@
     "sous_groupe": "Semences grandes cultures et cultures industrielles",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [
+      "ZAPZAN I27"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9207,6 +9698,7 @@
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9273,6 +9765,7 @@
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9339,6 +9832,7 @@
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": true,
     "code_bureau_veritas": "1134",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9405,6 +9899,7 @@
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": true,
     "code_bureau_veritas": "1158",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9476,6 +9971,7 @@
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9542,6 +10038,7 @@
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9608,6 +10105,7 @@
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": true,
     "code_bureau_veritas": "1052",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9679,6 +10177,7 @@
     "sous_groupe": "Autres légumes frais et maraîchage",
     "is_selectable": true,
     "code_bureau_veritas": "1051",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9750,6 +10249,7 @@
     "sous_groupe": "Cultures sucrières",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9806,6 +10306,9 @@
     "sous_groupe": "Cultures sucrières",
     "is_selectable": true,
     "code_bureau_veritas": "1154",
+    "codes_geofolia": [
+      "I05"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9887,6 +10390,7 @@
     "sous_groupe": "Cultures sucrières",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9943,6 +10447,7 @@
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -9999,6 +10504,12 @@
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": true,
     "code_bureau_veritas": "1152",
+    "codes_geofolia": [
+      "ZENH72",
+      "ZENZEU",
+      "ZENZEW",
+      "ZENZEV"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10060,6 +10571,7 @@
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10116,6 +10628,7 @@
     "sous_groupe": "Cultures textiles",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10172,6 +10685,7 @@
     "sous_groupe": "Cultures textiles",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10228,6 +10742,9 @@
     "sous_groupe": "Cultures textiles",
     "is_selectable": true,
     "code_bureau_veritas": "1080",
+    "codes_geofolia": [
+      "E89"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10284,6 +10801,7 @@
     "sous_groupe": "Cultures textiles",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10340,6 +10858,7 @@
     "sous_groupe": "Cultures textiles",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10396,6 +10915,11 @@
     "sous_groupe": "Cultures textiles",
     "is_selectable": true,
     "code_bureau_veritas": "1151",
+    "codes_geofolia": [
+      "ZCLZERZFB",
+      "ZCLZER I36",
+      "ZCLZER"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10457,6 +10981,10 @@
     "sous_groupe": "Cultures textiles",
     "is_selectable": true,
     "code_bureau_veritas": "1145",
+    "codes_geofolia": [
+      "ZAZ",
+      "ZAZ I21"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10523,6 +11051,9 @@
     "sous_groupe": "Cultures textiles",
     "is_selectable": true,
     "code_bureau_veritas": "1081",
+    "codes_geofolia": [
+      "F41"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10579,6 +11110,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10635,6 +11167,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10691,6 +11224,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10747,6 +11281,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10803,6 +11338,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10859,6 +11395,7 @@
     "sous_groupe": "Plantes fourragères",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10915,6 +11452,7 @@
     "sous_groupe": "Prairies, parcours",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -10971,6 +11509,51 @@
     "sous_groupe": "Prairies, parcours",
     "is_selectable": true,
     "code_bureau_veritas": "1126",
+    "codes_geofolia": [
+      "E41",
+      "E42",
+      "E43",
+      "ZAT",
+      "E44",
+      "E45",
+      "E46",
+      "E47",
+      "E48",
+      "E49",
+      "E50",
+      "ZBJ",
+      "ZBPH15",
+      "ZBPH16",
+      "ZBR",
+      "ZBQ",
+      "F13",
+      "F14",
+      "F15",
+      "F18",
+      "ZBU",
+      "I30",
+      "H69 I10",
+      "H69H17",
+      "H69 I09",
+      "ZCT",
+      "G01",
+      "G02",
+      "ZDJ",
+      "G03",
+      "G04",
+      "G05",
+      "ZDI",
+      "ZDL",
+      "G09",
+      "ZDUZLU",
+      "ZDX",
+      "ZDX I28",
+      "G31",
+      "G31 I39",
+      "ZDZ",
+      "ZDZ I29",
+      "ZDY"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11097,6 +11680,9 @@
     "sous_groupe": "Prairies, parcours",
     "is_selectable": true,
     "code_bureau_veritas": "1127",
+    "codes_geofolia": [
+      "ZDUZLT"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11163,6 +11749,7 @@
     "sous_groupe": "Prairies, parcours",
     "is_selectable": true,
     "code_bureau_veritas": "1128",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11234,6 +11821,9 @@
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
     "code_bureau_veritas": "1118",
+    "codes_geofolia": [
+      "ZAPZLF"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11295,6 +11885,9 @@
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
     "code_bureau_veritas": "1119",
+    "codes_geofolia": [
+      "ZBBZLF"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11356,6 +11949,10 @@
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
     "code_bureau_veritas": "1120",
+    "codes_geofolia": [
+      "ZBEZLFZFB",
+      "ZBEZLFZFA"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11417,6 +12014,9 @@
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
     "code_bureau_veritas": "1121",
+    "codes_geofolia": [
+      "ZCS I06"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11478,6 +12078,9 @@
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
     "code_bureau_veritas": "1122",
+    "codes_geofolia": [
+      "ZCU"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11604,6 +12207,21 @@
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
     "code_bureau_veritas": "1124",
+    "codes_geofolia": [
+      "G65",
+      "ZMG",
+      "G66",
+      "ZMD",
+      "ZMH",
+      "G67",
+      "G68",
+      "ZMF",
+      "ZME",
+      "G69",
+      "G70",
+      "G71",
+      "ZMC"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11685,6 +12303,11 @@
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
     "code_bureau_veritas": "1125",
+    "codes_geofolia": [
+      "ZCQ",
+      "ZCQ I03",
+      "ZCQ I41"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -11786,6 +12409,32 @@
     "sous_groupe": "Plantes fourragères",
     "is_selectable": true,
     "code_bureau_veritas": "1129",
+    "codes_geofolia": [
+      "ZAVZLF",
+      "ZBY",
+      "F28",
+      "ZCV",
+      "F63",
+      "F64",
+      "ZDEZLF",
+      "ZDVZLF",
+      "ZEC",
+      "ZEC I36",
+      "ZEK",
+      "ZEM",
+      "G78",
+      "ZMK ZFB",
+      "ZMK ZFA",
+      "ZML",
+      "G79",
+      "ZMM",
+      "G80",
+      "G81",
+      "ZMN",
+      "G85",
+      "G86",
+      "G87"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12137,6 +12786,7 @@
     "sous_groupe": "Fleurs",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12193,6 +12843,32 @@
     "sous_groupe": "Fleurs",
     "is_selectable": true,
     "code_bureau_veritas": "1132",
+    "codes_geofolia": [
+      "E80",
+      "E84",
+      "E97",
+      "E98",
+      "F02",
+      "F04",
+      "F35",
+      "F61",
+      "F62",
+      "F70",
+      "MUG",
+      "F74",
+      "F75",
+      "F76",
+      "F77",
+      "F85",
+      "G22",
+      "G42",
+      "G43",
+      "G51",
+      "G60",
+      "G61",
+      "G72",
+      "G88"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12259,6 +12935,7 @@
     "sous_groupe": "Autres semences",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12315,6 +12992,7 @@
     "sous_groupe": "Autres semences",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12371,6 +13049,21 @@
     "sous_groupe": "Autres semences",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [
+      "ZAPH34 I36",
+      "ZAPZAO I36",
+      "ZBJ I22",
+      "ZBQ I23",
+      "F15 I24",
+      "ZCN ZFBI36",
+      "ZCQ I36",
+      "ZMG I36",
+      "ZMD I36",
+      "ZME I36",
+      "ZMC I36",
+      "ZMK I36",
+      "ZCQ I36I41"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12427,6 +13120,7 @@
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12483,6 +13177,7 @@
     "sous_groupe": "Autre cultures industrielles",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12539,6 +13234,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12595,6 +13291,7 @@
     "sous_groupe": "Viticulture",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12651,6 +13348,7 @@
     "sous_groupe": "Viticulture",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12707,6 +13405,9 @@
     "sous_groupe": "Viticulture",
     "is_selectable": true,
     "code_bureau_veritas": "1076",
+    "codes_geofolia": [
+      "ZMO I30"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12768,6 +13469,9 @@
     "sous_groupe": "Viticulture",
     "is_selectable": true,
     "code_bureau_veritas": "1077",
+    "codes_geofolia": [
+      "ZMO"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12829,6 +13533,7 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12900,6 +13605,7 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -12971,6 +13677,9 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [
+      "E27"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13047,6 +13756,9 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1144",
+    "codes_geofolia": [
+      "E34"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13168,6 +13880,7 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13239,6 +13952,9 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1072",
+    "codes_geofolia": [
+      "F17"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13310,6 +14026,7 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13381,6 +14098,9 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1143",
+    "codes_geofolia": [
+      "E17"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13457,6 +14177,7 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13528,6 +14249,9 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [
+      "I37"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13599,6 +14323,7 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13670,6 +14395,9 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [
+      "F19H21"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13741,6 +14469,9 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [
+      "F55"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13812,6 +14543,9 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [
+      "F40"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13883,6 +14617,9 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [
+      "F51"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -13954,6 +14691,21 @@
     "sous_groupe": "Fruits tropicaux et subtropicaux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [
+      "I02",
+      "I08",
+      "E70",
+      "F11",
+      "I26",
+      "F27",
+      "I27",
+      "F38",
+      "I31",
+      "I40",
+      "I41",
+      "I42",
+      "I45"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14025,6 +14777,7 @@
     "sous_groupe": "Agrumes",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14096,6 +14849,7 @@
     "sous_groupe": "Agrumes",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14167,6 +14921,9 @@
     "sous_groupe": "Agrumes",
     "is_selectable": true,
     "code_bureau_veritas": "1068",
+    "codes_geofolia": [
+      "F93"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14243,6 +15000,9 @@
     "sous_groupe": "Agrumes",
     "is_selectable": true,
     "code_bureau_veritas": "1067",
+    "codes_geofolia": [
+      "E83"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14319,6 +15079,9 @@
     "sous_groupe": "Agrumes",
     "is_selectable": true,
     "code_bureau_veritas": "1067",
+    "codes_geofolia": [
+      "F88"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14395,6 +15158,10 @@
     "sous_groupe": "Agrumes",
     "is_selectable": true,
     "code_bureau_veritas": "1066",
+    "codes_geofolia": [
+      "E85",
+      "F54"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14471,6 +15238,7 @@
     "sous_groupe": "Agrumes",
     "is_selectable": true,
     "code_bureau_veritas": "1142",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14547,6 +15315,7 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14618,6 +15387,7 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14689,6 +15459,7 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14760,6 +15531,9 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1059",
+    "codes_geofolia": [
+      "G21H35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14831,6 +15605,9 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1060",
+    "codes_geofolia": [
+      "G21H36"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14902,6 +15679,7 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -14973,6 +15751,9 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1061",
+    "codes_geofolia": [
+      "G20"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15049,6 +15830,9 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1140",
+    "codes_geofolia": [
+      "E86"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15120,6 +15904,9 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1053",
+    "codes_geofolia": [
+      "E01"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15191,6 +15978,12 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1054",
+    "codes_geofolia": [
+      "E67H06",
+      "E67H03",
+      "E67H22",
+      "E67H25"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15267,6 +16060,11 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1055",
+    "codes_geofolia": [
+      "G07G95",
+      "G07G94",
+      "G07H32"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15343,6 +16141,7 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1056",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15414,6 +16213,12 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1057",
+    "codes_geofolia": [
+      "G28G93",
+      "G28G96",
+      "G28H07",
+      "G28H28"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15485,6 +16290,9 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1057",
+    "codes_geofolia": [
+      "G28H38"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15561,6 +16369,9 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1057",
+    "codes_geofolia": [
+      "G27"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15632,6 +16443,7 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15703,6 +16515,10 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1140",
+    "codes_geofolia": [
+      "I16",
+      "F80"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15774,6 +16590,11 @@
     "sous_groupe": "Fruits à pépins et à noyaux",
     "is_selectable": true,
     "code_bureau_veritas": "1139",
+    "codes_geofolia": [
+      "F81",
+      "F82",
+      "G19H26"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15845,6 +16666,7 @@
     "sous_groupe": "Autres fruits frais",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15916,6 +16738,7 @@
     "sous_groupe": "Baies",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -15987,6 +16810,10 @@
     "sous_groupe": "Baies",
     "is_selectable": true,
     "code_bureau_veritas": "1074",
+    "codes_geofolia": [
+      "F42",
+      "F43"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16058,6 +16885,10 @@
     "sous_groupe": "Baies",
     "is_selectable": true,
     "code_bureau_veritas": "1070",
+    "codes_geofolia": [
+      "ZBW",
+      "ZBWH50"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16129,6 +16960,14 @@
     "sous_groupe": "Baies",
     "is_selectable": true,
     "code_bureau_veritas": "1073",
+    "codes_geofolia": [
+      "ZBVH51",
+      "ZBVH51 I35",
+      "ZBVH50 I35",
+      "ZBVH50",
+      "ZBVH49",
+      "ZBVH49 I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16205,6 +17044,7 @@
     "sous_groupe": "Baies",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16276,6 +17116,9 @@
     "sous_groupe": "Baies",
     "is_selectable": true,
     "code_bureau_veritas": "1069",
+    "codes_geofolia": [
+      "ZAW"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16347,6 +17190,7 @@
     "sous_groupe": "Baies",
     "is_selectable": true,
     "code_bureau_veritas": "1071",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16418,6 +17262,7 @@
     "sous_groupe": "Baies",
     "is_selectable": true,
     "code_bureau_veritas": "1150",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16489,6 +17334,10 @@
     "sous_groupe": "Baies",
     "is_selectable": true,
     "code_bureau_veritas": "1150",
+    "codes_geofolia": [
+      "ZBZG91",
+      "ZBZG92"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16560,6 +17409,15 @@
     "sous_groupe": "Baies",
     "is_selectable": true,
     "code_bureau_veritas": "1150",
+    "codes_geofolia": [
+      "I01",
+      "E23",
+      "E60",
+      "F72",
+      "F73",
+      "F78",
+      "F79"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16636,6 +17494,7 @@
     "sous_groupe": "Semences fruitières",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16707,6 +17566,7 @@
     "sous_groupe": "Semences fruitières",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16778,6 +17638,7 @@
     "sous_groupe": "Fruits à coque",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16849,6 +17710,9 @@
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
     "code_bureau_veritas": "1062",
+    "codes_geofolia": [
+      "E14"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16920,6 +17784,9 @@
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
     "code_bureau_veritas": "1063",
+    "codes_geofolia": [
+      "E69"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -16996,6 +17863,9 @@
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
     "code_bureau_veritas": "1065",
+    "codes_geofolia": [
+      "F83"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17072,6 +17942,9 @@
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
     "code_bureau_veritas": "1141",
+    "codes_geofolia": [
+      "G14"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17148,6 +18021,9 @@
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
     "code_bureau_veritas": "1064",
+    "codes_geofolia": [
+      "F84"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17224,6 +18100,7 @@
     "sous_groupe": "Fruits à coque",
     "is_selectable": true,
     "code_bureau_veritas": "1141",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17295,6 +18172,7 @@
     "sous_groupe": "Autres fruits frais",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17366,6 +18244,7 @@
     "sous_groupe": "Autres fruits frais",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17437,6 +18316,7 @@
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17508,6 +18388,9 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1058",
+    "codes_geofolia": [
+      "F86"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17584,6 +18467,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1058",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17655,6 +18539,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1058",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17726,6 +18611,7 @@
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17797,6 +18683,7 @@
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17868,6 +18755,7 @@
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": true,
     "code_bureau_veritas": "1075",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -17939,6 +18827,7 @@
     "sous_groupe": "Fruits oléagineux",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18010,6 +18899,7 @@
     "sous_groupe": "Plantes à boissons",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18066,6 +18956,7 @@
     "sous_groupe": "Plantes à boissons",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18122,6 +19013,7 @@
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
     "code_bureau_veritas": "1081",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18178,6 +19070,7 @@
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
     "code_bureau_veritas": "1081",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18234,6 +19127,7 @@
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
     "code_bureau_veritas": "1081",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18290,6 +19184,9 @@
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
     "code_bureau_veritas": "1081",
+    "codes_geofolia": [
+      "T94"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18351,6 +19248,7 @@
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
     "code_bureau_veritas": "1081",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18407,6 +19305,7 @@
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
     "code_bureau_veritas": "1081",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18463,6 +19362,7 @@
     "sous_groupe": "Plantes à boissons",
     "is_selectable": true,
     "code_bureau_veritas": "1155",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18524,6 +19424,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18580,6 +19481,129 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "E02",
+      "E03",
+      "E04",
+      "E05",
+      "E06",
+      "E07",
+      "ZAF",
+      "E08",
+      "E11",
+      "E12",
+      "E15",
+      "E16",
+      "E18",
+      "E19",
+      "E20",
+      "E21",
+      "E22ZNG",
+      "E24",
+      "E25",
+      "E26H19",
+      "ZOG",
+      "E32",
+      "E33",
+      "E35",
+      "E36",
+      "E37",
+      "E38",
+      "E39",
+      "E40",
+      "E51",
+      "E53",
+      "E55",
+      "E56",
+      "I07",
+      "ZAU",
+      "E61",
+      "H67",
+      "E62",
+      "E63",
+      "E64",
+      "E65",
+      "E66",
+      "E71",
+      "E73",
+      "E74",
+      "E75",
+      "E76",
+      "E77",
+      "E79",
+      "E87",
+      "ZBG",
+      "E91",
+      "E99",
+      "F01",
+      "F05",
+      "F06",
+      "F07",
+      "F09",
+      "F10",
+      "F16",
+      "I21",
+      "F20",
+      "F21",
+      "F22",
+      "F23H12",
+      "F24",
+      "F25",
+      "F26",
+      "F29",
+      "F30",
+      "I28",
+      "F31",
+      "F32",
+      "F34",
+      "F37",
+      "F39",
+      "F44",
+      "F45",
+      "F48",
+      "F49",
+      "F50",
+      "F52",
+      "F57",
+      "F67",
+      "F87",
+      "F90",
+      "F96",
+      "F97",
+      "G08",
+      "G10",
+      "G12",
+      "G13",
+      "F36",
+      "G16",
+      "G17",
+      "G24",
+      "G25",
+      "G26",
+      "G29",
+      "G30",
+      "G33",
+      "G34",
+      "G35",
+      "G36",
+      "G37",
+      "G38",
+      "G39",
+      "G40",
+      "G44",
+      "G45",
+      "G53",
+      "G54",
+      "G59",
+      "G56",
+      "G57",
+      "G58",
+      "G62",
+      "G63",
+      "G82",
+      "G83",
+      "G84"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18721,6 +19745,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18777,6 +19802,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18833,6 +19859,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "G11H09"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18889,6 +19918,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -18945,6 +19975,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19001,6 +20032,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1087",
+    "codes_geofolia": [
+      "E88 I36"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19062,6 +20096,11 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1089",
+    "codes_geofolia": [
+      "ZBO",
+      "ZBO I36",
+      "ZBO I35"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19123,6 +20162,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19179,6 +20219,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19240,6 +20281,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19296,6 +20338,10 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "E59",
+      "E96"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19362,6 +20408,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19418,6 +20465,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19474,6 +20522,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "I25"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19530,6 +20581,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1115",
+    "codes_geofolia": [
+      "G73"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19601,6 +20655,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19657,6 +20712,10 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "G47",
+      "G48"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19718,6 +20777,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19774,6 +20834,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19830,6 +20891,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1105",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19891,6 +20953,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1157",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -19947,6 +21010,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1109",
+    "codes_geofolia": [
+      "G50"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20008,6 +21074,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1110",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20064,6 +21131,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1111",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20125,6 +21193,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1082",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20186,6 +21255,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1083",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20247,6 +21317,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1085",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20308,6 +21379,10 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1086",
+    "codes_geofolia": [
+      "ZAY",
+      "I11"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20369,6 +21444,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1099",
+    "codes_geofolia": [
+      "F66"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20430,6 +21508,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1099",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20486,6 +21565,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1100",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20542,6 +21622,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1090",
+    "codes_geofolia": [
+      "F12"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20603,6 +21686,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1102",
+    "codes_geofolia": [
+      "F89"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20664,6 +21750,10 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1103",
+    "codes_geofolia": [
+      "ZDK",
+      "ZDK I38"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20725,6 +21815,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "E82"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20786,6 +21879,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "F08"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20847,6 +21943,10 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "F91",
+      "F92"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20908,6 +22008,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1087",
+    "codes_geofolia": [
+      "E88"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -20964,6 +22067,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21020,6 +22124,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21081,6 +22186,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "F46"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21137,6 +22245,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21193,6 +22302,9 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": true,
     "code_bureau_veritas": "1079",
+    "codes_geofolia": [
+      "ZCC"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21254,6 +22366,7 @@
     "sous_groupe": "Épices et herbes fraîches",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21310,6 +22423,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21366,6 +22480,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21422,6 +22537,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21478,6 +22594,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21534,6 +22651,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1092",
+    "codes_geofolia": [
+      "F47"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21595,6 +22715,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1093",
+    "codes_geofolia": [
+      "F47ZOB"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21651,6 +22774,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1094",
+    "codes_geofolia": [
+      "F56"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21712,6 +22838,10 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1095",
+    "codes_geofolia": [
+      "F58",
+      "F59"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21768,6 +22898,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21824,6 +22955,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21885,6 +23017,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -21946,6 +23079,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "E52"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22007,6 +23143,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22068,6 +23205,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22129,6 +23267,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22190,6 +23329,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "G15"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22251,6 +23393,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1088",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22307,6 +23450,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1084",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22363,6 +23507,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1096",
+    "codes_geofolia": [
+      "F60"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22424,6 +23571,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1112",
+    "codes_geofolia": [
+      "ZMJ"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22485,6 +23635,11 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "G74",
+      "G75",
+      "G76"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22546,6 +23701,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22607,6 +23763,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22668,6 +23825,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22729,6 +23887,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "E68"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22790,6 +23951,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1097",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22846,6 +24008,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22902,6 +24065,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1098",
+    "codes_geofolia": [
+      "F65"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -22963,6 +24129,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1116",
+    "codes_geofolia": [
+      "ZCX"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23024,6 +24193,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1104",
+    "codes_geofolia": [
+      "G32"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23080,6 +24252,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1108",
+    "codes_geofolia": [
+      "G49"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23141,6 +24316,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1113",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23197,6 +24373,9 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": true,
     "code_bureau_veritas": "1114",
+    "codes_geofolia": [
+      "G77"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23253,6 +24432,7 @@
     "sous_groupe": "Plantes à parfum et médicinales",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23309,6 +24489,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23365,6 +24546,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23421,6 +24603,9 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1131",
+    "codes_geofolia": [
+      "F69"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23482,6 +24667,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1131",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23538,6 +24724,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23594,6 +24781,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1131",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23650,6 +24838,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23706,6 +24895,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23762,6 +24952,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23818,6 +25009,7 @@
     "sous_groupe": "Plants",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23874,6 +25066,7 @@
     "sous_groupe": "Plants",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23930,6 +25123,15 @@
     "sous_groupe": "Plants",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [
+      "E01H37",
+      "E67H37",
+      "E86H37",
+      "G07H37",
+      "G20H37",
+      "G21H37",
+      "G28H37"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -23996,6 +25198,7 @@
     "sous_groupe": "Plants",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24052,6 +25255,15 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1130",
+    "codes_geofolia": [
+      "0",
+      "ZCD",
+      "ZCE",
+      "ZCF",
+      "ZCH",
+      "ZCG",
+      "ZCI"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24168,6 +25380,10 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1159",
+    "codes_geofolia": [
+      "I06",
+      "ZBX"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24234,6 +25450,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1133",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24295,6 +25512,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24351,6 +25569,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24407,6 +25626,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1137",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24488,6 +25708,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1137",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24554,6 +25775,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24610,6 +25832,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1149",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24666,6 +25889,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1117",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24722,6 +25946,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1158",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24778,6 +26003,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1131",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24834,6 +26060,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1131",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24890,6 +26117,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1156",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -24946,6 +26174,9 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1160",
+    "codes_geofolia": [
+      "1"
+    ],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -25012,6 +26243,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -25068,6 +26300,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -25124,6 +26357,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -25180,6 +26414,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -25236,6 +26471,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "3001",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -25292,6 +26528,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1131",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -25348,6 +26585,7 @@
     "sous_groupe": "",
     "is_selectable": false,
     "code_bureau_veritas": null,
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
@@ -25404,6 +26642,7 @@
     "sous_groupe": "",
     "is_selectable": true,
     "code_bureau_veritas": "1131",
+    "codes_geofolia": [],
     "cultures_pac": [
       {
         "code": "ACA",
