@@ -92,7 +92,12 @@ export function fromCodeCpf (code) {
  * @returns {UnifiedCulture?}
  */
 export function fromCodeGeofolia (code) {
-  return cpf.find(({ codes_geofolia }) => codes_geofolia.includes(code)) ?? null
+  if (typeof code !== 'string') {
+    return null
+  }
+
+  const cleanCode = code.trim().replace(/\s+/g, ' ')
+  return cpf.find(({ codes_geofolia }) => codes_geofolia.includes(cleanCode)) ?? null
 }
 
 /**

@@ -124,6 +124,15 @@ describe('fromCodeGeofolia', () => {
     deepEqual(fromCodeGeofolia('E09').code_cpf, '01.13.42')
     deepEqual(fromCodeGeofolia('E10').code_cpf, '01.13.42')
   })
+
+  it('returns a single matching code, even with multiple spaces', () => {
+    deepEqual(fromCodeGeofolia('ZAR   ZFB').code_cpf, '01.11.12')
+    deepEqual(fromCodeGeofolia('ZAR ZFB').code_cpf, '01.11.12')
+    deepEqual(fromCodeGeofolia('ZAQ   ZFA').code_cpf, '01.11.11')
+    deepEqual(fromCodeGeofolia('ZAQ ZFA').code_cpf, '01.11.11')
+    deepEqual(fromCodeGeofolia('ZAR ZFAI01').code_cpf, '01.11.12')
+    deepEqual(fromCodeGeofolia('ZAR   ZFAI01').code_cpf, '01.11.12')
+  })
 })
 
 describe('data', () => {
