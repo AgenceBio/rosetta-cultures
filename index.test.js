@@ -86,6 +86,9 @@ describe('fromCodePacFirstSelectable', () => {
     deepEqual(fromCodePacFirst('VRG').code_cpf, "01.22") //
     deepEqual(fromCodePacFirst('VRG', null).code_cpf, "01.22") //
     deepEqual(fromCodePacFirst('VRG', '001').code_cpf, "01.24.23") // Abricots
+    deepEqual(fromCodePacFirst('VRG', '002').code_cpf, "01.25.31") // Amandes
+    deepEqual(fromCodePacFirst('VRG', 1), fromCodePacFirst('VRG', '001')) // Abricots
+    deepEqual(fromCodePacFirst('VRG', 2), fromCodePacFirst('VRG', '002')) // Amandes
   })
 })
 

@@ -81,7 +81,7 @@ export function fromCodePacFirst (code, precision) {
 export function fromCodePacAll (code, precision = null) {
   return cpf.filter(({ cultures_pac }) => {
     return cultures_pac.some(culture => {
-      return culture.code === code && culture.precision === (precision ?? '')
+      return culture.code === code && culture.precision === (precision ? String(precision).padStart(3, '0') : '')
     })
   })
 }
