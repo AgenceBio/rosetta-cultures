@@ -59,7 +59,7 @@
     "csv-parse": "^5.3.6"
   },
   "devDependencies": {
-    "@tsconfig/node18": "^1.0.1",
+    "@tsconfig/node20": "^20.1.4",
     "typescript": "^5.3.3"
   }
 }
