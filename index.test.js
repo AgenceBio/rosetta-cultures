@@ -87,6 +87,11 @@ describe('fromCodePacFirstSelectable', () => {
     deepEqual(fromCodePacFirst('VRG', null).code_cpf, "01.22") //
     deepEqual(fromCodePacFirst('VRG', '001').code_cpf, "01.24.23") // Abricots
     deepEqual(fromCodePacFirst('VRG', '002').code_cpf, "01.25.31") // Amandes
+
+    // inexisting precision falls back to regular code
+    deepEqual(fromCodePacFirst('BTH', '001'), fromCodePacFirst('BTH')) // Blé tendre d’hiver
+
+    // digit version = string version
     deepEqual(fromCodePacFirst('VRG', 1), fromCodePacFirst('VRG', '001')) // Abricots
     deepEqual(fromCodePacFirst('VRG', 2), fromCodePacFirst('VRG', '002')) // Amandes
   })
@@ -126,6 +131,11 @@ describe('fromCodePacAll', () => {
     deepEqual(
       fromCodePacAll('VRG').map(({ code_cpf }) => code_cpf),
       expectation
+    )
+
+    deepEqual(
+      fromCodePacAll('VRG', '002').map(({ code_cpf }) => code_cpf),
+      ['01.25.31']
     )
 
     deepEqual(

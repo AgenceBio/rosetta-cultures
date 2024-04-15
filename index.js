@@ -79,13 +79,27 @@ export function fromCodePacFirst (code, precision) {
  * @returns {UnifiedCulture[]}
  */
 export function fromCodePacAll (code, precision = null) {
+  if (precision) {
+    const cleanedPrecision = String(precision).padStart(3, '0')
+
+    const results = cpf.filter(({ cultures_pac }) => {
+      return cultures_pac.some(culture => {
+        return culture.code === code && culture.precision === cleanedPrecision
+      })
+    })
+
+    if (results.length) {
+      return results
+    }
+  }
+
+  // otherwise, and in any case, we lookup results without precision
   return cpf.filter(({ cultures_pac }) => {
     return cultures_pac.some(culture => {
-      return culture.code === code && culture.precision === (precision ? String(precision).padStart(3, '0') : '')
+      return culture.code === code && culture.precision === ''
     })
   })
 }
-
 
 
 /**
