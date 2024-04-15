@@ -10,7 +10,7 @@ import cpf from './data/cpf.json' assert { type: 'json' }
  * @property {String} code_cpf
  * @property {String} libelle_code_cpf
  * @property {String} code_cpf_alias
- * @property {String?} code_bureau_veritas
+ * @property {String=} code_bureau_veritas
  * @property {String[]} codes_geofolia
  * @property {Boolean} is_selectable
  * @property {String} groupe
@@ -29,7 +29,7 @@ import cpf from './data/cpf.json' assert { type: 'json' }
 /**
  * @deprecated since version 1.4.0
  * @param {String} code
- * @param {String?} precision
+ * @param {String=} precision
  * @returns {?UnifiedCulture}
  */
 export function fromCodePac (code, precision) {
@@ -75,7 +75,7 @@ export function fromCodePacFirst (code, precision) {
  * Return all CPF codes associated to a given PAC code
  *
  * @param {String} code
- * @param {String?} precision
+ * @param {String=} precision
  * @returns {UnifiedCulture[]}
  */
 export function fromCodePacAll (code, precision = null) {
@@ -98,7 +98,7 @@ export function fromCodeCpf (code) {
 
 /**
  * @param {String} code
- * @returns {UnifiedCulture?}
+ * @returns {UnifiedCulture|null}
  */
 export function fromCodeGeofolia (code) {
   if (typeof code !== 'string') {
@@ -163,7 +163,7 @@ export function createCpfResolver (cultures) {
    * 4. lists of all of the above (xx.yy.z1, xx.aa.*, zz.*)
    *
    * @param {String} selector
-   * @param {String?} precision
+   * @param {String=} precision
    * @returns {UnifiedCulture[]}
    */
   return function cpfResolver (selector, precision = null) {

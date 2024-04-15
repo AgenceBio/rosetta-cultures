@@ -10,7 +10,7 @@ import cepages from './data/cepages.json' assert { type: 'json' }
  * @property {String} code
  * @property {String} libelle
  * @property {CepageCouleur} couleur
- * @property {String?} code_cpf
+ * @property {String=} code_cpf
  * @property {Boolean} is_selectable
  */
 
