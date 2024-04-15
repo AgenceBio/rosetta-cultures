@@ -21,6 +21,7 @@ import cpf from './data/cpf.json' assert { type: 'json' }
 /**
  * @typedef PacCulture
  * @property {String} code
+ * @property {String} precision
  * @property {String} libelle
  * @property {Boolean} requires_precision
  */
@@ -28,20 +29,22 @@ import cpf from './data/cpf.json' assert { type: 'json' }
 /**
  * @deprecated since version 1.4.0
  * @param {String} code
+ * @param {String?} precision
  * @returns {?UnifiedCulture}
  */
-export function fromCodePac (code) {
+export function fromCodePac (code, precision) {
   console.warn("fromCodePac is deprecated, use fromCodePacFirst instead")
 
-  return fromCodePacFirst(code)
+  return fromCodePacFirst(code, precision)
 }
 
 /**
  * @param {String} code
+ * @param {String} precision
  * @returns {?UnifiedCulture}
  */
-export function fromCodePacStrict (code) {
-  let allMatchs = fromCodePacAll(code)
+export function fromCodePacStrict (code, precision) {
+  let allMatchs = fromCodePacAll(code, precision)
   let codes = allMatchs.map(({ code_cpf }) => code_cpf)
   let commonPrefix = codes.reduce((acc, code) => {
     let i = 0
@@ -61,20 +64,26 @@ export function fromCodePacStrict (code) {
 
 /**
  * @param {String} code
+ * @param {String} precision
  * @returns {?UnifiedCulture}
  */
-export function fromCodePacFirst (code) {
-  return fromCodePacAll(code)[0] || null
+export function fromCodePacFirst (code, precision) {
+  return fromCodePacAll(code, precision)[0] || null
 }
 
 /**
+ * Return all CPF codes associated to a given PAC code
+ *
  * @param {String} code
+ * @param {String?} precision
  * @returns {UnifiedCulture[]}
  */
-export function fromCodePacAll (code) {
-  return cpf.filter(
-    ({ cultures_pac }) => cultures_pac.some(culture => culture.code === code)
-  )
+export function fromCodePacAll (code, precision = null) {
+  return cpf.filter(({ cultures_pac }) => {
+    return cultures_pac.some(culture => {
+      return culture.code === code && culture.precision === (precision ?? '')
+    })
+  })
 }
 
 
@@ -154,9 +163,10 @@ export function createCpfResolver (cultures) {
    * 4. lists of all of the above (xx.yy.z1, xx.aa.*, zz.*)
    *
    * @param {String} selector
+   * @param {String?} precision
    * @returns {UnifiedCulture[]}
    */
-  return function cpfResolver (selector) {
+  return function cpfResolver (selector, precision = null) {
     const parts = selector.split(HAS_MANY_RE).map(maybeSelector => maybeSelector.trim())
     const hasGlob = selector.search(HAS_GLOB_RE) !== -1
     const strategyFn = hasGlob ? filterByGlob(parts) : filterByValues(parts)

@@ -13,35 +13,45 @@
 /**
  * @typedef PacCulture
  * @property {String} code
+ * @property {String} precision
  * @property {String} libelle
  * @property {Boolean} requires_precision
  */
 /**
  * @deprecated since version 1.4.0
  * @param {String} code
+ * @param {String?} precision
  * @returns {?UnifiedCulture}
  */
-export function fromCodePac(code: string): UnifiedCulture | null;
+export function fromCodePac(code: string, precision: string | null): UnifiedCulture | null;
 /**
  * @param {String} code
+ * @param {String} precision
  * @returns {?UnifiedCulture}
  */
-export function fromCodePacStrict(code: string): UnifiedCulture | null;
+export function fromCodePacStrict(code: string, precision: string): UnifiedCulture | null;
 /**
  * @param {String} code
+ * @param {String} precision
  * @returns {?UnifiedCulture}
  */
-export function fromCodePacFirst(code: string): UnifiedCulture | null;
+export function fromCodePacFirst(code: string, precision: string): UnifiedCulture | null;
 /**
  * @param {String} code
+ * @param {String?} precision
  * @returns {UnifiedCulture[]}
  */
-export function fromCodePacAll(code: string): UnifiedCulture[];
+export function fromCodePacAll(code: string, precision?: string | null): UnifiedCulture[];
 /**
  * @param {String} code
  * @returns {UnifiedCulture}
  */
 export function fromCodeCpf(code: string): UnifiedCulture;
+/**
+ * @param {String} code
+ * @returns {UnifiedCulture?}
+ */
+export function fromCodeGeofolia(code: string): UnifiedCulture | null;
 /**
  *
  * @param {String} code
@@ -74,6 +84,7 @@ export type UnifiedCulture = {
 };
 export type PacCulture = {
     code: string;
+    precision: string;
     libelle: string;
     requires_precision: boolean;
 };
