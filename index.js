@@ -40,7 +40,7 @@ export function fromCodePac (code, precision) {
 
 /**
  * @param {String} code
- * @param {String} precision
+ * @param {String=} precision
  * @returns {?UnifiedCulture}
  */
 export function fromCodePacStrict (code, precision) {
@@ -64,7 +64,7 @@ export function fromCodePacStrict (code, precision) {
 
 /**
  * @param {String} code
- * @param {String} precision
+ * @param {String=} precision
  * @returns {?UnifiedCulture}
  */
 export function fromCodePacFirst (code, precision) {
