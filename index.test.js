@@ -83,12 +83,16 @@ describe('fromCodePacFirstSelectable', () => {
   it('returns the first match', () => {
     deepEqual(fromCodePacFirst('ZZZ').code_cpf, "01.1") // Cultures non permanentes
     deepEqual(fromCodePacFirst('AGR').code_cpf, "01.23.11") // Pomelos et pamplemousses
+    deepEqual(fromCodePacFirst('VRG').code_cpf, "01.22") //
+    deepEqual(fromCodePacFirst('VRG', '001').code_cpf, "01.24.23") // Abricots
   })
 })
 
 describe('fromCodePacStrict', () => {
   it('returns returns the smallest full match', () => {
     deepEqual(fromCodePacStrict('AGR').code_cpf, "01.23.1") // Agrumes
+    deepEqual(fromCodePacStrict('VRG', '001').code_cpf, "01.24.23") // Abricots
+    deepEqual(fromCodePacStrict('VRG').code_cpf, "01.2")
   })
 
 
@@ -104,9 +108,24 @@ describe('fromCodePacStrict', () => {
 
 describe('fromCodePacAll', () => {
   it('returns all applicable cultures in all mode', () => {
+    const resolve = createCpfResolver(cultures)
+
     deepEqual(
       fromCodePacAll('AGR').map(({ code_cpf }) => code_cpf),
       ["01.23.11", "01.23.12", "01.23.13", "01.23.14", "01.23.19"]
+    )
+
+    const vrg_cultures = resolve('01.22*,01.23*,01.24*,01.25*,01.26*')
+    const expectation = Array.from(new Set(vrg_cultures.map(({ code_cpf }) => code_cpf)))
+
+    deepEqual(
+      fromCodePacAll('VRG').map(({ code_cpf }) => code_cpf),
+      expectation
+    )
+
+    deepEqual(
+      fromCodePacAll('VRG', '003').map(({ code_cpf }) => code_cpf),
+      ['01.24.10.1', '01.24.10.2']
     )
   })
 })
@@ -144,14 +163,15 @@ describe('data', () => {
     })
   })
 
-  it('should not contain any duplicate code_pac which does not require precision', () => {
+  it('should not contain any duplicate code_pac:precision which does not require precision', () => {
     const codePacSet = new Set()
     cultures.forEach(({ cultures_pac }) => {
-      cultures_pac.forEach(({ code, requires_precision }) => {
+      cultures_pac.forEach(({ code, precision, requires_precision }) => {
+        const key = `${code}:${precision}`
         if (requires_precision) return
 
-        ok(!codePacSet.has(code))
-        codePacSet.add(code)
+        ok(!codePacSet.has(key))
+        codePacSet.add(key)
       })
     })
   })
