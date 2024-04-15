@@ -84,6 +84,7 @@ describe('fromCodePacFirstSelectable', () => {
     deepEqual(fromCodePacFirst('ZZZ').code_cpf, "01.1") // Cultures non permanentes
     deepEqual(fromCodePacFirst('AGR').code_cpf, "01.23.11") // Pomelos et pamplemousses
     deepEqual(fromCodePacFirst('VRG').code_cpf, "01.22") //
+    deepEqual(fromCodePacFirst('VRG', null).code_cpf, "01.22") //
     deepEqual(fromCodePacFirst('VRG', '001').code_cpf, "01.24.23") // Abricots
   })
 })
@@ -93,6 +94,7 @@ describe('fromCodePacStrict', () => {
     deepEqual(fromCodePacStrict('AGR').code_cpf, "01.23.1") // Agrumes
     deepEqual(fromCodePacStrict('VRG', '001').code_cpf, "01.24.23") // Abricots
     deepEqual(fromCodePacStrict('VRG').code_cpf, "01.2")
+    deepEqual(fromCodePacStrict('VRG'), fromCodePacStrict('VRG', null))
   })
 
 
