@@ -17,9 +17,9 @@ const DESTINATION_FILE = join(here, '..', 'data', 'cpf.json')
 const DESTINATION_CEPAGES_FILE = join(here, '..', 'data', 'cepages.json')
 
 /**
- * @typedef {import('../index.js').UnifiedCulture} UnifiedCulture
- * @typedef {import('../index.js').PacCulture} PacCulture
- * @typedef {import('../cepages.js').} Cepage
+ * @typedef {import('../index').UnifiedCulture} UnifiedCulture
+ * @typedef {import('../index').PawcCulture} PacCulture
+ * @typedef {import('../cepages').} Cepage
  */
 
 /**
@@ -67,7 +67,7 @@ csvParser = createReadStream(CORRESPONDANCE_PAC_FILEPATH).pipe(parse({
 
 const resolve = createCpfResolver(Array.from(CPF.values()))
 
-for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_directe } of csvParser) {
+for await (const { code_pac, code_precision, lbl_pac, code_cpf, correspondance_directe } of csvParser) {
   const resolvedRecords = resolve(code_cpf)
 
   if (resolvedRecords.length === 0) {
@@ -80,6 +80,7 @@ for await (const { code_pac, lbl_pac, code_cpf, lbl_cpf, correspondance_directe 
    */
   const new_culture = {
     code: code_pac,
+    precision: code_precision ?? '',
     libelle: lbl_pac,
     requires_precision: toBoolean(correspondance_directe) === false
   }
