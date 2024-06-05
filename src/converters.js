@@ -1,9 +1,16 @@
 /**
  * Built with `npm run build`
  *
- * @type {Array.<CPFCulture>}
+ * @type {{
+ *   CPF: Array<CPFCulture>,
+ *   PAC: Array<PacCulture>
+ * }}
  */
 import cpf from '../data/cpf.json' with { type: 'json' }
+
+/**
+ * @typedef {import('../index.js').Cepage} Cepage
+ */
 
 /**
  * Built with `npm run build`
@@ -32,10 +39,11 @@ export function fromCodePac (code, precision) {
 
 /**
  * @param {CPFCulture?} culture
- * @return {UnifiedCulture|null|undefined}
+ * @return {UnifiedCulture|undefined|null}
  */
 export function attachPAC(culture) {
-  if (!culture) return culture
+  if (culture === null) return null
+  if (!culture) return
 
   return {
     ...culture,
@@ -131,7 +139,7 @@ export function fromCodeGeofolia (code) {
   }
 
   const cleanCode = code.trim().replace(/\s+/g, ' ')
-  return cpf.CPF.find(({ codes_geofolia }) => codes_geofolia.includes(cleanCode)) ?? null
+  return attachPAC(cpf.CPF.find(({ codes_geofolia }) => codes_geofolia.includes(cleanCode)) ?? null)
 }
 
 export function fromCepageCode (code) {

@@ -17,7 +17,7 @@ export * from './src/cepages.js'
 
 /**
  * @typedef {Omit<UnifiedCulture, 'cultures_pac'> & {
- *   cultures_pac: Array<[String, String]>
+ *   cultures_pac: Array<Array<string>>
  * }} CPFCulture
  */
 
