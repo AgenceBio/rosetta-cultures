@@ -30,7 +30,7 @@
   "scripts": {
     "build": "npm run build:json && npm run build:cjs && npm run build:types && echo '{\"type\":\"commonjs\"}' > ./dist/cjs/package.json",
     "build:json": "node bin/assemble.js",
-    "build:types": "tsc --declaration --emitDeclarationOnly",
+    "build:types": "tsc --declaration --emitDeclarationOnly ",
     "build:cjs": "tsc --esModuleInterop --CheckJs false --module commonjs --outDir dist/cjs",
     "prepublish": "npm run build",
     "test": "node --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=coverage.lcov --test-reporter=tap --test-reporter-destination=stdout",
