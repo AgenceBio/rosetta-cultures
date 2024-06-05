@@ -7,9 +7,9 @@ import {
   fromCodePacStrict,
   fromCodePacFirst,
   isOrganicProductionCode,
-  fromCodePacAll
+  fromCodePacAll, attachPAC
 } from './index.js'
-import cultures from './data/cpf.json' assert { type: 'json' };
+import data from './data/cpf.json' with { type: 'json' };
 
 /**
  * @type {UnifiedCulture}
@@ -30,6 +30,8 @@ const partialExpectation = {
     }
   ]
 }
+
+const cultures = data.CPF.map(attachPAC)
 
 describe('isOrganicProductionCode', () => {
   it('this is an organic production code', () => {
@@ -105,6 +107,10 @@ describe('fromCodePacStrict', () => {
     deepEqual(fromCodePacStrict('VRG'), fromCodePacStrict('VRG', null))
   })
 
+  it('works with non existent precision code', () => {
+    deepEqual(fromCodePacStrict('MCR').code_cpf, "01.11.49.31") // 	Mélanges Céréaliers (sans légumineuses)
+    deepEqual(fromCodePacStrict('MCR', '001').code_cpf, "01.11.49.31") // 	Mélanges Céréaliers (sans légumineuses)
+  })
 
   it('returns nothing for codes with no match', () => {
     deepEqual(fromCodePacStrict('ZZZ'), null)

@@ -3,8 +3,8 @@ import { createReadStream } from 'node:fs'
 import { writeFile } from 'node:fs/promises'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { createCpfResolver, isOrganicProductionCode, toBoolean } from '../index.js'
-import { cepageCategorieCpf } from '../cepages.js'
+import { createCpfResolver, isOrganicProductionCode, toBoolean } from '../src/resolvers.js'
+import { cepageCategorieCpf } from '../src/cepages.js'
 
 const here = dirname(fileURLToPath(new URL(import.meta.url)))
 
@@ -26,6 +26,7 @@ const DESTINATION_CEPAGES_FILE = join(here, '..', 'data', 'cepages.json')
  * @type {Map<String, UnifiedCulture>}
  */
 const CPF = new Map()
+const PAC = new Map()
 
 /**
  * @type {Map<String, Cepage>}
@@ -85,12 +86,14 @@ for await (const { code_pac, code_precision, lbl_pac, code_cpf, correspondance_d
     requires_precision: toBoolean(correspondance_directe) === false
   }
 
+  const code_with_precision = `${code_pac}:${code_precision}`
+  PAC.set(code_with_precision, new_culture)
   resolvedRecords.forEach(({ code_cpf }) => {
     const record = CPF.get(code_cpf)
     CPF.set(code_cpf, {
       ...record,
       // extension PAC
-      cultures_pac: Array.isArray(record.cultures_pac) ? [...record.cultures_pac, new_culture] : [new_culture]
+      cultures_pac: Array.isArray(record.cultures_pac) ? [...record.cultures_pac, [code_pac, code_precision]] : [[code_pac, code_precision]]
     })
   })
 }
@@ -176,5 +179,8 @@ for await (const { Code, Libellé, Couleur, Catégorie, Statut } of csvParser) {
 }
 
 // 99. Write
-await writeFile(DESTINATION_FILE, JSON.stringify(Array.from(CPF.values()), null, 2))
+await writeFile(DESTINATION_FILE, JSON.stringify({
+  "CPF": Array.from(CPF.values()),
+  "PAC": Array.from(PAC.values()),
+}, null, 2))
 await writeFile(DESTINATION_CEPAGES_FILE, JSON.stringify(Object.fromEntries(CEPAGES.entries()), null, 2))

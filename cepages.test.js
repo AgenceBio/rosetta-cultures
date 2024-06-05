@@ -1,8 +1,7 @@
 import { describe, it } from 'node:test'
-import { ok, deepEqual } from 'node:assert/strict'
+import { deepEqual } from 'node:assert/strict'
 import { CepageCouleur, fromCepageCode } from './cepages.js'
 
-import cepages from './data/cepages.json' assert { type: 'json' }
 
 describe('fromCepageCode()', () => {
   it('should return null when code is not found', () => {
