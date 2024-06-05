@@ -11,7 +11,9 @@
     "LICENSE",
     "data/*.json",
     "dist/**/*",
-    "README.md"
+    "README.md",
+    "src/*.js",
+    "src/*.d.ts"
   ],
   "engines": {
     "node": ">= 20.11.0"
