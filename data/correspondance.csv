@@ -1,497 +1,497 @@
-code_pac,code_precision,lbl_pac,code_cpf,lbl_cpf,correspondance_directe,,Codes non présents dans la CPFBIO
-ACA,,Autre culture non précisée dans la liste (admissible),*,,0,,"01.11.61,01.11.69.9"
-AGR,,Agrume,"01.23.11,01.23.12,01.23.13,01.23.14,01.23.19","Pomelos et pamplemousses,Citrons et limes,Oranges,Mandarines et clémentines,Autres agrumes",0,,"01.13.14,01.13.19.81,01.13.19.82"
-AIL,,Aïl,01.13.42,Ail,1,,"01.13.15,01.13.19.1,01.13.19.84"
-ANA,,Ananas,01.22.19.1,Ananas,1,,"01.13.19.2,01.13.49.3"
-ANE,,Aneth,01.28.19.26,Aneth,1,,"01.13.19.6,01.13.49.2"
-ANG,,Angélique,01.28.30.48,Angélique,1,,"01.13.2*,01.13.3*"
-ANI,,Anis,01.28.14.31,Anis,1,,"01.13.39.2,01.13.39.3"
-ARA,,Arachide,01.11.82,"Arachides, en coque",1,,"01.13.49.9,01.13.54,01.13.52"
-ART,,Artichaut,01.13.17,Artichauts,1,,"01.13.71,01.19.10.2,01.13.49.2"
-AUB,,Aubergine,01.13.33,Aubergines,1,,"01.13*,01.22*,01.23*,01.24*,01.25*,01.26*"
-AVH,,Avoine d’hiver,01.11.33,Avoine,1,,"01.19.10.13,01.95.11"
-AVO,,Avocat,01.22.11,Avocats,1,,"01.19.10.9,01.13.49.6"
-AVP,,Avoine de printemps,01.11.33,Avoine,1,,"01.22*,01.23*,01.24*,01.25*,01.26*"
-BAR,,Bardane,01.28.30.33,Bardane,1,,"01.23.11,01.23.12,01.23.13,01.23.14,01.23.19"
-BAS,,Basilic,01.28.19.27,Basilic,1,,"01.24.10.1,01.24.10.2"
-BCA,,Banane créole (fruit et légume) - autre,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.25.19.2,01.25.19.9"
-BCF,,Banane créole (fruit et légume) - fermage,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.25.19.5,01.25.19.4,01.25.19.9"
-BCI,,Banane créole (fruit et légume) - indivision,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.27.11,01.27.14"
-BCP,,Banane créole (fruit et légume) - propriété ou faire valoir direct,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.28.14.9,01.28.19.44,01.28.19.29"
-BCR,,Banane créole (fruit et légume) - réforme foncière,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.28.14.9,01.28.19.47,01.28.14.1"
-BDH,,Blé dur d’hiver,01.11.11,Blé dur,1,,"01.28.19.23,01.28.30.81,01.28.00.99"
-BDP,,Blé dur de printemps,01.11.11,Blé dur,1,,"01.28.19.26,01.28.14.31"
-BDT,,Blé dur de printemps semé tardivement (après le 31/05),01.11.11,Blé dur,1,,"01.28.19.31,01.28.19.32"
-BEA,,Banane export - autre,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.28.19.42,01.28.30.2"
-BEF,,Banane export - fermage,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.28.19.48,01.28.00.99"
-BEI,,Banane export - indivision,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.28.30.11,01.28.30.13"
-BEP,,Banane export - propriété ou faire valoir direct,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.28.30.2,01.28.19.42"
-BER,,Banane export - réforme foncière,01.22.12,"Bananes, bananes plantains et assimilés",1,,"01.28.30.33,01.28.30.34"
-BFP,,Bande admissible le long d’une forêt avec production,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,"01.28.30.38,01.28.30.39"
-BFS,,Bande admissible le long d’une forêt sans production,01.99,Autres surfaces non productive et surfaces non agricoles,1,,"01.28.30.43,01.28.30.71,01.28.00.99"
-BLT,,Bleuet,01.28.30.34,Bleuet,1,,"01.28.30.49,01.28.19.28"
-BOP,,Bois pâturé,01.95.11,Bois pâturés et parcours ligneux,1,,"01.28.30.81,01.28.19.23"
-BOR,,Bordure de champ,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,"01.28.30.82,01.28.30.83"
-BRH,,Bourrache de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-BRO,,Brome de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-BTA,,Bande tampon,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
-BTH,,Blé tendre d’hiver,01.11.12,Blé tendre,1,,
-BTN,,Betterave non fourragère / Bette,"01.13.19.6,01.13.49.2","Blettes, Betteraves rouges et à salade",0,,
-BTN,001,Betterave à sucre,01.13.71,Betteraves à sucre,1,,
-BTN,002,Betterave fourragère,01.19.10.2,Betterave fourragère,1,,
-BTN,003,Betterave potagère,01.13.49.2,Betteraves rouges et à salade,1,,
-BTN,004,Autre betterave,"01.13.71,01.19.10.2,01.13.49.2",,0,,
-BTP,,Blé tendre de printemps,01.11.12,Blé tendre,1,,
-BUR,,Bugle rampante,01.28.30.35,Bugle rampant,1,,
-BVF,,Betterave fourragère,01.19.10.2,Betterave fourragère,1,,
-CAB,,Caroube,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-CAC,,Café / Cacao,"01.27.11,01.27.14","Café vert, en cerise ou en grain,Cacao en fèves",0,,
-CAC,001,Café,01.27.11,"Café vert, en cerise ou en grain",1,,
-CAC,002,Cacao,01.27.14,Cacao en fèves,1,,
-CAE,,Châtaigneraie entretenue par des porcins ou des petits ruminants,01.95.11,Bois pâturés et parcours ligneux,1,,
-CAF,,Carotte fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-CAG,,Autre céréale d’un autre genre,01.11.49.9,Autres céréales,1,,
-CAR,,Carotte,01.13.41.1,Carottes,1,,
-CAR,001,Carotte potagère,01.13.41.1,Carottes,1,,
-CAR,002,Carotte fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-CAR,003,Carotte Terrapur,01.93,Engrais vert,1,,
-CAV,,Carvi,01.28.14.9,"Cumin, carvi et genièvre, bruts",1,,
-CBT,,Cerise bigarreau pour transformation,01.24.24,Cerises,1,,
-CCN,,Concombre / Cornichon,01.13.32,Concombres et cornichons,1,,
-CCN,001,"Concombre, Cornichon",01.13.32,Concombres et cornichons,1,,
-CCN,002,Courgette,01.13.39.2,Courgettes,1,,
-CCT,,Courgette / Citrouille,"01.13.39.2,01.13.39.3","Courgettes,Courges et citrouilles",0,,
-CEE,,Chênaie entretenue par des porcins ou des petits ruminants,01.95.11,Bois pâturés et parcours ligneux,1,,
-CEL,,Céleri,"01.13.19.2,01.13.49.3","Céleris branche,Céleris raves",0,,
-CES,,Chicorée / Endive / Scarole,"01.13.15,01.13.19.1,01.13.19.84","Chicorées,Endives,Scaroles",0,,
-CGF,,Autre céréale de genre Fagopyrum,01.11.49.2,Sarrasin,1,,
-CGH,,Autre céréale de genre Phalaris,01.11.49.9,Autres céréales,1,,
-CGO,,Autre céréale de genre Sorghum,01.11.41,Sorgho,1,,
-CGP,,Autre céréale de genre Panicum,01.11.49.9,Autres céréales,1,,
-CGS,,Autre céréale de genre Setaria,01.11.49.9,Autres céréales,1,,
-CHA,,Autre céréale d’hiver de genre Avena,01.11.33,Avoine,1,,
-CHF,,Chou fourrager,01.19.10.3,Choux fourrager,1,,
-CHH,,Autre céréale d’hiver de genre Hordeum,01.11.31,Orges,1,,
-CHR,,Chardon Marie,01.28.30.49,Chardon Marie,1,,
-CHS,,Autre céréale d’hiver de genre Secale,01.11.32,Seigle,1,,
-CHT,,Autre céréale d’hiver de genre Triticum,01.11.49.9,Autres céréales,1,,
-CHU,,Chou,01.13.12,Choux,1,,
-CHU,001,Chou potager,01.13.12,Choux,1,,
-CHU,002,Chou fourrager,01.19.10.3,Choux fourrager,1,,
-CHV,,Chanvre,01.16.19.2,Chanvre,1,,
-CIB,,Ciboulette,01.28.19.44,Ciboulette,1,,
-CID,,Cultures conduites en interrangs : 2 cultures représentant chacune plus de 25%,*,,0,,
-CIT,,Cultures conduites en interrangs : 3 cultures représentant chacune plus de 25%,*,,0,,
-CMB,,Courge musquée / Butternut,01.13.39.3,Courges et citrouilles,1,,
-CML,,Cameline,01.11.99.1,Cameline,1,,
-CMM,,Camomille,01.28.19.28,Camomille romaine,1,,
-CNE,,Chênaie non entretenue par des porcins ou des petits ruminants,01.95.19,"Bois non pâturés, sans cueillette",1,,
-CPA,,Autre céréale de printemps de genre Avena,01.11.33,Avoine,1,,
-CPH,,Autre céréale de printemps de genre Hordeum,01.11.31,Orges,1,,
-CPL,,"Mélange multi-espèces (céréales, oléagineux, légumineuses, …) sans graminées prairiales et sans prédominance de légumineuses",01.11.49.31,Mélanges Céréaliers (sans légumineuses),1,,
-CPS,,Autre céréale de printemps de genre Secale,01.11.32,Seigle,1,,
-CPT,,Autre céréale de printemps de genre Triticum,01.11.49.9,Autres céréales,1,,
-CPZ,,Autre céréale de printemps de genre Zea,01.11.49.9,Autres céréales,1,,
-CRA,,Cresson alénois de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-CRD,,Coriandre,01.28.14.1,Coriandre (graines),1,,
-CRF,,Cerfeuil,01.28.19.29,Cerfeuil,1,,
-CRN,,Cornille,01.11.76,"Dolique à œil noir (pois du brésil, niébé)",1,,
-CRS,,Cresson,01.13.19.4,Cresson,1,,
-CSA,,Canne à sucre - autre,01.14.1,Cannes à sucre,1,,
-CSE,,Chanvre sans étiquette conforme,01.16.19.2,Chanvre,1,,
-CSF,,Canne à sucre - fermage,01.14.1,Cannes à sucre,1,,
-CSI,,Canne à sucre - indivision,01.14.1,Cannes à sucre,1,,
-CSP,,Canne à sucre - propriété ou faire valoir direct,01.14.1,Cannes à sucre,1,,
-CSR,,Canne à sucre - réforme foncière,01.14.1,Cannes à sucre,1,,
-CSS,,Culture sous serre hors sol,*,,0,,
-CTG,,Châtaigne,01.25.32,Châtaignes et marrons,1,,
-CUA,,Culture sous abattis,*,,0,,
-CUM,,Cumin,01.28.14.9,"Cumin, carvi et genièvre, bruts",1,,
-CUR,,Curcuma,01.28.19.51,Curcuma,1,,
-CZH,,Colza d’hiver,01.11.93,Colza,1,,
-CZP,,Colza de printemps,01.11.93,Colza,1,,
-DOL,,Dolique,01.11.76,"Dolique à œil noir (pois du brésil, niébé)",1,,
-DTY,,Dactyle de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-EPE,,Épeautre,01.11.49.1,Epeautre,1,,
-EPI,,Épinard,01.13.16,Épinards,1,,
-EPI,001,Epinard,01.13.16,Épinards,1,,
-EPI,002,Oseille,01.28.19.46,Oseille,1,,
-EPI,003,Bette,01.13.19.6,Blettes,1,,
-EST,,Estragon,01.28.19.45,Estragon,1,,
-FAG,,Autre fourrage annuel d’un autre genre,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-FET,,Fétuque de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-FEV,,Fève,01.11.69.2,Fèves (fraîches),1,,
-FF5,,Féverole fourragère implantée pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-FF6,,Féverole fourragère implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-FF7,,Féverole fourragère implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-FF8,,Féverole fourragère implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-FFO,,Autre féverole fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-FLA,,Autre légume ou fruit annuel,01.13*,,0,,
-FLA,001,Autre fruit,"01.13.2*,01.13.3*",,0,,
-FLA,002,Autre légume frais,01.13*,,0,,
-FLA,003,Champignon (culture de plein champ),01.13.80.1,Champignons,1,,
-FLO,,Fléole de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-FLP,,Autre légume ou fruit pérenne,"01.13*,01.22*,01.23*,01.24*,01.25*,01.26*",,0,,
-FLP,001,Asperge,01.13.11,Asperges,1,,
-FLP,002,Rhubarbe,01.13.19.5,Rhubarbe,1,,
-FLP,003,Autre fruit pérenne,"01.22*,01.23*,01.24*,01.25*,01.26*",,0,,
-FLP,004,Autre légume pérenne,01.13*,,0,,
-FNO,,Fenouil,01.28.14.2,Fenouil doux et amer,1,,
-FNU,,Fenugrec,01.28.19.41,Fenugrec,1,,
-FRA,,Fraise,01.25.13,Fraises,1,,
-FSG,,Autre plante fourragère sarclée d’un autre genre,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-FVL,,Féverole semée avant le 31/05,01.11.72,"Fèves, sèches (yc féveroles)",1,,
-FVT,,Féverole semée tardivement (après le 31/05),01.11.72,"Fèves, sèches (yc féveroles)",1,,
-GAI,,Gaillet,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-GER,,Géranium,01.28.30.36,Géranium,1,,
-GES,,Gesse,01.11.79.9,Autres légumes secs,1,,
-GFP,,Autre graminée fourragère pure de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-HAR,,Haricot / Flageolet,01.11.71,"Haricots, secs",1,,
-HBL,,Houblon,01.28.2,Houblon en cônes,1,,
-HPC,,Horticulture ornementale de plein champ,01.19.21,Fleurs coupées et boutons de fleurs,1,,
-HSA,,Horticulture ornementale sous abri,01.19.21,Fleurs coupées et boutons de fleurs,1,,
-J5M,,Jachère de 5 ans ou moins,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
-J6P,,Jachère de 6 ans ou plus,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
-J6S,,Jachère de 6 ans ou plus déclarée comme Surface d’intérêt écologique,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
-JNO,,Jachère noire,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
-JO5,,Jarosse implantée pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-JO6,,Jarosse implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-JO7,,Jarosse implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-JO8,,Jarosse implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-JOD,,Jarosse déshydratée,01.11.79.9,Autres légumes secs,1,,
-JOS,,Autre jarosse,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LAV,,Lavande / Lavandin,"01.28.30.11,01.28.30.13","Lavande,Lavandin",0,,
-LAV,001,Lavande,01.28.30.11,Lavande,1,,
-LAV,002,Lavandin,01.28.30.12,Lavandin,1,,
-LBF,,Laitue / Batavia / Feuille de chêne,"01.13.14,01.13.19.81,01.13.19.82","Laitues,Feuilles de chêne,Batavia",0,,
-LBF,001,Endive,01.13.19.1,Endives,1,,
-LBF,002,Laitue,01.13.14,Laitues,1,,
-LBF,003,Mâche,01.13.19.83,Mâches,1,,
-LBF,004,Autres salades,01.13.19.8*,,0,,
-LDH,,Lupin doux d’hiver,01.11.79.1,Lupin,1,,
-LDP,,Lupin doux de printemps semé avant le 31/05,01.11.79.1,Lupin,1,,
-LDT,,Lupin doux de printemps semé tardivement (après le 31/05),01.11.79.1,Lupin,1,,
-LEC,,Lentille cultivée (non fourragère),01.11.74,"Lentilles, sèches",1,,
-LEF,,Lentille fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LFH,,Autre lupin fourrager d’hiver,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LFP,,Autre lupin fourrager de printemps,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LH5,,Lupin fourrager d’hiver implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LH6,,Lupin fourrager d’hiver implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LH7,,Lupin fourrager d’hiver implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LH8,,Lupin fourrager d'hiver implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LIF,,Lin fibres,01.16.19.1,Lin fibre,1,,
-LIH,,Lin non textile d’hiver,01.11.91,Lin (graines),1,,
-LIP,,Lin non textile de printemps,01.11.91,Lin (graines),1,,
-LO7,,Lotier implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LO8,,Lotier implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LOT,,Lotier,01.11.79.9,Autres légumes secs,1,,
-LP5,,Lupin fourrager de printemps implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LP6,,Lupin fourrager de printemps implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LP7,,Lupin fourrager de printemps implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LP8,,Lupin fourrager de printemps implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-LSA,,Légume sous abri,01.13.90.1,Légumes frais sous abris,1,,
-LU5,,Luzerne implantée pour la récolte 2015,01.19.10.8,Luzerne,1,,
-LU6,,Luzerne implantée pour la récolte 2016,01.19.10.8,Luzerne,1,,
-LU7,,Luzerne implantée pour la récolte 2017,01.19.10.8,Luzerne,1,,
-LU8,,Luzerne implantée pour la récolte 2018,01.19.10.8,Luzerne,1,,
-LUD,,Luzerne déshydratée,01.19.10.8,Luzerne,1,,
-LUZ,,Autre luzerne,01.19.10.8,Luzerne,1,,
-MAC,,Mâche,01.13.19.83,Mâches,1,,
-MAV,,Mauve,01.28.30.43,Mauve,1,,
-MC5,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2015 et de céréales,01.19.10.6,Mélanges fourragers,1,,
-MC6,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2016 et de céréales,01.19.10.6,Mélanges fourragers,1,,
-MC7,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2017 et de céréales,01.19.10.6,Mélanges fourragers,1,,
-MC8,,Mélange de légumineuses fourragères prépondérantes implantées pour la récolte 2018 et de céréales et d’oléagineux,01.19.10.6,Mélanges fourragers,1,,
-MCR,,Mélange de céréales,01.11.49.31,Mélanges Céréaliers (sans légumineuses),1,,
-MCT,,Miscanthus,01.29.00.91,Miscanthus,1,,
-ME5,,Mélilot implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-ME6,,Mélilot implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-ME7,,Mélilot implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-ME8,,Mélilot implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-MED,,Mélilot déshydraté,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-MEL,,Autre mélilot,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-MH5,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2015 et d’herbacées ou de graminées fourragères,01.19.10.6,Mélanges fourragers,1,,
-MH6,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2016 et d’herbacées ou de graminées fourragères,01.19.10.6,Mélanges fourragers,1,,
-MH7,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2017 et d’herbacées ou de graminées fourragères,01.19.10.6,Mélanges fourragers,1,,
-MI7,,Minette implanté pour la récolte 2017,01.19.10.8,Luzerne,1,,
-MI8,,Minette implanté pour la récolte 2018,01.19.10.8,Luzerne,1,,
-MID,,Maïs doux,01.11.20.1,Maïs doux,1,,
-MIE,,Maïs ensilage,01.19.10.5,Maïs fourrager,1,,
-MIN,,Minette,01.19.10.8,Luzerne,1,,
-MIS,,Maïs (hors maïs doux),01.11.20.2,Maïs grain (hors maïs doux),1,,
-MIS,002,Maïs (hors maïs doux),01.19.10.5,Maïs fourrager,1,,
-ML5,,Mélange de légumineuses fourragères implantées pour la récolte 2015 (entre elles),01.19.10.6,Mélanges fourragers,1,,
-ML6,,Mélange de légumineuses fourragères implantées pour la récolte 2016 (entre elles),01.19.10.6,Mélanges fourragers,1,,
-ML7,,Mélange de légumineuses fourragères implantées pour la récolte 2017 (entre elles),01.19.10.6,Mélanges fourragers,1,,
-ML8,,Mélange de légumineuses fourragères implantées pour la récolte 2018 (entre elles),01.19.10.6,Mélanges fourragers,1,,
-MLC,,Mélange de légumineuses fourragères prépondérantes et de céréales et/ou d’oléagineux,01.19.10.6,Mélanges fourragers,1,,
-MLD,,Mélange de légumineuses déshydratées (entre elles),01.11.79,"Légumes à cosse, secs n.c.a.",1,,
-MLF,,Mélange de légumineuses fourragères (entre elles),01.19.10.6,Mélanges fourragers,1,,
-MLG,,Mélange de légumineuses prépondérantes au semis et de graminées fourragères de 5 ans ou moins,01.19.10.6,Mélanges fourragers,1,,
-MLI,,Mélisse,01.28.30.6,Mélisse,1,,
-MLO,,Melon,01.13.29.1,Melons,1,,
-MLO,001,Melon,01.13.29.1,Melons,1,,
-MLO,002,Pastèque,01.13.21,Pastèques,1,,
-MLP,,Millepertuis,01.28.30.71,Millepertuis,1,,
-MLS,,Mélange de légumineuses non fourragères prépondérantes et de céréales et/ou d'oléagineux,01.11.49.32,Mélanges Céréales-légumineuses,1,,
-MLT,,Millet,01.11.42,Millet,1,,
-MOH,,Moha,01.11.49.9,Autres céréales,1,,
-MOL,,Mélange d’oléagineux,01.11.99.9,Autres oléagineux n.c.a.,1,,
-MOT,,Moutarde,01.11.92,Moutarde (graines),1,,
-MPA,,Autre mélange de plantes fixant l’azote,01.93,Engrais vert,1,,
-MPC,,Mélange de protéagineux (pois et/ou lupin et/ou féverole) prépondérants semés avant le 31/05 et de céréales,01.11.49.32,Mélanges Céréales-légumineuses,1,,
-MPP,,Mélange de protéagineux (pois et/ou lupin et/ou féverole),01.11.49.32,Mélanges Céréales-légumineuses,1,,
-MPT,,Mélange de protéagineux semés tardivement (après le 31/05),01.11.49.32,Mélanges Céréales-légumineuses,1,,
-MRG,,Marguerite,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-MRJ,,Marjolaine / Origan,"01.28.30.2,01.28.19.42","Marjolaine,Origans",0,,
-MRS,,Marais salant,08.93.1,Sel de mer,1,,
-MTH,,Menthe,01.28.19.3,Menthe,1,,
-NOS,,Noisette,01.25.33,Noisettes,1,,
-NOX,,Noix,01.25.35,Noix,1,,
-NVE,,Navette d’été,01.11.93,Colza,1,,
-NVF,,Navet fourrager,01.19.10.4,Colza fourrager,1,,
-NVH,,Navette d’hiver,01.11.93,Colza,1,,
-NVT,,Navet,01.13.41.2,Navets,1,,
-NVT,001,Navet potager,01.13.41.2,Navets,1,,
-NVT,002,"Navet fourrager, Rutabaga, Chou navet","01.19.10.9,01.13.49.6",,0,,
-NVT,003,Salsifis,01.13.49.5,Salsifis,1,,
-NVT,004,Panais,01.13.49.4,Panais,1,,
-NVT,005,Topinambour,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1,,
-NVT,006,Autre légume racine annuel,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1,,
-NYG,,Nyger,01.11.99.9,Autres oléagineux n.c.a.,1,,
-OAG,,Autre oléagineux d’un autre genre,01.11.99.9,Autres oléagineux n.c.a.,1,,
-OEH,,Autre oléagineux d’espèce Helianthus,01.11.99.9,Autres oléagineux n.c.a.,1,,
-OEI,,Œillette,01.11.99.9,Autres oléagineux n.c.a.,1,,
-OHN,,Autre oléagineux d’hiver d’espèce Brassica napus,01.11.99.9,Autres oléagineux n.c.a.,1,,
-OHR,,Autre oléagineux d’hiver d’espèce Brassica rapa,01.11.99.9,Autres oléagineux n.c.a.,1,,
-OIG,,Oignon / Échalote,01.13.43,"Oignons, échalotes",1,,
-OIG,001,Oignon,01.13.43.1,Oignons,1,,
-OIG,002,Echalote,01.13.43.2,Echalotes,1,,
-OLI,,Oliveraie,01.26.1,Olives,1,,
-OPN,,Autre oléagineux de printemps d’espèce Brassica napus,01.11.99.9,Autres oléagineux n.c.a.,1,,
-OPR,,Autre oléagineux de printemps d’espèce Brassica rapa,01.11.99.9,Autres oléagineux n.c.a.,1,,
-ORH,,Orge d'hiver,01.11.31,Orges,1,,
-ORP,,Orge de printemps,01.11.31,Orges,1,,
-ORT,,Ortie,01.28.30.37,Ortie,1,,
-OSE,,Oseille,01.28.19.46,Oseille,1,,
-PAG,,Autre protéagineux d’un autre genre,01.11.79.9,Autres légumes secs,1,,
-PAN,,Panais,01.13.49.4,Panais,1,,
-PAQ,,Pâquerette,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PAR,,Plante aromatique (autre que vanille),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PAS,,Pastèque,01.13.21,Pastèques,1,,
-PAT,,Pâturin commun de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-PCH,,Pois chiche,01.11.73,"Pois chiches, secs",1,,
-PCL,,Phacélie de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-PEP,,Pépinière,01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",1,,
-PFH,,Autre pois fourrager d’hiver,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PFP,,Autre pois fourrager de printemps,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PFR,,Petit fruit rouge,01.25.19.9,Autres baies (hors cassis et myrtilles),1,,
-PFR,001,"Myrtille, mûre","01.25.19.2,01.25.19.9",,0,,
-PFR,002,Framboise,01.25.12,Framboises,1,,
-PFR,003,"Groseille, canneberge","01.25.19.5,01.25.19.4,01.25.19.9",,0,,
-PFR,004,Argousier,01.25.19.9,Autres baies (hors cassis et myrtilles),1,,
-PFR,005,Baie de goji,01.25.19.9,Autres baies (hors cassis et myrtilles),1,,
-PFR,006,Cassis fruit,01.25.19.1,Cassis,1,,
-PFR,007,Cassis feuille,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PH5,,Pois fourrager d’hiver implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PH6,,Pois fourrager d’hiver implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PH7,,Pois fourrager d’hiver implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PH8,,Pois fourrager d’hiver implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PHI,,Pois d’hiver,01.11.75,"Pois, secs",1,,
-PIS,,Pistache,01.25.34,Pistaches,1,,
-PMD,,Plante médicinale,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PMV,,Primevère,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-POR,,Poireau,01.13.44,Poireaux et autres alliacés,1,,
-POT,,Potiron / Potimarron,01.13.39.32,Potiron / Potimarron,1,,
-POT,001,Potiron,01.13.39.32,Potiron / Potimarron,1,,
-POT,002,Citrouille,01.13.39.3,Courges et citrouilles,1,,
-POT,003,Autres courges,01.13.39.3,Courges et citrouilles,1,,
-PP5,,Pois fourrager de printemps implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PP6,,Pois fourrager de printemps implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PP7,,Pois fourrager de printemps implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PP8,,Pois fourrager de printemps implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-PPA,,"Autre plante à parfum, aromatique et médicinale annuelle",01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PPF,,Plante à parfum (autre que géranium et vétiver),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PPH,,Prairie permanente - herbe prédominante (ressources fourragères ligneuses absentes ou peu présentes),01.19.10.12,Prairie permanente,1,,
-PPH,001,Prairie essentiellement de fauche,01.19.10.12,Prairie permanente,1,,
-PPH,002,Prairie essentiellement pâturée,01.19.10.12,Prairie permanente,1,,
-PPH,003,Prairie avec engagement MAEC souscrit avant 2023 et anciennement déclarée PRL,01.19.10.12,Prairie permanente,1,,
-PPH,004,Prairie fauchée et pâturée,01.19.10.12,Prairie permanente,1,,
-PPO,,Petits pois,01.11.69.1,Petit pois,1,,
-PPP,,"Autre plante à parfum, aromatique et médicinale pérenne",01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PPR,,Pois de printemps semé avant le 31/05,01.11.75,"Pois, secs",1,,
-PPT,,Pois de printemps semé tardivement (après le 31/05),01.11.75,"Pois, secs",1,,
-PRL,,Prairie en rotation longue (6 ans ou plus),01.19.10.12,Prairie permanente,1,,
-PRU,,"Prune (y compris mirabelle, quetsche, reine-claude, …)",01.24.27,Prunes,1,,
-PSE,,Pensée,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PSL,,Persil,01.28.19.43,Persil,1,,
-PSN,,Psyllium noir de Provence,01.28.30.38,Psyllium noir de Provence,1,,
-PSY,,Plantain psyllium,01.28.30.39,Plantain psyllium,1,,
-PTC,,Pomme de terre de consommation,01.13.51.1,Pommes de terre (hors féculière),1,,
-PTC,001,Pomme de terre de consommation,01.13.51.1,Pommes de terre (hors féculière),1,,
-PTC,002,Pomme de terre féculière,01.13.51.2,Pommes de terre féculière,1,,
-PTF,,Pomme de terre féculière,01.13.51.2,Pommes de terre féculière,1,,
-PTR,,Autre prairie temporaire de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-PVP,,Poivron / Piment,01.13.31,"Piments et poivrons, verts (uniquement capsicum)",1,,
-PVP,001,Poivron,01.13.31,"Piments et poivrons, verts (uniquement capsicum)",1,,
-PVP,002,Piment,01.13.31,"Piments et poivrons, verts (uniquement capsicum)",1,,
-PVP,003,Aubergine,01.13.33,Aubergines,1,,
-PVT,,"Pêche (y/c nectarine, brugnon)",01.24.25,Pêches,1,,
-PWT,,Poire,01.24.21,Poires,1,,
-RDF,,Radis fourrager,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-RDI,,Radis,01.13.49.1,Radis,1,,
-RDI,001,Radis potager,01.13.49.1,Radis,1,,
-RDI,002,Radis fourrager,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-RGA,,Ray-grass de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-RIZ,,Riz,01.12,"Riz, non décortiqué",1,,
-ROM,,Romarin,01.28.19.21,Romarin,1,,
-ROQ,,Roquette,01.13.19.89,Autres salades,1,,
-ROS,,Roselière,01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",1,,
-RUT,,Rutabaga,01.13.49.6,Rutabagas,1,,
-RVI,,Restructuration du vignoble,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
-SA5,,Sainfoin implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SA6,,Sainfoin implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SA7,,Sainfoin implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SA8,,Sainfoin implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SAD,,Sainfoin déshydraté,01.11.79.9,Autres légumes secs,1,,
-SAI,,Autre sainfoin,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SBO,,Surface boisée sur une ancienne terre agricole,01.95.19,"Bois non pâturés, sans cueillette",1,,
-SE5,,Serradelle implantée pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SE6,,Serradelle implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SE7,,Serradelle implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SE8,,Serradelle implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SED,,Serradelle déshydratée,01.11.79.9,Autres légumes secs,1,,
-SER,,Autre serradelle,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-SFI,,Salsifis,01.13.49.5,Salsifis,1,,
-SGE,,Sauge,"01.28.19.23,01.28.30.81,01.28.00.99","Sauge sclarée,Sauge officinale,Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",0,,
-SGH,,Seigle d’hiver,01.11.32,Seigle,1,,
-SGP,,Seigle de printemps,01.11.32,Seigle,1,,
-SNA,,Surface non agricole non visible sur l’orthophotographie,01.99,Autres surfaces non productive (yc bordures et bandes tampon),1,,
-SNE,,Surface agricole temporairement non exploitée,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
-SNE,001,"Dépôt temporaire (fumier, stockage de fourrage, …)",01.99,Autres surfaces non productive (yc bordures et bandes tampon),1,,
-SNE,002,"Sol nu (pas de culture implantée, repousses ne respectant pas les conditions des jachères, …)",01.99,Autres surfaces non productive (yc bordures et bandes tampon),1,,
-SNE,003,"Utilisation temporairement non agricole (travaux, parking temporaire longue durée, …)",01.99,Autres surfaces non productive (yc bordures et bandes tampon),1,,
-SNE,004,Culture de sapins de Noël,01.29.2,Sapins et arbres de Noël coupés,1,,
-SNE,005,Autre,01.99,Autres surfaces non productive (yc bordures et bandes tampon),1,,
-SOG,,Sorgho,01.11.41,Sorgho,1,,
-SOJ,,Soja,01.11.81,Fèves de soja,1,,
-SPH,,Surface pastorale - herbe prédominante et ressources fourragères ligneuses présentes,01.19.10.13,Parcours herbeux (hors estives collectives),1,,
-SPL,,Surface pastorale - ressources fourragères ligneuses prédominantes,01.95.11,Bois pâturés et parcours ligneux,1,,
-SRI,,Sarriette,01.28.19.1,Sarriette,1,,
-SRS,,Sarrasin,01.11.49.2,Sarrasin,1,,
-TAB,,Tabac,01.15.1,Tabac brut,1,,
-TBT,,Tubercule tropical,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1,,
-TBT,001,Igname,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1,,
-TBT,002,Curcuma,01.28.19.51,Curcuma,1,,
-TBT,003,Gingembre,01.28.17,"Gingembre séché, brut",1,,
-TBT,004,"Autres tubercules (taro/dachine, patate douce, arrow-root, …)","01.13.49.9,01.13.54,01.13.52",,0,,
-TCR,,Taillis à courte rotation,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
-THY,,Thym,01.28.19.25,Thym,1,,
-TOM,,Tomate,01.13.34,Tomates,1,,
-TOP,,Topinambour,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1,,
-TOT,,Tomate pour transformation,01.13.34,Tomates,1,,
-TR5,,Trèfle implanté pour la récolte 2015,01.19.10.7,Trèfle,1,,
-TR6,,Trèfle implanté pour la récolte 2016,01.19.10.7,Trèfle,1,,
-TR7,,Trèfle implanté pour la récolte 2017,01.19.10.7,Trèfle,1,,
-TR8,,Trèfle implanté pour la récolte 2018,01.19.10.7,Trèfle,1,,
-TRD,,Trèfle déshydraté,01.11.79.9,Autres légumes secs,1,,
-TRE,,Autre trèfle,01.19.10.7,Trèfle,1,,
-TRN,,Tournesol,01.11.95,Tournesol,1,,
-TRU,,Truffière (chênaie de plants mycorhizés),01.13.80.2,Truffes,1,,
-TTH,,Triticale d’hiver,01.11.43,Triticale,1,,
-TTP,,Triticale de printemps,01.11.43,Triticale,1,,
-VAL,,Valériane,01.28.30.44,Valériane,1,,
-VE5,,Vesce implantée pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-VE6,,Vesce implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-VE7,,Vesce implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-VE8,,Vesce implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-VED,,Vesce déshydratée,01.11.79.9,Autres légumes secs,1,,
-VER,,Véronique,01.28.30.45,Véronique,1,,
-VES,,Autre vesce,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-VET,,Vétiver,01.28.30.46,Vétiver,1,,
-VGD,,Verger (DOM),"01.22*,01.23*,01.24*,01.25*,01.26*",,0,,
-VNB,,Vanille sous bois,01.28.18,"Vanille, brute",1,,
-VNL,,Vanille,01.28.18,"Vanille, brute",1,,
-VNV,,Vanille verte,01.28.18,"Vanille, brute",1,,
-VRC,,Vigne : raisins de cuve,01.21.12,Raisin de cuve,1,,
-VRC,001,Raisin de cuve,01.21.12,Raisin de cuve,1,,
-VRC,002,Raisin de table,01.21.11,Raisin de table,1,,
-VRC,003,Vigne sans production,01.21.12,Raisin de cuve,1,,
-VRG,,Verger,"01.22*,01.23*,01.24*,01.25*,01.26*",,0,,
-VRG,001,Abricots,01.24.23,Abricots,1,,
-VRG,002,Amandes,01.25.31,Amandes,1,,
-VRG,003,Pommes,"01.24.10.1,01.24.10.2",,0,,
-VRN,,Vigne : raisins de cuve non en production,01.21.12,Raisin de cuve,1,,
-VRT,,Vigne : raisins de table,01.21.11,Raisin de table,1,,
-XFE,,X-Felium de 5 ans ou moins,01.19.10.11,Prairie temporaire,1,,
-YLA,,Ylang-ylang,01.28.30.47,Ylang-ylang,1,,
-CAH,,Autre céréale ou pseudocéréale secondaire d’hiver,01.11.49.9,Autres céréales ou pseudo céréales,1,,
-MCS,,Mélange de céréales ou pseudo-céréales de printemps entre elles,01.11.49.31,Mélanges Céréaliers (sans légumineuses),1,,
-FVP,,Féverole de printemps,01.11.72,"Fèves, sèches (yc féveroles)",1,,
-PHS,,Pois et haricot secs (alimentation humaine),01.11.79.9,Autres légumes secs,1,,
-PHS,001,"Haricot sec et demi-sec (flageolet, coco, lingot, …)",01.11.71,"Haricots, secs",1,,
-PHS,002,Pois cassé (pois sec),01.11.79.9,Autres légumes secs,1,,
-PHF,,Pois et haricot frais (alimentation humaine),01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1,,
-PHF,001,"Haricot frais (vert, beurre, mange-tout, …)","01.11.61,01.11.69.9",,0,,
-PHF,002,Petit pois (frais ou semences),01.11.69.1,Petit pois,1,,
-PHF,003,Pois gourmand ou mange-tout (pois frais),01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1,,
-MDI,,Maraîchage diversifié (plusieurs espèces de fruits et légumes majoritairement non pérennes,01.13.90.2,Légumes frais plein champ,1,,
-SHD,,Surfaces hautement diversifiées (DOM),*,,0,,
-GRA,,Graminée pure exclusivement pour gazon ou pour production de semences certifiées,01.19.10.11,Prairie temporaire,1,,
-JAC,,Jachère (terre arable),01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1,,
-ARP,,Plante aromatique pérenne non arbustive ou arborée autre que la vanille,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-ARP,001,Estragon,01.28.19.45,Estragon,1,,
-ARP,002,"Origan, Marjolaine","01.28.19.42,01.28.30.2",,0,,
-ARP,003,Romarin,01.28.19.21,Romarin,1,,
-ARP,004,Sarriette des montagnes,01.28.19.1,Sarriette,1,,
-ARP,005,Thym,01.28.19.25,Thym,1,,
-ARP,006,Autre plante aromatique pérenne non arbustive ou arborée (> 5 ans),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-AAR,,Plantes aromatiques herbacées non pérennes (< 5 ans) autres que persil,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-AAR,001,"Aneth, Anis vert","01.28.19.26,01.28.14.31",,0,,
-AAR,002,Basilic,01.28.19.27,Basilic,1,,
-AAR,003,"Carvi, Cerfeuil, Ciboulette","01.28.14.9,01.28.19.44,01.28.19.29",,0,,
-AAR,004,"Coriandre, Cumin","01.28.14.9,01.28.19.47,01.28.14.1",,0,,
-AAR,005,Fenouil,01.28.14.2,Fenouil doux et amer,1,,
-AAR,006,Menthe douce et poivrée,"01.28.19.31,01.28.19.32",,0,,
-AAR,007,Safran,01.28.19.22,Safran,1,,
-AAR,008,Sarriette des jardins,01.28.19.1,Sarriette,1,,
-AAR,009,Autre plante aromatique herbacée,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",,,
-PRF,,Plantes à parfum pérennes autres que lavande et lavandin,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PRF,001,Géranium,01.28.30.36,Géranium,1,,
-PRF,002,Hélichryse,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PRF,003,Vétiver,01.28.30.46,Vétiver,1,,
-PRF,004,Violette,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PRF,005,Ylang-ylang,01.28.30.47,Ylang-ylang,1,,
-PRF,006,Autre plante à parfum pérenne (5 ans et plus),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-AME,,Plantes médicinales et à parfum non pérennes (< 5 ans),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-AME,001,Angélique,01.28.30.48,Angélique,1,,
-AME,002,"Bardane, Bleuet","01.28.30.33,01.28.30.34",,0,,
-AME,003,"Camomille, Chardon Marie","01.28.30.49,01.28.19.28",,0,,
-AME,004,Livèche,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-AME,005,"Marguerite, Mauve, Millepertuis","01.28.30.43,01.28.30.71,01.28.00.99",,0,,
-AME,006,Ortie,01.28.30.37,Ortie,1,,
-AME,007,"Pâquerette, Pensée, Primevère","01.28.19.48,01.28.00.99",,0,,
-AME,008,"Plantain psyllium, Psyllium noir de Provence","01.28.30.38,01.28.30.39",,0,,
-AME,009,Valériane,01.28.30.44,Valériane,1,,
-AME,010,Autres plantes médicinales ou à parfum non pérennes (< 5 ans),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PME,,Plantes médicinales pérennes (autres que arbres),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PME,001,Gentiane,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PME,002,Hysope,01.28.30.32,Hysope,1,,
-PME,003,Mélisse,01.28.30.6,Mélisse,1,,
-PME,004,Sauge sclarée et officinale,"01.28.30.81,01.28.19.23",,0,,
-PME,005,Verveine,"01.28.30.82,01.28.30.83",,0,,
-PME,006,Autre plante médicinale pérenne (5 ans et plus),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-PME,007,Cassis bourgeon,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1,,
-AFG,,"Autre plante fourragère annuelle (ni légumineuse, ni graminée, ni céréale, ni oléagineux)",01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-MSW,,"Culture pérenne à forte biomasse (miscanthus, switchgrass, silphie, canne fourragère, …)",*,,0,,
-MSW,001,Miscanthus,01.29.00.91,Miscanthus,1,,
-MSW,002,Switchgrass,*,,0,,
-MSW,003,Canne fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1,,
-MSW,004,Silphie perfoliée,*,,0,,
-MSW,005,Autre culture à forte biomasse hors bambou,*,,0,,
-ACP,,Autre culture pérenne et jachère dans les bananeraies,*,,0,,
-PEV,,Pépinière (plants laissés en terre moins d’un an),01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",1,,
-SAG,,Roselière (récolte de sagnes),01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",1,,
-SNU,,"Parc d'élevage de monogastriques avec couvert dégradé, voire sol nu","01.19.10.13,01.95.11","Parcours herbeux (hors estives collectives), Bois pâturés et parcours ligneux",0,,
-SIN,,Surface pastorale ou parcours non utilisé l’année en cours,01.19.10.13,Parcours herbeux (hors estives collectives),1,,
-ZZZ,,Culture inconnue,*,,0,,
+code_pac,code_precision,lbl_pac,code_cpf,lbl_cpf,correspondance_directe
+ACA,,Autre culture non précisée dans la liste (admissible),*,,0
+AGR,,Agrume,"01.23.11,01.23.12,01.23.13,01.23.14,01.23.19","Pomelos et pamplemousses,Citrons et limes,Oranges,Mandarines et clémentines,Autres agrumes",0
+AIL,,Aïl,01.13.42,Ail,1
+ANA,,Ananas,01.22.19.1,Ananas,1
+ANE,,Aneth,01.28.19.26,Aneth,1
+ANG,,Angélique,01.28.30.48,Angélique,1
+ANI,,Anis,01.28.14.31,Anis,1
+ARA,,Arachide,01.11.82,"Arachides, en coque",1
+ART,,Artichaut,01.13.17,Artichauts,1
+AUB,,Aubergine,01.13.33,Aubergines,1
+AVH,,Avoine d’hiver,01.11.33,Avoine,1
+AVO,,Avocat,01.22.11,Avocats,1
+AVP,,Avoine de printemps,01.11.33,Avoine,1
+BAR,,Bardane,01.28.30.33,Bardane,1
+BAS,,Basilic,01.28.19.27,Basilic,1
+BCA,,Banane créole (fruit et légume) - autre,01.22.12,"Bananes, bananes plantains et assimilés",1
+BCF,,Banane créole (fruit et légume) - fermage,01.22.12,"Bananes, bananes plantains et assimilés",1
+BCI,,Banane créole (fruit et légume) - indivision,01.22.12,"Bananes, bananes plantains et assimilés",1
+BCP,,Banane créole (fruit et légume) - propriété ou faire valoir direct,01.22.12,"Bananes, bananes plantains et assimilés",1
+BCR,,Banane créole (fruit et légume) - réforme foncière,01.22.12,"Bananes, bananes plantains et assimilés",1
+BDH,,Blé dur d’hiver,01.11.11,Blé dur,1
+BDP,,Blé dur de printemps,01.11.11,Blé dur,1
+BDT,,Blé dur de printemps semé tardivement (après le 31/05),01.11.11,Blé dur,1
+BEA,,Banane export - autre,01.22.12,"Bananes, bananes plantains et assimilés",1
+BEF,,Banane export - fermage,01.22.12,"Bananes, bananes plantains et assimilés",1
+BEI,,Banane export - indivision,01.22.12,"Bananes, bananes plantains et assimilés",1
+BEP,,Banane export - propriété ou faire valoir direct,01.22.12,"Bananes, bananes plantains et assimilés",1
+BER,,Banane export - réforme foncière,01.22.12,"Bananes, bananes plantains et assimilés",1
+BFP,,Bande admissible le long d’une forêt avec production,01.99.10.1,Bande tampon ou fleurie,1
+BFS,,Bande admissible le long d’une forêt sans production,01.99.10.2,Bordure de champ ou de forêt,1
+BLT,,Bleuet,01.28.30.34,Bleuet,1
+BOP,,Bois pâturé,01.95.11,Bois pâturés et parcours ligneux,1
+BOR,,Bordure de champ,01.99.10.2,Bordure de champ ou de forêt,1
+BRH,,Bourrache de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+BRO,,Brome de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+BTA,,Bande tampon,01.99.10.1,Bande tampon ou fleurie,1
+BTH,,Blé tendre d’hiver,01.11.12,Blé tendre,1
+BTN,,Betterave non fourragère / Bette,"01.13.19.6,01.13.49.2","Blettes, Betteraves rouges et à salade",0
+BTN,001,Betterave à sucre,01.13.71,Betteraves à sucre,1
+BTN,002,Betterave fourragère,01.19.10.2,Betterave fourragère,1
+BTN,003,Betterave potagère,01.13.49.2,Betteraves rouges et à salade,1
+BTN,004,Autre betterave,"01.13.71,01.19.10.2,01.13.49.2",,0
+BTP,,Blé tendre de printemps,01.11.12,Blé tendre,1
+BUR,,Bugle rampante,01.28.30.35,Bugle rampant,1
+BVF,,Betterave fourragère,01.19.10.2,Betterave fourragère,1
+CAB,,Caroube,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+CAC,,Café / Cacao,"01.27.11,01.27.14","Café vert, en cerise ou en grain,Cacao en fèves",0
+CAC,001,Café,01.27.11,"Café vert, en cerise ou en grain",1
+CAC,002,Cacao,01.27.14,Cacao en fèves,1
+CAE,,Châtaigneraie entretenue par des porcins ou des petits ruminants,01.95.11,Bois pâturés et parcours ligneux,1
+CAF,,Carotte fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+CAG,,Autre céréale d’un autre genre,01.11.49.9,Autres céréales,1
+CAR,,Carotte,01.13.41.1,Carottes,1
+CAR,001,Carotte potagère,01.13.41.1,Carottes,1
+CAR,002,Carotte fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+CAR,003,Carotte Terrapur,01.93,Engrais vert,1
+CAV,,Carvi,01.28.14.9,"Cumin, carvi et genièvre, bruts",1
+CBT,,Cerise bigarreau pour transformation,01.24.24,Cerises,1
+CCN,,Concombre / Cornichon,01.13.32,Concombres et cornichons,1
+CCN,001,"Concombre, Cornichon",01.13.32,Concombres et cornichons,1
+CCN,002,Courgette,01.13.39.2,Courgettes,1
+CCT,,Courgette / Citrouille,"01.13.39.2,01.13.39.3","Courgettes,Courges et citrouilles",0
+CEE,,Chênaie entretenue par des porcins ou des petits ruminants,01.95.11,Bois pâturés et parcours ligneux,1
+CEL,,Céleri,"01.13.19.2,01.13.49.3","Céleris branche,Céleris raves",0
+CES,,Chicorée / Endive / Scarole,"01.13.15,01.13.19.1,01.13.19.84","Chicorées,Endives,Scaroles",0
+CGF,,Autre céréale de genre Fagopyrum,01.11.49.2,Sarrasin,1
+CGH,,Autre céréale de genre Phalaris,01.11.49.9,Autres céréales,1
+CGO,,Autre céréale de genre Sorghum,01.11.41,Sorgho,1
+CGP,,Autre céréale de genre Panicum,01.11.49.9,Autres céréales,1
+CGS,,Autre céréale de genre Setaria,01.11.49.9,Autres céréales,1
+CHA,,Autre céréale d’hiver de genre Avena,01.11.33,Avoine,1
+CHF,,Chou fourrager,01.19.10.3,Choux fourrager,1
+CHH,,Autre céréale d’hiver de genre Hordeum,01.11.31,Orges,1
+CHR,,Chardon Marie,01.28.30.49,Chardon Marie,1
+CHS,,Autre céréale d’hiver de genre Secale,01.11.32,Seigle,1
+CHT,,Autre céréale d’hiver de genre Triticum,01.11.49.9,Autres céréales,1
+CHU,,Chou,01.13.12,Choux,1
+CHU,001,Chou potager,01.13.12,Choux,1
+CHU,002,Chou fourrager,01.19.10.3,Choux fourrager,1
+CHV,,Chanvre,01.16.19.2,Chanvre,1
+CIB,,Ciboulette,01.28.19.44,Ciboulette,1
+CID,,Cultures conduites en interrangs : 2 cultures représentant chacune plus de 25%,*,,0
+CIT,,Cultures conduites en interrangs : 3 cultures représentant chacune plus de 25%,*,,0
+CMB,,Courge musquée / Butternut,01.13.39.3,Courges et citrouilles,1
+CML,,Cameline,01.11.99.1,Cameline,1
+CMM,,Camomille,01.28.19.28,Camomille romaine,1
+CNE,,Chênaie non entretenue par des porcins ou des petits ruminants,01.95.19,"Bois non pâturés, sans cueillette",1
+CPA,,Autre céréale de printemps de genre Avena,01.11.33,Avoine,1
+CPH,,Autre céréale de printemps de genre Hordeum,01.11.31,Orges,1
+CPL,,"Mélange multi-espèces (céréales, oléagineux, légumineuses, …) sans graminées prairiales et sans prédominance de légumineuses",01.11.49.31,Mélanges Céréaliers (sans légumineuses),1
+CPS,,Autre céréale de printemps de genre Secale,01.11.32,Seigle,1
+CPT,,Autre céréale de printemps de genre Triticum,01.11.49.9,Autres céréales,1
+CPZ,,Autre céréale de printemps de genre Zea,01.11.49.9,Autres céréales,1
+CRA,,Cresson alénois de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+CRD,,Coriandre,01.28.14.1,Coriandre (graines),1
+CRF,,Cerfeuil,01.28.19.29,Cerfeuil,1
+CRN,,Cornille,01.11.76,"Dolique à œil noir (pois du brésil, niébé)",1
+CRS,,Cresson,01.13.19.4,Cresson,1
+CSA,,Canne à sucre - autre,01.14.1,Cannes à sucre,1
+CSE,,Chanvre sans étiquette conforme,01.16.19.2,Chanvre,1
+CSF,,Canne à sucre - fermage,01.14.1,Cannes à sucre,1
+CSI,,Canne à sucre - indivision,01.14.1,Cannes à sucre,1
+CSP,,Canne à sucre - propriété ou faire valoir direct,01.14.1,Cannes à sucre,1
+CSR,,Canne à sucre - réforme foncière,01.14.1,Cannes à sucre,1
+CSS,,Culture sous serre hors sol,*,,0
+CTG,,Châtaigne,01.25.32,Châtaignes et marrons,1
+CUA,,Culture sous abattis,*,,0
+CUM,,Cumin,01.28.14.9,"Cumin, carvi et genièvre, bruts",1
+CUR,,Curcuma,01.28.19.51,Curcuma,1
+CZH,,Colza d’hiver,01.11.93,Colza,1
+CZP,,Colza de printemps,01.11.93,Colza,1
+DOL,,Dolique,01.11.76,"Dolique à œil noir (pois du brésil, niébé)",1
+DTY,,Dactyle de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+EPE,,Épeautre,01.11.49.1,Epeautre,1
+EPI,,Épinard,01.13.16,Épinards,1
+EPI,001,Epinard,01.13.16,Épinards,1
+EPI,002,Oseille,01.28.19.46,Oseille,1
+EPI,003,Bette,01.13.19.6,Blettes,1
+EST,,Estragon,01.28.19.45,Estragon,1
+FAG,,Autre fourrage annuel d’un autre genre,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+FET,,Fétuque de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+FEV,,Fève,01.11.69.2,Fèves (fraîches),1
+FF5,,Féverole fourragère implantée pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+FF6,,Féverole fourragère implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+FF7,,Féverole fourragère implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+FF8,,Féverole fourragère implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+FFO,,Autre féverole fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+FLA,,Autre légume ou fruit annuel,01.13*,,0
+FLA,001,Autre fruit,"01.13.2*,01.13.3*",,0
+FLA,002,Autre légume frais,01.13*,,0
+FLA,003,Champignon (culture de plein champ),01.13.80.1,Champignons,1
+FLO,,Fléole de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+FLP,,Autre légume ou fruit pérenne,"01.13*,01.22*,01.23*,01.24*,01.25*,01.26*",,0
+FLP,001,Asperge,01.13.11,Asperges,1
+FLP,002,Rhubarbe,01.13.19.5,Rhubarbe,1
+FLP,003,Autre fruit pérenne,"01.22*,01.23*,01.24*,01.25*,01.26*",,0
+FLP,004,Autre légume pérenne,01.13*,,0
+FNO,,Fenouil,01.28.14.2,Fenouil doux et amer,1
+FNU,,Fenugrec,01.28.19.41,Fenugrec,1
+FRA,,Fraise,01.25.13,Fraises,1
+FSG,,Autre plante fourragère sarclée d’un autre genre,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+FVL,,Féverole semée avant le 31/05,01.11.72,"Fèves, sèches (yc féveroles)",1
+FVT,,Féverole semée tardivement (après le 31/05),01.11.72,"Fèves, sèches (yc féveroles)",1
+GAI,,Gaillet,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+GER,,Géranium,01.28.30.36,Géranium,1
+GES,,Gesse,01.11.79.9,Autres légumes secs,1
+GFP,,Autre graminée fourragère pure de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+HAR,,Haricot / Flageolet,01.11.71,"Haricots, secs",1
+HBL,,Houblon,01.28.2,Houblon en cônes,1
+HPC,,Horticulture ornementale de plein champ,01.19.21,Fleurs coupées et boutons de fleurs,1
+HSA,,Horticulture ornementale sous abri,01.19.21,Fleurs coupées et boutons de fleurs,1
+J5M,,Jachère de 5 ans ou moins,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1
+J6P,,Jachère de 6 ans ou plus,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1
+J6S,,Jachère de 6 ans ou plus déclarée comme Surface d’intérêt écologique,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1
+JNO,,Jachère noire,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1
+JO5,,Jarosse implantée pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+JO6,,Jarosse implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+JO7,,Jarosse implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+JO8,,Jarosse implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+JOD,,Jarosse déshydratée,01.11.79.9,Autres légumes secs,1
+JOS,,Autre jarosse,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LAV,,Lavande / Lavandin,"01.28.30.11,01.28.30.13","Lavande,Lavandin",0
+LAV,001,Lavande,01.28.30.11,Lavande,1
+LAV,002,Lavandin,01.28.30.12,Lavandin,1
+LBF,,Laitue / Batavia / Feuille de chêne,"01.13.14,01.13.19.81,01.13.19.82","Laitues,Feuilles de chêne,Batavia",0
+LBF,001,Endive,01.13.19.1,Endives,1
+LBF,002,Laitue,01.13.14,Laitues,1
+LBF,003,Mâche,01.13.19.83,Mâches,1
+LBF,004,Autres salades,01.13.19.8*,,0
+LDH,,Lupin doux d’hiver,01.11.79.1,Lupin,1
+LDP,,Lupin doux de printemps semé avant le 31/05,01.11.79.1,Lupin,1
+LDT,,Lupin doux de printemps semé tardivement (après le 31/05),01.11.79.1,Lupin,1
+LEC,,Lentille cultivée (non fourragère),01.11.74,"Lentilles, sèches",1
+LEF,,Lentille fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LFH,,Autre lupin fourrager d’hiver,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LFP,,Autre lupin fourrager de printemps,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LH5,,Lupin fourrager d’hiver implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LH6,,Lupin fourrager d’hiver implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LH7,,Lupin fourrager d’hiver implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LH8,,Lupin fourrager d'hiver implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LIF,,Lin fibres,01.16.19.1,Lin fibre,1
+LIH,,Lin non textile d’hiver,01.11.91,Lin (graines),1
+LIP,,Lin non textile de printemps,01.11.91,Lin (graines),1
+LO7,,Lotier implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LO8,,Lotier implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LOT,,Lotier,01.11.79.9,Autres légumes secs,1
+LP5,,Lupin fourrager de printemps implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LP6,,Lupin fourrager de printemps implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LP7,,Lupin fourrager de printemps implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LP8,,Lupin fourrager de printemps implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+LSA,,Légume sous abri,01.13.90.1,Légumes frais sous abris,1
+LU5,,Luzerne implantée pour la récolte 2015,01.19.10.8,Luzerne,1
+LU6,,Luzerne implantée pour la récolte 2016,01.19.10.8,Luzerne,1
+LU7,,Luzerne implantée pour la récolte 2017,01.19.10.8,Luzerne,1
+LU8,,Luzerne implantée pour la récolte 2018,01.19.10.8,Luzerne,1
+LUD,,Luzerne déshydratée,01.19.10.8,Luzerne,1
+LUZ,,Autre luzerne,01.19.10.8,Luzerne,1
+MAC,,Mâche,01.13.19.83,Mâches,1
+MAV,,Mauve,01.28.30.43,Mauve,1
+MC5,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2015 et de céréales,01.19.10.6,Mélanges fourragers,1
+MC6,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2016 et de céréales,01.19.10.6,Mélanges fourragers,1
+MC7,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2017 et de céréales,01.19.10.6,Mélanges fourragers,1
+MC8,,Mélange de légumineuses fourragères prépondérantes implantées pour la récolte 2018 et de céréales et d’oléagineux,01.19.10.6,Mélanges fourragers,1
+MCR,,Mélange de céréales,01.11.49.31,Mélanges Céréaliers (sans légumineuses),1
+MCT,,Miscanthus,01.29.00.91,Miscanthus,1
+ME5,,Mélilot implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+ME6,,Mélilot implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+ME7,,Mélilot implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+ME8,,Mélilot implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+MED,,Mélilot déshydraté,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+MEL,,Autre mélilot,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+MH5,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2015 et d’herbacées ou de graminées fourragères,01.19.10.6,Mélanges fourragers,1
+MH6,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2016 et d’herbacées ou de graminées fourragères,01.19.10.6,Mélanges fourragers,1
+MH7,,Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2017 et d’herbacées ou de graminées fourragères,01.19.10.6,Mélanges fourragers,1
+MI7,,Minette implanté pour la récolte 2017,01.19.10.8,Luzerne,1
+MI8,,Minette implanté pour la récolte 2018,01.19.10.8,Luzerne,1
+MID,,Maïs doux,01.11.20.1,Maïs doux,1
+MIE,,Maïs ensilage,01.19.10.5,Maïs fourrager,1
+MIN,,Minette,01.19.10.8,Luzerne,1
+MIS,,Maïs (hors maïs doux),01.11.20.2,Maïs grain (hors maïs doux),1
+MIS,002,Maïs (hors maïs doux),01.19.10.5,Maïs fourrager,1
+ML5,,Mélange de légumineuses fourragères implantées pour la récolte 2015 (entre elles),01.19.10.6,Mélanges fourragers,1
+ML6,,Mélange de légumineuses fourragères implantées pour la récolte 2016 (entre elles),01.19.10.6,Mélanges fourragers,1
+ML7,,Mélange de légumineuses fourragères implantées pour la récolte 2017 (entre elles),01.19.10.6,Mélanges fourragers,1
+ML8,,Mélange de légumineuses fourragères implantées pour la récolte 2018 (entre elles),01.19.10.6,Mélanges fourragers,1
+MLC,,Mélange de légumineuses fourragères prépondérantes et de céréales et/ou d’oléagineux,01.19.10.6,Mélanges fourragers,1
+MLD,,Mélange de légumineuses déshydratées (entre elles),01.11.49.32,Mélanges Céréales-légumineuses,1
+MLF,,Mélange de légumineuses fourragères (entre elles),01.19.10.6,Mélanges fourragers,1
+MLG,,Mélange de légumineuses prépondérantes au semis et de graminées fourragères de 5 ans ou moins,01.19.10.6,Mélanges fourragers,1
+MLI,,Mélisse,01.28.30.6,Mélisse,1
+MLO,,Melon,01.13.29.1,Melons,1
+MLO,001,Melon,01.13.29.1,Melons,1
+MLO,002,Pastèque,01.13.21,Pastèques,1
+MLP,,Millepertuis,01.28.30.71,Millepertuis,1
+MLS,,Mélange de légumineuses non fourragères prépondérantes et de céréales et/ou d'oléagineux,01.11.49.32,Mélanges Céréales-légumineuses,1
+MLT,,Millet,01.11.42,Millet,1
+MOH,,Moha,01.11.49.5,Moha,1
+MOL,,Mélange d’oléagineux,01.11.99.8,Mélange d'oléagineux prépondérants,1
+MOT,,Moutarde,01.11.92,Moutarde (graines),1
+MPA,,Autre mélange de plantes fixant l’azote,01.93,Engrais vert,1
+MPC,,Mélange de protéagineux (pois et/ou lupin et/ou féverole) prépondérants semés avant le 31/05 et de céréales,01.11.49.32,Mélanges Céréales-légumineuses,1
+MPP,,Mélange de protéagineux (pois et/ou lupin et/ou féverole),01.11.49.32,Mélanges Céréales-légumineuses,1
+MPT,,Mélange de protéagineux semés tardivement (après le 31/05),01.11.49.32,Mélanges Céréales-légumineuses,1
+MRG,,Marguerite,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+MRJ,,Marjolaine / Origan,"01.28.30.2,01.28.19.42","Marjolaine,Origans",0
+MRS,,Marais salant,08.93.1,Sel de mer,1
+MTH,,Menthe,01.28.19.3,Menthe,1
+NOS,,Noisette,01.25.33,Noisettes,1
+NOX,,Noix,01.25.35,Noix,1
+NVE,,Navette d’été,01.11.93,Colza,1
+NVF,,Navet fourrager,01.19.10.4,Colza fourrager,1
+NVH,,Navette d’hiver,01.11.93,Colza,1
+NVT,,Navet,01.13.41.2,Navets,1
+NVT,001,Navet potager,01.13.41.2,Navets,1
+NVT,002,"Navet fourrager, Rutabaga, Chou navet","01.19.10.9,01.13.49.6",,0
+NVT,003,Salsifis,01.13.49.5,Salsifis,1
+NVT,004,Panais,01.13.49.4,Panais,1
+NVT,005,Topinambour,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1
+NVT,006,Autre légume racine annuel,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1
+NYG,,Nyger,01.11.99.9,Autres oléagineux n.c.a.,1
+OAG,,Autre oléagineux d’un autre genre,01.11.99.9,Autres oléagineux n.c.a.,1
+OEH,,Autre oléagineux d’espèce Helianthus,01.11.99.9,Autres oléagineux n.c.a.,1
+OEI,,Œillette,01.11.99.9,Autres oléagineux n.c.a.,1
+OHN,,Autre oléagineux d’hiver d’espèce Brassica napus,01.11.99.9,Autres oléagineux n.c.a.,1
+OHR,,Autre oléagineux d’hiver d’espèce Brassica rapa,01.11.99.9,Autres oléagineux n.c.a.,1
+OIG,,Oignon / Échalote,01.13.43.1,Oignons,1
+OIG,001,Oignon,01.13.43.1,Oignons,1
+OIG,002,Echalote,01.13.43.2,Echalotes,1
+OLI,,Oliveraie,01.26.1,Olives,1
+OPN,,Autre oléagineux de printemps d’espèce Brassica napus,01.11.99.9,Autres oléagineux n.c.a.,1
+OPR,,Autre oléagineux de printemps d’espèce Brassica rapa,01.11.99.9,Autres oléagineux n.c.a.,1
+ORH,,Orge d'hiver,01.11.31,Orges,1
+ORP,,Orge de printemps,01.11.31,Orges,1
+ORT,,Ortie,01.28.30.37,Ortie,1
+OSE,,Oseille,01.28.19.46,Oseille,1
+PAG,,Autre protéagineux d’un autre genre,01.11.79.9,Autres légumes secs,1
+PAN,,Panais,01.13.49.4,Panais,1
+PAQ,,Pâquerette,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PAR,,Plante aromatique (autre que vanille),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PAS,,Pastèque,01.13.21,Pastèques,1
+PAT,,Pâturin commun de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+PCH,,Pois chiche,01.11.73,"Pois chiches, secs",1
+PCL,,Phacélie de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+PEP,,Pépinière,01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",1
+PFH,,Autre pois fourrager d’hiver,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PFP,,Autre pois fourrager de printemps,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PFR,,Petit fruit rouge,01.25.19.9,Autres baies (hors cassis et myrtilles),1
+PFR,001,"Myrtille, mûre","01.25.19.2,01.25.19.9",,0
+PFR,002,Framboise,01.25.12,Framboises,1
+PFR,003,"Groseille, canneberge","01.25.19.5,01.25.19.4,01.25.19.9",,0
+PFR,004,Argousier,01.25.19.9,Autres baies (hors cassis et myrtilles),1
+PFR,005,Baie de goji,01.25.19.9,Autres baies (hors cassis et myrtilles),1
+PFR,006,Cassis fruit,01.25.19.1,Cassis,1
+PFR,007,Cassis feuille,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PH5,,Pois fourrager d’hiver implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PH6,,Pois fourrager d’hiver implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PH7,,Pois fourrager d’hiver implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PH8,,Pois fourrager d’hiver implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PHI,,Pois d’hiver,01.11.75,"Pois, secs",1
+PIS,,Pistache,01.25.34,Pistaches,1
+PMD,,Plante médicinale,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PMV,,Primevère,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+POR,,Poireau,01.13.44,Poireaux et autres alliacés,1
+POT,,Potiron / Potimarron,01.13.39.32,Potiron / Potimarron,1
+POT,001,Potiron,01.13.39.32,Potiron / Potimarron,1
+POT,002,Citrouille,01.13.39.3,Courges et citrouilles,1
+POT,003,Autres courges,01.13.39.3,Courges et citrouilles,1
+PP5,,Pois fourrager de printemps implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PP6,,Pois fourrager de printemps implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PP7,,Pois fourrager de printemps implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PP8,,Pois fourrager de printemps implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+PPA,,"Autre plante à parfum, aromatique et médicinale annuelle",01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PPF,,Plante à parfum (autre que géranium et vétiver),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PPH,,Prairie permanente - herbe prédominante (ressources fourragères ligneuses absentes ou peu présentes),01.19.10.12,Prairie permanente,1
+PPH,001,Prairie essentiellement de fauche,01.19.10.12,Prairie permanente,1
+PPH,002,Prairie essentiellement pâturée,01.19.10.12,Prairie permanente,1
+PPH,003,Prairie avec engagement MAEC souscrit avant 2023 et anciennement déclarée PRL,01.19.10.12,Prairie permanente,1
+PPH,004,Prairie fauchée et pâturée,01.19.10.12,Prairie permanente,1
+PPO,,Petits pois,01.11.69.1,Petit pois,1
+PPP,,"Autre plante à parfum, aromatique et médicinale pérenne",01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PPR,,Pois de printemps semé avant le 31/05,01.11.75,"Pois, secs",1
+PPT,,Pois de printemps semé tardivement (après le 31/05),01.11.75,"Pois, secs",1
+PRL,,Prairie en rotation longue (6 ans ou plus),01.19.10.12,Prairie permanente,1
+PRU,,"Prune (y compris mirabelle, quetsche, reine-claude, …)",01.24.27,Prunes,1
+PSE,,Pensée,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PSL,,Persil,01.28.19.43,Persil,1
+PSN,,Psyllium noir de Provence,01.28.30.38,Psyllium noir de Provence,1
+PSY,,Plantain psyllium,01.28.30.39,Plantain psyllium,1
+PTC,,Pomme de terre de consommation,01.13.51.1,Pommes de terre (hors féculière),1
+PTC,001,Pomme de terre de consommation,01.13.51.1,Pommes de terre (hors féculière),1
+PTC,002,Pomme de terre féculière,01.13.51.2,Pommes de terre féculière,1
+PTF,,Pomme de terre féculière,01.13.51.2,Pommes de terre féculière,1
+PTR,,Autre prairie temporaire de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+PVP,,Poivron / Piment,01.13.31,"Piments et poivrons, verts (uniquement capsicum)",1
+PVP,001,Poivron,01.13.31,"Piments et poivrons, verts (uniquement capsicum)",1
+PVP,002,Piment,01.13.31,"Piments et poivrons, verts (uniquement capsicum)",1
+PVP,003,Aubergine,01.13.33,Aubergines,1
+PVT,,"Pêche (y/c nectarine, brugnon)",01.24.25,Pêches,1
+PWT,,Poire,01.24.21,Poires,1
+RDF,,Radis fourrager,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+RDI,,Radis,01.13.49.1,Radis,1
+RDI,001,Radis potager,01.13.49.1,Radis,1
+RDI,002,Radis fourrager,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+RGA,,Ray-grass de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+RIZ,,Riz,01.12,"Riz, non décortiqué",1
+ROM,,Romarin,01.28.19.21,Romarin,1
+ROQ,,Roquette,01.13.19.86,Roquette,1
+ROS,,Roselière,01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",1
+RUT,,Rutabaga,01.13.49.6,Rutabagas,1
+RVI,,Restructuration du vignoble,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1
+SA5,,Sainfoin implanté pour la récolte 2015,01.19.10.21,Sainfoin,1
+SA6,,Sainfoin implanté pour la récolte 2016,01.19.10.21,Sainfoin,1
+SA7,,Sainfoin implanté pour la récolte 2017,01.19.10.21,Sainfoin,1
+SA8,,Sainfoin implanté pour la récolte 2018,01.19.10.21,Sainfoin,1
+SAD,,Sainfoin déshydraté,01.19.10.21,Sainfoin,1
+SAI,,Autre sainfoin,01.19.10.21,Sainfoin,1
+SBO,,Surface boisée sur une ancienne terre agricole,01.95.19,"Bois non pâturés, sans cueillette",1
+SE5,,Serradelle implantée pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+SE6,,Serradelle implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+SE7,,Serradelle implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+SE8,,Serradelle implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+SED,,Serradelle déshydratée,01.11.79.9,Autres légumes secs,1
+SER,,Autre serradelle,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+SFI,,Salsifis,01.13.49.5,Salsifis,1
+SGE,,Sauge,"01.28.19.23,01.28.30.81,01.28.00.99","Sauge sclarée,Sauge officinale,Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",0
+SGH,,Seigle d’hiver,01.11.32,Seigle,1
+SGP,,Seigle de printemps,01.11.32,Seigle,1
+SNA,,Surface non agricole non visible sur l’orthophotographie,01.99,Autres surfaces non productive (yc bordures et bandes tampon),1
+SNE,,Surface agricole temporairement non exploitée,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1
+SNE,001,"Dépôt temporaire (fumier, stockage de fourrage, …)",01.99,Autres surfaces non productive (yc bordures et bandes tampon),1
+SNE,002,"Sol nu (pas de culture implantée, repousses ne respectant pas les conditions des jachères, …)",01.99,Autres surfaces non productive (yc bordures et bandes tampon),1
+SNE,003,"Utilisation temporairement non agricole (travaux, parking temporaire longue durée, …)",01.99,Autres surfaces non productive (yc bordures et bandes tampon),1
+SNE,004,Culture de sapins de Noël,01.29.2,Sapins et arbres de Noël coupés,1
+SNE,005,Autre,01.99,Autres surfaces non productive (yc bordures et bandes tampon),1
+SOG,,Sorgho,01.11.41,Sorgho,1
+SOJ,,Soja,01.11.81,Fèves de soja,1
+SPH,,Surface pastorale - herbe prédominante et ressources fourragères ligneuses présentes,01.19.10.13,Parcours herbeux (hors estives collectives),1
+SPL,,Surface pastorale - ressources fourragères ligneuses prédominantes,01.95.11,Bois pâturés et parcours ligneux,1
+SRI,,Sarriette,01.28.19.1,Sarriette,1
+SRS,,Sarrasin,01.11.49.2,Sarrasin,1
+TAB,,Tabac,01.15.1,Tabac brut,1
+TBT,,Tubercule tropical,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1
+TBT,001,Igname,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1
+TBT,002,Curcuma,01.28.19.51,Curcuma,1
+TBT,003,Gingembre,01.28.17,"Gingembre séché, brut",1
+TBT,004,"Autres tubercules (taro/dachine, patate douce, arrow-root, …)","01.13.49.9,01.13.54,01.13.52",,0
+TCR,,Taillis à courte rotation,01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1
+THY,,Thym,01.28.19.25,Thym,1
+TOM,,Tomate,01.13.34,Tomates,1
+TOP,,Topinambour,01.13.49.9,"Autres légumes à racine, à bulbe ou à tubercules n.c.a.",1
+TOT,,Tomate pour transformation,01.13.34,Tomates,1
+TR5,,Trèfle implanté pour la récolte 2015,01.19.10.7,Trèfle,1
+TR6,,Trèfle implanté pour la récolte 2016,01.19.10.7,Trèfle,1
+TR7,,Trèfle implanté pour la récolte 2017,01.19.10.7,Trèfle,1
+TR8,,Trèfle implanté pour la récolte 2018,01.19.10.7,Trèfle,1
+TRD,,Trèfle déshydraté,01.11.79.9,Autres légumes secs,1
+TRE,,Autre trèfle,01.19.10.7,Trèfle,1
+TRN,,Tournesol,01.11.95,Tournesol,1
+TRU,,Truffière (chênaie de plants mycorhizés),01.13.80.2,Truffes,1
+TTH,,Triticale d’hiver,01.11.43,Triticale,1
+TTP,,Triticale de printemps,01.11.43,Triticale,1
+VAL,,Valériane,01.28.30.44,Valériane,1
+VE5,,Vesce implantée pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+VE6,,Vesce implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+VE7,,Vesce implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+VE8,,Vesce implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+VED,,Vesce déshydratée,01.11.79.9,Autres légumes secs,1
+VER,,Véronique,01.28.30.45,Véronique,1
+VES,,Autre vesce,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+VET,,Vétiver,01.28.30.46,Vétiver,1
+VGD,,Verger (DOM),"01.22*,01.23*,01.24*,01.25*,01.26*",,0
+VNB,,Vanille sous bois,01.28.18,"Vanille, brute",1
+VNL,,Vanille,01.28.18,"Vanille, brute",1
+VNV,,Vanille verte,01.28.18,"Vanille, brute",1
+VRC,,Vigne : raisins de cuve,01.21.12,Raisin de cuve,1
+VRC,001,Raisin de cuve,01.21.12,Raisin de cuve,1
+VRC,002,Raisin de table,01.21.11,Raisin de table,1
+VRC,003,Vigne sans production,01.21.12,Raisin de cuve,1
+VRG,,Verger,"01.22*,01.23*,01.24*,01.25*,01.26*",,0
+VRG,001,Abricots,01.24.23,Abricots,1
+VRG,002,Amandes,01.25.31,Amandes,1
+VRG,003,Pommes,"01.24.10.1,01.24.10.2",,0
+VRN,,Vigne : raisins de cuve non en production,01.21.12,Raisin de cuve,1
+VRT,,Vigne : raisins de table,01.21.11,Raisin de table,1
+XFE,,X-Felium de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
+YLA,,Ylang-ylang,01.28.30.47,Ylang-ylang,1
+CAH,,Autre céréale ou pseudocéréale secondaire d’hiver,01.11.49.9,Autres céréales ou pseudo céréales,1
+MCS,,Mélange de céréales ou pseudo-céréales de printemps entre elles,01.11.49.31,Mélanges Céréaliers (sans légumineuses),1
+FVP,,Féverole de printemps,01.11.72,"Fèves, sèches (yc féveroles)",1
+PHS,,Pois et haricot secs (alimentation humaine),01.11.79.9,Autres légumes secs,1
+PHS,001,"Haricot sec et demi-sec (flageolet, coco, lingot, …)",01.11.71,"Haricots, secs",1
+PHS,002,Pois cassé (pois sec),01.11.79.9,Autres légumes secs,1
+PHF,,Pois et haricot frais (alimentation humaine),01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
+PHF,001,"Haricot frais (vert, beurre, mange-tout, …)","01.11.61,01.11.69.9",,0
+PHF,002,Petit pois (frais ou semences),01.11.69.1,Petit pois,1
+PHF,003,Pois gourmand ou mange-tout (pois frais),01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
+MDI,,Maraîchage diversifié (plusieurs espèces de fruits et légumes majoritairement non pérennes,01.13.90.2,Légumes frais plein champ,1
+SHD,,Surfaces hautement diversifiées (DOM),*,,0
+GRA,,Graminée pure exclusivement pour gazon ou pour production de semences certifiées,01.19.10.11,Prairie temporaire,1
+JAC,,Jachère (terre arable),01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",1
+ARP,,Plante aromatique pérenne non arbustive ou arborée autre que la vanille,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+ARP,001,Estragon,01.28.19.45,Estragon,1
+ARP,002,"Origan, Marjolaine","01.28.19.42,01.28.30.2",,0
+ARP,003,Romarin,01.28.19.21,Romarin,1
+ARP,004,Sarriette des montagnes,01.28.19.1,Sarriette,1
+ARP,005,Thym,01.28.19.25,Thym,1
+ARP,006,Autre plante aromatique pérenne non arbustive ou arborée (> 5 ans),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+AAR,,Plantes aromatiques herbacées non pérennes (< 5 ans) autres que persil,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+AAR,001,"Aneth, Anis vert","01.28.19.26,01.28.14.31",,0
+AAR,002,Basilic,01.28.19.27,Basilic,1
+AAR,003,"Carvi, Cerfeuil, Ciboulette","01.28.14.9,01.28.19.44,01.28.19.29",,0
+AAR,004,"Coriandre, Cumin","01.28.14.9,01.28.19.47,01.28.14.1",,0
+AAR,005,Fenouil,01.28.14.2,Fenouil doux et amer,1
+AAR,006,Menthe douce et poivrée,"01.28.19.31,01.28.19.32",,0
+AAR,007,Safran,01.28.19.22,Safran,1
+AAR,008,Sarriette des jardins,01.28.19.1,Sarriette,1
+AAR,009,Autre plante aromatique herbacée,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",
+PRF,,Plantes à parfum pérennes autres que lavande et lavandin,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PRF,001,Géranium,01.28.30.36,Géranium,1
+PRF,002,Hélichryse,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PRF,003,Vétiver,01.28.30.46,Vétiver,1
+PRF,004,Violette,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PRF,005,Ylang-ylang,01.28.30.47,Ylang-ylang,1
+PRF,006,Autre plante à parfum pérenne (5 ans et plus),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+AME,,Plantes médicinales et à parfum non pérennes (< 5 ans),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+AME,001,Angélique,01.28.30.48,Angélique,1
+AME,002,"Bardane, Bleuet","01.28.30.33,01.28.30.34",,0
+AME,003,"Camomille, Chardon Marie","01.28.30.49,01.28.19.28",,0
+AME,004,Livèche,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+AME,005,"Marguerite, Mauve, Millepertuis","01.28.30.43,01.28.30.71,01.28.00.99",,0
+AME,006,Ortie,01.28.30.37,Ortie,1
+AME,007,"Pâquerette, Pensée, Primevère","01.28.19.48,01.28.00.99",,0
+AME,008,"Plantain psyllium, Psyllium noir de Provence","01.28.30.38,01.28.30.39",,0
+AME,009,Valériane,01.28.30.44,Valériane,1
+AME,010,Autres plantes médicinales ou à parfum non pérennes (< 5 ans),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PME,,Plantes médicinales pérennes (autres que arbres),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PME,001,Gentiane,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PME,002,Hysope,01.28.30.32,Hysope,1
+PME,003,Mélisse,01.28.30.6,Mélisse,1
+PME,004,Sauge sclarée et officinale,"01.28.30.81,01.28.19.23",,0
+PME,005,Verveine,"01.28.30.82,01.28.30.83",,0
+PME,006,Autre plante médicinale pérenne (5 ans et plus),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+PME,007,Cassis bourgeon,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
+AFG,,"Autre plante fourragère annuelle (ni légumineuse, ni graminée, ni céréale, ni oléagineux)",01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+MSW,,"Culture pérenne à forte biomasse (miscanthus, switchgrass, silphie, canne fourragère, …)",*,,0
+MSW,001,Miscanthus,01.29.00.91,Miscanthus,1
+MSW,002,Switchgrass,*,,0
+MSW,003,Canne fourragère,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
+MSW,004,Silphie perfoliée,*,,0
+MSW,005,Autre culture à forte biomasse hors bambou,*,,0
+ACP,,Autre culture pérenne et jachère dans les bananeraies,*,,0
+PEV,,Pépinière (plants laissés en terre moins d’un an),01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",1
+SAG,,Roselière (récolte de sagnes),01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",1
+SNU,,"Parc d'élevage de monogastriques avec couvert dégradé, voire sol nu",01.19.10.14,Parcours porc ou volaille,0
+SIN,,Surface pastorale ou parcours non utilisé l’année en cours,01.19.10.13,Parcours herbeux (hors estives collectives),1
+ZZZ,,Culture inconnue,*,,0
