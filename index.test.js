@@ -83,10 +83,10 @@ describe('fromCodePacFirstSelectable', () => {
   })
 
   it('returns the first match', () => {
-    deepEqual(fromCodePacFirst('ZZZ').code_cpf, "01.1") // Cultures non permanentes
+    deepEqual(fromCodePacFirst('ZZZ').code_cpf, "01.11.00.1") // Semences de céréales, légumineuses et oléagineux
     deepEqual(fromCodePacFirst('AGR').code_cpf, "01.23.11") // Pomelos et pamplemousses
-    deepEqual(fromCodePacFirst('VRG').code_cpf, "01.22") //
-    deepEqual(fromCodePacFirst('VRG', null).code_cpf, "01.22") //
+    deepEqual(fromCodePacFirst('VRG').code_cpf, "01.22.11") // Avocats
+    deepEqual(fromCodePacFirst('VRG', null).code_cpf, "01.22.11") // Avocats
     deepEqual(fromCodePacFirst('VRG', '001').code_cpf, "01.24.23") // Abricots
     deepEqual(fromCodePacFirst('VRG', '002').code_cpf, "01.25.31") // Amandes
 
@@ -101,9 +101,9 @@ describe('fromCodePacFirstSelectable', () => {
 
 describe('fromCodePacStrict', () => {
   it('returns returns the smallest full match', () => {
-    deepEqual(fromCodePacStrict('AGR').code_cpf, "01.23.1") // Agrumes
+    deepEqual(fromCodePacStrict('AGR'), undefined) // Agrumes
     deepEqual(fromCodePacStrict('VRG', '001').code_cpf, "01.24.23") // Abricots
-    deepEqual(fromCodePacStrict('VRG').code_cpf, "01.2")
+    deepEqual(fromCodePacStrict('VRG'), undefined)
     deepEqual(fromCodePacStrict('VRG'), fromCodePacStrict('VRG', null))
   })
 
