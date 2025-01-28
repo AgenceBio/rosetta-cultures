@@ -1,5 +1,5 @@
 import { describe, it } from 'node:test'
-import { ok, deepEqual, throws } from 'node:assert/strict'
+import { ok, deepEqual } from 'node:assert/strict'
 import {
   createCpfResolver,
   fromCodeCpf,
@@ -140,9 +140,9 @@ describe('getCulturePAC', () => {
     })
   })
 
-  it('throw if culture is not found', () => {
-    throws(() => getCulturePAC('TEST'))
-    throws(() => getCulturePAC('AGR', '001'))
+  it('return nothing if culture is not found', () => {
+    deepEqual(getCulturePAC('TEST'), undefined)
+    deepEqual(getCulturePAC('AGR', '001'), undefined)
   })
 })
 

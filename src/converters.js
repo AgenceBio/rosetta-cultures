@@ -28,11 +28,7 @@ import cepages from '../data/cepages.json' with { type: 'json' }
 
 
 export function getCulturePAC(codePac, precisionPac = '') {
-  const culture_pac = cpf.PAC.find(({ code, precision }) => code === codePac && precision === precisionPac)
-  if (!culture_pac) {
-    throw new TypeError(`Missing PAC culture ${codePac} with precision ${precisionPac}`)
-  }
-  return culture_pac
+  return cpf.PAC.find(({ code, precision }) => code === codePac && precision === precisionPac)
 } 
 
 /**
@@ -45,7 +41,15 @@ export function attachPAC(culture) {
 
   return {
     ...culture,
-    cultures_pac: culture.cultures_pac.map(([codePac, codePrecision]) => getCulturePAC(codePac, codePrecision))
+    cultures_pac: culture.cultures_pac.map(([codePac, codePrecision]) => {
+      const culture_pac = getCulturePAC(codePac, codePrecision)
+
+      if (!culture_pac) {
+        throw new TypeError(`Missing PAC culture ${codePac} with precision ${codePrecision}`)
+      }
+
+      return culture_pac
+    })
   }
 }
 
