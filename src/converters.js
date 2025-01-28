@@ -25,17 +25,15 @@ import cepages from '../data/cepages.json' with { type: 'json' }
  * @typedef {import('../index.js').CPFCulture} CPFCulture
  */
 
-/**
- * @deprecated since version 1.4.0
- * @param {String} code
- * @param {String=} precision
- * @returns {?UnifiedCulture}
- */
-export function fromCodePac (code, precision) {
-  console.warn("fromCodePac is deprecated, use fromCodePacFirst instead")
 
-  return fromCodePacFirst(code, precision)
-}
+
+export function getCulturePAC(codePac, precisionPac = '') {
+  const culture_pac = cpf.PAC.find(({ code, precision }) => code === codePac && precision === precisionPac)
+  if (!culture_pac) {
+    throw new TypeError(`Missing PAC culture ${codePac} with precision ${precisionPac}`)
+  }
+  return culture_pac
+} 
 
 /**
  * @param {CPFCulture?} culture
@@ -47,13 +45,7 @@ export function attachPAC(culture) {
 
   return {
     ...culture,
-    cultures_pac: culture.cultures_pac.map(([code_pac, code_precision]) => {
-      const culture_pac = cpf.PAC.find(({ code, precision }) => code === code_pac && precision === code_precision)
-      if (!culture_pac) {
-        throw new TypeError(`Missing PAC culture ${code_pac} with precision ${code_precision}`)
-      }
-      return culture_pac
-    })
+    cultures_pac: culture.cultures_pac.map(([codePac, codePrecision]) => getCulturePAC(codePac, codePrecision))
   }
 }
 

@@ -1,11 +1,12 @@
 import { describe, it } from 'node:test'
-import { ok, deepEqual } from 'node:assert/strict'
+import { ok, deepEqual, throws } from 'node:assert/strict'
 import {
   createCpfResolver,
   fromCodeCpf,
   fromCodeGeofolia,
   fromCodePacStrict,
   fromCodePacFirst,
+  getCulturePAC,
   isOrganicProductionCode,
   fromCodePacAll, attachPAC
 } from './index.js'
@@ -100,7 +101,7 @@ describe('fromCodePacFirstSelectable', () => {
 })
 
 describe('fromCodePacStrict', () => {
-  it('returns returns the smallest full match', () => {
+  it('returns the smallest full match', () => {
     deepEqual(fromCodePacStrict('AGR'), undefined) // Agrumes
     deepEqual(fromCodePacStrict('VRG', '001').code_cpf, "01.24.23") // Abricots
     deepEqual(fromCodePacStrict('VRG'), undefined)
@@ -119,6 +120,29 @@ describe('fromCodePacStrict', () => {
     deepEqual(fromCodePacStrict(undefined), null)
     deepEqual(fromCodePacStrict(NaN), null)
     deepEqual(fromCodePacStrict({}), null)
+  })
+})
+
+describe('getCulturePAC', () => {
+  it('returns matching culture', () => {
+    deepEqual(getCulturePAC('AGR'), {
+      "code": "AGR",
+      "precision": "",
+      "libelle": "Agrume",
+      "requires_precision": true
+    })
+
+    deepEqual(getCulturePAC('BTN', '002'),  {
+      "code": "BTN",
+      "precision": "002",
+      "libelle": "Betterave fourragère",
+      "requires_precision": false
+    })
+  })
+
+  it('throw if culture is not found', () => {
+    throws(() => getCulturePAC('TEST'))
+    throws(() => getCulturePAC('AGR', '001'))
   })
 })
 
