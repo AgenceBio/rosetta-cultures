@@ -143,7 +143,7 @@ for await (const { code_gf, code_cpf } of csvParser) {
   const resolvedRecords = resolve(code_cpf)
 
   if (resolvedRecords.length === 0) {
-    console.error(`Le code CPF ${code_cpf} associé à ${code_gf} est introuvable dans nomenclature.csv`)
+    console.error(`Le code CPF ${code_cpf} dans le fichier correspondance-geofolia.csv associé à ${code_gf} est introuvable dans nomenclature.csv`)
     continue
   }
 

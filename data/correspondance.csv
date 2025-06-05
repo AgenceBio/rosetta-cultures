@@ -144,7 +144,7 @@ FVL,,Féverole semée avant le 31/05,01.11.72,"Fèves, sèches (yc féveroles)",
 FVT,,Féverole semée tardivement (après le 31/05),01.11.72,"Fèves, sèches (yc féveroles)",1
 GAI,,Gaillet,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
 GER,,Géranium,01.28.30.36,Géranium,1
-GES,,Gesse,01.11.79.9,Autres légumes secs,1
+GES,,Gesse,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
 GFP,,Autre graminée fourragère pure de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
 HAR,,Haricot / Flageolet,01.11.71,"Haricots, secs",1
 HBL,,Houblon,01.28.2,Houblon en cônes,1
@@ -158,7 +158,7 @@ JO5,,Jarosse implantée pour la récolte 2015,01.19.10.9,Autres plantes et surfa
 JO6,,Jarosse implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 JO7,,Jarosse implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 JO8,,Jarosse implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
-JOD,,Jarosse déshydratée,01.11.79.9,Autres légumes secs,1
+JOD,,Jarosse déshydratée,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
 JOS,,Autre jarosse,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 LAV,,Lavande / Lavandin,"01.28.30.11,01.28.30.13","Lavande,Lavandin",0
 LAV,001,Lavande,01.28.30.11,Lavande,1
@@ -184,7 +184,7 @@ LIH,,Lin non textile d’hiver,01.11.91,Lin (graines),1
 LIP,,Lin non textile de printemps,01.11.91,Lin (graines),1
 LO7,,Lotier implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 LO8,,Lotier implanté pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
-LOT,,Lotier,01.11.79.9,Autres légumes secs,1
+LOT,,Lotier,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
 LP5,,Lupin fourrager de printemps implanté pour la récolte 2015,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 LP6,,Lupin fourrager de printemps implanté pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 LP7,,Lupin fourrager de printemps implanté pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
@@ -274,7 +274,7 @@ ORH,,Orge d'hiver,01.11.31,Orges,1
 ORP,,Orge de printemps,01.11.31,Orges,1
 ORT,,Ortie,01.28.30.37,Ortie,1
 OSE,,Oseille,01.28.19.46,Oseille,1
-PAG,,Autre protéagineux d’un autre genre,01.11.79.9,Autres légumes secs,1
+PAG,,Autre protéagineux d’un autre genre,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
 PAN,,Panais,01.13.49.4,Panais,1
 PAQ,,Pâquerette,01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
 PAR,,Plante aromatique (autre que vanille),01.28.00.99,"Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",1
@@ -343,7 +343,7 @@ RDI,,Radis,01.13.49.1,Radis,1
 RDI,001,Radis potager,01.13.49.1,Radis,1
 RDI,002,Radis fourrager,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 RGA,,Ray-grass de 5 ans ou moins,01.19.10.11,Prairie temporaire,1
-RIZ,,Riz,01.12,"Riz, non décortiqué",1
+RIZ,,Riz,01.12.1,"Riz, non décortiqué",1
 ROM,,Romarin,01.28.19.21,Romarin,1
 ROQ,,Roquette,01.13.19.86,Roquette,1
 ROS,,Roselière,01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",1
@@ -360,7 +360,7 @@ SE5,,Serradelle implantée pour la récolte 2015,01.19.10.9,Autres plantes et su
 SE6,,Serradelle implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 SE7,,Serradelle implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 SE8,,Serradelle implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
-SED,,Serradelle déshydratée,01.11.79.9,Autres légumes secs,1
+SED,,Serradelle déshydratée,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
 SER,,Autre serradelle,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 SFI,,Salsifis,01.13.49.5,Salsifis,1
 SGE,,Sauge,"01.28.19.23,01.28.30.81,01.28.00.99","Sauge sclarée,Sauge officinale,Autres plantes à épices, aromatiques, médicinales et pharmaceutiques",0
@@ -394,7 +394,7 @@ TR5,,Trèfle implanté pour la récolte 2015,01.19.10.7,Trèfle,1
 TR6,,Trèfle implanté pour la récolte 2016,01.19.10.7,Trèfle,1
 TR7,,Trèfle implanté pour la récolte 2017,01.19.10.7,Trèfle,1
 TR8,,Trèfle implanté pour la récolte 2018,01.19.10.7,Trèfle,1
-TRD,,Trèfle déshydraté,01.11.79.9,Autres légumes secs,1
+TRD,,Trèfle déshydraté,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
 TRE,,Autre trèfle,01.19.10.7,Trèfle,1
 TRN,,Tournesol,01.11.95,Tournesol,1
 TRU,,Truffière (chênaie de plants mycorhizés),01.13.80.2,Truffes,1
@@ -405,7 +405,7 @@ VE5,,Vesce implantée pour la récolte 2015,01.19.10.9,Autres plantes et surface
 VE6,,Vesce implantée pour la récolte 2016,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 VE7,,Vesce implantée pour la récolte 2017,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 VE8,,Vesce implantée pour la récolte 2018,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
-VED,,Vesce déshydratée,01.11.79.9,Autres légumes secs,1
+VED,,Vesce déshydratée,01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
 VER,,Véronique,01.28.30.45,Véronique,1
 VES,,Autre vesce,01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,1
 VET,,Vétiver,01.28.30.46,Vétiver,1
@@ -431,10 +431,10 @@ FVP,,Féverole de printemps,01.11.72,"Fèves, sèches (yc féveroles)",1
 PHS,,Pois et haricot secs (alimentation humaine),01.11.79.9,Autres légumes secs,1
 PHS,001,"Haricot sec et demi-sec (flageolet, coco, lingot, …)",01.11.71,"Haricots, secs",1
 PHS,002,Pois cassé (pois sec),01.11.79.9,Autres légumes secs,1
-PHF,,Pois et haricot frais (alimentation humaine),01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
-PHF,001,"Haricot frais (vert, beurre, mange-tout, …)","01.11.61,01.11.69.9",,0
+PHF,,Pois et haricot frais (alimentation humaine),01.11.79.9,Autres légumes secs,1
+PHF,001,"Haricot frais (vert, beurre, mange-tout, …)",01.11.61,Haricot vert,1
 PHF,002,Petit pois (frais ou semences),01.11.69.1,Petit pois,1
-PHF,003,Pois gourmand ou mange-tout (pois frais),01.11.69.9,"Autres légumes à cosse, verts n.c.a.",1
+PHF,003,Pois gourmand ou mange-tout (pois frais),01.11.79.9,Autres légumes secs,1
 MDI,,Maraîchage diversifié (plusieurs espèces de fruits et légumes majoritairement non pérennes,01.13.90.2,Légumes frais plein champ,1
 SHD,,Surfaces hautement diversifiées (DOM),*,,0
 GRA,,Graminée pure exclusivement pour gazon ou pour production de semences certifiées,01.19.10.11,Prairie temporaire,1

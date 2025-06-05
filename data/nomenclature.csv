@@ -48,7 +48,7 @@ code_production,libelle_cpf,lbl_production,précisions,indicateur,mesure,nomencl
 01.11.99.3,Carthames,Carthame,,Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Oléagineux,Grandes Cultures
 01.11.99.8,Mélange d'oléagineux prépondérants,Mélange d'oléagineux prépondérants,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Oléagineux,Grandes Cultures
 01.11.99.9,Autres oléagineux n.c.a.,Autre oléagineux,,Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Oléagineux,Grandes Cultures
-01.12.2001,"Riz, non décortiqué",Riz,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Céréales,Grandes Cultures
+01.12.1,"Riz, non décortiqué",Riz,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Céréales,Grandes Cultures
 01.12.10.1,Semences de riz,Semences de riz,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces
 01.13.11,Asperges,Asperge,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Légumes de plein champ,Légumes
 01.13.12,Choux,Chou,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Légumes de plein champ,Légumes
@@ -267,7 +267,7 @@ code_production,libelle_cpf,lbl_production,précisions,indicateur,mesure,nomencl
 01.95.25,Zone de cueillette de fruits à coque,Zone de cueillette de fruits à coque,,Surface constatée,Hectare,BIO v1.5,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
 02.10.11,Plants d'arbres forestiers,Plants d'arbres forestiers,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
 02.10.12,Semences d'arbres forestiers,Semences d'arbres forestiers,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-02.10.2003,Arbres forestiers,Arbre forestier,Surfaces destinées à la sylviculture,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
+02.10.3,Arbres forestiers,Arbre forestier,Surfaces destinées à la sylviculture,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
 01.95.4,Estives ou alpages collectifs,Surface pastorale collective,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
 01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",Jachère,Surfaces entrant en rotation,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Surfaces non productives,Autres surfaces
 01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",Gel fixe,"Friche, surfaces n’entrant pas en rotation",Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Surfaces non productives,Autres surfaces
