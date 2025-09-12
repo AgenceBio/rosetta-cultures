@@ -28,7 +28,10 @@ import cepages from '../data/cepages.json' with { type: 'json' }
 
 
 export function getCulturePAC(codePac, precisionPac = '') {
-  return cpf.PAC.find(({ code, precision }) => code === codePac && precision === precisionPac)
+  const cleanCodePac = typeof codePac === 'string' ? codePac.trim() : codePac
+  const cleanPrecisionpac  = typeof precisionPac === 'string' ? precisionPac.trim() : precisionPac
+
+  return cpf.PAC.find(({ code, precision }) => code === cleanCodePac && precision === cleanPrecisionpac)
 } 
 
 /**
@@ -94,12 +97,14 @@ export function fromCodePacFirst (code, precision) {
  * @returns {UnifiedCulture[]}
  */
 export function fromCodePacAll (code, precision = null) {
+  const cleanCode = typeof code === 'string' ? code.trim() : code
+
   if (precision) {
-    const cleanedPrecision = String(precision).padStart(3, '0')
+    const cleanedPrecision = String(precision).trim().padStart(3, '0')
 
     const results = cpf.CPF.filter(({ cultures_pac }) => {
       return cultures_pac.some(([code_pac, code_precision]) => {
-        return code_pac === code && code_precision === cleanedPrecision
+        return code_pac === cleanCode && code_precision === cleanedPrecision
       })
     })
 
@@ -111,7 +116,7 @@ export function fromCodePacAll (code, precision = null) {
   // otherwise, and in any case, we lookup results without precision
   return cpf.CPF.filter(({ cultures_pac }) => {
     return cultures_pac.some(([code_pac, code_precision]) => {
-      return code_pac === code && code_precision === ''
+      return code_pac === cleanCode && code_precision === ''
     })
   }).map(attachPAC)
 }
@@ -122,7 +127,9 @@ export function fromCodePacAll (code, precision = null) {
  * @returns {UnifiedCulture}
  */
 export function fromCodeCpf (code) {
-  return attachPAC(cpf.CPF.find(({ code_cpf }) => code_cpf === code))
+  const cleanCode = typeof code === 'string' ? code.trim() : code
+
+  return attachPAC(cpf.CPF.find(({ code_cpf }) => code_cpf === cleanCode))
 }
 
 /**
