@@ -58,10 +58,12 @@ describe('isOrganicProductionCode', () => {
 describe('fromCodeCpf', () => {
   it('returns a matching code object', () => {
     deepEqual(fromCodeCpf('01.11.20.1').code_cpf, partialExpectation.code_cpf)
+    deepEqual(fromCodeCpf(' 01.11.20.1 ').code_cpf, fromCodeCpf('01.11.20.1').code_cpf)
   })
 
   it('returns nothing if not matching', () => {
     deepEqual(fromCodeCpf('999.99'), undefined)
+    deepEqual(fromCodeCpf(999), undefined)
   })
 
   it('returns nothing if filtered out', () => {
@@ -103,7 +105,9 @@ describe('fromCodePacFirstSelectable', () => {
 describe('fromCodePacStrict', () => {
   it('returns the smallest full match', () => {
     deepEqual(fromCodePacStrict('AGR'), undefined) // Agrumes
+    deepEqual(fromCodePacStrict('AGR  '), fromCodePacStrict('AGR')) // Agrumes
     deepEqual(fromCodePacStrict('VRG', '001').code_cpf, "01.24.23") // Abricots
+    deepEqual(fromCodePacStrict('VRG   ', '  001  ').code_cpf, fromCodePacStrict('VRG', '001').code_cpf) // Abricots
     deepEqual(fromCodePacStrict('VRG'), undefined)
     deepEqual(fromCodePacStrict('VRG'), fromCodePacStrict('VRG', null))
   })
@@ -131,6 +135,7 @@ describe('getCulturePAC', () => {
       "libelle": "Agrume",
       "requires_precision": true
     })
+    deepEqual(getCulturePAC('AGR  '), getCulturePAC('AGR'))
 
     deepEqual(getCulturePAC('BTN', '002'),  {
       "code": "BTN",
@@ -138,6 +143,10 @@ describe('getCulturePAC', () => {
       "libelle": "Betterave fourragère",
       "requires_precision": false
     })
+
+    deepEqual(getCulturePAC('BTN', ' 002 '),  getCulturePAC('BTN', '002'))
+    deepEqual(getCulturePAC('BTN', 2 ),  undefined)
+    deepEqual(getCulturePAC(1, 2 ),  undefined)
   })
 
   it('return nothing if culture is not found', () => {
@@ -154,6 +163,19 @@ describe('fromCodePacAll', () => {
       fromCodePacAll('AGR').map(({ code_cpf }) => code_cpf),
       ["01.23.11", "01.23.12", "01.23.13", "01.23.14", "01.23.19"]
     )
+    deepEqual(
+      fromCodePacAll('   AGR  '),
+      fromCodePacAll('AGR')
+    )
+    deepEqual(
+      fromCodePacAll(1),
+      []
+    )
+    deepEqual(
+      fromCodePacAll('   AGR  ', 2),
+      fromCodePacAll('   AGR  ', '002'),
+    )
+
 
     const vrg_cultures = resolve('01.22*,01.23*,01.24*,01.25*,01.26*')
     const expectation = Array.from(new Set(vrg_cultures.map(({ code_cpf }) => code_cpf)))
@@ -166,6 +188,11 @@ describe('fromCodePacAll', () => {
     deepEqual(
       fromCodePacAll('VRG', '002').map(({ code_cpf }) => code_cpf),
       ['01.25.31']
+    )
+
+    deepEqual(
+      fromCodePacAll('VRG  ', '002  '),
+      fromCodePacAll('VRG', '002')
     )
 
     deepEqual(
@@ -245,7 +272,7 @@ describe('createCpfResolver', () => {
   it('resolves lists of single codes', () => {
     const expectation = [{ code_cpf: '10.10.10.01' }, { code_cpf: '10.10.10.02' }]
     deepEqual(resolve('10.10.10.01,10.10.10.02'), expectation)
-    deepEqual(resolve(' 10.10.10.01, 10.10.10.02 '), expectation)
+    deepEqual(resolve(' 10.10.10.01, 10.10.10.02 '), resolve('10.10.10.01,10.10.10.02'))
   })
 
   it('resolves patterns of codes', () => {
