@@ -1,5 +1,5 @@
-code_production,libelle_cpf,lbl_production,précisions,indicateur,mesure,nomenclature,actif,lien_code,lien_direct,type,activites,sous_groupe,groupe
-01.11.00.1,"Semences de céréales, légumineuses et oléagineux (à l'exclusion du riz)","Semences de céréales, légumineuses et oléagineux","Surface destinée à la production de semences de céréales, légumineuses et oléoprotéagineux",Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Semences et plants,Autres surfaces
+code_production,libelle_cpf,libelle_production,précisions,indicateur,mesure,nomenclature,actif,lien_code,lien_direct,type,activites,sous_groupe,groupe
+01.11.00.1,"Semences de céréales, légumineuses et oléagineux (à l'exclusion du riz)","Semences de céréales, légumineuses et oléagineux","Surface destinée à la production de semences de céréales, légumineuses et oléoprotéagineux",Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
 01.11.11,Blé dur,Blé dur,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Céréales,Grandes Cultures
 01.11.12,Blé tendre,Blé tendre,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Céréales,Grandes Cultures
 01.11.20.1,Maïs doux,Maïs doux,"Collectés pour le grain, à destination de l'alimentation humaine",Surface constatée,Hectare,BIO v1.1,1,,,Surfaces,Production,Céréales,Grandes Cultures
@@ -18,7 +18,7 @@ code_production,libelle_cpf,lbl_production,précisions,indicateur,mesure,nomencl
 01.11.49.12,Grand épeautre,Grand épeautre,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Céréales,Grandes Cultures
 01.11.49.2,Sarrasin,Sarrasin,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Céréales,Grandes Cultures
 01.11.49.31,Mélanges Céréaliers (sans légumineuses),Mélange de céréales prépondérants,"Hors mélange fourrager, prairie et surface pâturée",Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Céréales,Grandes Cultures
-01.11.49.32,Mélanges Céréales-légumineuses,Mélange de légumineuses non fourragères prépondérantes,"Hors mélange fourrager, prairie et surface pâturée",Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Céréales,Grandes Cultures
+01.11.49.32,Mélanges Céréales-légumineuses,Mélange de légumineuses non fourragères prépondérantes,"Hors mélange fourrager, prairie et surface pâturée",Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Protéagineux et légumes secs,Grandes Cultures
 01.11.49.4,Quinoa,Quinoa,,Surface constatée,Hectare,BIO v1.5,1,,,Surfaces,Production,Céréales,Grandes Cultures
 01.11.49.5,Moha,Moha,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Céréales,Grandes Cultures
 01.11.49.9,Autres céréales ou pseudo céréales,Autre céréale,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Céréales,Grandes Cultures
@@ -49,7 +49,7 @@ code_production,libelle_cpf,lbl_production,précisions,indicateur,mesure,nomencl
 01.11.99.8,Mélange d'oléagineux prépondérants,Mélange d'oléagineux prépondérants,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Oléagineux,Grandes Cultures
 01.11.99.9,Autres oléagineux n.c.a.,Autre oléagineux,,Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Oléagineux,Grandes Cultures
 01.12.1,"Riz, non décortiqué",Riz,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Céréales,Grandes Cultures
-01.12.10.1,Semences de riz,Semences de riz,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces
+01.12.10.1,Semences de riz,Semences de riz,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
 01.13.11,Asperges,Asperge,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Légumes de plein champ,Légumes
 01.13.12,Choux,Chou,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Légumes de plein champ,Légumes
 01.13.13,Choux-fleurs et brocolis,Chou-fleur et brocoli,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Légumes de plein champ,Légumes
@@ -99,38 +99,40 @@ code_production,libelle_cpf,lbl_production,précisions,indicateur,mesure,nomencl
 01.13.52,Patates douces,Patate douce,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Légumes de plein champ,Légumes
 01.13.53,Manioc,Manioc,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Légumes de plein champ,Légumes
 01.13.54,Colocases,Taro,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Légumes de plein champ,Légumes
-01.13.6,"Plants et semences potagers, à l'exclusion des semences de betteraves",Plants et semences potagers,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces
-01.13.71,Betteraves à sucre,Betterave à sucre,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces
-01.13.72,Semences de betteraves à sucre,Semences de betterave à sucre,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces
+01.13.6,"Plants et semences potagers, à l'exclusion des semences de betteraves",Plants et semences potagers,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
+01.13.71,Betteraves à sucre,Betterave à sucre,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces et productions végétales
+01.13.72,Semences de betteraves à sucre,Semences de betterave à sucre,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
 01.13.80.1,Champignons,Champignon,,Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Maraîchage diversifié et champignons,Légumes
 01.13.80.2,Truffes,Truffière,,Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Maraîchage diversifié et champignons,Légumes
 01.13.90.1,Légumes frais sous abris,Maraîchage diversifié sous abris,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Maraîchage diversifié et champignons,Légumes
 01.13.90.2,Légumes frais plein champ,Maraîchage diversifié plein champ,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Maraîchage diversifié et champignons,Légumes
-01.14.1,Cannes à sucre,Canne à sucre,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces
-01.15.1,Tabac brut,Tabac brut,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces
-01.16.11,"Coton, égrené ou en masse",Coton,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces
-01.16.19.1,Lin fibre,Lin textile,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces
-01.16.19.2,Chanvre,Chanvre textile,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces
-01.16.19.9,Autres plantes textiles,Autre plante textile,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces
-01.19.10.11,Prairie temporaire,Prairie temporaire,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Prairies, parcours",Surfaces fourragères
-01.19.10.12,Prairie permanente,Prairie permanente,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Prairies, parcours",Surfaces fourragères
-01.19.10.13,Parcours herbeux (hors estives collectives),Parcours herbeux,"Y compris vergers peu productifs pâturés, hors estives collectives",Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Prairies, parcours",Surfaces fourragères
-01.19.10.14,Parcours porc ou volaille,Parcours porc ou volaille,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,"Prairies, parcours",Surfaces fourragères
-01.19.10.2,Betterave fourragère,Betterave fourragère,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Surfaces fourragères
-01.19.10.21,Sainfoin,Sainfoin,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Plantes fourragères,Surfaces fourragères
-01.19.10.3,Choux fourrager,Chou fourrager,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Surfaces fourragères
-01.19.10.4,Colza fourrager,Colza fourrager,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Surfaces fourragères
-01.19.10.5,Maïs fourrager,Maïs fourrager,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Surfaces fourragères
-01.19.10.6,Mélanges fourragers,Mélange fourrager,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Surfaces fourragères
-01.19.10.7,Trèfle,Trèfle,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Surfaces fourragères
-01.19.10.8,Luzerne,Luzerne,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Surfaces fourragères
-01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,Autre plante fourragère,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Surfaces fourragères
-01.19.21,Fleurs coupées et boutons de fleurs,Fleurs,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Autres productions végétales,Autres surfaces
-01.19.22,Semences florales,Semences florales,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces
-01.19.31,Semences de betteraves (à l'exclusion des semences de betteraves à sucre) et de plantes fourragères,Semences de plantes fourragères,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces
+01.14.1,Cannes à sucre,Canne à sucre,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces et productions végétales
+01.15.1,Tabac brut,Tabac brut,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces et productions végétales
+01.16.11,"Coton, égrené ou en masse",Coton,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces et productions végétales
+01.16.19.1,Lin fibre,Lin textile,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces et productions végétales
+01.16.19.2,Chanvre,Chanvre textile,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces et productions végétales
+01.16.19.9,Autres plantes textiles,Autre plante textile,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces et productions végétales
+01.17,Osier,,,Surface constatée,Hectare,BIO V1.7,1,,,Surfaces,Production,Cultures industrielles,Autres surfaces et productions végétales
+01.19.10.11,Prairie temporaire,Prairie temporaire,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Prairies, parcours",Prairies et surfaces fourragères
+01.19.10.12,Prairie permanente,Prairie permanente,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Prairies, parcours",Prairies et surfaces fourragères
+01.19.10.13,Parcours herbeux (hors estives collectives),Parcours herbeux," Y compris vergers peu productifs pâturés, hors estives collectives",Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Prairies, parcours",Prairies et surfaces fourragères
+01.19.10.19,Surfaces toujours en herbe hors exploitations (collectif),Surfaces toujours en herbe hors exploitations (collectif),,Surface constatée,Hectare,BIO v1.7,1,,,Surfaces,Production,"Prairies, parcours",Prairies et surfaces fourragères
+01.19.10.14,Parcours porc ou volaille,Parcours porc ou volaille,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,"Prairies, parcours",Prairies et surfaces fourragères
+01.19.10.2,Betterave fourragère,Betterave fourragère,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Prairies et surfaces fourragères
+01.19.10.21,Sainfoin,Sainfoin,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Plantes fourragères,Prairies et surfaces fourragères
+01.19.10.3,Choux fourrager,Chou fourrager,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Prairies et surfaces fourragères
+01.19.10.4,Colza fourrager,Colza fourrager,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Prairies et surfaces fourragères
+01.19.10.5,Maïs fourrager,Maïs fourrager,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Prairies et surfaces fourragères
+01.19.10.6,Mélanges fourragers,Mélange fourrager,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Prairies et surfaces fourragères
+01.19.10.7,Trèfle,Trèfle,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Prairies et surfaces fourragères
+01.19.10.8,Luzerne,Luzerne,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Prairies et surfaces fourragères
+01.19.10.9,Autres plantes et surfaces fourragères n.c.a.,Autre plante fourragère,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Plantes fourragères,Prairies et surfaces fourragères
+01.19.21,Fleurs coupées et boutons de fleurs,Fleurs,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Autres productions végétales,Autres surfaces et productions végétales
+01.19.22,Semences florales,Semences florales,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
+01.19.31,Semences de betteraves (à l'exclusion des semences de betteraves à sucre) et de plantes fourragères,Semences de plantes fourragères,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
 01.21.11,Raisin de table,Raisin de table (vigne),,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Viticulture,Viticulture
 01.21.12,Raisin de cuve,Raisin de cuve (vigne),,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Viticulture,Viticulture
-01.22.11,Avocats,Avocat,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits oléagineux,Fruits
+01.22.11,Avocats,Avocat,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits tropicaux et subtropicaux,Fruits
 01.22.12,"Bananes, bananes plantains et assimilés",Banane,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits tropicaux et subtropicaux,Fruits
 01.22.13,Dattes,Datte,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits tropicaux et subtropicaux,Fruits
 01.22.14,Figues,Figue,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits tropicaux et subtropicaux,Fruits
@@ -168,11 +170,12 @@ code_production,libelle_cpf,lbl_production,précisions,indicateur,mesure,nomencl
 01.25.19.2,Myrtilles,Myrtille,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Baies,Fruits
 01.25.19.4,Airelles,Airelle,,Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Baies,Fruits
 01.25.19.5,Groseilles,Groseille,,Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Baies,Fruits
+01.25.19.6,Mûres,Mûres,,Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,Baies,Fruits
 01.25.19.9,Autres baies (hors cassis et myrtilles),Autre baie,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Baies,Fruits
-01.25.2,Semences fruitières,Semences fruitières,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces
+01.25.2,Semences fruitières,Semences fruitières,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
 01.25.31,Amandes,Amande,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits oléagineux,Fruits
 01.25.32,Châtaignes et marrons,Châtaigne et marron,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits oléagineux,Fruits
-01.25.33,Noisettes,Noisette,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits oléagineux,Fruits
+01.25.33,Noisettes,Noisette ,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits oléagineux,Fruits
 01.25.34,Pistaches,Pistache,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits oléagineux,Fruits
 01.25.35,Noix,Noix,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits oléagineux,Fruits
 01.25.39,"Autres fruits à coque (à l'exclusion des noix sauvages, arachides et noix de coco)",Autre fruit à coque,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Fruits oléagineux,Fruits
@@ -207,7 +210,7 @@ code_production,libelle_cpf,lbl_production,précisions,indicateur,mesure,nomencl
 01.28.19.23,Sauge sclarée,Sauge sclarée,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.19.24,Serpolet,Serpolet,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.19.25,Thym,Thym,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
-01.28.19.26,Aneth,Aneth,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
+01.28.19.26,,Aneth,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.19.27,Basilic,Basilic,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.19.28,Camomille romaine,Camomille,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.19.29,Cerfeuil,Cerfeuil,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
@@ -249,34 +252,35 @@ code_production,libelle_cpf,lbl_production,précisions,indicateur,mesure,nomencl
 01.28.30.5,Mélilot,Mélilot,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.30.51,Citronelle,Citronelle,,Surface constatée,Hectare,BIO v1.4,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.30.6,Mélisse,Mélisse,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
+01.28.30.70,Fleurs de chanvre,Fleurs de chanvre,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.30.71,Millepertuis,Millepertuis,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.30.72,Reine des prés,Reine des prés,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.30.81,Sauge officinale,Sauge officinale,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.30.82,Verveine odorante,Verveine odorante,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
 01.28.30.83,Verveine officinale,Verveine officinale,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Plantes à parfums, aromatiques et médicinales","Plantes à parfums, aromatiques et médicinales et plantes à boissons"
-01.29.00.91,Miscanthus,Miscanthus,,Surface constatée,Hectare,BIO v1.31,1,,,Surfaces,Production,Autres productions végétales,Autres surfaces
-01.29.1,Caoutchouc naturel brut,Caoutchouc,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Autres productions végétales,Autres surfaces
-01.29.2,Sapins et arbres de Noël coupés,Arbre de Noël,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Autres productions végétales,Autres surfaces
-01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",Plants,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces
-01.95.11,Bois pâturés et parcours ligneux,"Bois, lande, garrigue ou maquis pâturé",,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-01.95.19,"Bois non pâturés, sans cueillette","Bois, lande, garrigue ou maquis non pâturé",,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-01.95.21,Zone de cueillette de baies sauvages,Zone de cueillette de baies sauvages,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-01.95.22,Zone de cueillette de plantes à parfum aromatiques et médicinales sauvages,Zone de cueillette de PPAM,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-01.95.23,Zone de cueillette de champignons sauvages,Zone de cueillette de champignons sauvages,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-01.95.24,Autres zones de cueillette sauvage,Autre zone de cueillette sauvage,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-01.95.25,Zone de cueillette de fruits à coque,Zone de cueillette de fruits à coque,,Surface constatée,Hectare,BIO v1.5,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-02.10.11,Plants d'arbres forestiers,Plants d'arbres forestiers,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-02.10.12,Semences d'arbres forestiers,Semences d'arbres forestiers,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-02.10.3,Arbres forestiers,Arbre forestier,Surfaces destinées à la sylviculture,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-01.95.4,Estives ou alpages collectifs,Surface pastorale collective,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces
-01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",Jachère,Surfaces entrant en rotation,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Surfaces non productives,Autres surfaces
-01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",Gel fixe,"Friche, surfaces n’entrant pas en rotation",Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Surfaces non productives,Autres surfaces
-01.93,Engrais vert,Engrais vert,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Surfaces non productives,Autres surfaces
-01.99,Autres surfaces non productive et surfaces non agricoles,Autre surface non agricole,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Surfaces non productives,Autres surfaces
-01.99.10.1,Bande tampon ou fleurie,Bande tampon ou fleurie,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Surfaces non productives,Autres surfaces
-01.99.10.2,Bordure de champ ou de forêt,Bordure de champ ou de forêt,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Surfaces non productives,Autres surfaces
-01.99.10.3,Haie et bosquet,Haie et bosquet,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Surfaces non productives,Autres surfaces
-03.00.63,"Algues sauvages, destinées à l'alimentation humaine",Zone de cueillette d'algues sauvages,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Aquaculture et récolte de sel,Autres surfaces
-03.00.64.1,Spiruline,Spiruline,,Surface constatée,Hectare,BIO v1.2,1,,,Surfaces,Production,Aquaculture et récolte de sel,Autres surfaces
-03.00.64.9,Autres algues de culture pour l'alimentation humaine,Autres algues de culture,,Surface constatée,Hectare,BIO v1.2,1,,,Surfaces,Production,Aquaculture et récolte de sel,Autres surfaces
-08.93.1,Sel de mer,Marais salant,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Aquaculture et récolte de sel,Autres surfaces
+01.29.00.91,Miscanthus,Miscanthus,,Surface constatée,Hectare,BIO v1.31,1,,,Surfaces,Production,Autres productions végétales,Autres surfaces et productions végétales
+01.29.1,Caoutchouc naturel brut,Caoutchouc,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Autres productions végétales,Autres surfaces et productions végétales
+01.29.2,Sapins et arbres de Noël coupés,Arbre de Noël,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Autres productions végétales,Autres surfaces et productions végétales
+01.30.1,"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon",Plants,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
+01.95.11,Bois pâturés et parcours ligneux,"Bois, lande, garrigue ou maquis pâturé",,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Prairies, parcours",Prairies et surfaces fourragères
+01.95.19,"Bois non pâturés, sans cueillette","Bois, lande, garrigue ou maquis non pâturé",,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces et productions végétales
+01.95.21,Zone de cueillette de baies sauvages,Zone de cueillette de baies sauvages,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces et productions végétales
+01.95.22,Zone de cueillette de plantes à parfum aromatiques et médicinales sauvages,Zone de cueillette de PPAM,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces et productions végétales
+01.95.23,Zone de cueillette de champignons sauvages,Zone de cueillette de champignons sauvages,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces et productions végétales
+01.95.24,Autres zones de cueillette sauvage,Autre zone de cueillette sauvage,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces et productions végétales
+01.95.25,Zone de cueillette de fruits à coque,Zone de cueillette de fruits à coque,,Surface constatée,Hectare,BIO v1.5,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces et productions végétales
+02.10.11,Plants d'arbres forestiers,Plants d'arbres forestiers,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
+02.10.12,Semences d'arbres forestiers,Semences d'arbres forestiers,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Semences et plants,Autres surfaces et productions végétales
+02.10.3,Arbres forestiers,Arbre forestier,Surfaces destinées à la sylviculture,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces et productions végétales
+01.95.4,Estives ou alpages collectifs,Surface pastorale collective,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,"Prairies, parcours",Prairies et surfaces fourragères
+01.91,"Jachère, gel entrant en rotation (yc bandes tampon et surfaces non exploitées temporairement)",Jachère,Surfaces entrant en rotation,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Jachères et surfaces non productives,Autres surfaces et productions végétales
+01.92,"Gel fixe, friche, gel spécifique n’entrant pas en rotation",Gel fixe,"Friche, surfaces n’entrant pas en rotation",Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Jachères et surfaces non productives,Autres surfaces et productions végétales
+01.93,Engrais vert,Engrais vert,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Jachères et surfaces non productives,Autres surfaces et productions végétales
+01.99,Autres surfaces non productive et surfaces non agricoles,Autre surface non agricole,,Surface constatée,Hectare,BIO v1,1,,,Surfaces,Production,Jachères et surfaces non productives,Autres surfaces et productions végétales
+01.99.10.1,Bande tampon ou fleurie,Bande tampon ou fleurie,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Jachères et surfaces non productives,Autres surfaces et productions végétales
+01.99.10.2,Bordure de champ ou de forêt,Bordure de champ ou de forêt,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Jachères et surfaces non productives,Autres surfaces et productions végétales
+01.99.10.3,Haie et bosquet,Haie et bosquet,,Surface constatée,Hectare,BIO v1.6,1,,,Surfaces,Production,Jachères et surfaces non productives,Autres surfaces et productions végétales
+03.00.63,"Algues sauvages, destinées à l'alimentation humaine",Zone de cueillette d'algues sauvages,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,Zone boisée et cueillette sauvage,Autres surfaces et productions végétales
+03.00.64.1,Spiruline,Spiruline,,Surface constatée,Hectare,BIO v1.2,1,,,Surfaces,Production,,Aquaculture et récolte de sel
+03.00.64.9,Autres algues de culture pour l'alimentation humaine,Autres algues de culture,,Surface constatée,Hectare,BIO v1.2,1,,,Surfaces,Production,,Aquaculture et récolte de sel
+08.93.1,Sel de mer,Marais salant,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,,Aquaculture et récolte de sel
