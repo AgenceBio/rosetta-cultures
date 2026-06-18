@@ -41,11 +41,11 @@ let csvParser = createReadStream(CODES_FILEPATH).pipe(parse({
   cast: false
 }))
 
-for await (const { code_production: code_cpf, lbl_production, actif, lien_code, groupe, sous_groupe } of csvParser) {
+for await (const { code_production: code_cpf, libelle_production, actif, lien_code, groupe, sous_groupe } of csvParser) {
   CPF.set(code_cpf, {
     code_cpf,
     code_cpf_alias: lien_code,
-    libelle_code_cpf: lbl_production,
+    libelle_code_cpf: libelle_production,
     groupe,
     sous_groupe,
     //
