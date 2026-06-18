@@ -151,7 +151,7 @@ describe('getCulturePAC', () => {
 
   it('return nothing if culture is not found', () => {
     deepEqual(getCulturePAC('TEST'), undefined)
-    deepEqual(getCulturePAC('AGR', '001'), undefined)
+    deepEqual(getCulturePAC('AGR', '003'), undefined)
   })
 })
 
@@ -241,7 +241,6 @@ describe('data', () => {
       cultures_pac.forEach(({ code, precision, requires_precision }) => {
         const key = `${code}:${precision}`
         if (requires_precision) return
-
         ok(!codePacSet.has(key))
         codePacSet.add(key)
       })
