@@ -284,3 +284,4 @@ code_production,libelle_cpf,libelle_production,précisions,indicateur,mesure,nom
 03.00.64.1,Spiruline,Spiruline,,Surface constatée,Hectare,BIO v1.2,1,,,Surfaces,Production,,Aquaculture et récolte de sel
 03.00.64.9,Autres algues de culture pour l'alimentation humaine,Autres algues de culture,,Surface constatée,Hectare,BIO v1.2,1,,,Surfaces,Production,,Aquaculture et récolte de sel
 08.93.1,Sel de mer,Marais salant,,Surface constatée,Hectare,CPF rev2,1,,,Surfaces,Production,,Aquaculture et récolte de sel
+ACT.Prod.Inc,Culture inconnue,Culture inconnue,,Surface constatée,Hectare,CPF rev3,0,,,Surfaces,Production,Culture inconnue,Culture inconnue
