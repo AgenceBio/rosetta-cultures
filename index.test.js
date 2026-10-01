@@ -61,6 +61,11 @@ describe('fromCodeCpf', () => {
     deepEqual(fromCodeCpf(' 01.11.20.1 ').code_cpf, fromCodeCpf('01.11.20.1').code_cpf)
   })
 
+  it('check unknown culture', () => {
+    deepEqual(fromCodeCpf('ACT.Prod.Inc').code_cpf, 'ACT.Prod.Inc')
+    deepEqual(fromCodeCpf(' ACT.Prod.Inc ').is_selectable, false)
+  })
+
   it('returns nothing if not matching', () => {
     deepEqual(fromCodeCpf('999.99'), undefined)
     deepEqual(fromCodeCpf(999), undefined)
