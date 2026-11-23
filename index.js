@@ -10,6 +10,7 @@ export * from './src/cepages.js'
  * @property {String=} code_bureau_veritas
  * @property {String[]} codes_geofolia
  * @property {Boolean} is_selectable
+ * @property {Boolean} non_rotative
  * @property {String} groupe
  * @property {String} sous_groupe
  * @property {Array.<PacCulture>} cultures_pac
