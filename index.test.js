@@ -74,6 +74,21 @@ describe('fromCodeCpf', () => {
   it('returns nothing if filtered out', () => {
     deepEqual(fromCodeCpf('10.12.99'), undefined)
   })
+
+  it('flags non rotative cultures', () => {
+    deepEqual(fromCodeCpf('01.21.11').non_rotative, true) // Raisin de table (vigne)
+    deepEqual(fromCodeCpf('01.24.27').non_rotative, true) // Prune
+    deepEqual(fromCodeCpf('01.19.10.12').non_rotative, true) // Prairie permanente
+    deepEqual(fromCodeCpf('01.19.10.11').non_rotative, true) // Prairie temporaire
+    deepEqual(fromCodeCpf('01.19.10.8').non_rotative, true) // Luzerne
+  })
+
+  it('flags rotative cultures', () => {
+    deepEqual(fromCodeCpf('01.11.12').non_rotative, false) // Blé tendre
+    deepEqual(fromCodeCpf('01.11.20.1').non_rotative, false) // Maïs doux
+    deepEqual(fromCodeCpf('01.13.49.5').non_rotative, false) // Salsifis
+    deepEqual(fromCodeCpf('ACT.Prod.Inc').non_rotative, false)
+  })
 })
 
 describe('fromCodePacFirstSelectable', () => {
@@ -238,6 +253,17 @@ describe('data', () => {
       ok(!codeCpfSet.has(code_cpf))
       codeCpfSet.add(code_cpf)
     })
+  })
+
+  it('should have a boolean non_rotative on every culture', () => {
+    cultures.forEach(({ code_cpf, non_rotative }) => {
+      ok(typeof non_rotative === 'boolean', `${code_cpf} has no boolean non_rotative`)
+    })
+  })
+
+  it('should contain both rotative and non rotative cultures', () => {
+    ok(cultures.some(({ non_rotative }) => non_rotative === true))
+    ok(cultures.some(({ non_rotative }) => non_rotative === false))
   })
 
   it('should not contain any duplicate code_pac:precision which does not require precision', () => {
